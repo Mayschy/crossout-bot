@@ -42,7 +42,7 @@ jobs:
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
-          MIN_PROFIT: '5'
+          MIN_PROFIT: '25'
           MIN_ROI: '0'
           MIN_BUY_ORDERS: '0'
           REALERT_HOURS: '3'
