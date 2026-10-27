@@ -1,0 +1,17 @@
+{
+  "name": "crossout-flash-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Telegram-уведомления об обвалах цен на рынке Crossout",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "once": "node bot.js --once"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "sharp": "^0.35.5"
+  }
+}
