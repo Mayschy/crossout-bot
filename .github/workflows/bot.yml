@@ -2,7 +2,7 @@ name: crossout-bot
 
 on:
   schedule:
-    - cron: '*/20 * * * *'   # каждые 20 минут (GitHub может задерживать запуск на несколько минут)
+    - cron: '*/10 * * * *'   # каждые 10 минут (GitHub может задерживать запуск на несколько минут)
   workflow_dispatch:         # ручной запуск кнопкой во вкладке Actions
 
 concurrency:
