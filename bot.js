@@ -58,6 +58,7 @@ const CFG = {
   // расписание / дедупликация
   intervalMin: num('INTERVAL_MIN', 4),
   realertHours: num('REALERT_HOURS', 3),
+  alertAfterFails: num('ALERT_AFTER_FAILS', 3), // в режиме --once: сколько запусков подряд должны упасть, прежде чем слать ⚠️
   maxPerMessage: num('MAX_PER_MESSAGE', 10),
   maxDataAgeMin: num('MAX_DATA_AGE_MIN', 20),
 
@@ -81,7 +82,7 @@ const CFG = {
   imageTpl: process.env.IMAGE_TPL || 'https://crossoutcore.ru/images/items/{id}.webp',
 };
 
-const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36';
+const UA = 'Mozilla/5.0 (X11; Linux x86_64) personal-crossout-flash-bot/1.0';
 
 // Дерево роутера Next.js (из рабочего кода в консоли браузера)
 const TREE =
@@ -183,7 +184,19 @@ function parseHistory(text) {
 }
 
 async function tryAction(actionId) {
-  const { status, text } = await callAction(actionId, []);
+  // 403/429/5xx часто временные (защита сайта, смена адреса раннера GitHub): пробуем до 3 раз с паузой
+  let status;
+  let text;
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    ({ status, text } = await callAction(actionId, []));
+    const temporary = status === 403 || status === 429 || status >= 500;
+    if (!temporary) break;
+    if (attempt < 3) {
+      log(`Сайт ответил HTTP ${status}, повтор ${attempt}/2 через 20 с`);
+      await sleep(20_000);
+    }
+  }
+  if (status === 403) throw new Error('Сайт ответил HTTP 403 (доступ отклонён: возможна блокировка адреса или защита от ботов)');
   if (status === 429 || status >= 500) throw new Error(`Сайт ответил HTTP ${status} (временная ошибка)`);
   if (status !== 200) throw new ActionError(`HTTP ${status} — вероятно, next-action ID устарел`);
   const data = parseHistory(text);
@@ -663,10 +676,16 @@ async function main() {
   if (argv[0] === '--once') {
     try {
       await cycle(names, state);
+      if (state.failStreak) {
+        state.failStreak = 0;
+        saveState(state);
+      }
     } catch (e) {
-      // в режиме «по расписанию» (GitHub Actions / Планировщик) ошибки тоже должны доходить до Telegram
-      log('Ошибка цикла:', e.message);
-      await alertError(e, state);
+      state.failStreak = (state.failStreak || 0) + 1;
+      saveState(state);
+      log(`Ошибка цикла (${state.failStreak} подряд):`, e.message);
+      // разовые сбои не будят: алерт только после N неудачных запусков подряд
+      if (state.failStreak >= CFG.alertAfterFails) await alertError(e, state);
     }
     return;
   }
