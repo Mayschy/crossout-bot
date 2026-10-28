@@ -10,6 +10,7 @@
  *   node bot.js --dump [id ...]      — сохранить сырые данные в dump.json (все предметы или только указанные)
  *   node bot.js --find мамонт        — поиск ID по названию (нужен список названий)
  *   node bot.js --test               — отправить тестовое сообщение в Telegram
+ *   node bot.js --report             — сводка по журналу сигналов (journal/report.md)
  */
 
 const fs = require('node:fs');
@@ -58,6 +59,7 @@ const CFG = {
   // расписание / дедупликация
   intervalMin: num('INTERVAL_MIN', 4),
   realertHours: num('REALERT_HOURS', 3),
+  cardsPerRun: num('CARDS_PER_RUN', 5), // сколько полноценных карточек слать за запуск, остальное — одним списком
   alertAfterFails: num('ALERT_AFTER_FAILS', 3), // в режиме --once: сколько запусков подряд должны упасть, прежде чем слать ⚠️
   maxPerMessage: num('MAX_PER_MESSAGE', 10),
   maxDataAgeMin: num('MAX_DATA_AGE_MIN', 20),
@@ -373,7 +375,28 @@ function evaluate(pts) {
   const { ref, n } = reference(pts, CFG.ref);
   if (!(ref > 0) || n < CFG.minRefPoints) return null;
   const profit = ref * CFG.fee - last.s;
-  return { t: last.t, sale: last.s, ref, profit, roi: (profit / last.s) * 100, so: last.so, bo: last.bo, buy: last.b };
+  // активность рынка: сколько раз за последний час менялись цены/лоты/заказы
+  const recent = pts.slice(-12);
+  let act = 0;
+  for (let i = 1; i < recent.length; i++) {
+    const a = recent[i - 1];
+    const b = recent[i];
+    if (a.s !== b.s || a.b !== b.b || a.so !== b.so || a.bo !== b.bo) act++;
+  }
+  const sv = pts.map((p) => p.s).filter((v) => v > 0);
+  return {
+    t: last.t,
+    sale: last.s,
+    ref,
+    profit,
+    roi: (profit / last.s) * 100,
+    so: last.so,
+    bo: last.bo,
+    buy: last.b,
+    act,
+    lo: Math.min(...sv),
+    hi: Math.max(...sv),
+  };
 }
 
 // ───────────────────────── Telegram ─────────────────────────
@@ -465,23 +488,298 @@ async function tgSendAlbum(items, caption) {
   if (!res.ok || !j.ok) throw new Error(`Telegram ${method}: HTTP ${res.status} ${j.description || ''}`.trim());
 }
 
-/** Короткий формат для подписи альбома (лимит подписи 1024 символа) */
+/** Оценка ликвидности 0–100 (эвристика: покупатели, активность рынка, выгода мгновенной продажи) */
+function liquidity(f) {
+  let sc = 0;
+  sc += f.bo >= 8 ? 40 : f.bo >= 4 ? 30 : f.bo >= 1 ? 15 : 0;
+  sc += f.act >= 6 ? 30 : f.act >= 3 ? 20 : f.act >= 1 ? 10 : 0;
+  const exit = f.buy > 0 ? (f.buy * CFG.fee) / f.sale : 0;
+  sc += exit >= 1 ? 30 : exit >= 0.9 ? 20 : exit >= 0.8 ? 10 : 0;
+  if (f.bo === 0) sc = Math.min(sc, 25);
+  const icon = sc >= 70 ? '🟢' : sc >= 40 ? '🟡' : '🔴';
+  const label = sc >= 70 ? 'высокая' : sc >= 40 ? 'средняя' : 'низкая';
+  const filled = Math.round(sc / 10);
+  return { score: sc, icon, label, bar: '▰'.repeat(filled) + '▱'.repeat(10 - filled) };
+}
+
+/** Полная карточка предмета (подпись к фото ≤ 1024 символов) */
+function card(f, names) {
+  const liq = liquidity(f);
+  const drop = ((f.ref - f.sale) / f.ref) * 100;
+  const instant = f.buy > 0 ? f.buy * CFG.fee - f.sale : null;
+  const link = CFG.itemLinkTpl ? CFG.itemLinkTpl.replace('{id}', f.id) : '';
+  const nm = esc(nameOf(names, f.id));
+  const title = link ? `<a href="${esc(link)}">${nm}</a>` : nm;
+  const lines = [
+    `🔻 <b>${title}</b>  <code>#${f.id}</code>`,
+    '',
+    `💸 Купить сейчас: <b>${f2(f.sale)}</b>`,
+    `🎯 Эталон (${CFG.ref.count * 5} мин): ${f2(f.ref)}  (<b>−${drop.toFixed(1)}%</b>)`,
+    `💰 Прибыль: <b>+${f2(f.profit)}</b>  ·  ROI <b>${f2(f.roi)}%</b>`,
+  ];
+  if (instant !== null) lines.push(`⚡ Сразу в заказ (${f2(f.buy)}): ${instant >= 0 ? '+' : ''}${f2(instant)}`);
+  lines.push(
+    '',
+    `📦 Предложений: <b>${f.so}</b>  ·  🛒 Покупателей: <b>${f.bo}</b>`,
+    `🧭 Ликвидность: ${liq.icon} ${liq.bar} ${liq.score}/100 (${liq.label})`,
+    `📈 За 2 ч: ${f2(f.lo)} – ${f2(f.hi)}`
+  );
+  const warn = [];
+  if (f.bo === 0) warn.push('⚠️ <b>Нет заказов на покупку</b> — быстро продать не получится');
+  if (f.roi > 100) warn.push('⚠️ ROI выше 100% — похоже на аномалию или «ловушку», проверь цены на сайте');
+  if (f.so <= 2) warn.push('ℹ️ Мало лотов — цена может быть случайной');
+  if (warn.length) lines.push('', ...warn);
+  return lines.join('\n');
+}
+
+/** Короткая строка для списка «ещё N предметов» */
 function compactItem(f, names) {
+  const liq = liquidity(f);
   return (
-    `🔻 <b>${esc(nameOf(names, f.id))}</b> <code>#${f.id}</code>\n` +
-    `${f2(f.sale)} → ${f2(f.ref)} · <b>+${f2(f.profit)}</b> · ${f2(f.roi)}% · зак ${f.bo} · лот ${f.so}`
+    `${liq.icon} <b>${esc(nameOf(names, f.id))}</b> <code>#${f.id}</code>  ` +
+    `${f2(f.sale)} → ${f2(f.ref)} · <b>+${f2(f.profit)}</b> · ${f2(f.roi)}% · 🛒${f.bo} · 📦${f.so}`
   );
 }
 
-function formatItem(f, names) {
-  const link = CFG.itemLinkTpl ? CFG.itemLinkTpl.replace('{id}', f.id) : '';
-  const title = link ? `<a href="${esc(link)}">${esc(nameOf(names, f.id))}</a>` : esc(nameOf(names, f.id));
-  return (
-    `🔻 <b>${title}</b> <code>#${f.id}</code>\n` +
-    `Продажа <b>${f2(f.sale)}</b> → эталон ${f2(f.ref)}\n` +
-    `Прибыль <b>${f2(f.profit)}</b> · ROI ${f2(f.roi)}%\n` +
-    `Заказов на покупку: ${f.bo} · лотов: ${f.so}`
-  );
+// ───────────────────────── Журнал сигналов и результатов ─────────────────────────
+// Файлы (только дописываются, поэтому хорошо хранятся в git):
+//   signals.jsonl  — каждое отправленное уведомление (цены, ликвидность, время)
+//   outcomes.jsonl — что стало с ценой через 30/60/120 минут после сигнала
+//   events.log     — человекочитаемый журнал событий (сигналы, итоги, ошибки, отчёты)
+//   report.md      — сводка (обновляется при изменениях)
+const JOURNAL_ON = process.env.JOURNAL !== '0';
+const JDIR = path.resolve(__dirname, process.env.JOURNAL_DIR || 'journal');
+const SIG_FILE = path.join(JDIR, 'signals.jsonl');
+const OUT_FILE = path.join(JDIR, 'outcomes.jsonl');
+const EVT_FILE = path.join(JDIR, 'events.log');
+const REPORT_FILE = path.join(JDIR, 'report.md');
+const HORIZONS = [30, 60, 120]; // минут после сигнала
+const REPORT_ON = process.env.REPORT !== '0';
+const REPORT_HOUR_UTC = num('REPORT_HOUR_UTC', 7); // когда слать ежедневный отчёт в Telegram (UTC)
+let journalDirty = false;
+
+function jAppend(file, line) {
+  fs.mkdirSync(JDIR, { recursive: true });
+  fs.appendFileSync(file, line + '\n');
+}
+
+function jRead(file, tailBytes = 0) {
+  try {
+    const st = fs.statSync(file);
+    let txt;
+    if (tailBytes && st.size > tailBytes) {
+      const fd = fs.openSync(file, 'r');
+      const buf = Buffer.alloc(tailBytes);
+      fs.readSync(fd, buf, 0, tailBytes, st.size - tailBytes);
+      fs.closeSync(fd);
+      txt = buf.toString('utf8');
+      txt = txt.slice(txt.indexOf('\n') + 1); // отбрасываем обрезанную первую строку
+    } else {
+      txt = fs.readFileSync(file, 'utf8');
+    }
+    return txt
+      .split('\n')
+      .filter(Boolean)
+      .map((l) => {
+        try {
+          return JSON.parse(l);
+        } catch {
+          return null;
+        }
+      })
+      .filter(Boolean);
+  } catch {
+    return [];
+  }
+}
+
+function jEvent(msg) {
+  if (!JOURNAL_ON) return;
+  try {
+    jAppend(EVT_FILE, `${new Date().toISOString()} ${String(msg).replace(/\s+/g, ' ').slice(0, 400)}`);
+  } catch {
+    /* журнал не должен ронять бота */
+  }
+}
+
+function jSignal(f, names) {
+  if (!JOURNAL_ON) return;
+  try {
+    const liq = liquidity(f);
+    const rec = {
+      id: f.id,
+      name: nameOf(names, f.id),
+      t: Date.now(),
+      sale: f.sale,
+      ref: f.ref,
+      profit: Number(f2(f.profit)),
+      roi: Number(f2(f.roi)),
+      bo: f.bo,
+      so: f.so,
+      buy: f.buy,
+      act: f.act,
+      liq: liq.score,
+    };
+    jAppend(SIG_FILE, JSON.stringify(rec));
+    jEvent(`SIGNAL #${f.id} ${rec.name}: купить ${f2(f.sale)}, эталон ${f2(f.ref)}, прибыль ${f2(f.profit)}, ликвидность ${liq.score}`);
+    journalDirty = true;
+  } catch (e) {
+    log('Журнал (сигнал):', e.message);
+  }
+}
+
+/** Для сигналов последних ~3 часов дописываем итоги через 30/60/120 минут, по истории цен с сайта */
+function jOutcomes(data) {
+  if (!JOURNAL_ON) return;
+  try {
+    const now = Date.now();
+    const sigs = jRead(SIG_FILE, 300_000).filter((r) => now - r.t < 3 * 3_600_000);
+    if (!sigs.length) return;
+    const done = new Set(jRead(OUT_FILE, 300_000).map((o) => `${o.id}:${o.t}:${o.h}`));
+    for (const r of sigs) {
+      const pts = data.get(r.id);
+      if (!pts || !pts.length) continue;
+      for (const h of HORIZONS) {
+        const key = `${r.id}:${r.t}:${h}`;
+        const target = r.t + h * 60_000;
+        if (done.has(key) || now < target) continue;
+        let best = pts[pts.length - 1];
+        let bestD = Infinity;
+        for (const p of pts) {
+          const d = Math.abs(p.t * 1000 - target);
+          if (d < bestD) {
+            best = p;
+            bestD = d;
+          }
+        }
+        const late = bestD > 12 * 60_000; // ближайшая точка истории слишком далеко от нужного момента
+        const out = {
+          id: r.id,
+          t: r.t,
+          h,
+          at: best.t * 1000,
+          s: best.s,
+          b: best.b,
+          so: best.so,
+          bo: best.bo,
+          ask: Number((best.s * CFG.fee - r.sale).toFixed(2)), // продажа по минимальному лоту на тот момент
+          instant: best.b > 0 ? Number((best.b * CFG.fee - r.sale).toFixed(2)) : null, // сразу в заказ на покупку
+          taken: best.s > r.sale * 1.01, // дешёвый лот ушёл (минимальная цена выросла)
+          late,
+        };
+        jAppend(OUT_FILE, JSON.stringify(out));
+        jEvent(`OUTCOME #${r.id} через ${h} мин: цена ${f2(best.s)} (было ${f2(r.sale)}), по лоту ${out.ask >= 0 ? '+' : ''}${out.ask}${late ? ' [неточно]' : ''}`);
+        journalDirty = true;
+      }
+    }
+  } catch (e) {
+    log('Журнал (итоги):', e.message);
+  }
+}
+
+function jRows() {
+  const sigs = jRead(SIG_FILE);
+  const by = new Map();
+  for (const o of jRead(OUT_FILE)) if (!o.late) by.set(`${o.id}:${o.t}:${o.h}`, o);
+  return sigs.map((s) => ({ ...s, o: Object.fromEntries(HORIZONS.map((h) => [h, by.get(`${s.id}:${s.t}:${h}`)])) }));
+}
+
+function jSummary(rows, h) {
+  const xs = rows.map((r) => r.o[h]).filter(Boolean);
+  const avg = (a) => (a.length ? a.reduce((x, y) => x + y, 0) / a.length : null);
+  const pos = (a) => (a.length ? (a.filter((v) => v > 0).length / a.length) * 100 : null);
+  const ask = xs.map((o) => o.ask);
+  const inst = xs.map((o) => o.instant).filter((v) => v !== null);
+  return {
+    n: xs.length,
+    taken: xs.length ? (xs.filter((o) => o.taken).length / xs.length) * 100 : null,
+    askAvg: avg(ask),
+    askPos: pos(ask),
+    instN: inst.length,
+    instAvg: avg(inst),
+    instPos: pos(inst),
+  };
+}
+
+const sg = (v) => (v === null ? '—' : `${v >= 0 ? '+' : ''}${v.toFixed(1)}`);
+const pc = (v) => (v === null ? '—' : `${v.toFixed(0)}%`);
+
+function jReportHtml(state) {
+  const rows = jRows();
+  if (!rows.length) return null;
+  const lines = [`📒 <b>Журнал сигналов</b>`, `Всего сигналов: <b>${rows.length}</b>`, ''];
+  lines.push('<b>Что было через 30 / 60 / 120 мин после сигнала</b>');
+  for (const h of HORIZONS) {
+    const x = jSummary(rows, h);
+    if (!x.n) {
+      lines.push(`⏱ ${h} мин: данных пока нет`);
+      continue;
+    }
+    lines.push(
+      `⏱ ${h} мин (n=${x.n}): лот ушёл <b>${pc(x.taken)}</b> · продажа по лоту ${sg(x.askAvg)} (в плюсе ${pc(x.askPos)}) · ` +
+        `в заказ ${sg(x.instAvg)} (в плюсе ${pc(x.instPos)}, n=${x.instN})`
+    );
+  }
+  const groups = [
+    ['🟢 Ликвидность от 70', (r) => r.liq >= 70],
+    ['🟡 Ликвидность 40–69', (r) => r.liq >= 40 && r.liq < 70],
+    ['🔴 Ликвидность ниже 40', (r) => r.liq < 40],
+    ['🚫 Без покупателей', (r) => r.bo === 0],
+  ];
+  lines.push('', '<b>По группам, через 1 час</b>');
+  for (const [label, fn] of groups) {
+    const x = jSummary(rows.filter(fn), 60);
+    lines.push(x.n ? `${label}: n=${x.n} · лот ушёл ${pc(x.taken)} · по лоту ${sg(x.askAvg)} (плюс ${pc(x.askPos)}) · в заказ ${sg(x.instAvg)}` : `${label}: данных нет`);
+  }
+  const prev = state && state.statsPrev;
+  if (prev) lines.push('', `🛠 Вчера: запусков ${prev.runs}, с ошибкой ${prev.fails}`);
+  lines.push('', '<i>«По лоту» — продажа по минимальной цене лота через N минут с учётом комиссии; «в заказ» — мгновенная продажа в заказ на покупку. Оценка приблизительная.</i>');
+  return lines.join('\n');
+}
+
+function jWriteReportMd(state) {
+  const html = jReportHtml(state);
+  if (!html) return;
+  const md = html.replace(/<b>(.*?)<\/b>/g, '**$1**').replace(/<i>(.*?)<\/i>/g, '_$1_').replace(/<[^>]+>/g, '');
+  const last = jRows().slice(-30).reverse();
+  const fmt = (o) => (o ? `${o.ask >= 0 ? '+' : ''}${o.ask}` : '…');
+  const table = [
+    '| Время (UTC) | Предмет | Купить | Эталон | Ликв. | По лоту 30 | 60 | 120 |',
+    '|---|---|---|---|---|---|---|---|',
+    ...last.map(
+      (r) => `| ${new Date(r.t).toISOString().slice(5, 16).replace('T', ' ')} | ${r.name} #${r.id} | ${f2(r.sale)} | ${f2(r.ref)} | ${r.liq} | ${fmt(r.o[30])} | ${fmt(r.o[60])} | ${fmt(r.o[120])} |`
+    ),
+  ].join('\n');
+  fs.mkdirSync(JDIR, { recursive: true });
+  fs.writeFileSync(REPORT_FILE, `# Журнал результатов\n\n${md}\n\n## Последние сигналы\n\n${table}\n`);
+}
+
+function bumpStats(state, ok) {
+  const day = new Date().toISOString().slice(0, 10);
+  if (!state.stats || state.stats.day !== day) {
+    if (state.stats) state.statsPrev = state.stats;
+    state.stats = { day, runs: 0, fails: 0 };
+  }
+  state.stats.runs++;
+  if (!ok) state.stats.fails++;
+  saveState(state);
+}
+
+async function maybeDailyReport(state) {
+  if (!JOURNAL_ON || !REPORT_ON) return;
+  const now = new Date();
+  const day = now.toISOString().slice(0, 10);
+  if (state.lastReportDay === day || now.getUTCHours() < REPORT_HOUR_UTC) return;
+  const html = jReportHtml(state);
+  state.lastReportDay = day;
+  saveState(state);
+  if (!html) return;
+  try {
+    await tgSend(html);
+    jEvent('REPORT отправлен в Telegram');
+  } catch (e) {
+    log('Отчёт не отправлен:', e.message);
+  }
 }
 
 // ───────────────────────── Один проход ─────────────────────────
@@ -512,48 +810,48 @@ async function cycle(names, state) {
 
   log(`Предметов: ${data.size}, подходят: ${found.length}, новых для уведомления: ${fresh.length}, возраст данных: ${ageMin.toFixed(1)} мин`);
 
-  const chunks = [];
-  if (CFG.images) {
-    // в режиме альбомов: не больше 10 фото и подпись ≤ ~1000 символов
-    let cur = [];
-    let len = 80; // запас под шапку
-    for (const f of fresh) {
-      const l = compactItem(f, names).length + 1;
-      if (cur.length && (cur.length >= Math.min(10, CFG.maxPerMessage) || len + l > 1000)) {
-        chunks.push(cur);
-        cur = [];
-        len = 80;
-      }
-      cur.push(f);
-      len += l;
+  jOutcomes(data); // итоги по прошлым сигналам
+
+  const top = fresh.slice(0, CFG.cardsPerRun);
+  const rest = fresh.slice(CFG.cardsPerRun);
+
+  // отдельная красивая карточка (фото + подпись) на каждый из лучших предметов
+  for (const f of top) {
+    const text = card(f, names);
+    const icon = CFG.images ? await fetchIcon(f.id) : null;
+    try {
+      if (!icon) throw new Error('нет иконки');
+      await tgSendAlbum([{ id: f.id, icon }], text); // один элемент = обычный sendPhoto
+    } catch (e) {
+      log(`Фото не отправлено (${e.message}) — шлю текстом`);
+      await tgSend(text);
     }
-    if (cur.length) chunks.push(cur);
-  } else {
-    for (let i = 0; i < fresh.length; i += CFG.maxPerMessage) chunks.push(fresh.slice(i, i + CFG.maxPerMessage));
+    state.alerts[f.id] = Date.now();
+    jSignal(f, names);
+    saveState(state);
+    await sleep(1200); // лимит Telegram: ~1 сообщение в секунду в один чат
   }
 
-  for (const chunk of chunks) {
-    const header = `⚡ Обвал цен: ${chunk.length} шт. (прибыль ≥ ${CFG.minProfit})\n\n`;
-    if (CFG.images) {
-      // один альбом на пачку: до 10 фото, одна общая подпись
-      const caption = header + chunk.map((f) => compactItem(f, names)).join('\n');
-      const icons = await Promise.all(chunk.map((f) => fetchIcon(f.id)));
-      const items = chunk.map((f, i) => ({ id: f.id, icon: icons[i] })).filter((x) => x.icon);
-      try {
-        if (!items.length) throw new Error('нет ни одной иконки');
-        await tgSendAlbum(items, caption);
-      } catch (e) {
-        log(`Альбом не отправлен (${e.message}) — шлю текстом`);
-        await tgSend(caption);
-      }
-      for (const f of chunk) state.alerts[f.id] = Date.now();
-      saveState(state);
-    } else {
-      await tgSend(header + chunk.map((f) => formatItem(f, names)).join('\n\n'));
-      for (const f of chunk) state.alerts[f.id] = Date.now();
-      saveState(state); // сохраняем после каждой успешной отправки
+  // остальное — одним сообщением со списком
+  for (let i = 0; i < rest.length; i += 20) {
+    const part = rest.slice(i, i + 20);
+    await tgSend(`📋 <b>Ещё ${part.length} из ${rest.length}</b> (прибыль ≥ ${CFG.minProfit})\n\n` + part.map((f) => compactItem(f, names)).join('\n'));
+    for (const f of part) {
+      state.alerts[f.id] = Date.now();
+      jSignal(f, names);
     }
+    saveState(state);
   }
+
+  if (journalDirty) {
+    try {
+      jWriteReportMd(state);
+    } catch (e) {
+      log('report.md:', e.message);
+    }
+    journalDirty = false;
+  }
+  await maybeDailyReport(state);
 
   // чистка старых записей
   for (const [id, ts] of Object.entries(state.alerts)) if (now - ts > Math.max(realertMs * 2, 86_400_000)) delete state.alerts[id];
@@ -664,6 +962,13 @@ async function main() {
     if (!n) console.log('Ничего не найдено (названия не загружены или нет совпадений).');
     return;
   }
+  if (argv[0] === '--report') {
+    const html = jReportHtml(state);
+    if (!html) return log('В журнале пока нет сигналов');
+    jWriteReportMd(state);
+    console.log(html.replace(/<[^>]+>/g, ''));
+    return log(`Сводка записана: ${REPORT_FILE}`);
+  }
   if (argv[0] === '--test') {
     requireTelegram();
     await tgSend('✅ Бот Crossout: тестовое сообщение');
@@ -677,12 +982,16 @@ async function main() {
     try {
       await cycle(names, state);
       if (state.failStreak) {
+        jEvent(`RECOVERED после ${state.failStreak} неудачных запусков подряд`);
         state.failStreak = 0;
         saveState(state);
       }
+      bumpStats(state, true);
     } catch (e) {
       state.failStreak = (state.failStreak || 0) + 1;
       saveState(state);
+      bumpStats(state, false);
+      jEvent(`ERROR (${state.failStreak} подряд): ${e.message}`);
       log(`Ошибка цикла (${state.failStreak} подряд):`, e.message);
       // разовые сбои не будят: алерт только после N неудачных запусков подряд
       if (state.failStreak >= CFG.alertAfterFails) await alertError(e, state);
@@ -705,6 +1014,7 @@ async function main() {
       await cycle(names, state);
     } catch (e) {
       log('Ошибка цикла:', e.message);
+      jEvent(`ERROR: ${e.message}`);
       await alertError(e, state);
     }
     await sleep(CFG.intervalMin * 60_000 * (0.85 + Math.random() * 0.3)); // небольшой джиттер
