@@ -53,6 +53,8 @@ const CFG = {
 
   // фильтры
   minProfit: num('MIN_PROFIT', 30),
+  shadowMinProfit: num('SHADOW_MIN_PROFIT', 10),
+  capitalBudget: num('CAPITAL_BUDGET', 10000), // оценка доли капитала, не торговый лимит
   minRoi: num('MIN_ROI', 0), // %
   minBuyOrders: num('MIN_BUY_ORDERS', 0), // последнее значение bo
 
@@ -685,12 +687,14 @@ function compactItem(f, names) {
 const JOURNAL_ON = process.env.JOURNAL !== '0';
 const JDIR = path.resolve(__dirname, process.env.JOURNAL_DIR || 'journal');
 const SIG_FILE = path.join(JDIR, 'signals.jsonl');
+const SHADOW_FILE = path.join(JDIR, 'shadow.jsonl');
 const OUT_FILE = path.join(JDIR, 'outcomes.jsonl');
 const EVT_FILE = path.join(JDIR, 'events.log');
 const REPORT_FILE = path.join(JDIR, 'report.md');
-const HORIZONS = [30, 60, 120]; // минут после сигнала
+const HORIZONS = [10, 20, 30, 60, 120]; // минут после сигнала
 const REPORT_ON = process.env.REPORT !== '0';
-const REPORT_HOUR_UTC = num('REPORT_HOUR_UTC', 7); // когда слать ежедневный отчёт в Telegram (UTC)
+const REPORT_TZ = 'Europe/Kyiv';
+const REPORT_HOUR_LOCAL = num('REPORT_HOUR_LOCAL', 10);
 let journalDirty = false;
 
 function jAppend(file, line) {
@@ -737,34 +741,52 @@ function jEvent(msg) {
   }
 }
 
+function signalRecord(f, names, t = Date.now()) {
+  const liq = liquidity(f);
+  return {
+    id: f.id, name: nameOf(names, f.id), t, sale: f.sale, ref: f.ref,
+    profit: Number(f2(f.profit)), roi: Number(f2(f.roi)),
+    bo: f.bo, so: f.so, buy: f.buy, act: f.act, liq: liq.score,
+    med: f.h ? Number(f2(f.h.med)) : null,
+    below: f.h ? Number(f.h.below.toFixed(1)) : null,
+    gone: f.h ? Number(f.h.gonePerDay.toFixed(1)) : null,
+    dem: f.h ? Number(f.h.demand.toFixed(0)) : null,
+  };
+}
+
 function jSignal(f, names) {
   if (!JOURNAL_ON) return;
   try {
-    const liq = liquidity(f);
-    const rec = {
-      id: f.id,
-      name: nameOf(names, f.id),
-      t: Date.now(),
-      sale: f.sale,
-      ref: f.ref,
-      profit: Number(f2(f.profit)),
-      roi: Number(f2(f.roi)),
-      bo: f.bo,
-      so: f.so,
-      buy: f.buy,
-      act: f.act,
-      liq: liq.score,
-      med: f.h ? Number(f2(f.h.med)) : null, // медиана за период
-      below: f.h ? Number(f.h.below.toFixed(1)) : null, // % ниже медианы
-      gone: f.h ? Number(f.h.gonePerDay.toFixed(1)) : null, // лотов уходит в сутки
-      dem: f.h ? Number(f.h.demand.toFixed(0)) : null, // % времени со спросом
-    };
+    const rec = signalRecord(f, names);
     jAppend(SIG_FILE, JSON.stringify(rec));
-    jEvent(`SIGNAL #${f.id} ${rec.name}: купить ${f2(f.sale)}, эталон ${f2(f.ref)}, прибыль ${f2(f.profit)}, ликвидность ${liq.score}`);
+    jEvent(`SIGNAL #${f.id} ${rec.name}: купить ${f2(f.sale)}, эталон ${f2(f.ref)}, прибыль ${f2(f.profit)}, ликвидность ${rec.liq}`);
     journalDirty = true;
-  } catch (e) {
-    log('Журнал (сигнал):', e.message);
+  } catch (e) { log('Журнал (сигнал):', e.message); }
+}
+
+// Теневые кандидаты не отправляются в Telegram. Один эпизод на предмет в REALERT_HOURS.
+// Повтор при новом существенном падении (ещё >= 3%) допускается как новый эпизод.
+function jShadows(found, names, state) {
+  if (!JOURNAL_ON) return;
+  state.shadowSeen = state.shadowSeen || {};
+  const now = Date.now();
+  const cooldown = Math.max(1, CFG.realertHours) * 3_600_000;
+  for (const f of found) {
+    if (f.profit < CFG.shadowMinProfit || f.profit >= CFG.minProfit) continue;
+    const prev = state.shadowSeen[f.id];
+    if (prev && now - prev.t < cooldown && f.sale >= prev.sale * 0.97) continue;
+    try {
+      const rec = { ...signalRecord(f, names, now), shadow: true };
+      jAppend(SHADOW_FILE, JSON.stringify(rec));
+      state.shadowSeen[f.id] = { t: now, sale: f.sale };
+      journalDirty = true;
+    } catch (e) { log('Журнал (теневой сигнал):', e.message); }
   }
+  for (const [id, v] of Object.entries(state.shadowSeen)) if (now - v.t > 2 * 86_400_000) delete state.shadowSeen[id];
+}
+
+function allSignals(tailBytes = 0) {
+  return [...jRead(SIG_FILE, tailBytes), ...jRead(SHADOW_FILE, tailBytes)];
 }
 
 /** Для сигналов последних ~3 часов дописываем итоги через 30/60/120 минут, по истории цен с сайта */
@@ -772,7 +794,7 @@ function jOutcomes(data) {
   if (!JOURNAL_ON) return;
   try {
     const now = Date.now();
-    const sigs = jRead(SIG_FILE, 300_000).filter((r) => now - r.t < 3 * 3_600_000);
+    const sigs = allSignals(500_000).filter((r) => now - r.t < 3 * 3_600_000);
     if (!sigs.length) return;
     const done = new Set(jRead(OUT_FILE, 300_000).map((o) => `${o.id}:${o.t}:${o.h}`));
     for (const r of sigs) {
@@ -791,7 +813,7 @@ function jOutcomes(data) {
             bestD = d;
           }
         }
-        const late = bestD > 12 * 60_000; // ближайшая точка истории слишком далеко от нужного момента
+        const late = bestD > Math.min(12, Math.max(6, h / 2)) * 60_000; // ближайшая точка истории слишком далеко от нужного момента
         const out = {
           id: r.id,
           t: r.t,
@@ -803,11 +825,14 @@ function jOutcomes(data) {
           bo: best.bo,
           ask: Number((best.s * CFG.fee - r.sale).toFixed(2)), // продажа по минимальному лоту на тот момент
           instant: best.b > 0 ? Number((best.b * CFG.fee - r.sale).toFixed(2)) : null, // сразу в заказ на покупку
-          taken: best.s > r.sale * 1.01, // дешёвый лот ушёл (минимальная цена выросла)
+          taken: best.s > r.sale * 1.01, // цена поднялась, НЕ подтверждение продажи
+          shadow: !!r.shadow,
+          roi: Number(((best.s * CFG.fee / r.sale - 1) * 100).toFixed(2)),
+          capital: r.sale,
           late,
         };
         jAppend(OUT_FILE, JSON.stringify(out));
-        jEvent(`OUTCOME #${r.id} через ${h} мин: цена ${f2(best.s)} (было ${f2(r.sale)}), по лоту ${out.ask >= 0 ? '+' : ''}${out.ask}${late ? ' [неточно]' : ''}`);
+        if (!r.shadow) jEvent(`OUTCOME #${r.id} через ${h} мин: цена ${f2(best.s)} (было ${f2(r.sale)}), по лоту ${out.ask >= 0 ? '+' : ''}${out.ask}${late ? ' [неточно]' : ''}`);
         journalDirty = true;
       }
     }
@@ -817,62 +842,75 @@ function jOutcomes(data) {
 }
 
 function jRows() {
-  const sigs = jRead(SIG_FILE);
+  const sigs = allSignals();
   const by = new Map();
   for (const o of jRead(OUT_FILE)) if (!o.late) by.set(`${o.id}:${o.t}:${o.h}`, o);
   return sigs.map((s) => ({ ...s, o: Object.fromEntries(HORIZONS.map((h) => [h, by.get(`${s.id}:${s.t}:${h}`)])) }));
 }
 
+function median(vals) {
+  if (!vals.length) return null;
+  const s = [...vals].sort((a, b) => a - b);
+  const m = Math.floor(s.length / 2);
+  return s.length % 2 ? s[m] : (s[m - 1] + s[m]) / 2;
+}
 function jSummary(rows, h) {
-  const xs = rows.map((r) => r.o[h]).filter(Boolean);
-  const avg = (a) => (a.length ? a.reduce((x, y) => x + y, 0) / a.length : null);
-  const pos = (a) => (a.length ? (a.filter((v) => v > 0).length / a.length) * 100 : null);
-  const ask = xs.map((o) => o.ask);
-  const inst = xs.map((o) => o.instant).filter((v) => v !== null);
+  const valid = rows.filter((r) => r.o[h] && !r.o[h].late);
+  const xs = valid.map((r) => r.o[h]);
+  const rois = valid.map((r) => (r.o[h].ask / r.sale) * 100);
+  const inst = valid.filter((r) => r.o[h].instant !== null);
   return {
     n: xs.length,
+    unique: new Set(valid.map((r) => r.id)).size,
     taken: xs.length ? (xs.filter((o) => o.taken).length / xs.length) * 100 : null,
-    askAvg: avg(ask),
-    askPos: pos(ask),
+    roiMed: median(rois), roiMean: rois.length ? rois.reduce((a,b) => a+b,0)/rois.length : null,
+    roiPos: rois.length ? rois.filter((v) => v > 0).length / rois.length * 100 : null,
+    roiP25: rois.length ? [...rois].sort((a,b)=>a-b)[Math.floor((rois.length-1)*.25)] : null,
+    roiP75: rois.length ? [...rois].sort((a,b)=>a-b)[Math.floor((rois.length-1)*.75)] : null,
+    instPos: inst.length ? inst.filter((r) => r.o[h].instant > 0).length / inst.length * 100 : null,
     instN: inst.length,
-    instAvg: avg(inst),
-    instPos: pos(inst),
   };
 }
-
-const sg = (v) => (v === null ? '—' : `${v >= 0 ? '+' : ''}${v.toFixed(1)}`);
-const pc = (v) => (v === null ? '—' : `${v.toFixed(0)}%`);
+const pct = (v, digits=1) => v === null ? '—' : `${v >= 0 ? '+' : ''}${v.toFixed(digits)}%`;
+const nonneg = (v) => v === null ? '—' : `${v.toFixed(0)}%`;
 
 function jReportHtml(state) {
   const rows = jRows();
   if (!rows.length) return null;
-  const lines = [`📒 <b>Журнал сигналов</b>`, `Всего сигналов: <b>${rows.length}</b>`, ''];
-  lines.push('<b>Что было через 30 / 60 / 120 мин после сигнала</b>');
+  const live = rows.filter((r) => !r.shadow);
+  const shadows = rows.filter((r) => r.shadow);
+  const local = new Intl.DateTimeFormat('ru-RU', { timeZone: REPORT_TZ, dateStyle: 'medium', timeStyle: 'short' }).format(new Date());
+  const lines = [`📊 <b>Crossout — утренняя аналитика</b>`, `${local} (${REPORT_TZ})`,
+    `Сигналы: <b>${live.length}</b> · теневые: <b>${shadows.length}</b> · уникальных предметов: <b>${new Set(rows.map(r=>r.id)).size}</b>`,
+    `Пороги: Telegram ≥${CFG.minProfit} · тень ≥${CFG.shadowMinProfit} монет`, '',
+    '<b>📈 Реальные уведомления: динамика цены</b>'];
   for (const h of HORIZONS) {
-    const x = jSummary(rows, h);
-    if (!x.n) {
-      lines.push(`⏱ ${h} мин: данных пока нет`);
-      continue;
-    }
-    lines.push(
-      `⏱ ${h} мин (n=${x.n}): лот ушёл <b>${pc(x.taken)}</b> · продажа по лоту ${sg(x.askAvg)} (в плюсе ${pc(x.askPos)}) · ` +
-        `в заказ ${sg(x.instAvg)} (в плюсе ${pc(x.instPos)}, n=${x.instN})`
-    );
+    const x = jSummary(live, h);
+    lines.push(x.n ? `⏱ ${h}м (n=${x.n}): медиана ${pct(x.roiMed)} · плюс ${nonneg(x.roiPos)} · цена ушла вверх ${nonneg(x.taken)}` : `⏱ ${h}м: нет итогов`);
   }
-  const groups = [
-    ['🟢 Ликвидность от 70', (r) => r.liq >= 70],
-    ['🟡 Ликвидность 40–69', (r) => r.liq >= 40 && r.liq < 70],
-    ['🔴 Ликвидность ниже 40', (r) => r.liq < 40],
-    ['🚫 Без покупателей', (r) => r.bo === 0],
-  ];
-  lines.push('', '<b>По группам, через 1 час</b>');
-  for (const [label, fn] of groups) {
-    const x = jSummary(rows.filter(fn), 60);
-    lines.push(x.n ? `${label}: n=${x.n} · лот ушёл ${pc(x.taken)} · по лоту ${sg(x.askAvg)} (плюс ${pc(x.askPos)}) · в заказ ${sg(x.instAvg)}` : `${label}: данных нет`);
+  lines.push('', '<b>🔎 Теневые сигналы (без уведомлений)</b>');
+  for (const h of [20, 60, 120]) {
+    const x = jSummary(shadows, h);
+    lines.push(x.n ? `${h}м (n=${x.n}): медиана ${pct(x.roiMed)} · плюс ${nonneg(x.roiPos)}` : `${h}м: пока нет итогов`);
   }
-  const prev = state && state.statsPrev;
-  if (prev) lines.push('', `🛠 Вчера: запусков ${prev.runs}, с ошибкой ${prev.fails}`);
-  lines.push('', '<i>«По лоту» — продажа по минимальной цене лота через N минут с учётом комиссии; «в заказ» — мгновенная продажа в заказ на покупку. Оценка приблизительная.</i>');
+  lines.push('', '<b>💧 Ликвидность, результаты через час</b>');
+  for (const [label, fn] of [['🟢 ≥70',r=>r.liq>=70],['🟡 40–69',r=>r.liq>=40 && r.liq<70],['🔴 ниже 40',r=>r.liq<40]]) {
+    const x = jSummary(live.filter(fn),60);
+    lines.push(x.n ? `${label} (n=${x.n}): медиана ${pct(x.roiMed)} · плюс ${nonneg(x.roiPos)}` : `${label}: данных пока нет`);
+  }
+  lines.push('', `<b>💰 Стоимость предмета, час (бюджет ${CFG.capitalBudget} монет)</b>`);
+  for (const [label, fn] of [['До 500',r=>r.sale<500],['500–1499',r=>r.sale>=500&&r.sale<1500],['1500–2999',r=>r.sale>=1500&&r.sale<3000],['От 3000',r=>r.sale>=3000]]) {
+    const x=jSummary(live.filter(fn),60);
+    lines.push(x.n ? `${label} (n=${x.n}): медиана ${pct(x.roiMed)} · плюс ${nonneg(x.roiPos)}` : `${label}: данных нет`);
+  }
+  const relevant = live.filter(r => r.o[60] && !r.o[60].late);
+  const expensive = relevant.filter(r => r.sale > CFG.capitalBudget * .3);
+  lines.push(`Капитал >30% бюджета в одном предмете: ${expensive.length}/${relevant.length} сигналов`);
+  const hour = jSummary(live,60);
+  if (hour.n) lines.push(`Разброс ROI (час): P25 ${pct(hour.roiP25)} · медиана ${pct(hour.roiMed)} · P75 ${pct(hour.roiP75)}`);
+  const prev=state && state.statsPrev;
+  if(prev) lines.push(``, `🛠 Вчера: запусков ${prev.runs}, ошибок ${prev.fails}`);
+  lines.push('', '<i>⚠️ Это не результат реальных сделок: условная продажа по минимальному лоту с комиссией 10%. Рост минимальной цены не доказывает исполнение заказа. Повторы предметов зависимы. Для массмаркета нет данных о фактическом объёме сделок.</i>');
   return lines.join('\n');
 }
 
@@ -880,17 +918,14 @@ function jWriteReportMd(state) {
   const html = jReportHtml(state);
   if (!html) return;
   const md = html.replace(/<b>(.*?)<\/b>/g, '**$1**').replace(/<i>(.*?)<\/i>/g, '_$1_').replace(/<[^>]+>/g, '');
-  const last = jRows().slice(-30).reverse();
-  const fmt = (o) => (o ? `${o.ask >= 0 ? '+' : ''}${o.ask}` : '…');
-  const table = [
-    '| Время (UTC) | Предмет | Купить | Эталон | Ликв. | По лоту 30 | 60 | 120 |',
-    '|---|---|---|---|---|---|---|---|',
-    ...last.map(
-      (r) => `| ${new Date(r.t).toISOString().slice(5, 16).replace('T', ' ')} | ${r.name} #${r.id} | ${f2(r.sale)} | ${f2(r.ref)} | ${r.liq} | ${fmt(r.o[30])} | ${fmt(r.o[60])} | ${fmt(r.o[120])} |`
-    ),
+  const recent = jRows().sort((a,b)=>b.t-a.t).slice(0,40);
+  const fmt = (o) => o && !o.late ? `${o.ask>=0?'+':''}${o.ask}` : '…';
+  const table = ['| Время (UTC) | Тип | Предмет | Купить | ROI сигнала | Ликв. | 10 | 20 | 30 | 60 | 120 |',
+    '|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|',
+    ...recent.map(r=>`| ${new Date(r.t).toISOString().slice(5,16).replace('T',' ')} | ${r.shadow?'тень':'сигнал'} | ${r.name} #${r.id} | ${f2(r.sale)} | ${pct(r.roi)} | ${r.liq} | ${fmt(r.o[10])} | ${fmt(r.o[20])} | ${fmt(r.o[30])} | ${fmt(r.o[60])} | ${fmt(r.o[120])} |`)
   ].join('\n');
-  fs.mkdirSync(JDIR, { recursive: true });
-  fs.writeFileSync(REPORT_FILE, `# Журнал результатов\n\n${md}\n\n## Последние сигналы\n\n${table}\n`);
+  fs.mkdirSync(JDIR,{recursive:true});
+  fs.writeFileSync(REPORT_FILE,`# Журнал результатов\n\n${md}\n\n## Последние 40 наблюдений\n\n${table}\n`);
 }
 
 function bumpStats(state, ok) {
@@ -906,21 +941,21 @@ function bumpStats(state, ok) {
 
 async function maybeDailyReport(state) {
   if (!JOURNAL_ON || !REPORT_ON) return;
-  const now = new Date();
-  const day = now.toISOString().slice(0, 10);
-  if (state.lastReportDay === day || now.getUTCHours() < REPORT_HOUR_UTC) return;
-  // пока нет ни одного итога (через 30/60/120 мин), отчёт был бы пустым — ждём
+  const parts = new Intl.DateTimeFormat('en-CA', {
+    timeZone: REPORT_TZ, year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', hourCycle: 'h23',
+  }).formatToParts(new Date());
+  const get = (type) => parts.find((p) => p.type === type).value;
+  const day = `${get('year')}-${get('month')}-${get('day')}`;
+  if (state.lastReportDay === day || Number(get('hour')) < REPORT_HOUR_LOCAL) return;
   if (!jRows().some((r) => HORIZONS.some((h) => r.o[h]))) return;
   const html = jReportHtml(state);
-  state.lastReportDay = day;
-  saveState(state);
   if (!html) return;
   try {
     await tgSend(html);
+    state.lastReportDay = day;
+    saveState(state);
     jEvent('REPORT отправлен в Telegram');
-  } catch (e) {
-    log('Отчёт не отправлен:', e.message);
-  }
+  } catch (e) { log('Отчёт не отправлен:', e.message); }
 }
 
 // ───────────────────────── Один проход ─────────────────────────
@@ -934,7 +969,7 @@ async function cycle(names, state) {
     newest = Math.max(newest, pts[pts.length - 1].t);
     const r = evaluate(pts);
     if (!r) continue;
-    if (r.profit >= CFG.minProfit && r.roi >= CFG.minRoi && r.bo >= CFG.minBuyOrders) found.push({ id, ...r });
+    if (r.profit >= Math.min(CFG.minProfit, CFG.shadowMinProfit) && r.roi >= CFG.minRoi && r.bo >= CFG.minBuyOrders) found.push({ id, ...r });
   }
 
   const ageMin = (nowSec - newest) / 60;
@@ -947,9 +982,11 @@ async function cycle(names, state) {
   state.alerts = state.alerts || {};
   const now = Date.now();
   const realertMs = CFG.realertHours * 3_600_000;
-  const fresh = found.filter((f) => !state.alerts[f.id] || now - state.alerts[f.id] > realertMs);
+  const notified = found.filter((f) => f.profit >= CFG.minProfit);
+  const fresh = notified.filter((f) => !state.alerts[f.id] || now - state.alerts[f.id] > realertMs);
 
-  log(`Предметов: ${data.size}, подходят: ${found.length}, новых для уведомления: ${fresh.length}, возраст данных: ${ageMin.toFixed(1)} мин`);
+  log(`Предметов: ${data.size}, сигналы: ${notified.length}, тень: ${found.length-notified.length}, новых для уведомления: ${fresh.length}, возраст данных: ${ageMin.toFixed(1)} мин`);
+  jShadows(found, names, state);
 
   jOutcomes(data); // итоги по прошлым сигналам
 

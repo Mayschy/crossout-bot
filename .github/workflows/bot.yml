@@ -55,6 +55,9 @@ jobs:
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           JOURNAL_DIR: data
           MIN_PROFIT: '25'
+          SHADOW_MIN_PROFIT: '10'
+          CAPITAL_BUDGET: '3500'  # замени на приблизительный игровой баланс
+          REPORT_HOUR_LOCAL: '10'
           MIN_ROI: '0'
           MIN_BUY_ORDERS: '0'
           REALERT_HOURS: '1'
