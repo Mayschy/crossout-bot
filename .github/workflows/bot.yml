@@ -1,4 +1,4 @@
-iname: crossout-bot
+name: crossout-bot
 
 on:
   schedule:
