@@ -1,2 +1,5 @@
 {"id":326,"name":"Вальс","t":1793218763360,"sale":1568.09,"ref":1769.99,"profit":24.9,"roi":1.59,"bo":11,"so":8,"buy":1568.08,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":600,"name":"Ступор","t":1793218763360,"sale":164.6,"ref":208.69,"profit":23.22,"roi":14.11,"bo":1,"so":15,"buy":164.01,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3769,"name":"Смог-15","t":1793220041697,"sale":194.89,"ref":233.7,"profit":15.44,"roi":7.92,"bo":15,"so":15,"buy":187.65,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1289,"name":"Закись азота","t":1793220041697,"sale":93.02,"ref":120,"profit":14.98,"roi":16.1,"bo":4,"so":2,"buy":17.02,"act":3,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":287,"name":"АГС-55 Импульс","t":1793220041697,"sale":150.17,"ref":177.99,"profit":10.02,"roi":6.67,"bo":4,"so":46,"buy":145.47,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
