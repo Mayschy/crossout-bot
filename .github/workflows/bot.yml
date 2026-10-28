@@ -1,4 +1,4 @@
-name: crossout-bot
+iname: crossout-bot
 
 on:
   schedule:
@@ -45,7 +45,7 @@ jobs:
           MIN_PROFIT: '25'
           MIN_ROI: '0'
           MIN_BUY_ORDERS: '0'
-          REALERT_HOURS: '3'
+          REALERT_HOURS: '1'
           MAX_PER_MESSAGE: '10'
           REF_FIELD: s
           REF_MODE: max
