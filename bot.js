@@ -428,27 +428,43 @@ try {
   /* работаем без конвертации */
 }
 
-/** Telegram не смог сам скачать иконку по URL, поэтому качаем сами и загружаем файлом */
+const ICON_DIR = path.join(__dirname, 'icons'); // кэш иконок: каждую качаем один раз
+
+/** Иконка предмета: сначала из кэша на диске, иначе скачиваем (3 попытки) и сохраняем */
 async function fetchIcon(id) {
+  const ext = sharp ? 'jpg' : 'webp';
+  const type = sharp ? 'image/jpeg' : 'image/webp';
+  const file = path.join(ICON_DIR, `${id}.${ext}`);
   try {
-    const r = await fetch(CFG.imageTpl.replace('{id}', id), {
-      headers: { 'user-agent': UA, referer: CFG.pageUrl, accept: 'image/*' },
-      signal: AbortSignal.timeout(20_000),
-    });
-    if (!r.ok) throw new Error(`HTTP ${r.status}`);
-    let buf = Buffer.from(await r.arrayBuffer());
-    let type = 'image/webp';
-    let ext = 'webp';
-    if (sharp) {
-      buf = await sharp(buf).resize(320, 320, { fit: 'contain', background: '#1a1a1a' }).jpeg({ quality: 85 }).toBuffer();
-      type = 'image/jpeg';
-      ext = 'jpg';
-    }
-    return { buf, type, ext };
-  } catch (e) {
-    log(`Иконка #${id} не загружена: ${e.message}`);
-    return null;
+    if (fs.existsSync(file)) return { buf: fs.readFileSync(file), type, ext };
+  } catch {
+    /* кэш повреждён — качаем заново */
   }
+  let lastErr;
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    try {
+      const r = await fetch(CFG.imageTpl.replace('{id}', id), {
+        headers: { 'user-agent': UA, referer: CFG.pageUrl, accept: 'image/*' },
+        signal: AbortSignal.timeout(20_000),
+      });
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      let buf = Buffer.from(await r.arrayBuffer());
+      if (sharp) buf = await sharp(buf).resize(320, 320, { fit: 'contain', background: '#1a1a1a' }).jpeg({ quality: 85 }).toBuffer();
+      try {
+        fs.mkdirSync(ICON_DIR, { recursive: true });
+        fs.writeFileSync(file, buf);
+      } catch {
+        /* не удалось сохранить в кэш — не страшно */
+      }
+      return { buf, type, ext };
+    } catch (e) {
+      lastErr = e;
+      if (attempt < 3) await sleep(1500 * attempt);
+    }
+  }
+  const cause = lastErr.cause ? ` [${lastErr.cause.code || lastErr.cause.message}]` : '';
+  log(`Иконка #${id} не загружена: ${lastErr.message}${cause}`);
+  return null;
 }
 
 /** Одно сообщение-альбом: до 10 фото, подпись (общая) на первом фото */

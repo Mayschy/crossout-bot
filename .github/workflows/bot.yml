@@ -26,13 +26,14 @@ jobs:
       - name: Установка sharp (конвертация иконок)
         run: npm i sharp --no-save --no-audit --no-fund
 
-      # state.json (дедупликация) и names.json (кэш названий) живут между запусками в кэше Actions
+      # state.json (дедупликация), names.json (названия) и icons (иконки) живут между запусками в кэше Actions
       - name: Восстановить состояние
         uses: actions/cache@v4
         with:
           path: |
             state.json
             names.json
+            icons
           key: bot-state-${{ github.run_id }}
           restore-keys: |
             bot-state-
@@ -53,7 +54,7 @@ jobs:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           JOURNAL_DIR: data
-          MIN_PROFIT: '20'
+          MIN_PROFIT: '35'
           MIN_ROI: '0'
           MIN_BUY_ORDERS: '0'
           REALERT_HOURS: '1'
