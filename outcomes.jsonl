@@ -85,3 +85,4 @@
 {"id":178,"t":1793200247708,"h":120,"at":1793207400000,"s":57.84,"b":0,"so":4,"bo":0,"ask":32.06,"instant":null,"taken":true,"late":false}
 {"id":1060,"t":1793203852235,"h":60,"at":1793207400000,"s":127,"b":0,"so":11,"bo":0,"ask":-12.7,"instant":null,"taken":false,"late":false}
 {"id":390,"t":1793203853890,"h":60,"at":1793207400000,"s":114.19,"b":0,"so":8,"bo":0,"ask":62.77,"instant":null,"taken":true,"late":false}
+{"id":437,"t":1793200845590,"h":120,"at":1793208000000,"s":1200,"b":1080.5,"so":20,"bo":8,"ask":-45,"instant":-152.55,"taken":true,"late":false}
