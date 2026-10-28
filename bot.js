@@ -59,6 +59,10 @@ const CFG = {
   // расписание / дедупликация
   intervalMin: num('INTERVAL_MIN', 4),
   realertHours: num('REALERT_HOURS', 3),
+  // история за 14 дней (Server Action с телом {itemIds, days}) — для медианы, спроса и оборота
+  histOn: process.env.HIST !== '0',
+  histDays: num('HIST_DAYS', 14),
+  histActionId: process.env.HIST_ACTION_ID || '408d8a297ceba3e19a948d5049e80416ba20e188bf',
   cardsPerRun: num('CARDS_PER_RUN', 5), // сколько полноценных карточек слать за запуск, остальное — одним списком
   alertAfterFails: num('ALERT_AFTER_FAILS', 3), // в режиме --once: сколько запусков подряд должны упасть, прежде чем слать ⚠️
   maxPerMessage: num('MAX_PER_MESSAGE', 10),
@@ -504,13 +508,116 @@ async function tgSendAlbum(items, caption) {
   if (!res.ok || !j.ok) throw new Error(`Telegram ${method}: HTTP ${res.status} ${j.description || ''}`.trim());
 }
 
-/** Оценка ликвидности 0–100 (эвристика: покупатели, активность рынка, выгода мгновенной продажи) */
+// ───────────────────────── История за N дней (медиана, спрос, оборот) ─────────────────────────
+const HIST_TREE =
+  '%5B%22%22%2C%7B%22children%22%3A%5B%5B%22locale%22%2C%22ru%22%2C%22d%22%2Cnull%5D%2C%7B%22children%22%3A%5B%22(app)%22%2C%7B%22children%22%3A%5B%22__PAGE__%22%2C%7B%7D%2Cnull%2Cnull%2C0%5D%7D%2Cnull%2Cnull%2C0%5D%7D%2Cnull%2Cnull%2C16%5D%7D%2Cnull%2Cnull%2C0%5D';
+
+/** Ответ RSC: строка `1:{"567":[{t,s,b,so,bo},...]}` → Map<id, Point[]> (работает и для одного предмета) */
+function parseHistoryLoose(text) {
+  const out = new Map();
+  for (const line of text.split('\n')) {
+    const m = /^[0-9a-zA-Z]+:(\{.*)$/.exec(line);
+    if (!m) continue;
+    let o;
+    try {
+      o = JSON.parse(m[1]);
+    } catch {
+      continue;
+    }
+    for (const [k, arr] of Object.entries(o)) {
+      const id = Number(k);
+      if (!Number.isFinite(id) || !Array.isArray(arr) || !arr.length || typeof arr[0] !== 'object') continue;
+      const pts = arr
+        .filter((p) => p && Number.isFinite(p.t) && Number.isFinite(Number(p.s)))
+        .map((p) => ({ t: p.t, s: Number(p.s) || 0, b: Number(p.b) || 0, so: Number(p.so) || 0, bo: Number(p.bo) || 0 }))
+        .sort((x, y) => x.t - y.t);
+      if (pts.length) out.set(id, pts);
+    }
+  }
+  return out;
+}
+
+async function fetchHistory(ids, days) {
+  const origin = new URL(CFG.pageUrl).origin;
+  const res = await fetch(origin + '/', {
+    method: 'POST',
+    headers: {
+      accept: 'text/x-component',
+      'content-type': 'text/plain;charset=UTF-8',
+      'next-action': CFG.histActionId,
+      'next-router-state-tree': HIST_TREE,
+      origin,
+      referer: origin + '/',
+      'user-agent': UA,
+    },
+    body: JSON.stringify([{ itemIds: ids, days, aggregationMinutes: '$undefined' }]),
+    signal: AbortSignal.timeout(60_000),
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  return parseHistoryLoose(await res.text());
+}
+
+/** Статистика за период относительно текущей цены продажи */
+function histStats(pts, sale) {
+  const arr = pts.filter((p) => p.s > 0);
+  if (arr.length < 288) return null; // меньше суток данных — нечего считать
+  const vals = arr.map((p) => p.s).sort((a, b) => a - b);
+  const q = (p) => vals[Math.min(vals.length - 1, Math.floor(p * vals.length))];
+  const med = q(0.5);
+  const days = Math.max(1, (arr[arr.length - 1].t - arr[0].t) / 86_400);
+  let gone = 0;
+  for (let i = 1; i < arr.length; i++) if (arr[i].so < arr[i - 1].so) gone++;
+  const bos = arr.map((p) => p.bo).sort((a, b) => a - b);
+  return {
+    days: Math.round(days),
+    med,
+    p25: q(0.25),
+    p75: q(0.75),
+    below: ((med - sale) / med) * 100, // насколько текущая цена ниже медианы
+    pctAbove: (vals.filter((v) => v > sale).length / vals.length) * 100, // доля времени, когда цена была выше текущей
+    gonePerDay: gone / days, // сколько раз в сутки уменьшалось число лотов (продажа или снятие)
+    demand: (arr.filter((p) => p.bo > 0).length / arr.length) * 100, // доля времени, когда были заказы на покупку
+    medBo: bos[Math.floor(bos.length / 2)],
+    profitMed: med * CFG.fee - sale,
+  };
+}
+
+/** Дополняем предметы данными за период (одним запросом; если не вышло — пропускаем, бот работает как раньше) */
+async function enrichWithHistory(items) {
+  if (!CFG.histOn || !items.length) return;
+  try {
+    const ids = items.map((f) => f.id);
+    let map = await fetchHistory(ids, CFG.histDays);
+    for (const id of ids) {
+      if (map.has(id)) continue;
+      try {
+        const one = await fetchHistory([id], CFG.histDays); // запасной путь: по одному
+        if (one.has(id)) map.set(id, one.get(id));
+      } catch {
+        /* пропускаем */
+      }
+    }
+    for (const f of items) {
+      const pts = map.get(f.id);
+      f.h = pts ? histStats(pts, f.sale) : null;
+    }
+  } catch (e) {
+    log(`История за ${CFG.histDays} дн. недоступна: ${e.message}`);
+    jEvent(`HIST недоступна: ${e.message} (возможно, изменился next-action ID)`);
+  }
+}
+
+/** Оценка ликвидности 0–100 (эвристика: покупатели, активность рынка, выгода мгновенной продажи; с историей — ещё оборот и стабильность спроса) */
 function liquidity(f) {
   let sc = 0;
   sc += f.bo >= 8 ? 40 : f.bo >= 4 ? 30 : f.bo >= 1 ? 15 : 0;
   sc += f.act >= 6 ? 30 : f.act >= 3 ? 20 : f.act >= 1 ? 10 : 0;
   const exit = f.buy > 0 ? (f.buy * CFG.fee) / f.sale : 0;
   sc += exit >= 1 ? 30 : exit >= 0.9 ? 20 : exit >= 0.8 ? 10 : 0;
+  if (f.h) {
+    const hs = (f.h.gonePerDay >= 10 ? 15 : f.h.gonePerDay >= 3 ? 8 : 0) + (f.h.demand >= 90 ? 15 : f.h.demand >= 60 ? 8 : 0);
+    sc = Math.round(sc * 0.7 + hs);
+  }
   if (f.bo === 0) sc = Math.min(sc, 25);
   const icon = sc >= 70 ? '🟢' : sc >= 40 ? '🟡' : '🔴';
   const label = sc >= 70 ? 'высокая' : sc >= 40 ? 'средняя' : 'низкая';
@@ -540,7 +647,19 @@ function card(f, names) {
     `🧭 Ликвидность: ${liq.icon} ${liq.bar} ${liq.score}/100 (${liq.label})`,
     `📈 За 2 ч: ${f2(f.lo)} – ${f2(f.hi)}`
   );
+  if (f.h) {
+    const h = f.h;
+    lines.push(
+      `📅 За ${h.days} дн: медиана <b>${f2(h.med)}</b> · сейчас ${h.below >= 0 ? '−' : '+'}${Math.abs(h.below).toFixed(1)}% от неё`,
+      `   дешевле текущей цена была лишь в ${(100 - h.pctAbove).toFixed(0)}% времени`,
+      `💎 Прибыль к медиане: <b>${h.profitMed >= 0 ? '+' : ''}${f2(h.profitMed)}</b>`,
+      `🔁 Лотов уходит ~${h.gonePerDay.toFixed(1)}/сут · спрос есть в ${h.demand.toFixed(0)}% времени`
+    );
+  }
   const warn = [];
+  if (f.h && f.h.below < 3) warn.push(`ℹ️ Цена не ниже ${f.h.days}-дневной медианы — похоже на норму, а не на обвал`);
+  if (f.h && f.h.demand < 50) warn.push(`⚠️ Спрос нерегулярный: заказы на покупку есть лишь в ${f.h.demand.toFixed(0)}% времени`);
+  if (f.h && f.h.gonePerDay < 1) warn.push(`ℹ️ Лоты уходят редко (~${f.h.gonePerDay.toFixed(1)}/сут): продавать придётся долго`);
   if (f.bo === 0) warn.push('⚠️ <b>Нет заказов на покупку</b> — быстро продать не получится');
   if (f.roi > 100) warn.push('⚠️ ROI выше 100% — похоже на аномалию или «ловушку», проверь цены на сайте');
   if (f.so <= 2) warn.push('ℹ️ Мало лотов — цена может быть случайной');
@@ -635,6 +754,10 @@ function jSignal(f, names) {
       buy: f.buy,
       act: f.act,
       liq: liq.score,
+      med: f.h ? Number(f2(f.h.med)) : null, // медиана за период
+      below: f.h ? Number(f.h.below.toFixed(1)) : null, // % ниже медианы
+      gone: f.h ? Number(f.h.gonePerDay.toFixed(1)) : null, // лотов уходит в сутки
+      dem: f.h ? Number(f.h.demand.toFixed(0)) : null, // % времени со спросом
     };
     jAppend(SIG_FILE, JSON.stringify(rec));
     jEvent(`SIGNAL #${f.id} ${rec.name}: купить ${f2(f.sale)}, эталон ${f2(f.ref)}, прибыль ${f2(f.profit)}, ликвидность ${liq.score}`);
@@ -786,6 +909,8 @@ async function maybeDailyReport(state) {
   const now = new Date();
   const day = now.toISOString().slice(0, 10);
   if (state.lastReportDay === day || now.getUTCHours() < REPORT_HOUR_UTC) return;
+  // пока нет ни одного итога (через 30/60/120 мин), отчёт был бы пустым — ждём
+  if (!jRows().some((r) => HORIZONS.some((h) => r.o[h]))) return;
   const html = jReportHtml(state);
   state.lastReportDay = day;
   saveState(state);
@@ -830,6 +955,7 @@ async function cycle(names, state) {
 
   const top = fresh.slice(0, CFG.cardsPerRun);
   const rest = fresh.slice(CFG.cardsPerRun);
+  await enrichWithHistory(top); // история за 14 дней только для тех, что пойдут в карточки
 
   // отдельная красивая карточка (фото + подпись) на каждый из лучших предметов
   for (const f of top) {
