@@ -53,7 +53,7 @@ jobs:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           JOURNAL_DIR: data
-          MIN_PROFIT: '35'
+          MIN_PROFIT: '20'
           MIN_ROI: '0'
           MIN_BUY_ORDERS: '0'
           REALERT_HOURS: '1'
