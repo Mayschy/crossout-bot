@@ -92,3 +92,4 @@
 {"id":1208,"name":"Автокатапульта","t":1793295641430,"sale":32.66,"ref":49.97,"profit":12.31,"roi":37.7,"bo":1,"so":11,"buy":31.68,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1793296241424,"sale":142.11,"ref":173.97,"profit":14.46,"roi":10.18,"bo":1,"so":64,"buy":141.35,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":379,"name":"Гравастар","t":1793298039461,"sale":349.91,"ref":405.98,"profit":15.47,"roi":4.42,"bo":3,"so":24,"buy":343.05,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":420,"name":"Гнездо","t":1793298662119,"sale":320.5,"ref":368.75,"profit":11.38,"roi":3.55,"bo":10,"so":28,"buy":316.05,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
