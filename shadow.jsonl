@@ -35,3 +35,5 @@
 {"id":296,"name":"АП62 Терм","t":1793256641016,"sale":185.8,"ref":219.7,"profit":11.93,"roi":6.42,"bo":5,"so":44,"buy":185.78,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1793257281064,"sale":144,"ref":171.77,"profit":10.59,"roi":7.36,"bo":52,"so":63,"buy":143.22,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":484,"name":"ЭУ-1 Заряд","t":1793257837767,"sale":87.33,"ref":109.43,"profit":11.16,"roi":12.78,"bo":2,"so":24,"buy":83.53,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":331,"name":"Сумматор","t":1793261442084,"sale":88.08,"ref":114.14,"profit":14.65,"roi":16.63,"bo":22,"so":26,"buy":88.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":276,"name":"Циклон","t":1793261442084,"sale":343,"ref":393.96,"profit":11.56,"roi":3.37,"bo":21,"so":19,"buy":342.96,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
