@@ -103,3 +103,5 @@
 {"id":413,"name":"Взгляд дракона","t":1793302853369,"sale":47.89,"ref":68.49,"profit":13.75,"roi":28.71,"bo":2,"so":4,"buy":32.01,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":391,"name":"Старая кассета","t":1793303440535,"sale":70.03,"ref":98.56,"profit":18.67,"roi":26.67,"bo":4,"so":4,"buy":25,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":116,"name":"«Че такой серьезный?»","t":1793303440535,"sale":48.49,"ref":65,"profit":10.01,"roi":20.64,"bo":5,"so":2,"buy":48.48,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":555,"name":"Бум","t":1793304074969,"sale":90.69,"ref":119.67,"profit":17.01,"roi":18.76,"bo":17,"so":31,"buy":90.13,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1376,"name":"Серый лед","t":1793304074969,"sale":11.99,"ref":26.21,"profit":11.6,"roi":96.74,"bo":3,"so":2,"buy":1.5,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
