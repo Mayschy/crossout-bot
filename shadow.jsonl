@@ -108,3 +108,5 @@
 {"id":181,"name":"Гепард","t":1793304641217,"sale":138.02,"ref":172.64,"profit":17.36,"roi":12.57,"bo":2,"so":63,"buy":136.39,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":19,"name":"Ермак","t":1793304641217,"sale":258.04,"ref":304.64,"profit":16.14,"roi":6.25,"bo":9,"so":9,"buy":258.03,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1793304641217,"sale":142,"ref":171.05,"profit":11.95,"roi":8.41,"bo":12,"so":35,"buy":140.03,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":421,"name":"Тромбон","t":1793305237304,"sale":585,"ref":662.76,"profit":11.48,"roi":1.96,"bo":10,"so":28,"buy":560.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":494,"name":"НВ-2 Клён","t":1793305237304,"sale":529.01,"ref":600,"profit":10.99,"roi":2.08,"bo":0,"so":19,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
