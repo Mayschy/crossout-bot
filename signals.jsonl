@@ -76,3 +76,7 @@
 {"id":368,"name":"Астрей","t":1793263847061,"sale":740.62,"ref":890,"profit":60.38,"roi":8.15,"bo":2,"so":22,"buy":738,"act":9,"liq":62,"med":788,"below":6,"gone":6.6,"dem":99}
 {"id":3777,"name":"Морриган","t":1793263854052,"sale":6500,"ref":7250,"profit":25,"roi":0.38,"bo":59,"so":9,"buy":5601,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":24,"name":"Инферно","t":1793265042025,"sale":1564.15,"ref":1789.49,"profit":46.39,"roi":2.97,"bo":0,"so":14,"buy":0,"act":8,"liq":25,"med":2086.96,"below":25.1,"gone":11.9,"dem":98}
+{"id":3778,"name":"Морриган (заготовка)","t":1793265650625,"sale":4650,"ref":5555.55,"profit":349.99,"roi":7.53,"bo":9,"so":5,"buy":3800,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3781,"name":"Оковы","t":1793265658485,"sale":3000,"ref":3508.48,"profit":157.63,"roi":5.25,"bo":7,"so":2,"buy":205,"act":6,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":575,"name":"Гусеница танковая","t":1793265660743,"sale":733.12,"ref":884.6,"profit":63.02,"roi":8.6,"bo":15,"so":19,"buy":732.03,"act":5,"liq":79,"med":899.5,"below":18.5,"gone":19.9,"dem":99}
+{"id":3756,"name":"Ревун","t":1793265664059,"sale":197.98,"ref":258.57,"profit":34.73,"roi":17.54,"bo":1,"so":2,"buy":188.39,"act":2,"liq":48,"med":231.64,"below":14.5,"gone":3.4,"dem":98}

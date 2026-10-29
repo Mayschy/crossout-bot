@@ -45,3 +45,5 @@
 {"id":568,"name":"Верификатор","t":1793264479363,"sale":167.78,"ref":199,"profit":11.32,"roi":6.75,"bo":0,"so":20,"buy":0,"act":10,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1420,"name":"Желтый хищник","t":1793264479363,"sale":49.69,"ref":66.91,"profit":10.53,"roi":21.19,"bo":5,"so":3,"buy":5.71,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3778,"name":"Морриган (заготовка)","t":1793265041188,"sale":4988,"ref":5555.55,"profit":11.99,"roi":0.24,"bo":9,"so":4,"buy":3805,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":568,"name":"Верификатор","t":1793265642816,"sale":160.83,"ref":195,"profit":14.67,"roi":9.12,"bo":0,"so":23,"buy":0,"act":10,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":484,"name":"ЭУ-1 Заряд","t":1793265642816,"sale":87.28,"ref":109.43,"profit":11.21,"roi":12.84,"bo":2,"so":25,"buy":83.53,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
