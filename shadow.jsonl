@@ -83,3 +83,4 @@
 {"id":1048,"name":"Сажа","t":1793289681090,"sale":108.54,"ref":135.76,"profit":13.64,"roi":12.57,"bo":0,"so":6,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":318,"name":"Ётун","t":1793290241441,"sale":670.26,"ref":763.19,"profit":16.61,"roi":2.48,"bo":22,"so":23,"buy":670.07,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":676,"name":"Зубодробитель","t":1793290241441,"sale":77.99,"ref":100.96,"profit":12.87,"roi":16.51,"bo":5,"so":36,"buy":75,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1461,"name":"«Эхо далёких миров»","t":1793290840712,"sale":51.42,"ref":71.39,"profit":12.83,"roi":24.95,"bo":1,"so":10,"buy":16.66,"act":5,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
