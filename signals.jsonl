@@ -71,3 +71,7 @@
 {"id":3777,"name":"Морриган","t":1793256047513,"sale":8000,"ref":99999.99,"profit":81999.99,"roi":1025,"bo":55,"so":4,"buy":2700,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":196,"name":"Двойной выхлоп","t":1793256049804,"sale":162.4,"ref":214.1,"profit":30.29,"roi":18.65,"bo":2,"so":20,"buy":162.39,"act":6,"liq":69,"med":203.11,"below":20,"gone":12.1,"dem":100}
 {"id":3778,"name":"Морриган (заготовка)","t":1793260885830,"sale":6000,"ref":9998.99,"profit":2999.09,"roi":49.98,"bo":9,"so":1,"buy":4000,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3779,"name":"Талисман","t":1793263843866,"sale":2700,"ref":3400,"profit":360,"roi":13.33,"bo":19,"so":24,"buy":2300,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":317,"name":"Дамка","t":1793263845386,"sale":1142,"ref":1350.99,"profit":73.89,"roi":6.47,"bo":1,"so":10,"buy":1141.99,"act":4,"liq":62,"med":1350,"below":15.4,"gone":19.1,"dem":100}
+{"id":368,"name":"Астрей","t":1793263847061,"sale":740.62,"ref":890,"profit":60.38,"roi":8.15,"bo":2,"so":22,"buy":738,"act":9,"liq":62,"med":788,"below":6,"gone":6.6,"dem":99}
+{"id":3777,"name":"Морриган","t":1793263854052,"sale":6500,"ref":7250,"profit":25,"roi":0.38,"bo":59,"so":9,"buy":5601,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
