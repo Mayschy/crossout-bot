@@ -98,3 +98,4 @@
 {"id":578,"name":"Гусеница укрепленная","t":1793300476801,"sale":160,"ref":189.66,"profit":10.69,"roi":6.68,"bo":3,"so":6,"buy":139,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":529,"name":"Циркулярка","t":1793301040538,"sale":83.66,"ref":112.83,"profit":17.89,"roi":21.38,"bo":11,"so":9,"buy":82.51,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":59,"name":"Мигалка скорой","t":1793301040538,"sale":184.74,"ref":223.82,"profit":16.7,"roi":9.04,"bo":2,"so":7,"buy":181.02,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":236,"name":"Блок питания","t":1793301640669,"sale":137.18,"ref":170,"profit":15.82,"roi":11.53,"bo":2,"so":36,"buy":136,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
