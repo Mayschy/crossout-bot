@@ -68,3 +68,6 @@
 {"id":413,"name":"Взгляд дракона","t":1793282482016,"sale":44.43,"ref":68.49,"profit":17.21,"roi":38.74,"bo":2,"so":6,"buy":32.01,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3769,"name":"Смог-15","t":1793282482016,"sale":186.13,"ref":225.54,"profit":16.86,"roi":9.06,"bo":16,"so":11,"buy":181,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":457,"name":"Снабжение","t":1793282482016,"sale":69.3,"ref":88.99,"profit":10.79,"roi":15.57,"bo":3,"so":17,"buy":68.15,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":428,"name":"Перехватчик","t":1793284269464,"sale":310.02,"ref":370,"profit":22.98,"roi":7.41,"bo":0,"so":16,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":391,"name":"Старая кассета","t":1793284269464,"sale":73.75,"ref":98.56,"profit":14.95,"roi":20.28,"bo":5,"so":4,"buy":70.01,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":566,"name":"Хамелеон Mk2","t":1793284269464,"sale":265.1,"ref":309,"profit":13,"roi":4.9,"bo":8,"so":12,"buy":260.02,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
