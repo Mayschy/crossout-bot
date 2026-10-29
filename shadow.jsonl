@@ -59,3 +59,4 @@
 {"id":240,"name":"Забойщик","t":1793277068137,"sale":1650.85,"ref":1858.93,"profit":22.19,"roi":1.34,"bo":15,"so":7,"buy":1500.85,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3769,"name":"Смог-15","t":1793277068137,"sale":180.01,"ref":215.99,"profit":14.38,"roi":7.99,"bo":14,"so":12,"buy":180,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":646,"name":"Атом","t":1793277068137,"sale":200,"ref":234.96,"profit":11.46,"roi":5.73,"bo":29,"so":57,"buy":187.57,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":289,"name":"Дробитель","t":1793278239264,"sale":371.03,"ref":439.93,"profit":24.91,"roi":6.71,"bo":10,"so":10,"buy":371.02,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
