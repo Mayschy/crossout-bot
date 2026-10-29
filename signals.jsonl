@@ -84,3 +84,7 @@
 {"id":1056,"name":"Материал: Хром","t":1793271681547,"sale":434.69,"ref":599.99,"profit":105.3,"roi":24.22,"bo":0,"so":2,"buy":0,"act":1,"liq":7,"med":527.86,"below":17.7,"gone":1,"dem":45}
 {"id":3779,"name":"Талисман","t":1793271689834,"sale":2399,"ref":2780,"profit":103,"roi":4.29,"bo":24,"so":34,"buy":2222.26,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":394,"name":"Комбайн","t":1793272242511,"sale":1615.81,"ref":1875.5,"profit":72.14,"roi":4.46,"bo":7,"so":22,"buy":1615.8,"act":2,"liq":65,"med":1789.96,"below":9.7,"gone":22.1,"dem":100}
+{"id":3781,"name":"Оковы","t":1793274045094,"sale":808.33,"ref":1600,"profit":631.67,"roi":78.15,"bo":10,"so":7,"buy":220,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":535,"name":"Эгида-Прайм","t":1793274047293,"sale":1800.25,"ref":2098.98,"profit":88.83,"roi":4.93,"bo":6,"so":12,"buy":1800.2,"act":4,"liq":72,"med":2142.97,"below":16,"gone":24,"dem":100}
+{"id":3778,"name":"Морриган (заготовка)","t":1793274054421,"sale":4000,"ref":4500,"profit":50,"roi":1.25,"bo":8,"so":6,"buy":3512,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":485,"name":"Бутстрэп","t":1793274056648,"sale":590,"ref":685.6,"profit":27.04,"roi":4.58,"bo":6,"so":36,"buy":578.04,"act":4,"liq":72,"med":579,"below":-1.9,"gone":38.7,"dem":99}
