@@ -78,3 +78,6 @@
 {"id":1293,"name":"Розовая пантера","t":1793286640880,"sale":95.75,"ref":119.56,"profit":11.85,"roi":12.38,"bo":10,"so":2,"buy":72,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":313,"name":"Буря","t":1793287244902,"sale":135,"ref":164.89,"profit":13.4,"roi":9.93,"bo":6,"so":4,"buy":134,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":578,"name":"Гусеница укрепленная","t":1793288445394,"sale":149.89,"ref":192.41,"profit":23.28,"roi":15.53,"bo":5,"so":10,"buy":144.58,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":113,"name":"Терзатель","t":1793289681090,"sale":175.91,"ref":218.99,"profit":21.18,"roi":12.04,"bo":4,"so":14,"buy":175.46,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":181,"name":"Гепард","t":1793289681090,"sale":146,"ref":178.89,"profit":15,"roi":10.27,"bo":0,"so":60,"buy":0,"act":8,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1048,"name":"Сажа","t":1793289681090,"sale":108.54,"ref":135.76,"profit":13.64,"roi":12.57,"bo":0,"so":6,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
