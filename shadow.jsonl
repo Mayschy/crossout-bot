@@ -71,3 +71,6 @@
 {"id":428,"name":"Перехватчик","t":1793284269464,"sale":310.02,"ref":370,"profit":22.98,"roi":7.41,"bo":0,"so":16,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":391,"name":"Старая кассета","t":1793284269464,"sale":73.75,"ref":98.56,"profit":14.95,"roi":20.28,"bo":5,"so":4,"buy":70.01,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":566,"name":"Хамелеон Mk2","t":1793284269464,"sale":265.1,"ref":309,"profit":13,"roi":4.9,"bo":8,"so":12,"buy":260.02,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":561,"name":"Гармонизатор","t":1793284840164,"sale":800,"ref":908,"profit":17.2,"roi":2.15,"bo":19,"so":41,"buy":777.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":484,"name":"ЭУ-1 Заряд","t":1793284840164,"sale":85.66,"ref":108.95,"profit":12.4,"roi":14.47,"bo":2,"so":28,"buy":83.53,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":58,"name":"МВП Торпеда","t":1793284840164,"sale":799.99,"ref":901.47,"profit":11.33,"roi":1.42,"bo":21,"so":8,"buy":742,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
