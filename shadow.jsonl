@@ -101,3 +101,5 @@
 {"id":236,"name":"Блок питания","t":1793301640669,"sale":137.18,"ref":170,"profit":15.82,"roi":11.53,"bo":2,"so":36,"buy":136,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":606,"name":"Титан (пов.)","t":1793302264381,"sale":157.72,"ref":190,"profit":13.28,"roi":8.42,"bo":0,"so":41,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":413,"name":"Взгляд дракона","t":1793302853369,"sale":47.89,"ref":68.49,"profit":13.75,"roi":28.71,"bo":2,"so":4,"buy":32.01,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":391,"name":"Старая кассета","t":1793303440535,"sale":70.03,"ref":98.56,"profit":18.67,"roi":26.67,"bo":4,"so":4,"buy":25,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":116,"name":"«Че такой серьезный?»","t":1793303440535,"sale":48.49,"ref":65,"profit":10.01,"roi":20.64,"bo":5,"so":2,"buy":48.48,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
