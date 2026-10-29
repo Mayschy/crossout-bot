@@ -119,3 +119,4 @@
 {"id":1420,"name":"Желтый хищник","t":1793310642297,"sale":48.11,"ref":66.91,"profit":12.11,"roi":25.17,"bo":5,"so":4,"buy":5.71,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":879,"name":"Взгляд зверя","t":1793311837056,"sale":25,"ref":51.95,"profit":21.76,"roi":87.02,"bo":0,"so":11,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":287,"name":"АГС-55 Импульс","t":1793313060892,"sale":141.24,"ref":177.65,"profit":18.65,"roi":13.2,"bo":17,"so":57,"buy":141.2,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":181,"name":"Гепард","t":1793314876610,"sale":131.41,"ref":172.64,"profit":23.97,"roi":18.24,"bo":0,"so":64,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
