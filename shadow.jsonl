@@ -61,3 +61,4 @@
 {"id":646,"name":"Атом","t":1793277068137,"sale":200,"ref":234.96,"profit":11.46,"roi":5.73,"bo":29,"so":57,"buy":187.57,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":289,"name":"Дробитель","t":1793278239264,"sale":371.03,"ref":439.93,"profit":24.91,"roi":6.71,"bo":10,"so":10,"buy":371.02,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1793278880252,"sale":161.01,"ref":204.98,"profit":23.47,"roi":14.58,"bo":0,"so":45,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":462,"name":"Шабаш","t":1793279441744,"sale":284.24,"ref":340,"profit":21.76,"roi":7.66,"bo":12,"so":41,"buy":283.24,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
