@@ -110,3 +110,6 @@
 {"id":117,"name":"КА-2 Маховик","t":1793304641217,"sale":142,"ref":171.05,"profit":11.95,"roi":8.41,"bo":12,"so":35,"buy":140.03,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":421,"name":"Тромбон","t":1793305237304,"sale":585,"ref":662.76,"profit":11.48,"roi":1.96,"bo":10,"so":28,"buy":560.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":494,"name":"НВ-2 Клён","t":1793305237304,"sale":529.01,"ref":600,"profit":10.99,"roi":2.08,"bo":0,"so":19,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":153,"name":"Якорь","t":1793306440651,"sale":177.76,"ref":218.99,"profit":19.33,"roi":10.87,"bo":1,"so":7,"buy":168,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1461,"name":"«Эхо далёких миров»","t":1793306440651,"sale":46.37,"ref":70.99,"profit":17.52,"roi":37.79,"bo":1,"so":9,"buy":16.66,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":574,"name":"Тако","t":1793306440651,"sale":181.2,"ref":220,"profit":16.8,"roi":9.27,"bo":3,"so":7,"buy":181.19,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
