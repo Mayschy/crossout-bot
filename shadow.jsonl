@@ -51,3 +51,4 @@
 {"id":635,"name":"Колесо багги (пов.)","t":1793267440087,"sale":173,"ref":212.94,"profit":18.65,"roi":10.78,"bo":9,"so":19,"buy":167.25,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":65,"name":"Сверчок","t":1793268076887,"sale":335.9,"ref":387.99,"profit":13.29,"roi":3.96,"bo":21,"so":74,"buy":334.95,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":606,"name":"Титан (пов.)","t":1793268641092,"sale":164.78,"ref":200,"profit":15.22,"roi":9.24,"bo":1,"so":39,"buy":161.04,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":696,"name":"Контейнер красок","t":1793270443612,"sale":301.02,"ref":346.93,"profit":11.22,"roi":3.73,"bo":0,"so":2,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
