@@ -86,3 +86,5 @@
 {"id":1461,"name":"«Эхо далёких миров»","t":1793290840712,"sale":51.42,"ref":71.39,"profit":12.83,"roi":24.95,"bo":1,"so":10,"buy":16.66,"act":5,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":284,"name":"Панацея","t":1793291463910,"sale":335.48,"ref":399,"profit":23.62,"roi":7.04,"bo":17,"so":5,"buy":321,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":321,"name":"Мельник","t":1793291463910,"sale":424.01,"ref":484.98,"profit":12.47,"roi":2.94,"bo":21,"so":24,"buy":424,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":289,"name":"Дробитель","t":1793292040325,"sale":371.95,"ref":439,"profit":23.15,"roi":6.22,"bo":9,"so":17,"buy":371.86,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":339,"name":"Корво","t":1793292040325,"sale":204.97,"ref":240,"profit":11.03,"roi":5.38,"bo":2,"so":13,"buy":200,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
