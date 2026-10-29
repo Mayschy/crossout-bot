@@ -29,3 +29,4 @@
 {"id":484,"name":"ЭУ-1 Заряд","t":1793246474684,"sale":84.83,"ref":109.4,"profit":13.63,"roi":16.07,"bo":2,"so":25,"buy":83.53,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":573,"name":"Тактическое бревно","t":1793249436770,"sale":35,"ref":54,"profit":13.6,"roi":38.86,"bo":3,"so":5,"buy":31,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":707,"name":"Легендарный стабилизатор","t":1793251862354,"sale":80,"ref":102.38,"profit":12.14,"roi":15.18,"bo":48,"so":32,"buy":79.02,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":93,"name":"Онгаку","t":1793252439939,"sale":189.81,"ref":233.2,"profit":20.07,"roi":10.57,"bo":2,"so":10,"buy":170.92,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
