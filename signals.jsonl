@@ -83,3 +83,4 @@
 {"id":3781,"name":"Оковы","t":1793269868171,"sale":700,"ref":2999.99,"profit":1999.99,"roi":285.71,"bo":10,"so":5,"buy":220,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1056,"name":"Материал: Хром","t":1793271681547,"sale":434.69,"ref":599.99,"profit":105.3,"roi":24.22,"bo":0,"so":2,"buy":0,"act":1,"liq":7,"med":527.86,"below":17.7,"gone":1,"dem":45}
 {"id":3779,"name":"Талисман","t":1793271689834,"sale":2399,"ref":2780,"profit":103,"roi":4.29,"bo":24,"so":34,"buy":2222.26,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":394,"name":"Комбайн","t":1793272242511,"sale":1615.81,"ref":1875.5,"profit":72.14,"roi":4.46,"bo":7,"so":22,"buy":1615.8,"act":2,"liq":65,"med":1789.96,"below":9.7,"gone":22.1,"dem":100}
