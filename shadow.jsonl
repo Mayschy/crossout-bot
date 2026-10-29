@@ -20,3 +20,5 @@
 {"id":1165,"name":"Рампа с платформой 6×12×3","t":1793230260844,"sale":77.77,"ref":99,"profit":11.33,"roi":14.57,"bo":0,"so":18,"buy":0,"act":11,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":346,"name":"Разрыватель","t":1793234438978,"sale":230,"ref":266.88,"profit":10.19,"roi":4.43,"bo":12,"so":11,"buy":220,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":272,"name":"Нагваль","t":1793239837671,"sale":394.05,"ref":450,"profit":10.95,"roi":2.78,"bo":13,"so":37,"buy":394.04,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1301,"name":"Темное золото","t":1793241062432,"sale":119.44,"ref":146.12,"profit":12.07,"roi":10.1,"bo":1,"so":6,"buy":56,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3769,"name":"Смог-15","t":1793241062432,"sale":195.33,"ref":229,"profit":10.77,"roi":5.51,"bo":18,"so":13,"buy":194.94,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
