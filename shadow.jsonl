@@ -24,3 +24,5 @@
 {"id":3769,"name":"Смог-15","t":1793241062432,"sale":195.33,"ref":229,"profit":10.77,"roi":5.51,"bo":18,"so":13,"buy":194.94,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1377,"name":"Отблеск севера","t":1793242236957,"sale":1182.22,"ref":1329.16,"profit":14.02,"roi":1.19,"bo":7,"so":5,"buy":1010.1,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":65,"name":"Сверчок","t":1793243439699,"sale":320,"ref":370,"profit":13,"roi":4.06,"bo":17,"so":83,"buy":313.04,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1448,"name":"Инквизитор","t":1793244042292,"sale":1420,"ref":1604.9,"profit":24.41,"roi":1.72,"bo":13,"so":9,"buy":1416.11,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":306,"name":"Гунгнир","t":1793244042292,"sale":300,"ref":359.82,"profit":23.84,"roi":7.95,"bo":19,"so":20,"buy":292.3,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
