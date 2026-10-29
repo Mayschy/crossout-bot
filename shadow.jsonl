@@ -48,3 +48,4 @@
 {"id":568,"name":"Верификатор","t":1793265642816,"sale":160.83,"ref":195,"profit":14.67,"roi":9.12,"bo":0,"so":23,"buy":0,"act":10,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":484,"name":"ЭУ-1 Заряд","t":1793265642816,"sale":87.28,"ref":109.43,"profit":11.21,"roi":12.84,"bo":2,"so":25,"buy":83.53,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":457,"name":"Снабжение","t":1793266262962,"sale":73.18,"ref":93,"profit":10.52,"roi":14.38,"bo":0,"so":17,"buy":0,"act":10,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":635,"name":"Колесо багги (пов.)","t":1793267440087,"sale":173,"ref":212.94,"profit":18.65,"roi":10.78,"bo":9,"so":19,"buy":167.25,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
