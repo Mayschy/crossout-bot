@@ -661,3 +661,4 @@
 {"id":243,"t":1793274642527,"h":30,"at":1793276400000,"s":4999.9,"b":4701.08,"so":4,"bo":15,"ask":-499.99,"instant":-768.93,"taken":false,"shadow":false,"roi":-10,"capital":4999.9,"late":false}
 {"id":1446,"t":1793273464631,"h":60,"at":1793277000000,"s":1949.31,"b":1711.1,"so":2,"bo":10,"ask":24.38,"instant":-190.01,"taken":true,"shadow":true,"roi":1.41,"capital":1730,"late":false}
 {"id":424,"t":1793276441992,"h":10,"at":1793277000000,"s":439.29,"b":371,"so":46,"bo":8,"ask":15.36,"instant":-46.1,"taken":true,"shadow":true,"roi":4.04,"capital":380,"late":false}
+{"id":3781,"t":1793269868171,"h":120,"at":1793277000000,"s":808.3,"b":220,"so":8,"bo":10,"ask":27.47,"instant":-502,"taken":true,"shadow":false,"roi":3.92,"capital":700,"late":false}
