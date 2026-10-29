@@ -33,3 +33,4 @@
 {"id":487,"name":"Газген","t":1793253036810,"sale":276.66,"ref":319.67,"profit":11.04,"roi":3.99,"bo":7,"so":29,"buy":276,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1793255463701,"sale":184.04,"ref":224.98,"profit":18.44,"roi":10.02,"bo":4,"so":34,"buy":183.18,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":296,"name":"АП62 Терм","t":1793256641016,"sale":185.8,"ref":219.7,"profit":11.93,"roi":6.42,"bo":5,"so":44,"buy":185.78,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":704,"name":"Хранилище чертежей","t":1793257281064,"sale":144,"ref":171.77,"profit":10.59,"roi":7.36,"bo":52,"so":63,"buy":143.22,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
