@@ -55,3 +55,4 @@
 {"id":339,"name":"Корво","t":1793272241303,"sale":212.48,"ref":249.44,"profit":12.02,"roi":5.66,"bo":2,"so":10,"buy":200,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":642,"name":"Низкий просвет (пов.)","t":1793272840097,"sale":800,"ref":910.01,"profit":19.01,"roi":2.38,"bo":45,"so":22,"buy":700,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1446,"name":"Мясник","t":1793273464631,"sale":1730,"ref":1939.99,"profit":15.99,"roi":0.92,"bo":8,"so":7,"buy":1711.03,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":424,"name":"Икар VII","t":1793276441992,"sale":380,"ref":439.25,"profit":15.32,"roi":4.03,"bo":8,"so":53,"buy":370.05,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
