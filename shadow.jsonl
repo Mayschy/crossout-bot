@@ -64,3 +64,4 @@
 {"id":462,"name":"Шабаш","t":1793279441744,"sale":284.24,"ref":340,"profit":21.76,"roi":7.66,"bo":12,"so":41,"buy":283.24,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":454,"name":"Спойлер","t":1793280666914,"sale":168.65,"ref":213,"profit":23.05,"roi":13.67,"bo":1,"so":6,"buy":157.54,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1793280666914,"sale":160,"ref":189.88,"profit":10.89,"roi":6.81,"bo":3,"so":53,"buy":150.64,"act":10,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":675,"name":"Горбун","t":1793281842133,"sale":260,"ref":308.98,"profit":18.08,"roi":6.95,"bo":20,"so":10,"buy":253.03,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
