@@ -141,3 +141,4 @@
 {"id":419,"name":"Пламя","t":1793347838893,"sale":257.93,"ref":312,"profit":22.87,"roi":8.87,"bo":19,"so":78,"buy":252.07,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1208,"name":"Автокатапульта","t":1793348439278,"sale":32.66,"ref":49.96,"profit":12.3,"roi":37.67,"bo":1,"so":15,"buy":31.68,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":189,"name":"Четкий","t":1793348439278,"sale":141,"ref":168,"profit":10.2,"roi":7.23,"bo":12,"so":33,"buy":140,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":335,"name":"Триггер","t":1793349060787,"sale":189,"ref":222.23,"profit":11.01,"roi":5.82,"bo":7,"so":9,"buy":185,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
