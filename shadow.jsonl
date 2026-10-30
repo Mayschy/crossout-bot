@@ -134,3 +134,4 @@
 {"id":533,"name":"Исследователь","t":1793334039110,"sale":172.4,"ref":218.15,"profit":23.94,"roi":13.88,"bo":1,"so":4,"buy":162,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":437,"name":"Тэнгу","t":1793334039110,"sale":970,"ref":1099.99,"profit":19.99,"roi":2.06,"bo":6,"so":35,"buy":911.11,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1449,"name":"Гиена","t":1793337638172,"sale":691.04,"ref":788.99,"profit":19.05,"roi":2.76,"bo":8,"so":47,"buy":691.03,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3763,"name":"МВП Флагман","t":1793340076344,"sale":485,"ref":551.99,"profit":11.79,"roi":2.43,"bo":18,"so":33,"buy":468.2,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
