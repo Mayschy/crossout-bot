@@ -170,3 +170,4 @@
 {"id":54,"name":"Гарпия","t":1793365276996,"sale":330.01,"ref":379.99,"profit":11.98,"roi":3.63,"bo":9,"so":31,"buy":330,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":598,"name":"Крошка Вэйд","t":1793365276996,"sale":180.1,"ref":212.78,"profit":11.4,"roi":6.33,"bo":5,"so":7,"buy":180.01,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1793365841298,"sale":146,"ref":177,"profit":13.3,"roi":9.11,"bo":6,"so":47,"buy":145.01,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1390,"name":"Материал: Змей","t":1793367638709,"sale":145,"ref":176.87,"profit":14.18,"roi":9.78,"bo":0,"so":10,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
