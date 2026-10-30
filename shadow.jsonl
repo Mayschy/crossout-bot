@@ -174,3 +174,5 @@
 {"id":1449,"name":"Гиена","t":1793368239335,"sale":691.04,"ref":789,"profit":19.06,"roi":2.76,"bo":4,"so":36,"buy":691.03,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1793369440357,"sale":134,"ref":161.35,"profit":11.22,"roi":8.37,"bo":5,"so":49,"buy":132.09,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3763,"name":"МВП Флагман","t":1793370663327,"sale":516,"ref":594.24,"profit":18.82,"roi":3.65,"bo":13,"so":22,"buy":468.25,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":93,"name":"Онгаку","t":1793371241426,"sale":197.66,"ref":237.2,"profit":15.82,"roi":8,"bo":3,"so":6,"buy":195.15,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":823,"name":"Куро","t":1793371241426,"sale":58.96,"ref":76.8,"profit":10.16,"roi":17.23,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
