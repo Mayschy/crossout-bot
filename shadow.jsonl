@@ -193,3 +193,4 @@
 {"id":346,"name":"Разрыватель","t":1793378441423,"sale":210,"ref":249.94,"profit":14.95,"roi":7.12,"bo":6,"so":17,"buy":205.38,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":149,"name":"Вакидатэ","t":1793379039395,"sale":187.84,"ref":222,"profit":11.96,"roi":6.37,"bo":1,"so":14,"buy":187.81,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":577,"name":"Гусеница бронированная","t":1793380840075,"sale":314.87,"ref":372.31,"profit":20.21,"roi":6.42,"bo":28,"so":17,"buy":310.05,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":368,"name":"Астрей","t":1793382039749,"sale":553.4,"ref":635,"profit":18.1,"roi":3.27,"bo":0,"so":38,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
