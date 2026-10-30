@@ -122,3 +122,4 @@
 {"id":181,"name":"Гепард","t":1793314876610,"sale":131.41,"ref":172.64,"profit":23.97,"roi":18.24,"bo":0,"so":64,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":112,"name":"Рвач","t":1793315437460,"sale":103.32,"ref":134,"profit":17.28,"roi":16.72,"bo":2,"so":32,"buy":102.66,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1793317237413,"sale":141,"ref":169.99,"profit":11.99,"roi":8.5,"bo":11,"so":37,"buy":140.03,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":393,"name":"Первобытный ужас","t":1793319037218,"sale":80.44,"ref":101.97,"profit":11.33,"roi":14.09,"bo":2,"so":9,"buy":36,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
