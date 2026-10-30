@@ -156,3 +156,5 @@
 {"id":1145,"name":"Наклонная балка 6×12×6","t":1793358076672,"sale":15,"ref":27.98,"profit":10.18,"roi":67.88,"bo":3,"so":44,"buy":2.27,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1793358640958,"sale":132.09,"ref":164.9,"profit":16.32,"roi":12.36,"bo":2,"so":62,"buy":127.9,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":313,"name":"Буря","t":1793358640958,"sale":136.5,"ref":166.59,"profit":13.43,"roi":9.84,"bo":22,"so":17,"buy":136.2,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":484,"name":"ЭУ-1 Заряд","t":1793359862825,"sale":82.28,"ref":106.32,"profit":13.41,"roi":16.3,"bo":1,"so":24,"buy":79.14,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":113,"name":"Терзатель","t":1793359862825,"sale":184.82,"ref":218.49,"profit":11.82,"roi":6.4,"bo":3,"so":18,"buy":171.34,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
