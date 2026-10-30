@@ -218,3 +218,5 @@
 {"id":321,"name":"Мельник","t":1793398837503,"sale":427.01,"ref":498.94,"profit":22.04,"roi":5.16,"bo":19,"so":34,"buy":427,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1161,"name":"Большая рампа 6×30×15","t":1793401276768,"sale":50,"ref":70.79,"profit":13.71,"roi":27.42,"bo":7,"so":3,"buy":21.96,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1159,"name":"Большая рампа 6×12×6","t":1793403057879,"sale":67.56,"ref":86.4,"profit":10.2,"roi":15.1,"bo":0,"so":59,"buy":0,"act":11,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":465,"name":"Счетчик урона","t":1793403639918,"sale":234.08,"ref":285,"profit":22.42,"roi":9.58,"bo":8,"so":14,"buy":210,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1159,"name":"Большая рампа 6×12×6","t":1793403639918,"sale":65,"ref":86.4,"profit":12.76,"roi":19.63,"bo":0,"so":28,"buy":0,"act":11,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
