@@ -129,3 +129,5 @@
 {"id":436,"name":"LED «Джек»","t":1793325674568,"sale":187.68,"ref":220.63,"profit":10.89,"roi":5.8,"bo":3,"so":2,"buy":163.03,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1208,"name":"Автокатапульта","t":1793327460198,"sale":32.67,"ref":49.96,"profit":12.29,"roi":37.63,"bo":1,"so":13,"buy":31.68,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":437,"name":"Тэнгу","t":1793329276960,"sale":999,"ref":1122.23,"profit":11.01,"roi":1.1,"bo":6,"so":31,"buy":991.05,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":419,"name":"Пламя","t":1793332239197,"sale":255,"ref":309.9,"profit":23.91,"roi":9.38,"bo":7,"so":80,"buy":251.02,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":393,"name":"Первобытный ужас","t":1793332239197,"sale":80.42,"ref":101.97,"profit":11.35,"roi":14.12,"bo":2,"so":9,"buy":36,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
