@@ -138,3 +138,4 @@
 {"id":606,"name":"Титан (пов.)","t":1793340639908,"sale":156.08,"ref":196.11,"profit":20.42,"roi":13.08,"bo":11,"so":40,"buy":156.07,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":582,"name":"Файер «Синяк»","t":1793342439925,"sale":350,"ref":403.97,"profit":13.57,"roi":3.88,"bo":3,"so":5,"buy":305.23,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":413,"name":"Взгляд дракона","t":1793345461023,"sale":48.73,"ref":68.49,"profit":12.91,"roi":26.49,"bo":2,"so":4,"buy":32.01,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":419,"name":"Пламя","t":1793347838893,"sale":257.93,"ref":312,"profit":22.87,"roi":8.87,"bo":19,"so":78,"buy":252.07,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
