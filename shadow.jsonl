@@ -158,3 +158,4 @@
 {"id":313,"name":"Буря","t":1793358640958,"sale":136.5,"ref":166.59,"profit":13.43,"roi":9.84,"bo":22,"so":17,"buy":136.2,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":484,"name":"ЭУ-1 Заряд","t":1793359862825,"sale":82.28,"ref":106.32,"profit":13.41,"roi":16.3,"bo":1,"so":24,"buy":79.14,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":113,"name":"Терзатель","t":1793359862825,"sale":184.82,"ref":218.49,"profit":11.82,"roi":6.4,"bo":3,"so":18,"buy":171.34,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":495,"name":"Фалко","t":1793362840007,"sale":86.06,"ref":111.47,"profit":14.26,"roi":16.57,"bo":0,"so":22,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
