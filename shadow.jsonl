@@ -136,3 +136,4 @@
 {"id":1449,"name":"Гиена","t":1793337638172,"sale":691.04,"ref":788.99,"profit":19.05,"roi":2.76,"bo":8,"so":47,"buy":691.03,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3763,"name":"МВП Флагман","t":1793340076344,"sale":485,"ref":551.99,"profit":11.79,"roi":2.43,"bo":18,"so":33,"buy":468.2,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":606,"name":"Титан (пов.)","t":1793340639908,"sale":156.08,"ref":196.11,"profit":20.42,"roi":13.08,"bo":11,"so":40,"buy":156.07,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":582,"name":"Файер «Синяк»","t":1793342439925,"sale":350,"ref":403.97,"profit":13.57,"roi":3.88,"bo":3,"so":5,"buy":305.23,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
