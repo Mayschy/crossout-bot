@@ -1426,3 +1426,11 @@
 {"id":181,"t":1793358640958,"h":20,"at":1793359800000,"s":162.73,"b":127.9,"so":48,"bo":2,"ask":14.37,"instant":-16.98,"taken":true,"shadow":true,"roi":10.88,"capital":132.09,"late":false}
 {"id":313,"t":1793358640958,"h":10,"at":1793359200000,"s":166.59,"b":164.5,"so":15,"bo":25,"ask":13.43,"instant":11.55,"taken":true,"shadow":true,"roi":9.84,"capital":136.5,"late":false}
 {"id":313,"t":1793358640958,"h":20,"at":1793359800000,"s":166.59,"b":136.2,"so":15,"bo":24,"ask":13.43,"instant":-13.92,"taken":true,"shadow":true,"roi":9.84,"capital":136.5,"late":false}
+{"id":710,"t":1793356840256,"h":60,"at":1793360400000,"s":315,"b":262.47,"so":40,"bo":18,"ask":21.03,"instant":-26.25,"taken":true,"shadow":false,"roi":8.01,"capital":262.47,"late":false}
+{"id":656,"t":1793358077821,"h":30,"at":1793359800000,"s":248.7,"b":21.16,"so":2,"bo":1,"ask":42.61,"instant":-162.18,"taken":true,"shadow":false,"roi":23.51,"capital":181.22,"late":false}
+{"id":652,"t":1793352663010,"h":120,"at":1793359800000,"s":102.02,"b":102,"so":19,"bo":43,"ask":-17.18,"instant":-17.2,"taken":false,"shadow":true,"roi":-15.76,"capital":109,"late":false}
+{"id":3769,"t":1793352663010,"h":120,"at":1793359800000,"s":216.88,"b":183,"so":17,"bo":18,"ask":10.19,"instant":-20.3,"taken":true,"shadow":true,"roi":5.51,"capital":185,"late":false}
+{"id":1351,"t":1793356839604,"h":60,"at":1793360400000,"s":117.12,"b":0,"so":3,"bo":0,"ask":-11.71,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":117.12,"late":false}
+{"id":1145,"t":1793358076672,"h":30,"at":1793359800000,"s":15,"b":2.27,"so":41,"bo":3,"ask":-1.5,"instant":-12.96,"taken":false,"shadow":true,"roi":-10,"capital":15,"late":false}
+{"id":181,"t":1793358640958,"h":30,"at":1793360400000,"s":132.09,"b":127.9,"so":48,"bo":1,"ask":-13.21,"instant":-16.98,"taken":false,"shadow":true,"roi":-10,"capital":132.09,"late":false}
+{"id":313,"t":1793358640958,"h":30,"at":1793360400000,"s":166.59,"b":136.2,"so":15,"bo":24,"ask":13.43,"instant":-13.92,"taken":true,"shadow":true,"roi":9.84,"capital":136.5,"late":false}
