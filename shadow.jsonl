@@ -215,3 +215,4 @@
 {"id":518,"name":"Оберег","t":1793397038651,"sale":417,"ref":483.97,"profit":18.57,"roi":4.45,"bo":8,"so":10,"buy":416.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1302,"name":"Красный хрусталь","t":1793397038651,"sale":87.88,"ref":109.54,"profit":10.71,"roi":12.18,"bo":2,"so":2,"buy":79,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":52,"name":"Грифон","t":1793397670162,"sale":1600,"ref":1799.96,"profit":19.96,"roi":1.25,"bo":5,"so":6,"buy":1448,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":321,"name":"Мельник","t":1793398837503,"sale":427.01,"ref":498.94,"profit":22.04,"roi":5.16,"bo":19,"so":34,"buy":427,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
