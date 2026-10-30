@@ -205,3 +205,5 @@
 {"id":181,"name":"Гепард","t":1793390473673,"sale":123.52,"ref":157.93,"profit":18.62,"roi":15.07,"bo":1,"so":50,"buy":118.19,"act":10,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":576,"name":"Гусеница малая","t":1793391637791,"sale":185,"ref":224.63,"profit":17.17,"roi":9.28,"bo":41,"so":37,"buy":184.5,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1062,"name":"Материал: Золото","t":1793392258870,"sale":900,"ref":1023,"profit":20.7,"roi":2.3,"bo":3,"so":4,"buy":821,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":596,"name":"Барьер IX","t":1793392839918,"sale":330,"ref":380,"profit":12,"roi":3.64,"bo":0,"so":31,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1793392839918,"sale":195,"ref":227.98,"profit":10.18,"roi":5.22,"bo":23,"so":67,"buy":191.08,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
