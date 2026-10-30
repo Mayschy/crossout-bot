@@ -124,3 +124,4 @@
 {"id":117,"name":"КА-2 Маховик","t":1793317237413,"sale":141,"ref":169.99,"profit":11.99,"roi":8.5,"bo":11,"so":37,"buy":140.03,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":393,"name":"Первобытный ужас","t":1793319037218,"sale":80.44,"ref":101.97,"profit":11.33,"roi":14.09,"bo":2,"so":9,"buy":36,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3769,"name":"Смог-15","t":1793319643513,"sale":182.04,"ref":219.05,"profit":15.11,"roi":8.3,"bo":18,"so":15,"buy":182.03,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":577,"name":"Гусеница бронированная","t":1793320837096,"sale":318.29,"ref":369.98,"profit":14.69,"roi":4.62,"bo":4,"so":14,"buy":318.01,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
