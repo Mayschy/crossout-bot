@@ -211,3 +211,6 @@
 {"id":368,"name":"Астрей","t":1793394637447,"sale":535.19,"ref":610,"profit":13.81,"roi":2.58,"bo":0,"so":38,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":631,"name":"Бигфут (пов.)","t":1793395858365,"sale":186.3,"ref":228.2,"profit":19.08,"roi":10.24,"bo":12,"so":62,"buy":183.53,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":576,"name":"Гусеница малая","t":1793396437434,"sale":190,"ref":224.6,"profit":12.14,"roi":6.39,"bo":43,"so":41,"buy":185.12,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":65,"name":"Сверчок","t":1793397038651,"sale":340.99,"ref":399.76,"profit":18.79,"roi":5.51,"bo":26,"so":43,"buy":333.34,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":518,"name":"Оберег","t":1793397038651,"sale":417,"ref":483.97,"profit":18.57,"roi":4.45,"bo":8,"so":10,"buy":416.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1302,"name":"Красный хрусталь","t":1793397038651,"sale":87.88,"ref":109.54,"profit":10.71,"roi":12.18,"bo":2,"so":2,"buy":79,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
