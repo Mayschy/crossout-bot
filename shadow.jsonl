@@ -200,3 +200,4 @@
 {"id":1105,"name":"Белое солнце","t":1793382635015,"sale":133.29,"ref":159.73,"profit":10.47,"roi":7.85,"bo":1,"so":8,"buy":17.82,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":556,"name":"Фатум","t":1793383837724,"sale":365.01,"ref":429.74,"profit":21.76,"roi":5.96,"bo":3,"so":44,"buy":365,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1311,"name":"Изменчивый мир","t":1793383837724,"sale":1.62,"ref":15.89,"profit":12.68,"roi":782.78,"bo":0,"so":6,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1209,"name":"Чертово колесо","t":1793386239077,"sale":27.21,"ref":46.64,"profit":14.77,"roi":54.27,"bo":3,"so":13,"buy":25.56,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
