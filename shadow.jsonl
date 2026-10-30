@@ -166,3 +166,6 @@
 {"id":676,"name":"Зубодробитель","t":1793364054031,"sale":74.91,"ref":97.61,"profit":12.94,"roi":17.27,"bo":1,"so":36,"buy":74.6,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1210,"name":"Огненное кольцо","t":1793364640986,"sale":28.88,"ref":49.96,"profit":16.08,"roi":55.69,"bo":1,"so":5,"buy":24.73,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":420,"name":"Гнездо","t":1793364640986,"sale":320,"ref":370.44,"profit":13.4,"roi":4.19,"bo":21,"so":21,"buy":315.02,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1793365276996,"sale":195,"ref":234.95,"profit":16.45,"roi":8.44,"bo":31,"so":46,"buy":192.03,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":54,"name":"Гарпия","t":1793365276996,"sale":330.01,"ref":379.99,"profit":11.98,"roi":3.63,"bo":9,"so":31,"buy":330,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":598,"name":"Крошка Вэйд","t":1793365276996,"sale":180.1,"ref":212.78,"profit":11.4,"roi":6.33,"bo":5,"so":7,"buy":180.01,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
