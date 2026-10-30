@@ -177,3 +177,5 @@
 {"id":93,"name":"Онгаку","t":1793371241426,"sale":197.66,"ref":237.2,"profit":15.82,"roi":8,"bo":3,"so":6,"buy":195.15,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":823,"name":"Куро","t":1793371241426,"sale":58.96,"ref":76.8,"profit":10.16,"roi":17.23,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":484,"name":"ЭУ-1 Заряд","t":1793371841455,"sale":78.07,"ref":102.28,"profit":13.98,"roi":17.91,"bo":3,"so":21,"buy":76.75,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3763,"name":"МВП Флагман","t":1793372480911,"sale":498,"ref":579.99,"profit":23.99,"roi":4.82,"bo":9,"so":26,"buy":450,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":529,"name":"Циркулярка","t":1793372480911,"sale":78.48,"ref":105.59,"profit":16.55,"roi":21.09,"bo":2,"so":27,"buy":77.48,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
