@@ -203,3 +203,4 @@
 {"id":1209,"name":"Чертово колесо","t":1793386239077,"sale":27.21,"ref":46.64,"profit":14.77,"roi":54.27,"bo":3,"so":13,"buy":25.56,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":57,"name":"Фаворит","t":1793388037266,"sale":1050.01,"ref":1192,"profit":22.79,"roi":2.17,"bo":7,"so":13,"buy":1031,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1793390473673,"sale":123.52,"ref":157.93,"profit":18.62,"roi":15.07,"bo":1,"so":50,"buy":118.19,"act":10,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":576,"name":"Гусеница малая","t":1793391637791,"sale":185,"ref":224.63,"profit":17.17,"roi":9.28,"bo":41,"so":37,"buy":184.5,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
