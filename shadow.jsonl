@@ -142,3 +142,6 @@
 {"id":1208,"name":"Автокатапульта","t":1793348439278,"sale":32.66,"ref":49.96,"profit":12.3,"roi":37.67,"bo":1,"so":15,"buy":31.68,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":189,"name":"Четкий","t":1793348439278,"sale":141,"ref":168,"profit":10.2,"roi":7.23,"bo":12,"so":33,"buy":140,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":335,"name":"Триггер","t":1793349060787,"sale":189,"ref":222.23,"profit":11.01,"roi":5.82,"bo":7,"so":9,"buy":185,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":384,"name":"Дзюбокко","t":1793349637944,"sale":1150,"ref":1299,"profit":19.1,"roi":1.66,"bo":10,"so":8,"buy":1046.11,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":578,"name":"Гусеница укрепленная","t":1793349637944,"sale":150,"ref":182.31,"profit":14.08,"roi":9.39,"bo":11,"so":9,"buy":145.14,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":296,"name":"АП62 Терм","t":1793349637944,"sale":190.44,"ref":227.1,"profit":13.95,"roi":7.33,"bo":44,"so":60,"buy":183,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
