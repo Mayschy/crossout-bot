@@ -153,3 +153,4 @@
 {"id":625,"name":"Затворник (пов.)","t":1793355638701,"sale":175,"ref":209.98,"profit":13.98,"roi":7.99,"bo":8,"so":36,"buy":168.88,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":246,"name":"Палач 88мм","t":1793356260416,"sale":324.2,"ref":375,"profit":13.3,"roi":4.1,"bo":18,"so":21,"buy":324.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1351,"name":"Синий дракон","t":1793356839604,"sale":117.12,"ref":151.46,"profit":19.19,"roi":16.39,"bo":0,"so":1,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1145,"name":"Наклонная балка 6×12×6","t":1793358076672,"sale":15,"ref":27.98,"profit":10.18,"roi":67.88,"bo":3,"so":44,"buy":2.27,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
