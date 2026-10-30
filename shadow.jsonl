@@ -187,3 +187,6 @@
 {"id":55,"name":"Эхо","t":1793376081163,"sale":443.61,"ref":505,"profit":10.89,"roi":2.45,"bo":4,"so":9,"buy":421.02,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3764,"name":"Громила","t":1793376639487,"sale":460.02,"ref":527,"profit":14.28,"roi":3.1,"bo":10,"so":35,"buy":460.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":301,"name":"Спектр-2","t":1793376639487,"sale":257.56,"ref":301.09,"profit":13.42,"roi":5.21,"bo":33,"so":37,"buy":257.55,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":289,"name":"Дробитель","t":1793377862439,"sale":349.98,"ref":415,"profit":23.52,"roi":6.72,"bo":2,"so":31,"buy":326.41,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":437,"name":"Тэнгу","t":1793377862439,"sale":856,"ref":975,"profit":21.5,"roi":2.51,"bo":12,"so":37,"buy":855.02,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1388,"name":"Северная сказка","t":1793377862439,"sale":113.59,"ref":143.99,"profit":16,"roi":14.09,"bo":0,"so":5,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
