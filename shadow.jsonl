@@ -149,3 +149,5 @@
 {"id":652,"name":"Жутка","t":1793352663010,"sale":109,"ref":135.81,"profit":13.23,"roi":12.14,"bo":52,"so":8,"buy":107.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3769,"name":"Смог-15","t":1793352663010,"sale":185,"ref":216.89,"profit":10.2,"roi":5.51,"bo":18,"so":16,"buy":183,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1048,"name":"Сажа","t":1793355040318,"sale":108.33,"ref":135.69,"profit":13.79,"roi":12.73,"bo":0,"so":6,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":93,"name":"Онгаку","t":1793355638701,"sale":197.66,"ref":237.1,"profit":15.73,"roi":7.96,"bo":2,"so":9,"buy":170.92,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1793355638701,"sale":175,"ref":209.98,"profit":13.98,"roi":7.99,"bo":8,"so":36,"buy":168.88,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
