@@ -139,3 +139,5 @@
 {"id":582,"name":"Файер «Синяк»","t":1793342439925,"sale":350,"ref":403.97,"profit":13.57,"roi":3.88,"bo":3,"so":5,"buy":305.23,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":413,"name":"Взгляд дракона","t":1793345461023,"sale":48.73,"ref":68.49,"profit":12.91,"roi":26.49,"bo":2,"so":4,"buy":32.01,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":419,"name":"Пламя","t":1793347838893,"sale":257.93,"ref":312,"profit":22.87,"roi":8.87,"bo":19,"so":78,"buy":252.07,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1208,"name":"Автокатапульта","t":1793348439278,"sale":32.66,"ref":49.96,"profit":12.3,"roi":37.67,"bo":1,"so":15,"buy":31.68,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":189,"name":"Четкий","t":1793348439278,"sale":141,"ref":168,"profit":10.2,"roi":7.23,"bo":12,"so":33,"buy":140,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
