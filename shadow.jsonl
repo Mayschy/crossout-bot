@@ -183,3 +183,4 @@
 {"id":646,"name":"Атом","t":1793373643311,"sale":200,"ref":234.97,"profit":11.47,"roi":5.74,"bo":43,"so":41,"buy":195,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3769,"name":"Смог-15","t":1793373643311,"sale":184,"ref":216.99,"profit":11.29,"roi":6.14,"bo":15,"so":15,"buy":182.06,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":372,"name":"Прометей V","t":1793373643311,"sale":296,"ref":340,"profit":10,"roi":3.38,"bo":8,"so":54,"buy":295.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3756,"name":"Ревун","t":1793374261479,"sale":225,"ref":271.45,"profit":19.31,"roi":8.58,"bo":5,"so":4,"buy":167,"act":5,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
