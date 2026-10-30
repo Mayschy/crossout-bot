@@ -146,3 +146,5 @@
 {"id":578,"name":"Гусеница укрепленная","t":1793349637944,"sale":150,"ref":182.31,"profit":14.08,"roi":9.39,"bo":11,"so":9,"buy":145.14,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":296,"name":"АП62 Терм","t":1793349637944,"sale":190.44,"ref":227.1,"profit":13.95,"roi":7.33,"bo":44,"so":60,"buy":183,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1048,"name":"Сажа","t":1793350877518,"sale":108.35,"ref":135.69,"profit":13.77,"roi":12.71,"bo":0,"so":6,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":652,"name":"Жутка","t":1793352663010,"sale":109,"ref":135.81,"profit":13.23,"roi":12.14,"bo":52,"so":8,"buy":107.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3769,"name":"Смог-15","t":1793352663010,"sale":185,"ref":216.89,"profit":10.2,"roi":5.51,"bo":18,"so":16,"buy":183,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
