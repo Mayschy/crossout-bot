@@ -164,3 +164,5 @@
 {"id":1293,"name":"Розовая пантера","t":1793363464799,"sale":94.91,"ref":119.56,"profit":12.69,"roi":13.37,"bo":8,"so":2,"buy":84.97,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1457,"name":"Пламенное граффити","t":1793363464799,"sale":41.22,"ref":58.24,"profit":11.2,"roi":27.16,"bo":0,"so":6,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":676,"name":"Зубодробитель","t":1793364054031,"sale":74.91,"ref":97.61,"profit":12.94,"roi":17.27,"bo":1,"so":36,"buy":74.6,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1210,"name":"Огненное кольцо","t":1793364640986,"sale":28.88,"ref":49.96,"profit":16.08,"roi":55.69,"bo":1,"so":5,"buy":24.73,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":420,"name":"Гнездо","t":1793364640986,"sale":320,"ref":370.44,"profit":13.4,"roi":4.19,"bo":21,"so":21,"buy":315.02,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
