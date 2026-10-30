@@ -128,3 +128,4 @@
 {"id":1293,"name":"Розовая пантера","t":1793324438404,"sale":89.21,"ref":119.56,"profit":18.39,"roi":20.62,"bo":8,"so":2,"buy":84.97,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":436,"name":"LED «Джек»","t":1793325674568,"sale":187.68,"ref":220.63,"profit":10.89,"roi":5.8,"bo":3,"so":2,"buy":163.03,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1208,"name":"Автокатапульта","t":1793327460198,"sale":32.67,"ref":49.96,"profit":12.29,"roi":37.63,"bo":1,"so":13,"buy":31.68,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":437,"name":"Тэнгу","t":1793329276960,"sale":999,"ref":1122.23,"profit":11.01,"roi":1.1,"bo":6,"so":31,"buy":991.05,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
