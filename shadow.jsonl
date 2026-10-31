@@ -278,3 +278,4 @@
 {"id":270,"name":"АП50 Шторм","t":1793461236052,"sale":82.44,"ref":107.5,"profit":14.31,"roi":17.36,"bo":1,"so":16,"buy":81.22,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1793463035215,"sale":180,"ref":213,"profit":11.7,"roi":6.5,"bo":8,"so":2,"buy":170.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":462,"name":"Шабаш","t":1793463035215,"sale":277.01,"ref":320,"profit":10.99,"roi":3.97,"bo":14,"so":50,"buy":277,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":566,"name":"Хамелеон Mk2","t":1793463635227,"sale":281.68,"ref":337.96,"profit":22.48,"roi":7.98,"bo":11,"so":8,"buy":260.03,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
