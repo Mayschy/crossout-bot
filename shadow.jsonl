@@ -344,3 +344,6 @@
 {"id":1163,"name":"Рампа с платформой 12×12×3","t":1793485237175,"sale":35,"ref":63.99,"profit":22.59,"roi":64.55,"bo":0,"so":64,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":561,"name":"Гармонизатор","t":1793485858104,"sale":702,"ref":800,"profit":18,"roi":2.56,"bo":12,"so":46,"buy":701,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":561,"name":"Гармонизатор","t":1793486439534,"sale":701,"ref":800,"profit":19,"roi":2.71,"bo":11,"so":48,"buy":697,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3779,"name":"Талисман","t":1793487676755,"sale":3195,"ref":3571.27,"profit":19.14,"roi":0.6,"bo":31,"so":6,"buy":2805.02,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1209,"name":"Чертово колесо","t":1793487676755,"sale":26.65,"ref":46.59,"profit":15.28,"roi":57.34,"bo":3,"so":16,"buy":25.56,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1207,"name":"Измельчитель","t":1793487676755,"sale":20.02,"ref":34.38,"profit":10.92,"roi":54.56,"bo":2,"so":4,"buy":17.8,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
