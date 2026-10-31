@@ -273,3 +273,4 @@
 {"id":437,"name":"Тэнгу","t":1793457636188,"sale":900.01,"ref":1021.98,"profit":19.77,"roi":2.2,"bo":54,"so":20,"buy":900,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3767,"name":"ПТУР-Л Корнет","t":1793458231846,"sale":1605,"ref":1798.94,"profit":14.05,"roi":0.88,"bo":6,"so":27,"buy":1571.06,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":536,"name":"Мясорубка","t":1793458872779,"sale":262.77,"ref":311.1,"profit":17.22,"roi":6.55,"bo":4,"so":41,"buy":247.04,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":280,"name":"Яогуай","t":1793460036121,"sale":268.1,"ref":317.49,"profit":17.64,"roi":6.58,"bo":7,"so":18,"buy":268,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
