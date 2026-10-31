@@ -221,3 +221,4 @@
 {"id":465,"name":"Счетчик урона","t":1793403639918,"sale":234.08,"ref":285,"profit":22.42,"roi":9.58,"bo":8,"so":14,"buy":210,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1159,"name":"Большая рампа 6×12×6","t":1793403639918,"sale":65,"ref":86.4,"profit":12.76,"roi":19.63,"bo":0,"so":28,"buy":0,"act":11,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":84,"name":"Гермес","t":1793405436318,"sale":326,"ref":375.97,"profit":12.37,"roi":3.8,"bo":19,"so":42,"buy":325.12,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1793406034380,"sale":156.53,"ref":199.82,"profit":23.31,"roi":14.89,"bo":27,"so":32,"buy":150.07,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
