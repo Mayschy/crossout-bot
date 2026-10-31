@@ -331,3 +331,5 @@
 {"id":1461,"name":"«Эхо далёких миров»","t":1793478661952,"sale":53.81,"ref":70.99,"profit":10.08,"roi":18.73,"bo":2,"so":3,"buy":53.8,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1060,"name":"Шаблон: Опасность!","t":1793479237136,"sale":242.73,"ref":297.29,"profit":24.83,"roi":10.23,"bo":0,"so":7,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1461,"name":"«Эхо далёких миров»","t":1793479237136,"sale":53.81,"ref":70.99,"profit":10.08,"roi":18.73,"bo":2,"so":3,"buy":53.8,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1060,"name":"Шаблон: Опасность!","t":1793479836898,"sale":242.73,"ref":297.29,"profit":24.83,"roi":10.23,"bo":0,"so":7,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":578,"name":"Гусеница укрепленная","t":1793479836898,"sale":137.45,"ref":179.9,"profit":24.46,"roi":17.8,"bo":10,"so":20,"buy":137.38,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
