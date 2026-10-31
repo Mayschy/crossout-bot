@@ -291,3 +291,5 @@
 {"id":437,"name":"Тэнгу","t":1793469036530,"sale":900,"ref":1018.96,"profit":17.06,"roi":1.9,"bo":52,"so":20,"buy":891,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1793469036530,"sale":152.95,"ref":187,"profit":15.35,"roi":10.04,"bo":14,"so":10,"buy":139.97,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":184,"name":"Исполин","t":1793469036530,"sale":140,"ref":168,"profit":11.2,"roi":8,"bo":19,"so":11,"buy":135.12,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":437,"name":"Тэнгу","t":1793469675122,"sale":900,"ref":1018.96,"profit":17.06,"roi":1.9,"bo":52,"so":22,"buy":891,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":335,"name":"Триггер","t":1793469675122,"sale":157.38,"ref":189.43,"profit":13.11,"roi":8.33,"bo":6,"so":24,"buy":157.37,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
