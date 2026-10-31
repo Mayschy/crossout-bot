@@ -293,3 +293,5 @@
 {"id":184,"name":"Исполин","t":1793469036530,"sale":140,"ref":168,"profit":11.2,"roi":8,"bo":19,"so":11,"buy":135.12,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":437,"name":"Тэнгу","t":1793469675122,"sale":900,"ref":1018.96,"profit":17.06,"roi":1.9,"bo":52,"so":22,"buy":891,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":335,"name":"Триггер","t":1793469675122,"sale":157.38,"ref":189.43,"profit":13.11,"roi":8.33,"bo":6,"so":24,"buy":157.37,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3769,"name":"Смог-15","t":1793470835764,"sale":200,"ref":243.05,"profit":18.75,"roi":9.37,"bo":11,"so":7,"buy":186.82,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":485,"name":"Бутстрэп","t":1793470835764,"sale":580,"ref":664.99,"profit":18.49,"roi":3.19,"bo":10,"so":32,"buy":571.2,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
