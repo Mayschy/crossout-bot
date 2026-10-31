@@ -15,6 +15,7 @@
 
 const fs = require('node:fs');
 const path = require('node:path');
+const mongo = require('./db'); // MongoDB: необязательно, без MONGODB_URI тихо отключается
 
 // ───────────────────────── .env (без зависимостей) ─────────────────────────
 function loadEnv(file = path.join(__dirname, '.env')) {
@@ -702,6 +703,16 @@ function jAppend(file, line) {
   fs.appendFileSync(file, line + '\n');
 }
 
+// Копия записи в MongoDB. Не блокирует цикл; ошибки базы не роняют бота (JSONL остаётся основным).
+const dbPending = [];
+function dbSave(collection, rec, extra) {
+  dbPending.push(mongo.save(collection, [rec], extra).catch((e) => log('MongoDB:', e.message)));
+}
+async function dbFlush(close = false) {
+  await Promise.allSettled(dbPending.splice(0));
+  if (close) await mongo.close();
+}
+
 function jRead(file, tailBytes = 0) {
   try {
     const st = fs.statSync(file);
@@ -759,6 +770,7 @@ function jSignal(f, names) {
   try {
     const rec = signalRecord(f, names);
     jAppend(SIG_FILE, JSON.stringify(rec));
+    dbSave('signals', { ...rec, ctx: f.ctx }, { _kind: 'normal' });
     jEvent(`SIGNAL #${f.id} ${rec.name}: купить ${f2(f.sale)}, эталон ${f2(f.ref)}, прибыль ${f2(f.profit)}, ликвидность ${rec.liq}`);
     journalDirty = true;
   } catch (e) { log('Журнал (сигнал):', e.message); }
@@ -778,6 +790,7 @@ function jShadows(found, names, state) {
     try {
       const rec = { ...signalRecord(f, names, now), shadow: true };
       jAppend(SHADOW_FILE, JSON.stringify(rec));
+      dbSave('signals', { ...rec, ctx: f.ctx }, { _kind: 'shadow' });
       state.shadowSeen[f.id] = { t: now, sale: f.sale };
       journalDirty = true;
     } catch (e) { log('Журнал (теневой сигнал):', e.message); }
@@ -832,6 +845,7 @@ function jOutcomes(data) {
           late,
         };
         jAppend(OUT_FILE, JSON.stringify(out));
+        dbSave('outcomes', out);
         if (!r.shadow) jEvent(`OUTCOME #${r.id} через ${h} мин: цена ${f2(best.s)} (было ${f2(r.sale)}), по лоту ${out.ask >= 0 ? '+' : ''}${out.ask}${late ? ' [неточно]' : ''}`);
         journalDirty = true;
       }
@@ -969,7 +983,11 @@ async function cycle(names, state) {
     newest = Math.max(newest, pts[pts.length - 1].t);
     const r = evaluate(pts);
     if (!r) continue;
-    if (r.profit >= Math.min(CFG.minProfit, CFG.shadowMinProfit) && r.roi >= CFG.minRoi && r.bo >= CFG.minBuyOrders) found.push({ id, ...r });
+    if (r.profit >= Math.min(CFG.minProfit, CFG.shadowMinProfit) && r.roi >= CFG.minRoi && r.bo >= CFG.minBuyOrders) {
+      // последние 24 точки (~2 ч) — только для MongoDB, в JSONL не пишем, чтобы не раздувать git
+      const ctx = pts.slice(-24).map((p) => ({ t: p.t, s: p.s, b: p.b, so: p.so, bo: p.bo }));
+      found.push({ id, ...r, ctx });
+    }
   }
 
   const ageMin = (nowSec - newest) / 60;
@@ -1191,6 +1209,7 @@ async function main() {
   for (;;) {
     try {
       await cycle(names, state);
+      await dbFlush();
     } catch (e) {
       log('Ошибка цикла:', e.message);
       jEvent(`ERROR: ${e.message}`);
@@ -1202,7 +1221,10 @@ async function main() {
 
 for (const sig of ['SIGINT', 'SIGTERM']) process.on(sig, () => process.exit(0));
 
-main().catch((e) => {
-  console.error('Фатальная ошибка:', e.message);
-  process.exit(1);
-});
+main()
+  .then(() => dbFlush(true))
+  .catch(async (e) => {
+    console.error('Фатальная ошибка:', e.message);
+    await dbFlush(true).catch(() => {});
+    process.exit(1);
+  });

@@ -7,3 +7,6 @@ dump.json
 probe.txt
 bot.log
 icons/
+data-branch/
+crossout-bot-data/
+node_modules/

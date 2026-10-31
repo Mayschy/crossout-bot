@@ -23,8 +23,8 @@ jobs:
         with:
           node-version: 20
 
-      - name: Установка sharp (конвертация иконок)
-        run: npm i sharp --no-save --no-audit --no-fund
+      - name: Установка зависимостей (sharp для иконок, mongodb для базы)
+        run: npm install --no-audit --no-fund
 
       # state.json (дедупликация), names.json (названия) и icons (иконки) живут между запусками в кэше Actions
       - name: Восстановить состояние
@@ -53,6 +53,7 @@ jobs:
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
           JOURNAL_DIR: data
           MIN_PROFIT: '25'
           SHADOW_MIN_PROFIT: '10'
