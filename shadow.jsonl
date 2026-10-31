@@ -235,3 +235,4 @@
 {"id":309,"name":"Синус-0","t":1793431856288,"sale":94.68,"ref":123.7,"profit":16.65,"roi":17.59,"bo":13,"so":12,"buy":94.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":153,"name":"Якорь","t":1793432434329,"sale":175.03,"ref":215,"profit":18.47,"roi":10.55,"bo":3,"so":8,"buy":168.1,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":306,"name":"Гунгнир","t":1793432434329,"sale":315,"ref":361.92,"profit":10.73,"roi":3.41,"bo":12,"so":12,"buy":300,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":518,"name":"Оберег","t":1793435452393,"sale":419.95,"ref":480,"profit":12.05,"roi":2.87,"bo":13,"so":12,"buy":400.05,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
