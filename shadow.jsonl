@@ -228,3 +228,4 @@
 {"id":272,"name":"Нагваль","t":1793413236103,"sale":408,"ref":476.36,"profit":20.72,"roi":5.08,"bo":15,"so":40,"buy":405.1,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":571,"name":"Генезис","t":1793419265684,"sale":98.29,"ref":130,"profit":18.71,"roi":19.04,"bo":3,"so":10,"buy":96.13,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":623,"name":"Виджет (пов.)","t":1793427635569,"sale":440.01,"ref":509.9,"profit":18.9,"roi":4.3,"bo":10,"so":28,"buy":440,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1288,"name":"Обжигающий хитин","t":1793428253450,"sale":71.25,"ref":90.51,"profit":10.21,"roi":14.33,"bo":3,"so":5,"buy":21,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
