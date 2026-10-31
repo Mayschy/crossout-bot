@@ -248,3 +248,4 @@
 {"id":391,"name":"Старая кассета","t":1793442036502,"sale":81.97,"ref":105.94,"profit":13.38,"roi":16.32,"bo":4,"so":3,"buy":75.31,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":9,"name":"Джаннаби","t":1793442036502,"sale":293.02,"ref":339.99,"profit":12.97,"roi":4.43,"bo":7,"so":26,"buy":288.52,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":462,"name":"Шабаш","t":1793442036502,"sale":277.01,"ref":319,"profit":10.09,"roi":3.64,"bo":22,"so":51,"buy":276.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":623,"name":"Виджет (пов.)","t":1793443833042,"sale":440,"ref":509.9,"profit":18.91,"roi":4.3,"bo":10,"so":32,"buy":417,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
