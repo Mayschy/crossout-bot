@@ -244,3 +244,4 @@
 {"id":499,"name":"Тыква-фонарь","t":1793439055378,"sale":201,"ref":240,"profit":15,"roi":7.46,"bo":2,"so":9,"buy":195.1,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":586,"name":"Слейпнир","t":1793440234941,"sale":356.04,"ref":413.72,"profit":16.31,"roi":4.58,"bo":21,"so":46,"buy":356.03,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":652,"name":"Жутка","t":1793440234941,"sale":101,"ref":124,"profit":10.6,"roi":10.5,"bo":32,"so":14,"buy":100.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":495,"name":"Фалко","t":1793440866872,"sale":86.99,"ref":111.4,"profit":13.27,"roi":15.25,"bo":3,"so":17,"buy":86,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
