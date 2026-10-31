@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Crossout Analytics</title>
+<style>
+:root{--bg:#0f1218;--card:#181d27;--tx:#e6e9ef;--mu:#8b93a5;--ac:#f5a524;--up:#3ecf8e;--dn:#f0616d;--bd:#262d3b}
+@media(prefers-color-scheme:light){:root{--bg:#f4f5f8;--card:#fff;--tx:#1b2030;--mu:#667085;--bd:#e3e6ee}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:14px/1.45 system-ui,sans-serif;padding:16px;max-width:1000px;margin:auto}
+h1{font-size:20px;margin:0}h2{font-size:13px;color:var(--mu);text-transform:uppercase;letter-spacing:.06em;margin:0 0 10px}
+.top{display:flex;flex-wrap:wrap;gap:10px;justify-content:space-between;align-items:center;margin-bottom:14px}
+.sub{color:var(--mu);font-size:12px}.ctl{display:flex;gap:6px;flex-wrap:wrap}
+button{background:var(--card);color:var(--tx);border:1px solid var(--bd);border-radius:8px;padding:5px 11px;cursor:pointer;font:inherit}
+button.on{background:var(--ac);border-color:var(--ac);color:#111;font-weight:600}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:10px}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:12px 14px;margin-bottom:10px}.grid .card{margin:0}
+.big{font-size:24px;font-weight:700}.up{color:var(--up)}.dn{color:var(--dn)}.mu{color:var(--mu)}
+.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:10px}.two .card{margin:0}
+.bar{display:grid;grid-template-columns:96px 1fr 88px;gap:8px;align-items:center;margin:6px 0;font-size:13px}
+.trk{background:var(--bd);border-radius:5px;height:10px;overflow:hidden}.trk i{display:block;height:100%;background:var(--ac)}
+.days{display:flex;align-items:flex-end;gap:4px;height:80px}.days div{flex:1;display:flex;flex-direction:column;justify-content:flex-end;height:100%}
+.days b{display:block;background:var(--ac)}.days u{display:block;background:var(--mu);opacity:.5}
+.wrap{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:12.5px;white-space:nowrap}
+th{color:var(--mu);font-weight:500;text-align:right;padding:4px 8px}td{text-align:right;padding:5px 8px;border-top:1px solid var(--bd)}
+th:nth-child(-n+2),td:nth-child(-n+2){text-align:left}.foot{color:var(--mu);font-size:12px;margin-top:12px}
+</style></head><body>
+<div class="top"><div><h1>📈 Crossout Analytics</h1><div class="sub" id="upd">загрузка…</div></div>
+<div class="ctl" id="ctl"></div></div>
+<div id="app"></div>
+<p class="foot">Условная продажа по минимальному лоту с комиссией 10%, это не реальный PnL. Рост цены не доказывает продажу, повторы предметов зависимы.</p>
+<script>
+const H=[10,20,30,60,120];let D,kind='all',h=60;const $=s=>document.querySelector(s);
+const med=a=>{if(!a.length)return null;const s=[...a].sort((x,y)=>x-y),m=s.length>>1;return s.length%2?s[m]:(s[m-1]+s[m])/2};
+const f=(x,d=1)=>x==null?'–':(x>0?'+':'')+x.toFixed(d);const cl=x=>x==null?'mu':x>=0?'up':'dn';
+const rows=()=>D.rows.filter(r=>kind=='all'||(kind=='sig'?!r.sh:r.sh));
+function st(rs){const v=rs.filter(r=>r.o[h]!=null);return{n:rs.length,m:v.length,pos:v.length?v.filter(r=>r.o[h]>=0).length/v.length*100:null,roi:med(v.map(r=>r.o[h]/r.sale*100))}}
+function bars(title,gs,rs){return`<div class="card"><h2>${title}</h2>`+gs.map(([l,fn])=>{const s=st(rs.filter(fn));
+return`<div class="bar"><span>${l}</span><div class="trk"><i style="width:${s.pos||0}%"></i></div><span class="${cl(s.roi)}">${s.pos==null?'нет данных':Math.round(s.pos)+'% · '+f(s.roi)+'%'}<span class="mu"> n=${s.m}</span></span></div>`}).join('')+'</div>'}
+function render(){const rs=rows(),s=st(rs);$('#upd').textContent='обновлено '+new Date(D.updated).toLocaleString('ru')+' · в базе '+D.total.signals+' сигналов, '+D.total.outcomes+' итогов';
+$('#ctl').innerHTML=[['all','Все'],['sig','Сигналы'],['sh','Тень']].map(([k,l])=>`<button class="${kind==k?'on':''}" data-k="${k}">${l}</button>`).join('')+'<span style="width:8px"></span>'+H.map(x=>`<button class="${h==x?'on':''}" data-h="${x}">${x}м</button>`).join('');
+const days={};rs.forEach(r=>{const d=new Date(r.t).toISOString().slice(5,10);(days[d]=days[d]||[0,0])[r.sh]++});
+const dk=Object.keys(days).sort().slice(-14),mx=Math.max(1,...dk.map(k=>days[k][0]+days[k][1]));
+$('#app').innerHTML=`<div class="grid">
+<div class="card"><div class="mu">Сигналов</div><div class="big">${s.n}</div></div>
+<div class="card"><div class="mu">Предметов</div><div class="big">${new Set(rs.map(r=>r.id)).size}</div></div>
+<div class="card"><div class="mu">В плюсе (${h}м)</div><div class="big ${cl(s.pos==null?null:s.pos-50)}">${s.pos==null?'–':Math.round(s.pos)+'%'}</div></div>
+<div class="card"><div class="mu">Медианный ROI (${h}м)</div><div class="big ${cl(s.roi)}">${s.roi==null?'–':f(s.roi)+'%'}</div></div></div>
+<div class="two">${bars('Ликвидность',[['≥ 70',r=>r.liq>=70],['40–69',r=>r.liq>=40&&r.liq<70],['< 40',r=>r.liq<40]],rs)}
+${bars('Цена предмета',[['до 500',r=>r.sale<500],['500–1499',r=>r.sale>=500&&r.sale<1500],['1500–2999',r=>r.sale>=1500&&r.sale<3000],['от 3000',r=>r.sale>=3000]],rs)}</div>
+<div class="card" style="margin-top:10px"><h2>Сигналы по дням <span class="mu">(яркие обычные, серые тень)</span></h2><div class="days">${dk.map(k=>`<div title="${k}: ${days[k][0]} + ${days[k][1]}"><u style="height:${days[k][1]/mx*100}%"></u><b style="height:${days[k][0]/mx*100}%"></b></div>`).join('')}</div>
+<div class="sub" style="display:flex;justify-content:space-between"><span>${dk[0]||''}</span><span>${dk.at(-1)||''}</span></div></div>
+<div class="card"><h2>Последние сигналы · итог в монетах при продаже по лоту</h2><div class="wrap"><table><tr><th>Время</th><th>Предмет</th><th>Цена</th><th>Прибыль</th><th>Ликв.</th>${H.map(x=>`<th>${x}м</th>`).join('')}</tr>`+
+rs.slice(0,40).map(r=>`<tr><td>${new Date(r.t).toLocaleString('ru',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'})}${r.sh?' 👻':''}</td><td>${r.name||''} <span class="mu">#${r.id}</span></td><td>${r.sale}</td><td>${f(r.profit)}</td><td>${r.liq}</td>${H.map(x=>`<td class="${cl(r.o[x])}">${f(r.o[x])}</td>`).join('')}</tr>`).join('')+'</table></div></div>'}
+document.addEventListener('click',e=>{const b=e.target.closest('button');if(!b||!D)return;if(b.dataset.k)kind=b.dataset.k;if(b.dataset.h)h=+b.dataset.h;render()});
+fetch('data.json').then(r=>r.json()).then(j=>{D=j;render()}).catch(()=>{$('#upd').textContent='нет data.json: запусти workflow deploy-dashboard'});
+</script></body></html>

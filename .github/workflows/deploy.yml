@@ -1,0 +1,39 @@
+name: deploy-dashboard
+
+on:
+  schedule:
+    - cron: '20 * * * *'     # обновление страницы раз в час
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    environment:
+      name: github-pages
+      url: ${{ steps.d.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install mongodb --no-save --no-audit --no-fund
+      - name: Выгрузить данные из MongoDB
+        run: node scripts/export-data.js
+        env:
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+      - id: d
+        uses: actions/deploy-pages@v4
