@@ -267,3 +267,4 @@
 {"id":276,"name":"Циклон","t":1793454036070,"sale":355,"ref":410.97,"profit":14.87,"roi":4.19,"bo":17,"so":30,"buy":352,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":280,"name":"Яогуай","t":1793454634078,"sale":269,"ref":317.49,"profit":16.74,"roi":6.22,"bo":8,"so":19,"buy":268.1,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":362,"name":"Кавказ","t":1793455268259,"sale":268,"ref":309,"profit":10.1,"roi":3.77,"bo":12,"so":11,"buy":245.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":676,"name":"Зубодробитель","t":1793456437271,"sale":72.4,"ref":93.9,"profit":12.11,"roi":16.73,"bo":1,"so":37,"buy":72.14,"act":10,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
