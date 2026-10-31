@@ -306,3 +306,5 @@
 {"id":610,"name":"Увабаки (пов.)","t":1793475057455,"sale":265.09,"ref":309.99,"profit":13.9,"roi":5.24,"bo":4,"so":118,"buy":259.47,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1105,"name":"Белое солнце","t":1793475637047,"sale":123.19,"ref":159.74,"profit":20.58,"roi":16.7,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1793475637047,"sale":156.85,"ref":191.6,"profit":15.59,"roi":9.94,"bo":53,"so":40,"buy":156.84,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":263,"name":"ЗА-4 Звездопад","t":1793476240512,"sale":2777.78,"ref":3111,"profit":22.12,"roi":0.8,"bo":13,"so":22,"buy":2710.1,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":421,"name":"Тромбон","t":1793476240512,"sale":537.07,"ref":619.93,"profit":20.87,"roi":3.89,"bo":19,"so":39,"buy":537.02,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
