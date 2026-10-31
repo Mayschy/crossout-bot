@@ -347,3 +347,6 @@
 {"id":3779,"name":"Талисман","t":1793487676755,"sale":3195,"ref":3571.27,"profit":19.14,"roi":0.6,"bo":31,"so":6,"buy":2805.02,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1209,"name":"Чертово колесо","t":1793487676755,"sale":26.65,"ref":46.59,"profit":15.28,"roi":57.34,"bo":3,"so":16,"buy":25.56,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1207,"name":"Измельчитель","t":1793487676755,"sale":20.02,"ref":34.38,"profit":10.92,"roi":54.56,"bo":2,"so":4,"buy":17.8,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1209,"name":"Чертово колесо","t":1793488238648,"sale":26.65,"ref":46.59,"profit":15.28,"roi":57.34,"bo":3,"so":16,"buy":25.56,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":427,"name":"ПТУР-Л Флейта","t":1793488238648,"sale":400,"ref":458.73,"profit":12.86,"roi":3.21,"bo":7,"so":41,"buy":381.01,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1207,"name":"Измельчитель","t":1793488238648,"sale":20.02,"ref":34.38,"profit":10.92,"roi":54.56,"bo":2,"so":4,"buy":17.8,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
