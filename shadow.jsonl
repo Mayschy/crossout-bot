@@ -295,3 +295,4 @@
 {"id":335,"name":"Триггер","t":1793469675122,"sale":157.38,"ref":189.43,"profit":13.11,"roi":8.33,"bo":6,"so":24,"buy":157.37,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3769,"name":"Смог-15","t":1793470835764,"sale":200,"ref":243.05,"profit":18.75,"roi":9.37,"bo":11,"so":7,"buy":186.82,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":485,"name":"Бутстрэп","t":1793470835764,"sale":580,"ref":664.99,"profit":18.49,"roi":3.19,"bo":10,"so":32,"buy":571.2,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1211,"name":"Прыжковая площадка","t":1793471457601,"sale":32,"ref":46.9,"profit":10.21,"roi":31.91,"bo":26,"so":13,"buy":31,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
