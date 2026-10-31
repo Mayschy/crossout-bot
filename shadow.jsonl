@@ -319,3 +319,8 @@
 {"id":1365,"name":"Пурпурная тыква","t":1793477437144,"sale":80.06,"ref":100.98,"profit":10.82,"roi":13.52,"bo":0,"so":11,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":571,"name":"Генезис","t":1793477437144,"sale":99.53,"ref":122.6,"profit":10.81,"roi":10.86,"bo":4,"so":37,"buy":98.99,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1356,"name":"Золотой тигр","t":1793477437144,"sale":98.26,"ref":120.29,"profit":10,"roi":10.18,"bo":1,"so":5,"buy":10.05,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1307,"name":"Кристалл льда","t":1793478037544,"sale":287.45,"ref":339.96,"profit":18.51,"roi":6.44,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":571,"name":"Генезис","t":1793478037544,"sale":99.53,"ref":122.6,"profit":10.81,"roi":10.86,"bo":4,"so":36,"buy":98.99,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":93,"name":"Онгаку","t":1793478037544,"sale":216.42,"ref":251.96,"profit":10.34,"roi":4.78,"bo":4,"so":11,"buy":206.14,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":486,"name":"Ампер","t":1793478037544,"sale":93,"ref":114.64,"profit":10.18,"roi":10.94,"bo":15,"so":11,"buy":92.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1356,"name":"Золотой тигр","t":1793478037544,"sale":98.26,"ref":120.29,"profit":10,"roi":10.18,"bo":1,"so":5,"buy":10.05,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
