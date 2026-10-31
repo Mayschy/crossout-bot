@@ -324,3 +324,8 @@
 {"id":93,"name":"Онгаку","t":1793478037544,"sale":216.42,"ref":251.96,"profit":10.34,"roi":4.78,"bo":4,"so":11,"buy":206.14,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":486,"name":"Ампер","t":1793478037544,"sale":93,"ref":114.64,"profit":10.18,"roi":10.94,"bo":15,"so":11,"buy":92.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1356,"name":"Золотой тигр","t":1793478037544,"sale":98.26,"ref":120.29,"profit":10,"roi":10.18,"bo":1,"so":5,"buy":10.05,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":420,"name":"Гнездо","t":1793478661952,"sale":341,"ref":398,"profit":17.2,"roi":5.04,"bo":22,"so":9,"buy":340.1,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1793478661952,"sale":157,"ref":187,"profit":11.3,"roi":7.2,"bo":57,"so":42,"buy":156.88,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":93,"name":"Онгаку","t":1793478661952,"sale":216.42,"ref":251.96,"profit":10.34,"roi":4.78,"bo":4,"so":11,"buy":206.14,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":44,"name":"Агрессор","t":1793478661952,"sale":340.9,"ref":390,"profit":10.1,"roi":2.96,"bo":9,"so":33,"buy":340.8,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1461,"name":"«Эхо далёких миров»","t":1793478661952,"sale":53.81,"ref":70.99,"profit":10.08,"roi":18.73,"bo":2,"so":3,"buy":53.8,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
