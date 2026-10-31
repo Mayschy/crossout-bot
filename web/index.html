@@ -1,54 +1,76 @@
 <!doctype html>
 <html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Crossout Analytics</title>
+<title>Crossout: аналитика рынка</title>
 <style>
-:root{--bg:#0f1218;--card:#181d27;--tx:#e6e9ef;--mu:#8b93a5;--ac:#f5a524;--up:#3ecf8e;--dn:#f0616d;--bd:#262d3b}
-@media(prefers-color-scheme:light){:root{--bg:#f4f5f8;--card:#fff;--tx:#1b2030;--mu:#667085;--bd:#e3e6ee}}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:14px/1.45 system-ui,sans-serif;padding:16px;max-width:1000px;margin:auto}
-h1{font-size:20px;margin:0}h2{font-size:13px;color:var(--mu);text-transform:uppercase;letter-spacing:.06em;margin:0 0 10px}
-.top{display:flex;flex-wrap:wrap;gap:10px;justify-content:space-between;align-items:center;margin-bottom:14px}
-.sub{color:var(--mu);font-size:12px}.ctl{display:flex;gap:6px;flex-wrap:wrap}
-button{background:var(--card);color:var(--tx);border:1px solid var(--bd);border-radius:8px;padding:5px 11px;cursor:pointer;font:inherit}
-button.on{background:var(--ac);border-color:var(--ac);color:#111;font-weight:600}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:10px}
-.card{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:12px 14px;margin-bottom:10px}.grid .card{margin:0}
-.big{font-size:24px;font-weight:700}.up{color:var(--up)}.dn{color:var(--dn)}.mu{color:var(--mu)}
-.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:10px}.two .card{margin:0}
-.bar{display:grid;grid-template-columns:96px 1fr 88px;gap:8px;align-items:center;margin:6px 0;font-size:13px}
-.trk{background:var(--bd);border-radius:5px;height:10px;overflow:hidden}.trk i{display:block;height:100%;background:var(--ac)}
-.days{display:flex;align-items:flex-end;gap:4px;height:80px}.days div{flex:1;display:flex;flex-direction:column;justify-content:flex-end;height:100%}
-.days b{display:block;background:var(--ac)}.days u{display:block;background:var(--mu);opacity:.5}
-.wrap{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:12.5px;white-space:nowrap}
-th{color:var(--mu);font-weight:500;text-align:right;padding:4px 8px}td{text-align:right;padding:5px 8px;border-top:1px solid var(--bd)}
-th:nth-child(-n+2),td:nth-child(-n+2){text-align:left}.foot{color:var(--mu);font-size:12px;margin-top:12px}
-</style></head><body>
-<div class="top"><div><h1>📈 Crossout Analytics</h1><div class="sub" id="upd">загрузка…</div></div>
-<div class="ctl" id="ctl"></div></div>
-<div id="app"></div>
-<p class="foot">Условная продажа по минимальному лоту с комиссией 10%, это не реальный PnL. Рост цены не доказывает продажу, повторы предметов зависимы.</p>
+:root{--bg:#f2f6f5;--card:#fff;--tx:#23323a;--mu:#75868e;--ac:#2f8f83;--acs:#e1f1ee;--up:#2f9e6e;--ups:#e3f5ec;--dn:#cf6679;--dns:#fbe9ed;--bd:#e3ebe9;--sh:0 2px 10px rgba(35,50,58,.06)}
+@media(prefers-color-scheme:dark){:root{--bg:#12191b;--card:#1a2427;--tx:#e2eaec;--mu:#8da0a6;--ac:#5cc0b3;--acs:#1f3a38;--up:#5bc791;--ups:#1c3a2d;--dn:#e88a9b;--dns:#3d2229;--bd:#26343a;--sh:none}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif;padding:18px 14px 40px}
+main{max-width:980px;margin:auto}h1{font-size:23px;margin:0 0 4px}h2{font-size:16px;margin:0 0 4px}
+p{margin:0}.mu{color:var(--mu)}.s{font-size:13px}.up{color:var(--up)}.dn{color:var(--dn)}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:16px;padding:16px 18px;margin-bottom:14px;box-shadow:var(--sh)}
+.verdict{display:flex;gap:14px;align-items:flex-start}.verdict .e{font-size:30px;line-height:1}
+.pill{display:inline-block;border-radius:99px;padding:2px 10px;font-size:12.5px;font-weight:600;background:var(--acs);color:var(--ac)}
+.pill.up{background:var(--ups);color:var(--up)}.pill.dn{background:var(--dns);color:var(--dn)}
+.fl{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px 18px}.fl label{display:block;font-size:12.5px;color:var(--mu);margin-bottom:4px}
+.ch{display:flex;flex-wrap:wrap;gap:5px}button{font:inherit;font-size:13px;background:var(--bg);color:var(--tx);border:1px solid var(--bd);border-radius:99px;padding:4px 12px;cursor:pointer}
+button.on{background:var(--ac);border-color:var(--ac);color:#fff}input{font:inherit;font-size:13px;width:100%;padding:6px 12px;border-radius:99px;border:1px solid var(--bd);background:var(--bg);color:var(--tx)}
+.g4{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin-bottom:14px}.g4 .card{margin:0}
+.big{font-size:28px;font-weight:700;line-height:1.2;margin:2px 0}
+.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px}.two .card{margin:0}.two{margin-bottom:14px}
+.bar{display:grid;grid-template-columns:92px 1fr;gap:10px;align-items:center;margin:9px 0}.bar .t{height:9px;border-radius:9px;background:var(--bd);overflow:hidden}.bar i{display:block;height:100%;background:var(--ac);border-radius:9px}
+.cols{display:flex;gap:10px;align-items:flex-end;height:120px;margin-top:10px}.cols div{flex:1;text-align:center;font-size:12px;height:100%;display:flex;flex-direction:column;justify-content:flex-end}
+.cols i{display:block;background:var(--ac);border-radius:8px 8px 3px 3px;opacity:.85;min-height:3px}
+details{margin-bottom:14px}summary{cursor:pointer;font-weight:600}dl{margin:10px 0 0}dt{font-weight:600;margin-top:10px}dd{margin:2px 0 0;color:var(--mu);font-size:14px}
+.wrap{overflow-x:auto;margin-top:8px}table{border-collapse:collapse;width:100%;font-size:13.5px;white-space:nowrap}
+th{color:var(--mu);font-weight:500;text-align:right;padding:6px 9px;font-size:12.5px}td{text-align:right;padding:8px 9px;border-top:1px solid var(--bd)}th:first-child,td:first-child{text-align:left}
+td.r{font-weight:600}td.up{color:var(--up)}td.dn{color:var(--dn)}
+</style></head><body><main>
+<div style="margin-bottom:14px"><h1>📊 Crossout: аналитика рынка</h1><p class="mu s" id="upd">загрузка…</p></div>
+<div class="card" id="vd"></div>
+<div class="card"><h2>Фильтры</h2><p class="mu s" style="margin-bottom:10px">Выбери, что посмотреть: всё ниже пересчитается.</p><div class="fl" id="fl"></div></div>
+<div class="g4" id="kp"></div>
+<div class="two" id="ch"></div>
+<div class="card"><h2>Как менялся результат со временем</h2><p class="mu s">Высота столбика: в скольких случаях из 100 вышло в плюс, если продавать через столько минут после сигнала. Ниже, какой был типичный результат в %.</p><div class="cols" id="hz"></div></div>
+<div class="card"><h2>Последние сигналы</h2><p class="mu s">«Цена» — по сколько монет предмет был в продаже в момент сигнала. В колонках справа результат в монетах: сколько заработал бы (плюс) или потерял (минус), если бы купил по этой цене и продал по самому дешёвому лоту через указанное время. «·» — итог ещё не готов.</p><div class="wrap" id="tb"></div></div>
+<details class="card"><summary>📖 Словарик простыми словами</summary><dl>
+<dt>Сигнал</dt><dd>Бот заметил, что предмет внезапно подешевел и его можно купить ниже обычной цены, а потом продать дороже.</dd>
+<dt>Обычный и «тихий» (тень) сигнал</dt><dd>Обычный приходит тебе в Telegram (ожидаемая прибыль от 25 монет). Тихий записывается молча (от 10 до 25 монет): так мы проверяем, не стоит ли снизить порог.</dd>
+<dt>Комиссия 10%</dt><dd>Игра забирает 10% с каждой продажи. Все цифры тут уже посчитаны после неё.</dd>
+<dt>Условная продажа</dt><dd>Мы не знаем, продал бы ты реально. Считаем так: «продал по самой низкой цене на рынке в тот момент». Это оценка, а не настоящие деньги.</dd>
+<dt>ROI (окупаемость)</dt><dd>Сколько процентов ты заработал от вложенных монет. +10%: вложил 100, получил 110. −10%: вложил 100, получил 90.</dd>
+<dt>Медиана (типичный результат)</dt><dd>Серединное значение: половина случаев лучше, половина хуже. Честнее среднего, потому что редкие огромные удачи не искажают картину.</dd>
+<dt>«В плюсе»</dt><dd>Доля сигналов, где результат не ушёл в минус. 50% значит «как монетка», выше хорошо, ниже плохо.</dd>
+<dt>Ликвидность (0–100)</dt><dd>Насколько легко такой предмет продать: много покупателей и предложений означает высокую. Низкая значит, что товар может «залежаться», а монеты будут заморожены.</dd>
+<dt>n</dt><dd>Сколько случаев в выборке. Чем меньше n, тем меньше доверия: при n меньше 20 это скорее догадка, чем вывод.</dd>
+</dl></details>
+<p class="mu s">⚠️ Это анализ задним числом, а не гарантия дохода. Повторы одного предмета не независимы, а новые наборы и патчи могут надолго обвалить цену (как было с «Астреем»).</p>
+</main>
 <script>
-const H=[10,20,30,60,120];let D,kind='all',h=60;const $=s=>document.querySelector(s);
+const H=[10,20,30,60,120],$=s=>document.querySelector(s);let D,F={k:'all',h:60,l:'any',p:'any',d:0,q:''};
+const OPT={k:['Тип сигнала',[['all','Все'],['sig','Обычные'],['sh','Тихие (тень)']]],h:['Оценивать через',[10,20,30,60,120].map(x=>[x,x<60?x+' мин':x/60+' ч'])],
+l:['Ликвидность',[['any','Любая'],['hi','Высокая'],['mid','Средняя'],['lo','Низкая']]],p:['Цена предмета',[['any','Любая'],['a','до 500'],['b','500–1499'],['c','1500–2999'],['d','от 3000']]],d:['Период',[[0,'Всё время'],[30,'30 дней'],[7,'7 дней'],[1,'Сутки']]]};
+const LQ={hi:r=>r.liq>=70,mid:r=>r.liq>=40&&r.liq<70,lo:r=>r.liq<40,any:()=>1},PR={any:()=>1,a:r=>r.sale<500,b:r=>r.sale>=500&&r.sale<1500,c:r=>r.sale>=1500&&r.sale<3000,d:r=>r.sale>=3000};
 const med=a=>{if(!a.length)return null;const s=[...a].sort((x,y)=>x-y),m=s.length>>1;return s.length%2?s[m]:(s[m-1]+s[m])/2};
-const f=(x,d=1)=>x==null?'–':(x>0?'+':'')+x.toFixed(d);const cl=x=>x==null?'mu':x>=0?'up':'dn';
-const rows=()=>D.rows.filter(r=>kind=='all'||(kind=='sig'?!r.sh:r.sh));
-function st(rs){const v=rs.filter(r=>r.o[h]!=null);return{n:rs.length,m:v.length,pos:v.length?v.filter(r=>r.o[h]>=0).length/v.length*100:null,roi:med(v.map(r=>r.o[h]/r.sale*100))}}
-function bars(title,gs,rs){return`<div class="card"><h2>${title}</h2>`+gs.map(([l,fn])=>{const s=st(rs.filter(fn));
-return`<div class="bar"><span>${l}</span><div class="trk"><i style="width:${s.pos||0}%"></i></div><span class="${cl(s.roi)}">${s.pos==null?'нет данных':Math.round(s.pos)+'% · '+f(s.roi)+'%'}<span class="mu"> n=${s.m}</span></span></div>`}).join('')+'</div>'}
-function render(){const rs=rows(),s=st(rs);$('#upd').textContent='обновлено '+new Date(D.updated).toLocaleString('ru')+' · в базе '+D.total.signals+' сигналов, '+D.total.outcomes+' итогов';
-$('#ctl').innerHTML=[['all','Все'],['sig','Сигналы'],['sh','Тень']].map(([k,l])=>`<button class="${kind==k?'on':''}" data-k="${k}">${l}</button>`).join('')+'<span style="width:8px"></span>'+H.map(x=>`<button class="${h==x?'on':''}" data-h="${x}">${x}м</button>`).join('');
-const days={};rs.forEach(r=>{const d=new Date(r.t).toISOString().slice(5,10);(days[d]=days[d]||[0,0])[r.sh]++});
-const dk=Object.keys(days).sort().slice(-14),mx=Math.max(1,...dk.map(k=>days[k][0]+days[k][1]));
-$('#app').innerHTML=`<div class="grid">
-<div class="card"><div class="mu">Сигналов</div><div class="big">${s.n}</div></div>
-<div class="card"><div class="mu">Предметов</div><div class="big">${new Set(rs.map(r=>r.id)).size}</div></div>
-<div class="card"><div class="mu">В плюсе (${h}м)</div><div class="big ${cl(s.pos==null?null:s.pos-50)}">${s.pos==null?'–':Math.round(s.pos)+'%'}</div></div>
-<div class="card"><div class="mu">Медианный ROI (${h}м)</div><div class="big ${cl(s.roi)}">${s.roi==null?'–':f(s.roi)+'%'}</div></div></div>
-<div class="two">${bars('Ликвидность',[['≥ 70',r=>r.liq>=70],['40–69',r=>r.liq>=40&&r.liq<70],['< 40',r=>r.liq<40]],rs)}
-${bars('Цена предмета',[['до 500',r=>r.sale<500],['500–1499',r=>r.sale>=500&&r.sale<1500],['1500–2999',r=>r.sale>=1500&&r.sale<3000],['от 3000',r=>r.sale>=3000]],rs)}</div>
-<div class="card" style="margin-top:10px"><h2>Сигналы по дням <span class="mu">(яркие обычные, серые тень)</span></h2><div class="days">${dk.map(k=>`<div title="${k}: ${days[k][0]} + ${days[k][1]}"><u style="height:${days[k][1]/mx*100}%"></u><b style="height:${days[k][0]/mx*100}%"></b></div>`).join('')}</div>
-<div class="sub" style="display:flex;justify-content:space-between"><span>${dk[0]||''}</span><span>${dk.at(-1)||''}</span></div></div>
-<div class="card"><h2>Последние сигналы · итог в монетах при продаже по лоту</h2><div class="wrap"><table><tr><th>Время</th><th>Предмет</th><th>Цена</th><th>Прибыль</th><th>Ликв.</th>${H.map(x=>`<th>${x}м</th>`).join('')}</tr>`+
-rs.slice(0,40).map(r=>`<tr><td>${new Date(r.t).toLocaleString('ru',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'})}${r.sh?' 👻':''}</td><td>${r.name||''} <span class="mu">#${r.id}</span></td><td>${r.sale}</td><td>${f(r.profit)}</td><td>${r.liq}</td>${H.map(x=>`<td class="${cl(r.o[x])}">${f(r.o[x])}</td>`).join('')}</tr>`).join('')+'</table></div></div>'}
-document.addEventListener('click',e=>{const b=e.target.closest('button');if(!b||!D)return;if(b.dataset.k)kind=b.dataset.k;if(b.dataset.h)h=+b.dataset.h;render()});
-fetch('data.json').then(r=>r.json()).then(j=>{D=j;render()}).catch(()=>{$('#upd').textContent='нет data.json: запусти workflow deploy-dashboard'});
+const f=(x,d=1)=>x==null?'·':(x>0?'+':'')+x.toFixed(d),cl=x=>x==null?'':x>=0?'up':'dn',hl=x=>x<60?x+' мин':x/60+' ч';
+function base(){const now=Date.now();return D.rows.filter(r=>(F.k=='all'||(F.k=='sig')!=!!r.sh)&&LQ[F.l](r)&&PR[F.p](r)&&(!F.d||now-r.t<F.d*864e5)&&(!F.q||(r.name||'').toLowerCase().includes(F.q)))}
+function st(rs,h){const v=rs.filter(r=>r.o[h]!=null);return{n:rs.length,m:v.length,pos:v.length?v.filter(r=>r.o[h]>=0).length/v.length*100:null,roi:med(v.map(r=>r.o[h]/r.sale*100)),coin:med(v.map(r=>r.o[h]))}}
+function bars(t,note,gs,rs){return`<div class="card"><h2>${t}</h2><p class="mu s">${note}</p>`+gs.map(([l,fn])=>{const s=st(rs.filter(fn),F.h);return`<div class="bar"><span>${l}</span><div><div class="t"><i style="width:${s.pos||0}%"></i></div><span class="s ${cl(s.roi)}">${s.pos==null?'<span class="mu">данных пока нет</span>':Math.round(s.pos)+'% в плюсе · типично '+f(s.roi)+'%'} <span class="mu">(n=${s.m})</span></span></div></div>`}).join('')+'</div>'}
+function verdict(s){const w=hl(F.h);if(s.m<20)return['🌱','Пока мало данных',`С известным итогом через ${w} всего ${s.m} случаев. Выводы делать рано: копим статистику.`,''];
+if(s.pos>=60&&s.roi>0)return['✅','Выглядит хорошо',`В ${Math.round(s.pos)} случаях из 100 продажа через ${w} вышла в плюс, типичный результат ${f(s.roi)}%.`,'up'];
+if(s.pos<45||s.roi<0)return['⚠️','Пока в минус',`Только в ${Math.round(s.pos)} случаях из 100 через ${w} вышло в плюс, типичный результат ${f(s.roi)}%. С такими настройками осторожнее.`,'dn'];
+return['🤔','Неоднозначно',`В плюсе ${Math.round(s.pos)}% случаев, типичный результат ${f(s.roi)}%: примерно как монетка.`,''];}
+function render(){const rs=base(),s=st(rs,F.h),v=verdict(s),w=hl(F.h);
+$('#upd').textContent='Обновлено '+new Date(D.updated).toLocaleString('ru')+' · всего в базе '+D.total.signals+' сигналов';
+$('#vd').innerHTML=`<div class="verdict"><div class="e">${v[0]}</div><div><h2>Главный вывод: <span class="pill ${v[3]}">${v[1]}</span></h2><p style="margin-top:6px">${v[2]}</p><p class="mu s" style="margin-top:6px">Считается по выбранным ниже фильтрам.</p></div></div>`;
+$('#fl').innerHTML=Object.entries(OPT).map(([k,[t,o]])=>`<div><label>${t}</label><div class="ch">${o.map(([v,l])=>`<button class="${F[k]==v?'on':''}" data-k="${k}" data-v="${v}">${l}</button>`).join('')}</div></div>`).join('')+`<div><label>Поиск по названию</label><input id="q" value="${F.q}" placeholder="например, Беркут"></div>`;
+$('#kp').innerHTML=[['Сигналов',s.n,'','Сколько раз бот заметил выгодное падение цены.'],['В плюсе',s.pos==null?'·':Math.round(s.pos)+'%',cl(s.pos==null?null:s.pos-50),`Доля случаев без убытка при продаже через ${w}. Выше 50% хорошо.`],
+['Типичный результат',s.roi==null?'·':f(s.roi)+'%',cl(s.roi),'Медианный ROI: сколько % от вложенного вернулось (после комиссии).'],['Типичная прибыль',s.coin==null?'·':f(s.coin)+' мон.',cl(s.coin),'Медиана в монетах с одной сделки. Помни: n = '+s.m+'.']]
+.map(([t,x,c,e])=>`<div class="card"><p class="mu s">${t}</p><div class="big ${c}">${x}</div><p class="mu s">${e}</p></div>`).join('');
+$('#ch').innerHTML=bars('Что лучше: дорогие или дешёвые?','Сравниваем сигналы по цене предмета.',[['до 500',PR.a],['500–1499',PR.b],['1500–2999',PR.c],['от 3000',PR.d]],rs)+bars('Важна ли ликвидность?','Сравниваем по тому, насколько легко предмет продаётся.',[['Высокая',LQ.hi],['Средняя',LQ.mid],['Низкая',LQ.lo]],rs);
+$('#hz').innerHTML=H.map(h=>{const x=st(rs,h);return`<div><span class="${cl(x.roi)}">${f(x.roi)}${x.roi==null?'':'%'}</span><i style="height:${(x.pos||0)*.8}px"></i><b>${x.pos==null?'·':Math.round(x.pos)+'%'}</b><span class="mu">${hl(h)}</span></div>`}).join('');
+$('#tb').innerHTML='<table><tr><th>Когда · предмет</th><th>Цена</th><th>Ожид. прибыль</th><th>Ликвидн.</th>'+H.map(h=>`<th>через ${hl(h)}</th>`).join('')+'</tr>'+
+rs.slice(0,40).map(r=>`<tr><td>${new Date(r.t).toLocaleString('ru',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'})} · <b>${r.name||'#'+r.id}</b>${r.sh?' <span class="pill">тень</span>':''}</td><td>${r.sale}</td><td>${f(r.profit)}</td><td>${r.liq}</td>${H.map(h=>`<td class="r ${cl(r.o[h])}">${f(r.o[h])}</td>`).join('')}</tr>`).join('')+'</table>'+(rs.length?'':'<p class="mu s" style="padding:10px">Под эти фильтры ничего не нашлось.</p>');}
+document.addEventListener('click',e=>{const b=e.target.closest('button[data-k]');if(!b||!D)return;const n=Number(b.dataset.v);F[b.dataset.k]=isNaN(n)?b.dataset.v:n;render()});
+document.addEventListener('input',e=>{if(e.target.id=='q'){F.q=e.target.value.trim().toLowerCase();const p=e.target.selectionStart;render();const q=$('#q');q.focus();q.setSelectionRange(p,p)}});
+fetch('data.json').then(r=>r.json()).then(j=>{D=j;render()}).catch(()=>{$('#upd').textContent='Нет data.json: запусти workflow deploy-dashboard на GitHub'});
 </script></body></html>
