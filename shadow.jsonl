@@ -281,3 +281,5 @@
 {"id":566,"name":"Хамелеон Mk2","t":1793463635227,"sale":281.68,"ref":337.96,"profit":22.48,"roi":7.98,"bo":11,"so":8,"buy":260.03,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":51,"name":"Нетопырь","t":1793464253017,"sale":83.85,"ref":109.65,"profit":14.84,"roi":17.69,"bo":0,"so":15,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":555,"name":"Бум","t":1793465434215,"sale":81.22,"ref":106,"profit":14.18,"roi":17.46,"bo":9,"so":22,"buy":80.52,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":254,"name":"ЗИС-33 Верзила","t":1793466073869,"sale":92,"ref":115.88,"profit":12.29,"roi":13.36,"bo":3,"so":17,"buy":91.13,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1283,"name":"Ржавая жесть","t":1793466073869,"sale":23.03,"ref":37.29,"profit":10.53,"roi":45.73,"bo":0,"so":8,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
