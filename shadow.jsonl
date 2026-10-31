@@ -275,3 +275,4 @@
 {"id":536,"name":"Мясорубка","t":1793458872779,"sale":262.77,"ref":311.1,"profit":17.22,"roi":6.55,"bo":4,"so":41,"buy":247.04,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":280,"name":"Яогуай","t":1793460036121,"sale":268.1,"ref":317.49,"profit":17.64,"roi":6.58,"bo":7,"so":18,"buy":268,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3763,"name":"МВП Флагман","t":1793460660979,"sale":501.01,"ref":570.85,"profit":12.75,"roi":2.55,"bo":18,"so":10,"buy":501,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":270,"name":"АП50 Шторм","t":1793461236052,"sale":82.44,"ref":107.5,"profit":14.31,"roi":17.36,"bo":1,"so":16,"buy":81.22,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
