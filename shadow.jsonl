@@ -238,3 +238,5 @@
 {"id":518,"name":"Оберег","t":1793435452393,"sale":419.95,"ref":480,"profit":12.05,"roi":2.87,"bo":13,"so":12,"buy":400.05,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":605,"name":"Титан","t":1793436634994,"sale":140.01,"ref":168.48,"profit":11.62,"roi":8.3,"bo":5,"so":12,"buy":140,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1793436634994,"sale":164,"ref":194.18,"profit":10.76,"roi":6.56,"bo":33,"so":40,"buy":155,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1449,"name":"Гиена","t":1793437267733,"sale":700,"ref":800,"profit":20,"roi":2.86,"bo":21,"so":19,"buy":662.36,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":576,"name":"Гусеница малая","t":1793437267733,"sale":185.41,"ref":224.65,"profit":16.78,"roi":9.05,"bo":35,"so":31,"buy":185.4,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
