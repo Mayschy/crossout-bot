@@ -335,3 +335,4 @@
 {"id":578,"name":"Гусеница укрепленная","t":1793479836898,"sale":137.45,"ref":179.9,"profit":24.46,"roi":17.8,"bo":10,"so":20,"buy":137.38,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1060,"name":"Шаблон: Опасность!","t":1793480473626,"sale":242.73,"ref":297.29,"profit":24.83,"roi":10.23,"bo":0,"so":7,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1793480473626,"sale":85.87,"ref":110.88,"profit":13.92,"roi":16.21,"bo":2,"so":25,"buy":85.17,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":248,"name":"Обвинитель 76мм","t":1793482407572,"sale":95.03,"ref":118.99,"profit":12.06,"roi":12.69,"bo":3,"so":24,"buy":95.02,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
