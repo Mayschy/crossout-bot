@@ -355,3 +355,4 @@
 {"id":1207,"name":"Измельчитель","t":1793488849472,"sale":20.02,"ref":34.38,"profit":10.92,"roi":54.56,"bo":2,"so":4,"buy":17.8,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3763,"name":"МВП Флагман","t":1793489461161,"sale":451.29,"ref":523.83,"profit":20.16,"roi":4.47,"bo":14,"so":60,"buy":451.28,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":427,"name":"ПТУР-Л Флейта","t":1793489461161,"sale":400,"ref":458.73,"profit":12.86,"roi":3.21,"bo":7,"so":41,"buy":381.01,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":335,"name":"Триггер","t":1793490041302,"sale":149.18,"ref":188.89,"profit":20.82,"roi":13.96,"bo":2,"so":22,"buy":149.17,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
