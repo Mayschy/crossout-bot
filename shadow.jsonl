@@ -252,3 +252,6 @@
 {"id":419,"name":"Пламя","t":1793445035961,"sale":271.47,"ref":320,"profit":16.53,"roi":6.09,"bo":58,"so":74,"buy":271.46,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":368,"name":"Астрей","t":1793445636691,"sale":556,"ref":632,"profit":12.8,"roi":2.3,"bo":4,"so":35,"buy":520,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1449,"name":"Гиена","t":1793445636691,"sale":700,"ref":789.99,"profit":10.99,"roi":1.57,"bo":24,"so":21,"buy":678.01,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":578,"name":"Гусеница укрепленная","t":1793446833692,"sale":140,"ref":179,"profit":21.1,"roi":15.07,"bo":0,"so":24,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":487,"name":"Газген","t":1793446833692,"sale":271,"ref":318.66,"profit":15.79,"roi":5.83,"bo":9,"so":25,"buy":270.21,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1793446833692,"sale":150.5,"ref":180.19,"profit":11.67,"roi":7.75,"bo":27,"so":43,"buy":150,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
