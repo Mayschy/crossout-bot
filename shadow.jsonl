@@ -231,3 +231,4 @@
 {"id":1288,"name":"Обжигающий хитин","t":1793428253450,"sale":71.25,"ref":90.51,"profit":10.21,"roi":14.33,"bo":3,"so":5,"buy":21,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":223,"name":"Надувной Мамонт","t":1793428837879,"sale":999,"ref":1126.23,"profit":14.61,"roi":1.46,"bo":3,"so":2,"buy":800.45,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":435,"name":"LED «Нетопырь»","t":1793430071878,"sale":186.99,"ref":228.73,"profit":18.87,"roi":10.09,"bo":3,"so":7,"buy":184.34,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":93,"name":"Онгаку","t":1793430648101,"sale":203.6,"ref":252.85,"profit":23.97,"roi":11.77,"bo":3,"so":9,"buy":188.93,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
