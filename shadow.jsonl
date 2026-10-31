@@ -240,3 +240,4 @@
 {"id":117,"name":"КА-2 Маховик","t":1793436634994,"sale":164,"ref":194.18,"profit":10.76,"roi":6.56,"bo":33,"so":40,"buy":155,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1449,"name":"Гиена","t":1793437267733,"sale":700,"ref":800,"profit":20,"roi":2.86,"bo":21,"so":19,"buy":662.36,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":576,"name":"Гусеница малая","t":1793437267733,"sale":185.41,"ref":224.65,"profit":16.78,"roi":9.05,"bo":35,"so":31,"buy":185.4,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":254,"name":"ЗИС-33 Верзила","t":1793437836078,"sale":91.89,"ref":113.69,"profit":10.43,"roi":11.35,"bo":9,"so":32,"buy":91.21,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
