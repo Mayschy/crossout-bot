@@ -313,3 +313,9 @@
 {"id":309,"name":"Синус-0","t":1793476873460,"sale":96.49,"ref":119.63,"profit":11.18,"roi":11.58,"bo":6,"so":25,"buy":94.9,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1365,"name":"Пурпурная тыква","t":1793476873460,"sale":80.06,"ref":100.98,"profit":10.82,"roi":13.52,"bo":0,"so":11,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":571,"name":"Генезис","t":1793476873460,"sale":99.53,"ref":122.6,"profit":10.81,"roi":10.86,"bo":5,"so":39,"buy":98.99,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1307,"name":"Кристалл льда","t":1793477437144,"sale":287.45,"ref":339.96,"profit":18.51,"roi":6.44,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":596,"name":"Барьер IX","t":1793477437144,"sale":335,"ref":385.53,"profit":11.98,"roi":3.58,"bo":14,"so":33,"buy":333.54,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":309,"name":"Синус-0","t":1793477437144,"sale":96.49,"ref":119.63,"profit":11.18,"roi":11.58,"bo":6,"so":25,"buy":94.9,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1365,"name":"Пурпурная тыква","t":1793477437144,"sale":80.06,"ref":100.98,"profit":10.82,"roi":13.52,"bo":0,"so":11,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":571,"name":"Генезис","t":1793477437144,"sale":99.53,"ref":122.6,"profit":10.81,"roi":10.86,"bo":4,"so":37,"buy":98.99,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1356,"name":"Золотой тигр","t":1793477437144,"sale":98.26,"ref":120.29,"profit":10,"roi":10.18,"bo":1,"so":5,"buy":10.05,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
