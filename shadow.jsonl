@@ -245,3 +245,6 @@
 {"id":586,"name":"Слейпнир","t":1793440234941,"sale":356.04,"ref":413.72,"profit":16.31,"roi":4.58,"bo":21,"so":46,"buy":356.03,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":652,"name":"Жутка","t":1793440234941,"sale":101,"ref":124,"profit":10.6,"roi":10.5,"bo":32,"so":14,"buy":100.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1793440866872,"sale":86.99,"ref":111.4,"profit":13.27,"roi":15.25,"bo":3,"so":17,"buy":86,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":391,"name":"Старая кассета","t":1793442036502,"sale":81.97,"ref":105.94,"profit":13.38,"roi":16.32,"bo":4,"so":3,"buy":75.31,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":9,"name":"Джаннаби","t":1793442036502,"sale":293.02,"ref":339.99,"profit":12.97,"roi":4.43,"bo":7,"so":26,"buy":288.52,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":462,"name":"Шабаш","t":1793442036502,"sale":277.01,"ref":319,"profit":10.09,"roi":3.64,"bo":22,"so":51,"buy":276.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
