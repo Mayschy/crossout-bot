@@ -300,3 +300,7 @@
 {"id":1105,"name":"Белое солнце","t":1793474440040,"sale":123.19,"ref":159.74,"profit":20.58,"roi":16.7,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":536,"name":"Мясорубка","t":1793474440040,"sale":269.73,"ref":321.79,"profit":19.88,"roi":7.37,"bo":10,"so":39,"buy":266.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":496,"name":"СВ-2 Буревестник","t":1793474440040,"sale":324,"ref":379.94,"profit":17.95,"roi":5.54,"bo":2,"so":19,"buy":310.13,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1105,"name":"Белое солнце","t":1793475057455,"sale":123.19,"ref":159.74,"profit":20.58,"roi":16.7,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":59,"name":"Мигалка скорой","t":1793475057455,"sale":192.33,"ref":233.46,"profit":17.78,"roi":9.25,"bo":2,"so":6,"buy":176.26,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3769,"name":"Смог-15","t":1793475057455,"sale":199.91,"ref":240,"profit":16.09,"roi":8.05,"bo":11,"so":7,"buy":186.82,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":610,"name":"Увабаки (пов.)","t":1793475057455,"sale":265.09,"ref":309.99,"profit":13.9,"roi":5.24,"bo":4,"so":118,"buy":259.47,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
