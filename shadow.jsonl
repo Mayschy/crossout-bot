@@ -257,3 +257,6 @@
 {"id":117,"name":"КА-2 Маховик","t":1793446833692,"sale":150.5,"ref":180.19,"profit":11.67,"roi":7.75,"bo":27,"so":43,"buy":150,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":321,"name":"Мельник","t":1793449236331,"sale":431.03,"ref":498.66,"profit":17.76,"roi":4.12,"bo":21,"so":33,"buy":431.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":619,"name":"Омни","t":1793449236331,"sale":200,"ref":233.34,"profit":10.01,"roi":5,"bo":22,"so":40,"buy":197,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":289,"name":"Дробитель","t":1793451675463,"sale":368.01,"ref":424.15,"profit":13.73,"roi":3.73,"bo":7,"so":22,"buy":334.61,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":576,"name":"Гусеница малая","t":1793451675463,"sale":188.43,"ref":224.58,"profit":13.69,"roi":7.27,"bo":23,"so":36,"buy":182.88,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":272,"name":"Нагваль","t":1793451675463,"sale":410,"ref":470,"profit":13,"roi":3.17,"bo":19,"so":30,"buy":409.33,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
