@@ -249,3 +249,4 @@
 {"id":9,"name":"Джаннаби","t":1793442036502,"sale":293.02,"ref":339.99,"profit":12.97,"roi":4.43,"bo":7,"so":26,"buy":288.52,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":462,"name":"Шабаш","t":1793442036502,"sale":277.01,"ref":319,"profit":10.09,"roi":3.64,"bo":22,"so":51,"buy":276.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":623,"name":"Виджет (пов.)","t":1793443833042,"sale":440,"ref":509.9,"profit":18.91,"roi":4.3,"bo":10,"so":32,"buy":417,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":419,"name":"Пламя","t":1793445035961,"sale":271.47,"ref":320,"profit":16.53,"roi":6.09,"bo":58,"so":74,"buy":271.46,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
