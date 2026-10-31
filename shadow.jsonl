@@ -242,3 +242,5 @@
 {"id":576,"name":"Гусеница малая","t":1793437267733,"sale":185.41,"ref":224.65,"profit":16.78,"roi":9.05,"bo":35,"so":31,"buy":185.4,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":254,"name":"ЗИС-33 Верзила","t":1793437836078,"sale":91.89,"ref":113.69,"profit":10.43,"roi":11.35,"bo":9,"so":32,"buy":91.21,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":499,"name":"Тыква-фонарь","t":1793439055378,"sale":201,"ref":240,"profit":15,"roi":7.46,"bo":2,"so":9,"buy":195.1,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":586,"name":"Слейпнир","t":1793440234941,"sale":356.04,"ref":413.72,"profit":16.31,"roi":4.58,"bo":21,"so":46,"buy":356.03,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":652,"name":"Жутка","t":1793440234941,"sale":101,"ref":124,"profit":10.6,"roi":10.5,"bo":32,"so":14,"buy":100.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
