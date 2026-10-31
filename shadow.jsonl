@@ -261,3 +261,5 @@
 {"id":576,"name":"Гусеница малая","t":1793451675463,"sale":188.43,"ref":224.58,"profit":13.69,"roi":7.27,"bo":23,"so":36,"buy":182.88,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":272,"name":"Нагваль","t":1793451675463,"sale":410,"ref":470,"profit":13,"roi":3.17,"bo":19,"so":30,"buy":409.33,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":419,"name":"Пламя","t":1793452236336,"sale":271.49,"ref":318.97,"profit":15.58,"roi":5.74,"bo":51,"so":74,"buy":271.46,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":116,"name":"«Че такой серьезный?»","t":1793452837129,"sale":51.06,"ref":70.45,"profit":12.34,"roi":24.18,"bo":3,"so":2,"buy":46,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1283,"name":"Ржавая жесть","t":1793452837129,"sale":23.36,"ref":37.29,"profit":10.2,"roi":43.67,"bo":0,"so":8,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
