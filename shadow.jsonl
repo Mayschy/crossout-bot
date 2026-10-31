@@ -329,3 +329,5 @@
 {"id":93,"name":"Онгаку","t":1793478661952,"sale":216.42,"ref":251.96,"profit":10.34,"roi":4.78,"bo":4,"so":11,"buy":206.14,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":44,"name":"Агрессор","t":1793478661952,"sale":340.9,"ref":390,"profit":10.1,"roi":2.96,"bo":9,"so":33,"buy":340.8,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1461,"name":"«Эхо далёких миров»","t":1793478661952,"sale":53.81,"ref":70.99,"profit":10.08,"roi":18.73,"bo":2,"so":3,"buy":53.8,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1060,"name":"Шаблон: Опасность!","t":1793479237136,"sale":242.73,"ref":297.29,"profit":24.83,"roi":10.23,"bo":0,"so":7,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1461,"name":"«Эхо далёких миров»","t":1793479237136,"sale":53.81,"ref":70.99,"profit":10.08,"roi":18.73,"bo":2,"so":3,"buy":53.8,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
