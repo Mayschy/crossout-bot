@@ -229,3 +229,4 @@
 {"id":571,"name":"Генезис","t":1793419265684,"sale":98.29,"ref":130,"profit":18.71,"roi":19.04,"bo":3,"so":10,"buy":96.13,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":623,"name":"Виджет (пов.)","t":1793427635569,"sale":440.01,"ref":509.9,"profit":18.9,"roi":4.3,"bo":10,"so":28,"buy":440,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1288,"name":"Обжигающий хитин","t":1793428253450,"sale":71.25,"ref":90.51,"profit":10.21,"roi":14.33,"bo":3,"so":5,"buy":21,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":223,"name":"Надувной Мамонт","t":1793428837879,"sale":999,"ref":1126.23,"profit":14.61,"roi":1.46,"bo":3,"so":2,"buy":800.45,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
