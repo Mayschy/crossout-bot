@@ -283,3 +283,4 @@
 {"id":555,"name":"Бум","t":1793465434215,"sale":81.22,"ref":106,"profit":14.18,"roi":17.46,"bo":9,"so":22,"buy":80.52,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":254,"name":"ЗИС-33 Верзила","t":1793466073869,"sale":92,"ref":115.88,"profit":12.29,"roi":13.36,"bo":3,"so":17,"buy":91.13,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1283,"name":"Ржавая жесть","t":1793466073869,"sale":23.03,"ref":37.29,"profit":10.53,"roi":45.73,"bo":0,"so":8,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":306,"name":"Гунгнир","t":1793466637981,"sale":274.72,"ref":328,"profit":20.48,"roi":7.45,"bo":0,"so":14,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
