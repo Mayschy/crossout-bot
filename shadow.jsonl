@@ -279,3 +279,4 @@
 {"id":625,"name":"Затворник (пов.)","t":1793463035215,"sale":180,"ref":213,"profit":11.7,"roi":6.5,"bo":8,"so":2,"buy":170.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":462,"name":"Шабаш","t":1793463035215,"sale":277.01,"ref":320,"profit":10.99,"roi":3.97,"bo":14,"so":50,"buy":277,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":566,"name":"Хамелеон Mk2","t":1793463635227,"sale":281.68,"ref":337.96,"profit":22.48,"roi":7.98,"bo":11,"so":8,"buy":260.03,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":51,"name":"Нетопырь","t":1793464253017,"sale":83.85,"ref":109.65,"profit":14.84,"roi":17.69,"bo":0,"so":15,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
