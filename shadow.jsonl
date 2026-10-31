@@ -266,3 +266,4 @@
 {"id":262,"name":"Фукибари","t":1793454036070,"sale":2055,"ref":2300,"profit":15,"roi":0.73,"bo":1,"so":22,"buy":1923.52,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":276,"name":"Циклон","t":1793454036070,"sale":355,"ref":410.97,"profit":14.87,"roi":4.19,"bo":17,"so":30,"buy":352,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":280,"name":"Яогуай","t":1793454634078,"sale":269,"ref":317.49,"profit":16.74,"roi":6.22,"bo":8,"so":19,"buy":268.1,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":362,"name":"Кавказ","t":1793455268259,"sale":268,"ref":309,"profit":10.1,"roi":3.77,"bo":12,"so":11,"buy":245.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
