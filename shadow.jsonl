@@ -269,3 +269,5 @@
 {"id":362,"name":"Кавказ","t":1793455268259,"sale":268,"ref":309,"profit":10.1,"roi":3.77,"bo":12,"so":11,"buy":245.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":676,"name":"Зубодробитель","t":1793456437271,"sale":72.4,"ref":93.9,"profit":12.11,"roi":16.73,"bo":1,"so":37,"buy":72.14,"act":10,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":576,"name":"Гусеница малая","t":1793457053955,"sale":182.88,"ref":224.56,"profit":19.22,"roi":10.51,"bo":17,"so":34,"buy":176.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3769,"name":"Смог-15","t":1793457636188,"sale":190,"ref":236.5,"profit":22.85,"roi":12.03,"bo":16,"so":10,"buy":185.81,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":437,"name":"Тэнгу","t":1793457636188,"sale":900.01,"ref":1021.98,"profit":19.77,"roi":2.2,"bo":54,"so":20,"buy":900,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
