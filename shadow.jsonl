@@ -287,3 +287,7 @@
 {"id":879,"name":"Взгляд зверя","t":1793467236942,"sale":32.71,"ref":51.96,"profit":14.05,"roi":42.97,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":59,"name":"Мигалка скорой","t":1793467236942,"sale":197.33,"ref":233.46,"profit":12.78,"roi":6.48,"bo":2,"so":4,"buy":176.26,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":575,"name":"Гусеница танковая","t":1793468814976,"sale":682.03,"ref":772,"profit":12.77,"roi":1.87,"bo":14,"so":27,"buy":682.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":276,"name":"Циклон","t":1793469036530,"sale":350,"ref":411.87,"profit":20.68,"roi":5.91,"bo":15,"so":24,"buy":344,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":437,"name":"Тэнгу","t":1793469036530,"sale":900,"ref":1018.96,"profit":17.06,"roi":1.9,"bo":52,"so":20,"buy":891,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":347,"name":"Гром","t":1793469036530,"sale":152.95,"ref":187,"profit":15.35,"roi":10.04,"bo":14,"so":10,"buy":139.97,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":184,"name":"Исполин","t":1793469036530,"sale":140,"ref":168,"profit":11.2,"roi":8,"bo":19,"so":11,"buy":135.12,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
