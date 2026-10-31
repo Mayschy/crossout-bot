@@ -260,3 +260,4 @@
 {"id":289,"name":"Дробитель","t":1793451675463,"sale":368.01,"ref":424.15,"profit":13.73,"roi":3.73,"bo":7,"so":22,"buy":334.61,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":576,"name":"Гусеница малая","t":1793451675463,"sale":188.43,"ref":224.58,"profit":13.69,"roi":7.27,"bo":23,"so":36,"buy":182.88,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":272,"name":"Нагваль","t":1793451675463,"sale":410,"ref":470,"profit":13,"roi":3.17,"bo":19,"so":30,"buy":409.33,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":419,"name":"Пламя","t":1793452236336,"sale":271.49,"ref":318.97,"profit":15.58,"roi":5.74,"bo":51,"so":74,"buy":271.46,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
