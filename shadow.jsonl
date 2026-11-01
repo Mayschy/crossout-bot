@@ -372,3 +372,4 @@
 {"id":362,"name":"Кавказ","t":1793496657365,"sale":265,"ref":311.12,"profit":15.01,"roi":5.66,"bo":26,"so":22,"buy":260,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3769,"name":"Смог-15","t":1793496657365,"sale":188.57,"ref":223,"profit":12.13,"roi":6.43,"bo":9,"so":11,"buy":180,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3769,"name":"Смог-15","t":1793497235180,"sale":188.57,"ref":223,"profit":12.13,"roi":6.43,"bo":9,"so":11,"buy":180,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3769,"name":"Смог-15","t":1793497837616,"sale":188.57,"ref":223,"profit":12.13,"roi":6.43,"bo":11,"so":11,"buy":188.56,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
