@@ -368,3 +368,4 @@
 {"id":367,"name":"Харон","t":1793493639846,"sale":3580,"ref":3999,"profit":19.1,"roi":0.53,"bo":20,"so":9,"buy":3501,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":465,"name":"Счетчик урона","t":1793493639846,"sale":253.6,"ref":300,"profit":16.4,"roi":6.47,"bo":8,"so":16,"buy":231.45,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":465,"name":"Счетчик урона","t":1793494237739,"sale":253.6,"ref":300,"profit":16.4,"roi":6.47,"bo":8,"so":16,"buy":231.45,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":362,"name":"Кавказ","t":1793496037695,"sale":265,"ref":311.12,"profit":15.01,"roi":5.66,"bo":26,"so":22,"buy":260,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

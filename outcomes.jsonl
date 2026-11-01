@@ -3113,3 +3113,4 @@
 {"id":367,"t":1793493639846,"h":30,"at":1793495400000,"s":3580,"b":3501,"so":9,"bo":20,"ask":-358,"instant":-429.1,"taken":false,"shadow":true,"roi":-10,"capital":3580,"late":false}
 {"id":465,"t":1793493639846,"h":30,"at":1793495400000,"s":300,"b":231.45,"so":15,"bo":8,"ask":16.4,"instant":-45.29,"taken":true,"shadow":true,"roi":6.47,"capital":253.6,"late":false}
 {"id":465,"t":1793494237739,"h":20,"at":1793495400000,"s":300,"b":231.45,"so":15,"bo":8,"ask":16.4,"instant":-45.29,"taken":true,"shadow":true,"roi":6.47,"capital":253.6,"late":false}
+{"id":465,"t":1793494237739,"h":30,"at":1793496000000,"s":300,"b":231.45,"so":15,"bo":8,"ask":16.4,"instant":-45.29,"taken":true,"shadow":true,"roi":6.47,"capital":253.6,"late":false}
