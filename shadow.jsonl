@@ -450,3 +450,5 @@
 {"id":241,"name":"Шквал","t":1793560243617,"sale":3659.4,"ref":4080,"profit":12.6,"roi":0.34,"bo":5,"so":27,"buy":3502.99,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":287,"name":"АГС-55 Импульс","t":1793560243617,"sale":148.62,"ref":176.9,"profit":10.59,"roi":7.13,"bo":25,"so":28,"buy":148.6,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":112,"name":"Рвач","t":1793560844478,"sale":125.61,"ref":161.51,"profit":19.75,"roi":15.72,"bo":15,"so":12,"buy":120.16,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":283,"name":"Горыныч","t":1793561464278,"sale":1115,"ref":1265,"profit":23.5,"roi":2.11,"bo":10,"so":24,"buy":1111,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":485,"name":"Бутстрэп","t":1793561464278,"sale":571.25,"ref":649.9,"profit":13.66,"roi":2.39,"bo":4,"so":52,"buy":571.15,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
