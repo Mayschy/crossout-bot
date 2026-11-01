@@ -430,3 +430,4 @@
 {"id":1212,"name":"Плазменное кольцо","t":1793548241029,"sale":52.65,"ref":70,"profit":10.35,"roi":19.66,"bo":1,"so":7,"buy":52.57,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":65,"name":"Сверчок","t":1793548874776,"sale":325.1,"ref":387.88,"profit":23.99,"roi":7.38,"bo":9,"so":48,"buy":320.9,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":320,"name":"ПУ13 Уравнитель","t":1793548874776,"sale":315,"ref":363.95,"profit":12.56,"roi":3.99,"bo":31,"so":18,"buy":302.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1302,"name":"Красный хрусталь","t":1793549448185,"sale":87.89,"ref":110.58,"profit":11.63,"roi":13.23,"bo":1,"so":3,"buy":83.5,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
