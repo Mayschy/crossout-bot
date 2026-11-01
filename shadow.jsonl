@@ -414,3 +414,5 @@
 {"id":379,"name":"Гравастар","t":1793539241043,"sale":350,"ref":401.07,"profit":10.96,"roi":3.13,"bo":22,"so":13,"buy":331.12,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":420,"name":"Гнездо","t":1793540442740,"sale":354,"ref":419.01,"profit":23.11,"roi":6.53,"bo":26,"so":12,"buy":350.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":421,"name":"Тромбон","t":1793540442740,"sale":542.05,"ref":619.9,"profit":15.86,"roi":2.93,"bo":12,"so":23,"buy":542.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1210,"name":"Огненное кольцо","t":1793541042680,"sale":40,"ref":61.44,"profit":15.3,"roi":38.24,"bo":0,"so":3,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":40,"name":"Пилигрим","t":1793541042680,"sale":97,"ref":119.9,"profit":10.91,"roi":11.25,"bo":1,"so":19,"buy":96.51,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
