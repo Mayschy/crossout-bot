@@ -327,3 +327,4 @@
 {"id":504,"name":"Аннигилятор","t":1793554845191,"sale":1000,"ref":1149.63,"profit":34.67,"roi":3.47,"bo":3,"so":24,"buy":981.01,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":610,"name":"Увабаки (пов.)","t":1793556076971,"sale":231.43,"ref":290,"profit":29.57,"roi":12.78,"bo":0,"so":80,"buy":0,"act":10,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":528,"name":"Харибда","t":1793557864383,"sale":1900,"ref":2153.95,"profit":38.55,"roi":2.03,"bo":4,"so":15,"buy":1748,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":379,"name":"Гравастар","t":1793558445302,"sale":331.33,"ref":399.97,"profit":28.64,"roi":8.64,"bo":18,"so":25,"buy":331.32,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
