@@ -375,3 +375,4 @@
 {"id":3769,"name":"Смог-15","t":1793497837616,"sale":188.57,"ref":223,"profit":12.13,"roi":6.43,"bo":11,"so":11,"buy":188.56,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":484,"name":"ЭУ-1 Заряд","t":1793498473777,"sale":80.25,"ref":102.15,"profit":11.69,"roi":14.56,"bo":18,"so":24,"buy":80,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1793503858369,"sale":258.88,"ref":309.92,"profit":20.05,"roi":7.74,"bo":7,"so":113,"buy":254.55,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1156,"name":"Двойная рампа 6×18×3","t":1793504439987,"sale":37.39,"ref":59.5,"profit":16.16,"roi":43.22,"bo":0,"so":31,"buy":0,"act":8,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
