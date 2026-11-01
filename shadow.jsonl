@@ -445,3 +445,5 @@
 {"id":1090,"name":"Холодное пламя","t":1793557862784,"sale":78.96,"ref":103.99,"profit":14.63,"roi":18.53,"bo":0,"so":8,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":43,"name":"Мор","t":1793558443140,"sale":1500.5,"ref":1686.72,"profit":17.55,"roi":1.17,"bo":5,"so":9,"buy":1400,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":462,"name":"Шабаш","t":1793558443140,"sale":275.02,"ref":319.86,"profit":12.85,"roi":4.67,"bo":11,"so":43,"buy":270.05,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1464,"name":"Икар I","t":1793559043390,"sale":384.3,"ref":442.96,"profit":14.36,"roi":3.74,"bo":14,"so":39,"buy":373.33,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1283,"name":"Ржавая жесть","t":1793559043390,"sale":23.39,"ref":37.3,"profit":10.18,"roi":43.52,"bo":0,"so":6,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
