@@ -431,3 +431,4 @@
 {"id":65,"name":"Сверчок","t":1793548874776,"sale":325.1,"ref":387.88,"profit":23.99,"roi":7.38,"bo":9,"so":48,"buy":320.9,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":320,"name":"ПУ13 Уравнитель","t":1793548874776,"sale":315,"ref":363.95,"profit":12.56,"roi":3.99,"bo":31,"so":18,"buy":302.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1302,"name":"Красный хрусталь","t":1793549448185,"sale":87.89,"ref":110.58,"profit":11.63,"roi":13.23,"bo":1,"so":3,"buy":83.5,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":610,"name":"Увабаки (пов.)","t":1793550664022,"sale":254.55,"ref":310,"profit":24.45,"roi":9.61,"bo":1,"so":81,"buy":237.24,"act":11,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
