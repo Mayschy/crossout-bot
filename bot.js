@@ -117,6 +117,7 @@ function loadState() {
   }
 }
 function saveState(st) {
+  st._savedAt = Date.now();
   const tmp = STATE_FILE + '.tmp';
   fs.writeFileSync(tmp, JSON.stringify(st));
   fs.renameSync(tmp, STATE_FILE);
@@ -705,11 +706,13 @@ function jAppend(file, line) {
 
 // Копия записи в MongoDB. Не блокирует цикл; ошибки базы не роняют бота (JSONL остаётся основным).
 const dbPending = [];
+let liveState = null; // состояние бота: копия в MongoDB, чтобы дедупликация не терялась между запусками
 function dbSave(collection, rec, extra) {
   dbPending.push(mongo.save(collection, [rec], extra).catch((e) => log('MongoDB:', e.message)));
 }
 async function dbFlush(close = false) {
   await Promise.allSettled(dbPending.splice(0));
+  if (liveState) await mongo.saveDoc('state', 'bot', liveState);
   if (close) await mongo.close();
 }
 
@@ -1173,6 +1176,14 @@ async function main() {
   }
 
   requireTelegram();
+  // берём более свежее состояние: из MongoDB или из локального кэша
+  const remote = await mongo.loadDoc('state', 'bot');
+  if (remote && (remote._savedAt || 0) > (state._savedAt || 0)) {
+    for (const k of Object.keys(state)) delete state[k];
+    Object.assign(state, remote);
+    log('Состояние взято из MongoDB');
+  }
+  liveState = state;
   const names = await loadNames();
 
   if (argv[0] === '--once') {

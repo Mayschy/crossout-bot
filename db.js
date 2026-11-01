@@ -86,8 +86,28 @@ async function save(collection, records, extra = {}) {
   }
 }
 
+
+// Одиночный документ (состояние бота): так дедупликация не зависит от кэша GitHub Actions
+async function loadDoc(collection, id) {
+  const d = await getDb();
+  if (!d) return null;
+  try {
+    const x = await d.collection(collection).findOne({ _id: id });
+    if (x) delete x._id;
+    return x;
+  } catch (e) { console.error('[db] ошибка чтения:', e.message); return null; }
+}
+async function saveDoc(collection, id, obj) {
+  const d = await getDb();
+  if (!d) return false;
+  try {
+    await d.collection(collection).replaceOne({ _id: id }, JSON.parse(JSON.stringify(obj)), { upsert: true });
+    return true;
+  } catch (e) { console.error('[db] ошибка записи состояния:', e.message); return false; }
+}
+
 async function close() {
   if (client) { try { await client.close(); } catch {} client = null; db = null; }
 }
 
-module.exports = { save, close, getDb };
+module.exports = { save, loadDoc, saveDoc, close, getDb };
