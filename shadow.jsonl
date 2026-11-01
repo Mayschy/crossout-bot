@@ -441,3 +441,4 @@
 {"id":1048,"name":"Сажа","t":1793556076244,"sale":107,"ref":146.13,"profit":24.52,"roi":22.91,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":116,"name":"«Че такой серьезный?»","t":1793556076244,"sale":50,"ref":72.72,"profit":15.45,"roi":30.9,"bo":5,"so":2,"buy":47,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":33,"name":"Маяк 11","t":1793556076244,"sale":500,"ref":570.5,"profit":13.45,"roi":2.69,"bo":2,"so":8,"buy":438.34,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":494,"name":"НВ-2 Клён","t":1793557248663,"sale":482,"ref":559.97,"profit":21.97,"roi":4.56,"bo":2,"so":29,"buy":474.01,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
