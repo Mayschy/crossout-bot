@@ -401,3 +401,4 @@
 {"id":630,"name":"Бигфут","t":1793524842622,"sale":145.8,"ref":179.99,"profit":16.19,"roi":11.1,"bo":6,"so":36,"buy":145.71,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":325,"name":"РУ-9 Геликон","t":1793526042218,"sale":25001,"ref":27800,"profit":19,"roi":0.08,"bo":6,"so":13,"buy":25000,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1793526042218,"sale":87.46,"ref":110.78,"profit":12.24,"roi":14,"bo":5,"so":23,"buy":87.19,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":9,"name":"Джаннаби","t":1793527841815,"sale":285.15,"ref":339.9,"profit":20.76,"roi":7.28,"bo":12,"so":16,"buy":285.1,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
