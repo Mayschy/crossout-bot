@@ -452,3 +452,4 @@
 {"id":112,"name":"Рвач","t":1793560844478,"sale":125.61,"ref":161.51,"profit":19.75,"roi":15.72,"bo":15,"so":12,"buy":120.16,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":283,"name":"Горыныч","t":1793561464278,"sale":1115,"ref":1265,"profit":23.5,"roi":2.11,"bo":10,"so":24,"buy":1111,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":485,"name":"Бутстрэп","t":1793561464278,"sale":571.25,"ref":649.9,"profit":13.66,"roi":2.39,"bo":4,"so":52,"buy":571.15,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":578,"name":"Гусеница укрепленная","t":1793565062450,"sale":135.84,"ref":172.5,"profit":19.41,"roi":14.29,"bo":16,"so":11,"buy":128.07,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
