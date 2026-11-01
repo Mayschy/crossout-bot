@@ -454,3 +454,4 @@
 {"id":485,"name":"Бутстрэп","t":1793561464278,"sale":571.25,"ref":649.9,"profit":13.66,"roi":2.39,"bo":4,"so":52,"buy":571.15,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":578,"name":"Гусеница укрепленная","t":1793565062450,"sale":135.84,"ref":172.5,"profit":19.41,"roi":14.29,"bo":16,"so":11,"buy":128.07,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":605,"name":"Титан","t":1793565640292,"sale":128.58,"ref":155,"profit":10.92,"roi":8.49,"bo":3,"so":34,"buy":128.57,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3763,"name":"МВП Флагман","t":1793566243509,"sale":460,"ref":535.99,"profit":22.39,"roi":4.87,"bo":18,"so":63,"buy":456.13,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
