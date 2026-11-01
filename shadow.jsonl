@@ -438,3 +438,6 @@
 {"id":1464,"name":"Икар I","t":1793553041320,"sale":373.06,"ref":429.87,"profit":13.82,"roi":3.71,"bo":16,"so":48,"buy":373,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":514,"name":"Ядро","t":1793553640976,"sale":207.32,"ref":250,"profit":17.68,"roi":8.53,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":511,"name":"РС Нерпа","t":1793554843154,"sale":375.3,"ref":433.33,"profit":14.7,"roi":3.92,"bo":10,"so":26,"buy":375.01,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1048,"name":"Сажа","t":1793556076244,"sale":107,"ref":146.13,"profit":24.52,"roi":22.91,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":116,"name":"«Че такой серьезный?»","t":1793556076244,"sale":50,"ref":72.72,"profit":15.45,"roi":30.9,"bo":5,"so":2,"buy":47,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":33,"name":"Маяк 11","t":1793556076244,"sale":500,"ref":570.5,"profit":13.45,"roi":2.69,"bo":2,"so":8,"buy":438.34,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
