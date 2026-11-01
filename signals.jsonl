@@ -318,3 +318,4 @@
 {"id":6,"name":"Мейнфрейм","t":1793549449768,"sale":3240.75,"ref":4222.95,"profit":559.9,"roi":17.28,"bo":5,"so":16,"buy":3232.01,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":21,"name":"Сумрак","t":1793550044175,"sale":560,"ref":666,"profit":39.4,"roi":7.04,"bo":5,"so":14,"buy":535.02,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":610,"name":"Увабаки (пов.)","t":1793550045689,"sale":254.55,"ref":310.97,"profit":25.32,"roi":9.95,"bo":3,"so":79,"buy":254.54,"act":11,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":13,"name":"Зов","t":1793551240364,"sale":1450,"ref":1646,"profit":31.4,"roi":2.17,"bo":2,"so":21,"buy":1333.7,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
