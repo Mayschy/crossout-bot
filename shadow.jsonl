@@ -427,3 +427,4 @@
 {"id":347,"name":"Гром","t":1793547643629,"sale":148.58,"ref":178.76,"profit":12.3,"roi":8.28,"bo":4,"so":23,"buy":138.54,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":518,"name":"Оберег","t":1793547643629,"sale":411,"ref":470,"profit":12,"roi":2.92,"bo":8,"so":15,"buy":410,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1793547643629,"sale":87.56,"ref":109.5,"profit":10.99,"roi":12.55,"bo":5,"so":27,"buy":87.19,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1212,"name":"Плазменное кольцо","t":1793548241029,"sale":52.65,"ref":70,"profit":10.35,"roi":19.66,"bo":1,"so":7,"buy":52.57,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
