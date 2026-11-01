@@ -360,3 +360,5 @@
 {"id":610,"name":"Увабаки (пов.)","t":1793491840138,"sale":259.6,"ref":309.93,"profit":19.34,"roi":7.45,"bo":7,"so":113,"buy":254.55,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":367,"name":"Харон","t":1793491840138,"sale":3580,"ref":3999,"profit":19.1,"roi":0.53,"bo":20,"so":9,"buy":3501,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":65,"name":"Сверчок","t":1793491840138,"sale":332.9,"ref":388,"profit":16.3,"roi":4.9,"bo":32,"so":58,"buy":331.03,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":610,"name":"Увабаки (пов.)","t":1793492440083,"sale":259.6,"ref":309.93,"profit":19.34,"roi":7.45,"bo":7,"so":115,"buy":254.55,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":367,"name":"Харон","t":1793492440083,"sale":3580,"ref":3999,"profit":19.1,"roi":0.53,"bo":20,"so":9,"buy":3501,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
