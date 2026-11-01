@@ -419,3 +419,5 @@
 {"id":378,"name":"Квазар (тюн.) (заготовка)","t":1793542240225,"sale":540,"ref":624.58,"profit":22.12,"roi":4.1,"bo":5,"so":5,"buy":465.89,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":157,"name":"Большая декоративная решетка 1","t":1793542240225,"sale":103,"ref":134.93,"profit":18.44,"roi":17.9,"bo":0,"so":2,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":24,"name":"Инферно","t":1793542240225,"sale":1201,"ref":1350,"profit":14,"roi":1.17,"bo":7,"so":17,"buy":1165,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":236,"name":"Блок питания","t":1793543466607,"sale":143.79,"ref":173.81,"profit":12.64,"roi":8.79,"bo":33,"so":13,"buy":143.72,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":495,"name":"Фалко","t":1793543466607,"sale":87.56,"ref":110.92,"profit":12.27,"roi":14.01,"bo":5,"so":23,"buy":87.19,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
