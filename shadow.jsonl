@@ -389,3 +389,4 @@
 {"id":264,"name":"АП72 Вихрь","t":1793512876662,"sale":290.04,"ref":339.99,"profit":15.95,"roi":5.5,"bo":26,"so":38,"buy":290.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":46,"name":"Марс","t":1793512876662,"sale":2475,"ref":2765,"profit":13.5,"roi":0.55,"bo":5,"so":11,"buy":2340.01,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":46,"name":"Марс","t":1793513440024,"sale":2475,"ref":2765,"profit":13.5,"roi":0.55,"bo":5,"so":12,"buy":2340.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":46,"name":"Марс","t":1793514037284,"sale":2475,"ref":2765,"profit":13.5,"roi":0.55,"bo":4,"so":12,"buy":2340.01,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
