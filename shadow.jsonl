@@ -356,3 +356,4 @@
 {"id":3763,"name":"МВП Флагман","t":1793489461161,"sale":451.29,"ref":523.83,"profit":20.16,"roi":4.47,"bo":14,"so":60,"buy":451.28,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":427,"name":"ПТУР-Л Флейта","t":1793489461161,"sale":400,"ref":458.73,"profit":12.86,"roi":3.21,"bo":7,"so":41,"buy":381.01,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":335,"name":"Триггер","t":1793490041302,"sale":149.18,"ref":188.89,"profit":20.82,"roi":13.96,"bo":2,"so":22,"buy":149.17,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":184,"name":"Исполин","t":1793491277865,"sale":138.24,"ref":172.38,"profit":16.9,"roi":12.23,"bo":15,"so":8,"buy":136.51,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
