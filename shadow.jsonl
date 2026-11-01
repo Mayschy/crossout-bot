@@ -405,3 +405,4 @@
 {"id":347,"name":"Гром","t":1793532038652,"sale":150.74,"ref":178.84,"profit":10.22,"roi":6.78,"bo":5,"so":28,"buy":138.54,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":372,"name":"Прометей V","t":1793534480330,"sale":286.2,"ref":329.98,"profit":10.78,"roi":3.77,"bo":16,"so":54,"buy":281.84,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1211,"name":"Прыжковая площадка","t":1793535040921,"sale":36.4,"ref":58.71,"profit":16.44,"roi":45.16,"bo":19,"so":8,"buy":34.54,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":106,"name":"«Титаник»","t":1793535642410,"sale":183.3,"ref":217.67,"profit":12.6,"roi":6.88,"bo":2,"so":6,"buy":173.1,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
