@@ -410,3 +410,5 @@
 {"id":24,"name":"Инферно","t":1793536843930,"sale":1200.02,"ref":1350,"profit":14.98,"roi":1.25,"bo":12,"so":18,"buy":1200.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":224,"name":"Надувной Икар","t":1793536843930,"sale":200,"ref":233.48,"profit":10.13,"roi":5.07,"bo":6,"so":6,"buy":176.1,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1207,"name":"Измельчитель","t":1793538077469,"sale":20,"ref":34.38,"profit":10.94,"roi":54.71,"bo":6,"so":3,"buy":18,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":578,"name":"Гусеница укрепленная","t":1793539241043,"sale":142,"ref":180.03,"profit":20.03,"roi":14.1,"bo":18,"so":13,"buy":141.02,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":379,"name":"Гравастар","t":1793539241043,"sale":350,"ref":401.07,"profit":10.96,"roi":3.13,"bo":22,"so":13,"buy":331.12,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
