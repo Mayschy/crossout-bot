@@ -412,3 +412,5 @@
 {"id":1207,"name":"Измельчитель","t":1793538077469,"sale":20,"ref":34.38,"profit":10.94,"roi":54.71,"bo":6,"so":3,"buy":18,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":578,"name":"Гусеница укрепленная","t":1793539241043,"sale":142,"ref":180.03,"profit":20.03,"roi":14.1,"bo":18,"so":13,"buy":141.02,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":379,"name":"Гравастар","t":1793539241043,"sale":350,"ref":401.07,"profit":10.96,"roi":3.13,"bo":22,"so":13,"buy":331.12,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":420,"name":"Гнездо","t":1793540442740,"sale":354,"ref":419.01,"profit":23.11,"roi":6.53,"bo":26,"so":12,"buy":350.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":421,"name":"Тромбон","t":1793540442740,"sale":542.05,"ref":619.9,"profit":15.86,"roi":2.93,"bo":12,"so":23,"buy":542.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
