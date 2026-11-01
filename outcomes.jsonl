@@ -3379,3 +3379,11 @@
 {"id":690,"t":1793517040239,"h":30,"at":1793518800000,"s":143.73,"b":0,"so":11,"bo":0,"ask":-14.37,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":143.73,"late":false}
 {"id":690,"t":1793517640081,"h":20,"at":1793518800000,"s":143.73,"b":0,"so":11,"bo":0,"ask":-14.37,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":143.73,"late":false}
 {"id":690,"t":1793518174410,"h":20,"at":1793519400000,"s":143.73,"b":0,"so":11,"bo":0,"ask":-14.37,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":143.73,"late":false}
+{"id":504,"t":1793518175379,"h":30,"at":1793520000000,"s":1149.99,"b":981.01,"so":21,"bo":2,"ask":52.79,"instant":-99.29,"taken":true,"shadow":false,"roi":5.37,"capital":982.2,"late":false}
+{"id":504,"t":1793518839761,"h":10,"at":1793519400000,"s":982.2,"b":981.01,"so":22,"bo":2,"ask":-98.22,"instant":-99.29,"taken":false,"shadow":false,"roi":-10,"capital":982.2,"late":false}
+{"id":504,"t":1793518839761,"h":20,"at":1793520000000,"s":1149.99,"b":981.01,"so":21,"bo":2,"ask":52.79,"instant":-99.29,"taken":true,"shadow":false,"roi":5.37,"capital":982.2,"late":false}
+{"id":504,"t":1793519436804,"h":10,"at":1793520000000,"s":1149.99,"b":981.01,"so":21,"bo":2,"ask":52.79,"instant":-99.29,"taken":true,"shadow":false,"roi":5.37,"capital":982.2,"late":false}
+{"id":676,"t":1793512237768,"h":120,"at":1793519400000,"s":97.54,"b":72.9,"so":20,"bo":2,"ask":12.72,"instant":-9.46,"taken":true,"shadow":true,"roi":16.94,"capital":75.07,"late":false}
+{"id":445,"t":1793515836809,"h":60,"at":1793519400000,"s":850,"b":750,"so":26,"bo":26,"ask":14,"instant":-76,"taken":true,"shadow":true,"roi":1.86,"capital":751,"late":false}
+{"id":690,"t":1793517640081,"h":30,"at":1793519400000,"s":143.73,"b":0,"so":11,"bo":0,"ask":-14.37,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":143.73,"late":false}
+{"id":690,"t":1793518174410,"h":30,"at":1793520000000,"s":143.73,"b":0,"so":10,"bo":0,"ask":-14.37,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":143.73,"late":false}
