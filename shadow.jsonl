@@ -422,3 +422,4 @@
 {"id":236,"name":"Блок питания","t":1793543466607,"sale":143.79,"ref":173.81,"profit":12.64,"roi":8.79,"bo":33,"so":13,"buy":143.72,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1793543466607,"sale":87.56,"ref":110.92,"profit":12.27,"roi":14.01,"bo":5,"so":23,"buy":87.19,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":55,"name":"Эхо","t":1793544039431,"sale":450,"ref":520.51,"profit":18.46,"roi":4.1,"bo":4,"so":14,"buy":433.53,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":856,"name":"Быстрый и мертвый","t":1793544638046,"sale":50,"ref":77,"profit":19.3,"roi":38.6,"bo":0,"so":5,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
