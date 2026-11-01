@@ -316,3 +316,5 @@
 {"id":382,"name":"Варун","t":1793545282566,"sale":511.11,"ref":596.99,"profit":26.18,"roi":5.12,"bo":9,"so":20,"buy":511.01,"act":5,"liq":79,"med":645.7,"below":20.8,"gone":15.3,"dem":93}
 {"id":114,"name":"Стартер","t":1793548875464,"sale":1030.5,"ref":1261.06,"profit":104.45,"roi":10.14,"bo":2,"so":2,"buy":960,"act":4,"liq":62,"med":1075,"below":4.1,"gone":18.1,"dem":99}
 {"id":6,"name":"Мейнфрейм","t":1793549449768,"sale":3240.75,"ref":4222.95,"profit":559.9,"roi":17.28,"bo":5,"so":16,"buy":3232.01,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":21,"name":"Сумрак","t":1793550044175,"sale":560,"ref":666,"profit":39.4,"roi":7.04,"bo":5,"so":14,"buy":535.02,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":610,"name":"Увабаки (пов.)","t":1793550045689,"sale":254.55,"ref":310.97,"profit":25.32,"roi":9.95,"bo":3,"so":79,"buy":254.54,"act":11,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
