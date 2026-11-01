@@ -449,3 +449,4 @@
 {"id":1283,"name":"Ржавая жесть","t":1793559043390,"sale":23.39,"ref":37.3,"profit":10.18,"roi":43.52,"bo":0,"so":6,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":241,"name":"Шквал","t":1793560243617,"sale":3659.4,"ref":4080,"profit":12.6,"roi":0.34,"bo":5,"so":27,"buy":3502.99,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":287,"name":"АГС-55 Импульс","t":1793560243617,"sale":148.62,"ref":176.9,"profit":10.59,"roi":7.13,"bo":25,"so":28,"buy":148.6,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":112,"name":"Рвач","t":1793560844478,"sale":125.61,"ref":161.51,"profit":19.75,"roi":15.72,"bo":15,"so":12,"buy":120.16,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
