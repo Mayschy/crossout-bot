@@ -436,3 +436,4 @@
 {"id":347,"name":"Гром","t":1793552479281,"sale":146.78,"ref":178.75,"profit":14.09,"roi":9.6,"bo":6,"so":23,"buy":143.46,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":420,"name":"Гнездо","t":1793553041320,"sale":355.01,"ref":417.99,"profit":21.18,"roi":5.97,"bo":27,"so":10,"buy":355,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1464,"name":"Икар I","t":1793553041320,"sale":373.06,"ref":429.87,"profit":13.82,"roi":3.71,"bo":16,"so":48,"buy":373,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":514,"name":"Ядро","t":1793553640976,"sale":207.32,"ref":250,"profit":17.68,"roi":8.53,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
