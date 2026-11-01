@@ -385,3 +385,4 @@
 {"id":1048,"name":"Сажа","t":1793508634830,"sale":117.21,"ref":146.13,"profit":14.31,"roi":12.21,"bo":1,"so":4,"buy":114.28,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":116,"name":"«Че такой серьезный?»","t":1793508634830,"sale":48.88,"ref":69.27,"profit":13.46,"roi":27.54,"bo":2,"so":3,"buy":46,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":116,"name":"«Че такой серьезный?»","t":1793509836573,"sale":48.88,"ref":69.27,"profit":13.46,"roi":27.54,"bo":2,"so":3,"buy":46,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":676,"name":"Зубодробитель","t":1793512237768,"sale":75.07,"ref":97.55,"profit":12.73,"roi":16.95,"bo":5,"so":22,"buy":73.65,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
