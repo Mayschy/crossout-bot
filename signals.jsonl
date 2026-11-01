@@ -329,3 +329,4 @@
 {"id":528,"name":"Харибда","t":1793557864383,"sale":1900,"ref":2153.95,"profit":38.55,"roi":2.03,"bo":4,"so":15,"buy":1748,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":379,"name":"Гравастар","t":1793558445302,"sale":331.33,"ref":399.97,"profit":28.64,"roi":8.64,"bo":18,"so":25,"buy":331.32,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":561,"name":"Гармонизатор","t":1793559679908,"sale":712,"ref":830,"profit":35,"roi":4.92,"bo":23,"so":24,"buy":710,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":487,"name":"Газген","t":1793560245295,"sale":260.22,"ref":320,"profit":27.78,"roi":10.68,"bo":3,"so":20,"buy":260,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
