@@ -391,3 +391,4 @@
 {"id":46,"name":"Марс","t":1793513440024,"sale":2475,"ref":2765,"profit":13.5,"roi":0.55,"bo":5,"so":12,"buy":2340.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":46,"name":"Марс","t":1793514037284,"sale":2475,"ref":2765,"profit":13.5,"roi":0.55,"bo":4,"so":12,"buy":2340.01,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":270,"name":"АП50 Шторм","t":1793515235658,"sale":85.88,"ref":107.49,"profit":10.86,"roi":12.65,"bo":19,"so":11,"buy":85.08,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":445,"name":"Геррида I","t":1793515836809,"sale":751,"ref":854.64,"profit":18.18,"roi":2.42,"bo":26,"so":22,"buy":750,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
