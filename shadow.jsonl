@@ -437,3 +437,4 @@
 {"id":420,"name":"Гнездо","t":1793553041320,"sale":355.01,"ref":417.99,"profit":21.18,"roi":5.97,"bo":27,"so":10,"buy":355,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1464,"name":"Икар I","t":1793553041320,"sale":373.06,"ref":429.87,"profit":13.82,"roi":3.71,"bo":16,"so":48,"buy":373,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":514,"name":"Ядро","t":1793553640976,"sale":207.32,"ref":250,"profit":17.68,"roi":8.53,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":511,"name":"РС Нерпа","t":1793554843154,"sale":375.3,"ref":433.33,"profit":14.7,"roi":3.92,"bo":10,"so":26,"buy":375.01,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

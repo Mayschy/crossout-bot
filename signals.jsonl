@@ -324,3 +324,4 @@
 {"id":453,"name":"Мириада","t":1793553041885,"sale":469.8,"ref":572.68,"profit":45.61,"roi":9.71,"bo":28,"so":31,"buy":452.2,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":300,"name":"П-26 Заградитель","t":1793553642316,"sale":289,"ref":368,"profit":42.2,"roi":14.6,"bo":7,"so":8,"buy":280,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":635,"name":"Колесо багги (пов.)","t":1793553643634,"sale":169.98,"ref":218.98,"profit":27.1,"roi":15.94,"bo":18,"so":13,"buy":166.97,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":504,"name":"Аннигилятор","t":1793554845191,"sale":1000,"ref":1149.63,"profit":34.67,"roi":3.47,"bo":3,"so":24,"buy":981.01,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
