@@ -319,3 +319,4 @@
 {"id":21,"name":"Сумрак","t":1793550044175,"sale":560,"ref":666,"profit":39.4,"roi":7.04,"bo":5,"so":14,"buy":535.02,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":610,"name":"Увабаки (пов.)","t":1793550045689,"sale":254.55,"ref":310.97,"profit":25.32,"roi":9.95,"bo":3,"so":79,"buy":254.54,"act":11,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":13,"name":"Зов","t":1793551240364,"sale":1450,"ref":1646,"profit":31.4,"roi":2.17,"bo":2,"so":21,"buy":1333.7,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":322,"name":"ПУ14 Арбитр","t":1793551841284,"sale":1829.02,"ref":2111,"profit":70.88,"roi":3.88,"bo":26,"so":18,"buy":1829,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
