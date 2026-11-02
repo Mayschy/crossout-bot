@@ -363,3 +363,7 @@
 {"id":579,"name":"Голиаф","t":1793634009934,"sale":1601,"ref":1880,"profit":91,"roi":5.68,"bo":10,"so":35,"buy":1600,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3773,"name":"Большой и меткий","t":1793634649590,"sale":17.69,"ref":3128.4,"profit":2797.87,"roi":15816.11,"bo":0,"so":8,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":46,"name":"Марс","t":1793635288480,"sale":2800,"ref":3141.09,"profit":26.98,"roi":0.96,"bo":12,"so":2,"buy":2506,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":247,"name":"КП-17 Цунами","t":1793636446810,"sale":2001,"ref":2398.94,"profit":158.05,"roi":7.9,"bo":9,"so":11,"buy":2000.8,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":329,"name":"Мандрагора","t":1793636448592,"sale":1867.04,"ref":2222.12,"profit":132.87,"roi":7.12,"bo":18,"so":6,"buy":1867,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":704,"name":"Хранилище чертежей","t":1793636450448,"sale":150.74,"ref":199.39,"profit":28.71,"roi":19.05,"bo":18,"so":6,"buy":147.62,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":66,"name":"Саранча","t":1793636452357,"sale":184.59,"ref":234,"profit":26.01,"roi":14.09,"bo":11,"so":17,"buy":184.58,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
