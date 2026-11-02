@@ -528,3 +528,4 @@
 {"id":1212,"name":"Плазменное кольцо","t":1793652644208,"sale":60,"ref":83.74,"profit":15.37,"roi":25.61,"bo":1,"so":9,"buy":51.53,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":296,"name":"АП62 Терм","t":1793653282601,"sale":180,"ref":224.96,"profit":22.46,"roi":12.48,"bo":13,"so":36,"buy":175.81,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1793656242460,"sale":128.15,"ref":160,"profit":15.85,"roi":12.37,"bo":0,"so":26,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":289,"name":"Дробитель","t":1793657454327,"sale":360,"ref":414.9,"profit":13.41,"roi":3.72,"bo":8,"so":25,"buy":342.22,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
