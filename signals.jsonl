@@ -336,3 +336,4 @@
 {"id":557,"name":"Снежинка","t":1793577679373,"sale":270.49,"ref":355.42,"profit":49.39,"roi":18.26,"bo":0,"so":5,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":610,"name":"Увабаки (пов.)","t":1793580641678,"sale":218.16,"ref":280,"profit":33.84,"roi":15.51,"bo":4,"so":70,"buy":216.33,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1410,"name":"Полосы «Одинокий рейнджер»","t":1793585446724,"sale":1999,"ref":2559.71,"profit":304.74,"roi":15.24,"bo":3,"so":7,"buy":1721.01,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":561,"name":"Гармонизатор","t":1793586664400,"sale":708.01,"ref":834.95,"profit":43.45,"roi":6.14,"bo":27,"so":16,"buy":708,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
