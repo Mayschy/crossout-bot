@@ -487,3 +487,5 @@
 {"id":328,"name":"Люцифер","t":1793625645062,"sale":2543.01,"ref":2849.91,"profit":21.91,"roi":0.86,"bo":26,"so":11,"buy":2540.1,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":309,"name":"Синус-0","t":1793625645062,"sale":95.57,"ref":122.58,"profit":14.75,"roi":15.44,"bo":6,"so":7,"buy":93.1,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":274,"name":"Испепелитель","t":1793625645062,"sale":260.13,"ref":300.5,"profit":10.32,"roi":3.97,"bo":11,"so":31,"buy":260.12,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":93,"name":"Онгаку","t":1793626268380,"sale":201.61,"ref":249,"profit":22.49,"roi":11.16,"bo":1,"so":11,"buy":195.42,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1793626268380,"sale":186.01,"ref":219,"profit":11.09,"roi":5.96,"bo":13,"so":67,"buy":186,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
