@@ -377,3 +377,5 @@
 {"id":642,"name":"Низкий просвет (пов.)","t":1793647873289,"sale":850,"ref":994.43,"profit":44.99,"roi":5.29,"bo":27,"so":24,"buy":737.06,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":485,"name":"Бутстрэп","t":1793649680192,"sale":547.01,"ref":638,"profit":27.19,"roi":4.97,"bo":11,"so":37,"buy":536.05,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":296,"name":"АП62 Терм","t":1793650246592,"sale":177.08,"ref":224.99,"profit":25.41,"roi":14.35,"bo":10,"so":29,"buy":175.8,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":276,"name":"Циклон","t":1793651475587,"sale":350,"ref":429.99,"profit":36.99,"roi":10.57,"bo":12,"so":17,"buy":335.42,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":357,"name":"Молотобой","t":1793651477462,"sale":1000,"ref":1140,"profit":26,"roi":2.6,"bo":6,"so":43,"buy":965.04,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
