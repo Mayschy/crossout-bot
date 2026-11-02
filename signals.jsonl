@@ -338,3 +338,4 @@
 {"id":1410,"name":"Полосы «Одинокий рейнджер»","t":1793585446724,"sale":1999,"ref":2559.71,"profit":304.74,"roi":15.24,"bo":3,"so":7,"buy":1721.01,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":561,"name":"Гармонизатор","t":1793586664400,"sale":708.01,"ref":834.95,"profit":43.45,"roi":6.14,"bo":27,"so":16,"buy":708,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":54,"name":"Гарпия","t":1793594446375,"sale":311.28,"ref":379.33,"profit":30.12,"roi":9.68,"bo":7,"so":18,"buy":311.26,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":233,"name":"Мобильный урожай","t":1793596240466,"sale":181.19,"ref":521.07,"profit":287.77,"roi":158.82,"bo":3,"so":3,"buy":126,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
