@@ -341,3 +341,4 @@
 {"id":233,"name":"Мобильный урожай","t":1793596240466,"sale":181.19,"ref":521.07,"profit":287.77,"roi":158.82,"bo":3,"so":3,"buy":126,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":244,"name":"Нарвал","t":1793601066865,"sale":2969.73,"ref":3334,"profit":30.87,"roi":1.04,"bo":5,"so":16,"buy":2917.73,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":420,"name":"Гнездо","t":1793602880435,"sale":370.02,"ref":441.48,"profit":27.31,"roi":7.38,"bo":21,"so":8,"buy":370.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1100,"name":"Леденец","t":1793607649741,"sale":869.61,"ref":1060,"profit":84.39,"roi":9.7,"bo":2,"so":3,"buy":777.79,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}

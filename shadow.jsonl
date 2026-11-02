@@ -477,3 +477,4 @@
 {"id":426,"name":"Отмороженка","t":1793605244744,"sale":185.43,"ref":228.88,"profit":20.56,"roi":11.09,"bo":1,"so":2,"buy":170.01,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":321,"name":"Мельник","t":1793607048186,"sale":440.01,"ref":502.99,"profit":12.68,"roi":2.88,"bo":20,"so":28,"buy":440,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":248,"name":"Обвинитель 76мм","t":1793607048186,"sale":97.08,"ref":118.99,"profit":10.01,"roi":10.31,"bo":20,"so":13,"buy":97.06,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":373,"name":"Гелиос","t":1793607647317,"sale":1830,"ref":2060,"profit":24,"roi":1.31,"bo":25,"so":8,"buy":1711,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
