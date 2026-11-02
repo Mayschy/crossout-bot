@@ -504,3 +504,5 @@
 {"id":530,"name":"Инкубатор","t":1793635852196,"sale":185.03,"ref":229.58,"profit":21.59,"roi":11.67,"bo":4,"so":4,"buy":175.01,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":106,"name":"«Титаник»","t":1793636445881,"sale":183.54,"ref":217.66,"profit":12.35,"roi":6.73,"bo":1,"so":4,"buy":170.3,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3769,"name":"Смог-15","t":1793637645419,"sale":195.95,"ref":243.05,"profit":22.8,"roi":11.63,"bo":19,"so":7,"buy":191.22,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":675,"name":"Горбун","t":1793638243814,"sale":347.01,"ref":397.99,"profit":11.18,"roi":3.22,"bo":5,"so":13,"buy":310.07,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":376,"name":"Квазар","t":1793638243814,"sale":160.87,"ref":189.97,"profit":10.1,"roi":6.28,"bo":10,"so":35,"buy":153.05,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
