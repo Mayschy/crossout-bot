@@ -512,3 +512,5 @@
 {"id":349,"name":"Тритон","t":1793643042480,"sale":2401.04,"ref":2689.99,"profit":19.95,"roi":0.83,"bo":9,"so":21,"buy":2401.03,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1793643042480,"sale":162,"ref":194.07,"profit":12.66,"roi":7.82,"bo":15,"so":9,"buy":161.2,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":529,"name":"Циркулярка","t":1793644846665,"sale":91.01,"ref":113.97,"profit":11.56,"roi":12.71,"bo":4,"so":22,"buy":90.03,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":635,"name":"Колесо багги (пов.)","t":1793645447264,"sale":175,"ref":207.86,"profit":12.07,"roi":6.9,"bo":5,"so":20,"buy":170.03,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":296,"name":"АП62 Терм","t":1793645447264,"sale":191.05,"ref":225.57,"profit":11.96,"roi":6.26,"bo":39,"so":49,"buy":191.03,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
