@@ -515,3 +515,5 @@
 {"id":635,"name":"Колесо багги (пов.)","t":1793645447264,"sale":175,"ref":207.86,"profit":12.07,"roi":6.9,"bo":5,"so":20,"buy":170.03,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":296,"name":"АП62 Терм","t":1793645447264,"sale":191.05,"ref":225.57,"profit":11.96,"roi":6.26,"bo":39,"so":49,"buy":191.03,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":529,"name":"Циркулярка","t":1793646642289,"sale":88.02,"ref":113.96,"profit":14.54,"roi":16.52,"bo":2,"so":21,"buy":82.15,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":349,"name":"Тритон","t":1793647244662,"sale":2401.03,"ref":2689.99,"profit":19.96,"roi":0.83,"bo":8,"so":20,"buy":2360.13,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1449,"name":"Гиена","t":1793647244662,"sale":710,"ref":800,"profit":10,"roi":1.41,"bo":22,"so":33,"buy":701.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
