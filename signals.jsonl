@@ -361,3 +361,4 @@
 {"id":380,"name":"Искра III","t":1793632247248,"sale":1640.01,"ref":1898.99,"profit":69.08,"roi":4.21,"bo":7,"so":23,"buy":1640,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":386,"name":"Рок","t":1793633472421,"sale":701,"ref":818,"profit":35.2,"roi":5.02,"bo":4,"so":10,"buy":700,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":579,"name":"Голиаф","t":1793634009934,"sale":1601,"ref":1880,"profit":91,"roi":5.68,"bo":10,"so":35,"buy":1600,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3773,"name":"Большой и меткий","t":1793634649590,"sale":17.69,"ref":3128.4,"profit":2797.87,"roi":15816.11,"bo":0,"so":8,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
