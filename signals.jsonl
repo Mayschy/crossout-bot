@@ -355,3 +355,5 @@
 {"id":33,"name":"Маяк 11","t":1793625646793,"sale":439.39,"ref":569.97,"profit":73.58,"roi":16.75,"bo":2,"so":10,"buy":438.34,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":445,"name":"Геррида I","t":1793629245374,"sale":765,"ref":905.88,"profit":50.29,"roi":6.57,"bo":22,"so":54,"buy":761,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3759,"name":"Царица (заготовка)","t":1793629874165,"sale":3496.68,"ref":3999.99,"profit":103.31,"roi":2.95,"bo":0,"so":12,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3773,"name":"Большой и меткий","t":1793630453937,"sale":12.6,"ref":3128.4,"profit":2802.96,"roi":22245.71,"bo":0,"so":6,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":585,"name":"Файер «Фингал»","t":1793630465182,"sale":373.36,"ref":471.98,"profit":51.42,"roi":13.77,"bo":1,"so":4,"buy":373.22,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
