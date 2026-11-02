@@ -471,3 +471,4 @@
 {"id":3756,"name":"Ревун","t":1793594444667,"sale":239.99,"ref":294.03,"profit":24.64,"roi":10.27,"bo":3,"so":2,"buy":200,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":577,"name":"Гусеница бронированная","t":1793594444667,"sale":340,"ref":397.98,"profit":18.18,"roi":5.35,"bo":24,"so":24,"buy":335,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":252,"name":"ЗИС-34 Толстяк","t":1793594444667,"sale":237.51,"ref":280,"profit":14.49,"roi":6.1,"bo":23,"so":14,"buy":224.1,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":65,"name":"Сверчок","t":1793598653050,"sale":335,"ref":385.77,"profit":12.19,"roi":3.64,"bo":18,"so":49,"buy":325,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
