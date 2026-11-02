@@ -344,3 +344,5 @@
 {"id":1100,"name":"Леденец","t":1793607649741,"sale":869.61,"ref":1060,"profit":84.39,"roi":9.7,"bo":2,"so":3,"buy":777.79,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":276,"name":"Циклон","t":1793613052543,"sale":350,"ref":420,"profit":28,"roi":8,"bo":5,"so":19,"buy":343.02,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":324,"name":"Буран","t":1793615474675,"sale":780.04,"ref":929.89,"profit":56.86,"roi":7.29,"bo":13,"so":25,"buy":780,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":34,"name":"КБШ Воин","t":1793616047671,"sale":1600,"ref":1849.99,"profit":64.99,"roi":4.06,"bo":2,"so":8,"buy":1572.03,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":439,"name":"Драйвер","t":1793616049119,"sale":893,"ref":1042,"profit":44.8,"roi":5.02,"bo":12,"so":24,"buy":892,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
