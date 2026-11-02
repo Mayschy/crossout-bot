@@ -489,3 +489,5 @@
 {"id":274,"name":"Испепелитель","t":1793625645062,"sale":260.13,"ref":300.5,"profit":10.32,"roi":3.97,"bo":11,"so":31,"buy":260.12,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":93,"name":"Онгаку","t":1793626268380,"sale":201.61,"ref":249,"profit":22.49,"roi":11.16,"bo":1,"so":11,"buy":195.42,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":646,"name":"Атом","t":1793626268380,"sale":186.01,"ref":219,"profit":11.09,"roi":5.96,"bo":13,"so":67,"buy":186,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":251,"name":"Райдзин","t":1793628096679,"sale":702,"ref":799.74,"profit":17.77,"roi":2.53,"bo":13,"so":27,"buy":664.41,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":487,"name":"Газген","t":1793628096679,"sale":278.1,"ref":325.83,"profit":15.15,"roi":5.45,"bo":24,"so":20,"buy":278.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
