@@ -381,3 +381,4 @@
 {"id":357,"name":"Молотобой","t":1793651477462,"sale":1000,"ref":1140,"profit":26,"roi":2.6,"bo":6,"so":43,"buy":965.04,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":279,"name":"Иглобрюх","t":1793654443186,"sale":750.02,"ref":869.97,"profit":32.95,"roi":4.39,"bo":17,"so":76,"buy":750.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":572,"name":"Нейтрино","t":1793655067634,"sale":325,"ref":392.38,"profit":28.14,"roi":8.66,"bo":1,"so":17,"buy":316,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":585,"name":"Файер «Фингал»","t":1793655645775,"sale":389.47,"ref":471.86,"profit":35.2,"roi":9.04,"bo":1,"so":6,"buy":373.22,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
