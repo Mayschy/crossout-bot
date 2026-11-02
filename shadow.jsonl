@@ -501,3 +501,4 @@
 {"id":120,"name":"Озноб","t":1793633470327,"sale":386,"ref":448.96,"profit":18.06,"roi":4.68,"bo":10,"so":15,"buy":380.02,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":379,"name":"Гравастар","t":1793634048067,"sale":335,"ref":396.88,"profit":22.19,"roi":6.62,"bo":10,"so":28,"buy":334.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":619,"name":"Омни","t":1793634048067,"sale":200,"ref":233.34,"profit":10.01,"roi":5,"bo":30,"so":29,"buy":195.4,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":530,"name":"Инкубатор","t":1793635852196,"sale":185.03,"ref":229.58,"profit":21.59,"roi":11.67,"bo":4,"so":4,"buy":175.01,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
