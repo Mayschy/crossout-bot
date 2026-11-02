@@ -521,3 +521,5 @@
 {"id":424,"name":"Икар VII","t":1793648446348,"sale":363,"ref":424.94,"profit":19.45,"roi":5.36,"bo":37,"so":40,"buy":350.16,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":288,"name":"Ёнван","t":1793648446348,"sale":555.56,"ref":634.99,"profit":15.93,"roi":2.87,"bo":8,"so":13,"buy":540.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":622,"name":"Виджет","t":1793649679579,"sale":240.5,"ref":289.9,"profit":20.41,"roi":8.49,"bo":1,"so":23,"buy":240.48,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":606,"name":"Титан (пов.)","t":1793650244790,"sale":174.99,"ref":209.99,"profit":14,"roi":8,"bo":9,"so":21,"buy":171,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1152,"name":"Бетонная балка 6×9×6","t":1793650244790,"sale":8.23,"ref":23.46,"profit":12.88,"roi":156.55,"bo":0,"so":48,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
