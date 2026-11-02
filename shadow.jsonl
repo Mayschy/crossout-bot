@@ -481,3 +481,4 @@
 {"id":393,"name":"Первобытный ужас","t":1793608844405,"sale":91.89,"ref":116.2,"profit":12.69,"roi":13.81,"bo":1,"so":2,"buy":79.7,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1464,"name":"Икар I","t":1793611242488,"sale":373.34,"ref":434.1,"profit":17.35,"roi":4.65,"bo":13,"so":54,"buy":373.33,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1793612441995,"sale":145.05,"ref":174.99,"profit":12.44,"roi":8.58,"bo":2,"so":30,"buy":138.54,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":568,"name":"Верификатор","t":1793614241418,"sale":122.3,"ref":149,"profit":11.8,"roi":9.65,"bo":30,"so":9,"buy":122.2,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
