@@ -360,3 +360,4 @@
 {"id":259,"name":"Компилятор","t":1793631046193,"sale":3000.99,"ref":3648.99,"profit":283.1,"roi":9.43,"bo":6,"so":11,"buy":3000,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":380,"name":"Искра III","t":1793632247248,"sale":1640.01,"ref":1898.99,"profit":69.08,"roi":4.21,"bo":7,"so":23,"buy":1640,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":386,"name":"Рок","t":1793633472421,"sale":701,"ref":818,"profit":35.2,"roi":5.02,"bo":4,"so":10,"buy":700,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":579,"name":"Голиаф","t":1793634009934,"sale":1601,"ref":1880,"profit":91,"roi":5.68,"bo":10,"so":35,"buy":1600,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
