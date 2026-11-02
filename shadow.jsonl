@@ -525,3 +525,4 @@
 {"id":1152,"name":"Бетонная балка 6×9×6","t":1793650244790,"sale":8.23,"ref":23.46,"profit":12.88,"roi":156.55,"bo":0,"so":48,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":418,"name":"Ураган","t":1793650841814,"sale":2400,"ref":2690,"profit":21,"roi":0.88,"bo":9,"so":22,"buy":2320,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":276,"name":"Циклон","t":1793650841814,"sale":370,"ref":429.99,"profit":16.99,"roi":4.59,"bo":13,"so":18,"buy":351.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1212,"name":"Плазменное кольцо","t":1793652644208,"sale":60,"ref":83.74,"profit":15.37,"roi":25.61,"bo":1,"so":9,"buy":51.53,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
