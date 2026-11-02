@@ -498,3 +498,4 @@
 {"id":1464,"name":"Икар I","t":1793631045571,"sale":370,"ref":434.96,"profit":21.46,"roi":5.8,"bo":13,"so":47,"buy":360.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":385,"name":"Фортуна","t":1793632246557,"sale":1880,"ref":2104.99,"profit":14.49,"roi":0.77,"bo":17,"so":9,"buy":1726.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1793632246557,"sale":145,"ref":174.89,"profit":12.4,"roi":8.55,"bo":2,"so":27,"buy":138.54,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":120,"name":"Озноб","t":1793633470327,"sale":386,"ref":448.96,"profit":18.06,"roi":4.68,"bo":10,"so":15,"buy":380.02,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
