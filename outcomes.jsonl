@@ -4493,3 +4493,11 @@
 {"id":1152,"t":1793650244790,"h":120,"at":1793657400000,"s":8.23,"b":0,"so":29,"bo":0,"ask":-0.82,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":8.23,"late":false}
 {"id":296,"t":1793653282601,"h":60,"at":1793656800000,"s":222.21,"b":175.83,"so":33,"bo":12,"ask":19.99,"instant":-21.75,"taken":true,"shadow":true,"roi":11.11,"capital":180,"late":false}
 {"id":347,"t":1793656242460,"h":20,"at":1793657400000,"s":128.15,"b":0,"so":26,"bo":0,"ask":-12.81,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":128.15,"late":false}
+{"id":279,"t":1793654443186,"h":60,"at":1793658000000,"s":869.98,"b":750.01,"so":74,"bo":17,"ask":32.96,"instant":-75.01,"taken":true,"shadow":false,"roi":4.39,"capital":750.02,"late":false}
+{"id":418,"t":1793657455895,"h":10,"at":1793658000000,"s":2699.52,"b":2320,"so":19,"bo":9,"ask":108.57,"instant":-233,"taken":true,"shadow":false,"roi":4.68,"capital":2321,"late":false}
+{"id":418,"t":1793657455895,"h":20,"at":1793658600000,"s":2699.49,"b":2320,"so":20,"bo":9,"ask":108.54,"instant":-233,"taken":true,"shadow":false,"roi":4.68,"capital":2321,"late":false}
+{"id":418,"t":1793650841814,"h":120,"at":1793658000000,"s":2699.52,"b":2320,"so":19,"bo":9,"ask":29.57,"instant":-312,"taken":true,"shadow":true,"roi":1.23,"capital":2400,"late":false}
+{"id":276,"t":1793650841814,"h":120,"at":1793658000000,"s":429.85,"b":336.2,"so":21,"bo":18,"ask":16.87,"instant":-67.42,"taken":true,"shadow":true,"roi":4.56,"capital":370,"late":false}
+{"id":347,"t":1793656242460,"h":30,"at":1793658000000,"s":128.15,"b":0,"so":26,"bo":0,"ask":-12.81,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":128.15,"late":false}
+{"id":289,"t":1793657454327,"h":10,"at":1793658000000,"s":414.9,"b":342.22,"so":24,"bo":8,"ask":13.41,"instant":-52,"taken":true,"shadow":true,"roi":3.73,"capital":360,"late":false}
+{"id":289,"t":1793657454327,"h":20,"at":1793658600000,"s":359.1,"b":342.22,"so":25,"bo":8,"ask":-36.81,"instant":-52,"taken":false,"shadow":true,"roi":-10.22,"capital":360,"late":false}
