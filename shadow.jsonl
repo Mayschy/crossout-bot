@@ -507,3 +507,5 @@
 {"id":675,"name":"Горбун","t":1793638243814,"sale":347.01,"ref":397.99,"profit":11.18,"roi":3.22,"bo":5,"so":13,"buy":310.07,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":376,"name":"Квазар","t":1793638243814,"sale":160.87,"ref":189.97,"profit":10.1,"roi":6.28,"bo":10,"so":35,"buy":153.05,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":437,"name":"Тэнгу","t":1793639460914,"sale":867,"ref":975.93,"profit":11.34,"roi":1.31,"bo":28,"so":20,"buy":866.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":171,"name":"Крянштейн","t":1793640059220,"sale":157.59,"ref":188.49,"profit":12.05,"roi":7.65,"bo":35,"so":15,"buy":155,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":375,"name":"Аврора","t":1793640059220,"sale":150.17,"ref":180,"profit":11.83,"roi":7.88,"bo":2,"so":33,"buy":143.64,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
