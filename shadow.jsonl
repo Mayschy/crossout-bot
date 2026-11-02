@@ -518,3 +518,5 @@
 {"id":349,"name":"Тритон","t":1793647244662,"sale":2401.03,"ref":2689.99,"profit":19.96,"roi":0.83,"bo":8,"so":20,"buy":2360.13,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1449,"name":"Гиена","t":1793647244662,"sale":710,"ref":800,"profit":10,"roi":1.41,"bo":22,"so":33,"buy":701.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1793647870152,"sale":136,"ref":168.63,"profit":15.77,"roi":11.59,"bo":16,"so":3,"buy":132,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":424,"name":"Икар VII","t":1793648446348,"sale":363,"ref":424.94,"profit":19.45,"roi":5.36,"bo":37,"so":40,"buy":350.16,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":288,"name":"Ёнван","t":1793648446348,"sale":555.56,"ref":634.99,"profit":15.93,"roi":2.87,"bo":8,"so":13,"buy":540.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
