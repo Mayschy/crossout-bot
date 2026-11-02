@@ -491,3 +491,7 @@
 {"id":646,"name":"Атом","t":1793626268380,"sale":186.01,"ref":219,"profit":11.09,"roi":5.96,"bo":13,"so":67,"buy":186,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":251,"name":"Райдзин","t":1793628096679,"sale":702,"ref":799.74,"profit":17.77,"roi":2.53,"bo":13,"so":27,"buy":664.41,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":487,"name":"Газген","t":1793628096679,"sale":278.1,"ref":325.83,"profit":15.15,"roi":5.45,"bo":24,"so":20,"buy":278.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":437,"name":"Тэнгу","t":1793629872661,"sale":868.01,"ref":979,"profit":13.09,"roi":1.51,"bo":29,"so":14,"buy":867,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":181,"name":"Гепард","t":1793629872661,"sale":130,"ref":156.91,"profit":11.22,"roi":8.63,"bo":18,"so":12,"buy":126.32,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":495,"name":"Фалко","t":1793629872661,"sale":87.89,"ref":109.5,"profit":10.66,"roi":12.13,"bo":4,"so":11,"buy":87.56,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1151,"name":"Бетонная балка 6×30×6","t":1793629872661,"sale":30,"ref":44.79,"profit":10.31,"roi":34.37,"bo":0,"so":17,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
