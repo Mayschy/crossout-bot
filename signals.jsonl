@@ -367,3 +367,5 @@
 {"id":329,"name":"Мандрагора","t":1793636448592,"sale":1867.04,"ref":2222.12,"profit":132.87,"roi":7.12,"bo":18,"so":6,"buy":1867,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":704,"name":"Хранилище чертежей","t":1793636450448,"sale":150.74,"ref":199.39,"profit":28.71,"roi":19.05,"bo":18,"so":6,"buy":147.62,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":66,"name":"Саранча","t":1793636452357,"sale":184.59,"ref":234,"profit":26.01,"roi":14.09,"bo":11,"so":17,"buy":184.58,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":453,"name":"Мириада","t":1793638889010,"sale":450.8,"ref":550,"profit":44.2,"roi":9.8,"bo":4,"so":50,"buy":450.78,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":384,"name":"Дзюбокко","t":1793638890925,"sale":1200,"ref":1370,"profit":33,"roi":2.75,"bo":16,"so":8,"buy":1100.99,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
