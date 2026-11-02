@@ -532,3 +532,4 @@
 {"id":569,"name":"Окулус VI","t":1793659842488,"sale":93.6,"ref":119.85,"profit":14.27,"roi":15.24,"bo":15,"so":5,"buy":93.55,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":251,"name":"Райдзин","t":1793659842488,"sale":664.1,"ref":749.96,"profit":10.86,"roi":1.64,"bo":6,"so":28,"buy":664.03,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1793660488644,"sale":163.76,"ref":200,"profit":16.24,"roi":9.92,"bo":4,"so":22,"buy":163.41,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":704,"name":"Хранилище чертежей","t":1793662069103,"sale":148.97,"ref":177.43,"profit":10.72,"roi":7.19,"bo":23,"so":36,"buy":140.17,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
