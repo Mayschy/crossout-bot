@@ -474,3 +474,4 @@
 {"id":65,"name":"Сверчок","t":1793598653050,"sale":335,"ref":385.77,"profit":12.19,"roi":3.64,"bo":18,"so":49,"buy":325,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1793601066214,"sale":126.82,"ref":157.59,"profit":15.01,"roi":11.84,"bo":11,"so":16,"buy":126.8,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":566,"name":"Хамелеон Mk2","t":1793601644309,"sale":284,"ref":333.32,"profit":15.99,"roi":5.63,"bo":15,"so":17,"buy":283.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":426,"name":"Отмороженка","t":1793605244744,"sale":185.43,"ref":228.88,"profit":20.56,"roi":11.09,"bo":1,"so":2,"buy":170.01,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
