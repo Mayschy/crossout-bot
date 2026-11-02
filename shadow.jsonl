@@ -465,3 +465,4 @@
 {"id":280,"name":"Яогуай","t":1793575863721,"sale":273.33,"ref":317.9,"profit":12.78,"roi":4.68,"bo":7,"so":12,"buy":271,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1793577678079,"sale":227.29,"ref":280,"profit":24.71,"roi":10.87,"bo":4,"so":76,"buy":216.33,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":24,"name":"Инферно","t":1793577678079,"sale":1076.59,"ref":1222.23,"profit":23.42,"roi":2.18,"bo":1,"so":16,"buy":1018.33,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1331,"name":"Шаблон: Молния","t":1793584879147,"sale":120.59,"ref":145.59,"profit":10.44,"roi":8.66,"bo":2,"so":4,"buy":104.48,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
