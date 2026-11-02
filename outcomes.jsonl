@@ -3925,3 +3925,11 @@
 {"id":625,"t":1793571642530,"h":60,"at":1793575200000,"s":200,"b":181.04,"so":20,"bo":11,"ask":-2.02,"instant":-19.08,"taken":true,"shadow":true,"roi":-1.11,"capital":182.02,"late":false}
 {"id":462,"t":1793574642652,"h":10,"at":1793575200000,"s":299.99,"b":253.2,"so":46,"bo":12,"ask":16.78,"instant":-25.33,"taken":true,"shadow":true,"roi":6.63,"capital":253.21,"late":false}
 {"id":462,"t":1793574642652,"h":20,"at":1793575800000,"s":299.99,"b":253.2,"so":46,"bo":12,"ask":16.78,"instant":-25.33,"taken":true,"shadow":true,"roi":6.63,"capital":253.21,"late":false}
+{"id":420,"t":1793570475692,"h":120,"at":1793577600000,"s":424.92,"b":350.15,"so":7,"bo":20,"ask":21.33,"instant":-45.97,"taken":true,"shadow":true,"roi":5.91,"capital":361.1,"late":false}
+{"id":635,"t":1793570475692,"h":120,"at":1793577600000,"s":209.8,"b":164.18,"so":27,"bo":14,"ask":19.29,"instant":-21.77,"taken":true,"shadow":true,"roi":11.38,"capital":169.53,"late":false}
+{"id":60,"t":1793570475692,"h":120,"at":1793577600000,"s":798.99,"b":654.06,"so":22,"bo":1,"ask":19.06,"instant":-111.38,"taken":true,"shadow":true,"roi":2.72,"capital":700.03,"late":false}
+{"id":375,"t":1793570475692,"h":120,"at":1793577600000,"s":189.86,"b":150.73,"so":20,"bo":7,"ask":17.51,"instant":-17.7,"taken":true,"shadow":true,"roi":11.42,"capital":153.36,"late":false}
+{"id":462,"t":1793574642652,"h":30,"at":1793576400000,"s":299.99,"b":253.2,"so":46,"bo":12,"ask":16.78,"instant":-25.33,"taken":true,"shadow":true,"roi":6.63,"capital":253.21,"late":false}
+{"id":280,"t":1793575863721,"h":10,"at":1793576400000,"s":300,"b":271,"so":12,"bo":7,"ask":-3.33,"instant":-29.43,"taken":true,"shadow":true,"roi":-1.22,"capital":273.33,"late":false}
+{"id":280,"t":1793575863721,"h":20,"at":1793577000000,"s":300,"b":271,"so":13,"bo":7,"ask":-3.33,"instant":-29.43,"taken":true,"shadow":true,"roi":-1.22,"capital":273.33,"late":false}
+{"id":280,"t":1793575863721,"h":30,"at":1793577600000,"s":300,"b":271,"so":13,"bo":7,"ask":-3.33,"instant":-29.43,"taken":true,"shadow":true,"roi":-1.22,"capital":273.33,"late":false}

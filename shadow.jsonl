@@ -463,3 +463,5 @@
 {"id":625,"name":"Затворник (пов.)","t":1793571642530,"sale":182.02,"ref":219.95,"profit":15.93,"roi":8.75,"bo":15,"so":16,"buy":182.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":462,"name":"Шабаш","t":1793574642652,"sale":253.21,"ref":299.99,"profit":16.78,"roi":6.63,"bo":13,"so":47,"buy":253.2,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":280,"name":"Яогуай","t":1793575863721,"sale":273.33,"ref":317.9,"profit":12.78,"roi":4.68,"bo":7,"so":12,"buy":271,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":610,"name":"Увабаки (пов.)","t":1793577678079,"sale":227.29,"ref":280,"profit":24.71,"roi":10.87,"bo":4,"so":76,"buy":216.33,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":24,"name":"Инферно","t":1793577678079,"sale":1076.59,"ref":1222.23,"profit":23.42,"roi":2.18,"bo":1,"so":16,"buy":1018.33,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
