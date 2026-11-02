@@ -484,3 +484,6 @@
 {"id":568,"name":"Верификатор","t":1793614241418,"sale":122.3,"ref":149,"profit":11.8,"roi":9.65,"bo":30,"so":9,"buy":122.2,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":320,"name":"ПУ13 Уравнитель","t":1793620244509,"sale":335.91,"ref":400,"profit":24.09,"roi":7.17,"bo":24,"so":12,"buy":306.34,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":184,"name":"Исполин","t":1793623251535,"sale":149.84,"ref":185,"profit":16.66,"roi":11.12,"bo":7,"so":41,"buy":149.29,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":328,"name":"Люцифер","t":1793625645062,"sale":2543.01,"ref":2849.91,"profit":21.91,"roi":0.86,"bo":26,"so":11,"buy":2540.1,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":309,"name":"Синус-0","t":1793625645062,"sale":95.57,"ref":122.58,"profit":14.75,"roi":15.44,"bo":6,"so":7,"buy":93.1,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":274,"name":"Испепелитель","t":1793625645062,"sale":260.13,"ref":300.5,"profit":10.32,"roi":3.97,"bo":11,"so":31,"buy":260.12,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
