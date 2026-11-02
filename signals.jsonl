@@ -346,3 +346,4 @@
 {"id":324,"name":"Буран","t":1793615474675,"sale":780.04,"ref":929.89,"profit":56.86,"roi":7.29,"bo":13,"so":25,"buy":780,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":34,"name":"КБШ Воин","t":1793616047671,"sale":1600,"ref":1849.99,"profit":64.99,"roi":4.06,"bo":2,"so":8,"buy":1572.03,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":439,"name":"Драйвер","t":1793616049119,"sale":893,"ref":1042,"profit":44.8,"roi":5.02,"bo":12,"so":24,"buy":892,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":536,"name":"Мясорубка","t":1793616645405,"sale":253,"ref":309.98,"profit":25.98,"roi":10.27,"bo":22,"so":38,"buy":252.5,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
