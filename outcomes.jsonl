@@ -4377,3 +4377,11 @@
 {"id":635,"t":1793645447264,"h":20,"at":1793646600000,"s":207.85,"b":163.41,"so":20,"bo":4,"ask":12.06,"instant":-27.93,"taken":true,"shadow":true,"roi":6.89,"capital":175,"late":false}
 {"id":296,"t":1793645447264,"h":20,"at":1793646600000,"s":225.57,"b":191.03,"so":48,"bo":39,"ask":11.96,"instant":-19.12,"taken":true,"shadow":true,"roi":6.26,"capital":191.05,"late":false}
 {"id":529,"t":1793646642289,"h":10,"at":1793647200000,"s":88.02,"b":82.15,"so":20,"bo":2,"ask":-8.8,"instant":-14.08,"taken":false,"shadow":true,"roi":-10,"capital":88.02,"late":false}
+{"id":283,"t":1793644268257,"h":60,"at":1793647800000,"s":1258.99,"b":1062.03,"so":10,"bo":5,"ask":52.54,"instant":-124.72,"taken":true,"shadow":false,"roi":4.86,"capital":1080.55,"late":false}
+{"id":171,"t":1793640059220,"h":120,"at":1793647200000,"s":188.47,"b":160,"so":15,"bo":34,"ask":12.03,"instant":-13.59,"taken":true,"shadow":true,"roi":7.64,"capital":157.59,"late":false}
+{"id":375,"t":1793640059220,"h":120,"at":1793647200000,"s":184.9,"b":145.03,"so":27,"bo":3,"ask":16.24,"instant":-19.64,"taken":true,"shadow":true,"roi":10.81,"capital":150.17,"late":false}
+{"id":635,"t":1793645447264,"h":30,"at":1793647200000,"s":207.85,"b":163.41,"so":20,"bo":4,"ask":12.06,"instant":-27.93,"taken":true,"shadow":true,"roi":6.89,"capital":175,"late":false}
+{"id":296,"t":1793645447264,"h":30,"at":1793647200000,"s":225.55,"b":191.03,"so":50,"bo":39,"ask":11.94,"instant":-19.12,"taken":true,"shadow":true,"roi":6.25,"capital":191.05,"late":false}
+{"id":529,"t":1793646642289,"h":20,"at":1793647800000,"s":111.6,"b":82.15,"so":23,"bo":2,"ask":12.42,"instant":-14.08,"taken":true,"shadow":true,"roi":14.11,"capital":88.02,"late":false}
+{"id":349,"t":1793647244662,"h":10,"at":1793647800000,"s":2401.03,"b":2360.13,"so":20,"bo":8,"ask":-240.1,"instant":-276.91,"taken":false,"shadow":true,"roi":-10,"capital":2401.03,"late":false}
+{"id":1449,"t":1793647244662,"h":10,"at":1793647800000,"s":800,"b":701,"so":34,"bo":22,"ask":10,"instant":-79.1,"taken":true,"shadow":true,"roi":1.41,"capital":710,"late":false}

@@ -373,3 +373,5 @@
 {"id":482,"name":"Мигалка","t":1793641843782,"sale":219.23,"ref":282.98,"profit":35.45,"roi":16.17,"bo":2,"so":17,"buy":219.19,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":46,"name":"Марс","t":1793643043054,"sale":2700,"ref":3141.09,"profit":126.98,"roi":4.7,"bo":10,"so":2,"buy":2506.14,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":283,"name":"Горыныч","t":1793644268257,"sale":1080.55,"ref":1258.99,"profit":52.54,"roi":4.86,"bo":6,"so":11,"buy":1063,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":96,"name":"«Кукарача»","t":1793647871777,"sale":1821.95,"ref":2288.85,"profit":238.02,"roi":13.06,"bo":1,"so":3,"buy":1631.52,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":642,"name":"Низкий просвет (пов.)","t":1793647873289,"sale":850,"ref":994.43,"profit":44.99,"roi":5.29,"bo":27,"so":24,"buy":737.06,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
