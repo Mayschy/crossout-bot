@@ -379,3 +379,4 @@
 {"id":296,"name":"АП62 Терм","t":1793650246592,"sale":177.08,"ref":224.99,"profit":25.41,"roi":14.35,"bo":10,"so":29,"buy":175.8,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":276,"name":"Циклон","t":1793651475587,"sale":350,"ref":429.99,"profit":36.99,"roi":10.57,"bo":12,"so":17,"buy":335.42,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":357,"name":"Молотобой","t":1793651477462,"sale":1000,"ref":1140,"profit":26,"roi":2.6,"bo":6,"so":43,"buy":965.04,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":279,"name":"Иглобрюх","t":1793654443186,"sale":750.02,"ref":869.97,"profit":32.95,"roi":4.39,"bo":17,"so":76,"buy":750.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
