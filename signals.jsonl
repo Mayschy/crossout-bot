@@ -343,3 +343,4 @@
 {"id":420,"name":"Гнездо","t":1793602880435,"sale":370.02,"ref":441.48,"profit":27.31,"roi":7.38,"bo":21,"so":8,"buy":370.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1100,"name":"Леденец","t":1793607649741,"sale":869.61,"ref":1060,"profit":84.39,"roi":9.7,"bo":2,"so":3,"buy":777.79,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":276,"name":"Циклон","t":1793613052543,"sale":350,"ref":420,"profit":28,"roi":8,"bo":5,"so":19,"buy":343.02,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":324,"name":"Буран","t":1793615474675,"sale":780.04,"ref":929.89,"profit":56.86,"roi":7.29,"bo":13,"so":25,"buy":780,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
