@@ -511,3 +511,4 @@
 {"id":375,"name":"Аврора","t":1793640059220,"sale":150.17,"ref":180,"profit":11.83,"roi":7.88,"bo":2,"so":33,"buy":143.64,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":349,"name":"Тритон","t":1793643042480,"sale":2401.04,"ref":2689.99,"profit":19.95,"roi":0.83,"bo":9,"so":21,"buy":2401.03,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1793643042480,"sale":162,"ref":194.07,"profit":12.66,"roi":7.82,"bo":15,"so":9,"buy":161.2,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":529,"name":"Циркулярка","t":1793644846665,"sale":91.01,"ref":113.97,"profit":11.56,"roi":12.71,"bo":4,"so":22,"buy":90.03,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
