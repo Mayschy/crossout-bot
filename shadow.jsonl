@@ -479,3 +479,4 @@
 {"id":248,"name":"Обвинитель 76мм","t":1793607048186,"sale":97.08,"ref":118.99,"profit":10.01,"roi":10.31,"bo":20,"so":13,"buy":97.06,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":373,"name":"Гелиос","t":1793607647317,"sale":1830,"ref":2060,"profit":24,"roi":1.31,"bo":25,"so":8,"buy":1711,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":393,"name":"Первобытный ужас","t":1793608844405,"sale":91.89,"ref":116.2,"profit":12.69,"roi":13.81,"bo":1,"so":2,"buy":79.7,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1464,"name":"Икар I","t":1793611242488,"sale":373.34,"ref":434.1,"profit":17.35,"roi":4.65,"bo":13,"so":54,"buy":373.33,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
