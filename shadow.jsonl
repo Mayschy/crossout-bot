@@ -496,3 +496,5 @@
 {"id":495,"name":"Фалко","t":1793629872661,"sale":87.89,"ref":109.5,"profit":10.66,"roi":12.13,"bo":4,"so":11,"buy":87.56,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1151,"name":"Бетонная балка 6×30×6","t":1793629872661,"sale":30,"ref":44.79,"profit":10.31,"roi":34.37,"bo":0,"so":17,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1464,"name":"Икар I","t":1793631045571,"sale":370,"ref":434.96,"profit":21.46,"roi":5.8,"bo":13,"so":47,"buy":360.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":385,"name":"Фортуна","t":1793632246557,"sale":1880,"ref":2104.99,"profit":14.49,"roi":0.77,"bo":17,"so":9,"buy":1726.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":347,"name":"Гром","t":1793632246557,"sale":145,"ref":174.89,"profit":12.4,"roi":8.55,"bo":2,"so":27,"buy":138.54,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

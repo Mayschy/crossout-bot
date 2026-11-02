@@ -358,3 +358,4 @@
 {"id":3773,"name":"Большой и меткий","t":1793630453937,"sale":12.6,"ref":3128.4,"profit":2802.96,"roi":22245.71,"bo":0,"so":6,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":585,"name":"Файер «Фингал»","t":1793630465182,"sale":373.36,"ref":471.98,"profit":51.42,"roi":13.77,"bo":1,"so":4,"buy":373.22,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":259,"name":"Компилятор","t":1793631046193,"sale":3000.99,"ref":3648.99,"profit":283.1,"roi":9.43,"bo":6,"so":11,"buy":3000,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":380,"name":"Искра III","t":1793632247248,"sale":1640.01,"ref":1898.99,"profit":69.08,"roi":4.21,"bo":7,"so":23,"buy":1640,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
