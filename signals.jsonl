@@ -369,3 +369,5 @@
 {"id":66,"name":"Саранча","t":1793636452357,"sale":184.59,"ref":234,"profit":26.01,"roi":14.09,"bo":11,"so":17,"buy":184.58,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":453,"name":"Мириада","t":1793638889010,"sale":450.8,"ref":550,"profit":44.2,"roi":9.8,"bo":4,"so":50,"buy":450.78,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":384,"name":"Дзюбокко","t":1793638890925,"sale":1200,"ref":1370,"profit":33,"roi":2.75,"bo":16,"so":8,"buy":1100.99,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3758,"name":"Царица","t":1793641842449,"sale":5248.31,"ref":6657,"profit":742.99,"roi":14.16,"bo":3,"so":20,"buy":5237.01,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":482,"name":"Мигалка","t":1793641843782,"sale":219.23,"ref":282.98,"profit":35.45,"roi":16.17,"bo":2,"so":17,"buy":219.19,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
