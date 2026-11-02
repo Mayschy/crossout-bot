@@ -468,3 +468,6 @@
 {"id":1331,"name":"Шаблон: Молния","t":1793584879147,"sale":120.59,"ref":145.59,"profit":10.44,"roi":8.66,"bo":2,"so":4,"buy":104.48,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1048,"name":"Сажа","t":1793587243564,"sale":106.02,"ref":136.15,"profit":16.52,"roi":15.58,"bo":0,"so":3,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1793589044577,"sale":146.99,"ref":175,"profit":10.51,"roi":7.15,"bo":2,"so":33,"buy":138.54,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3756,"name":"Ревун","t":1793594444667,"sale":239.99,"ref":294.03,"profit":24.64,"roi":10.27,"bo":3,"so":2,"buy":200,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":577,"name":"Гусеница бронированная","t":1793594444667,"sale":340,"ref":397.98,"profit":18.18,"roi":5.35,"bo":24,"so":24,"buy":335,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":252,"name":"ЗИС-34 Толстяк","t":1793594444667,"sale":237.51,"ref":280,"profit":14.49,"roi":6.1,"bo":23,"so":14,"buy":224.1,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
