@@ -334,3 +334,4 @@
 {"id":3773,"name":"Большой и меткий","t":1793563279971,"sale":10.99,"ref":3128.4,"profit":2804.57,"roi":25519.29,"bo":0,"so":9,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":326,"name":"Вальс","t":1793566244343,"sale":1700,"ref":1938.17,"profit":44.35,"roi":2.61,"bo":10,"so":3,"buy":1500.52,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":557,"name":"Снежинка","t":1793577679373,"sale":270.49,"ref":355.42,"profit":49.39,"roi":18.26,"bo":0,"so":5,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":610,"name":"Увабаки (пов.)","t":1793580641678,"sale":218.16,"ref":280,"profit":33.84,"roi":15.51,"bo":4,"so":70,"buy":216.33,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
