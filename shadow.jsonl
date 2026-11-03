@@ -537,3 +537,4 @@
 {"id":578,"name":"Гусеница укрепленная","t":1793665870410,"sale":134.23,"ref":165,"profit":14.27,"roi":10.63,"bo":40,"so":14,"buy":133.05,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":438,"name":"РН-М Дино","t":1793666441573,"sale":980,"ref":1100,"profit":10,"roi":1.02,"bo":8,"so":21,"buy":960,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":268,"name":"Жнец","t":1793672440466,"sale":1920,"ref":2147,"profit":12.3,"roi":0.64,"bo":9,"so":21,"buy":1855.01,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":181,"name":"Гепард","t":1793673067032,"sale":150,"ref":179,"profit":11.1,"roi":7.4,"bo":29,"so":8,"buy":145.48,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
