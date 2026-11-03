@@ -387,3 +387,4 @@
 {"id":290,"name":"Тошнитель","t":1793661646670,"sale":1610.01,"ref":1839,"profit":45.09,"roi":2.8,"bo":8,"so":14,"buy":1551.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":671,"name":"Крепыш","t":1793670044534,"sale":2997.74,"ref":3399.98,"profit":62.24,"roi":2.08,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":335,"name":"Триггер","t":1793671846811,"sale":170.86,"ref":225.04,"profit":31.68,"roi":18.54,"bo":13,"so":3,"buy":167.91,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":642,"name":"Низкий просвет (пов.)","t":1793674245733,"sale":737.04,"ref":850,"profit":27.96,"roi":3.79,"bo":14,"so":23,"buy":737,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
