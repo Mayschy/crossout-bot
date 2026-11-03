@@ -554,3 +554,4 @@
 {"id":480,"name":"Тати","t":1793708444604,"sale":327.85,"ref":389.99,"profit":23.14,"roi":7.06,"bo":5,"so":12,"buy":324.95,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":184,"name":"Исполин","t":1793708444604,"sale":130.56,"ref":160.46,"profit":13.85,"roi":10.61,"bo":1,"so":43,"buy":129.56,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1455,"name":"Обугленный металл","t":1793708444604,"sale":15.03,"ref":29.89,"profit":11.87,"roi":78.98,"bo":3,"so":2,"buy":15.02,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":112,"name":"Рвач","t":1793709064878,"sale":125.67,"ref":161.39,"profit":19.58,"roi":15.58,"bo":3,"so":12,"buy":125.06,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
