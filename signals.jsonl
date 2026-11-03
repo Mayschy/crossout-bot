@@ -406,3 +406,4 @@
 {"id":3757,"name":"УК-4 Гранит","t":1793715047501,"sale":866.19,"ref":997,"profit":31.11,"roi":3.59,"bo":0,"so":32,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":646,"name":"Атом","t":1793716845516,"sale":169.49,"ref":219.9,"profit":28.42,"roi":16.77,"bo":21,"so":28,"buy":166.55,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":377,"name":"Пульсар","t":1793719872753,"sale":1600,"ref":1850,"profit":65,"roi":4.06,"bo":4,"so":11,"buy":1580.01,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":445,"name":"Геррида I","t":1793720445809,"sale":740,"ref":874.96,"profit":47.46,"roi":6.41,"bo":2,"so":82,"buy":721.03,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
