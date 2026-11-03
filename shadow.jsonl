@@ -596,3 +596,4 @@
 {"id":184,"name":"Исполин","t":1793732509431,"sale":138.72,"ref":170,"profit":14.28,"roi":10.29,"bo":8,"so":41,"buy":131,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":615,"name":"Прихвостень","t":1793733055404,"sale":87.17,"ref":108.06,"profit":10.08,"roi":11.57,"bo":14,"so":15,"buy":86.35,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":652,"name":"Жутка","t":1793736647805,"sale":100,"ref":132.2,"profit":18.98,"roi":18.98,"bo":58,"so":4,"buy":95,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":54,"name":"Гарпия","t":1793741491248,"sale":350,"ref":402.02,"profit":11.82,"roi":3.38,"bo":11,"so":12,"buy":333.99,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
