@@ -400,3 +400,5 @@
 {"id":21,"name":"Сумрак","t":1793709646608,"sale":536,"ref":639.91,"profit":39.92,"roi":7.45,"bo":0,"so":15,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":439,"name":"Драйвер","t":1793710242231,"sale":886.7,"ref":1028,"profit":38.5,"roi":4.34,"bo":6,"so":36,"buy":885,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":260,"name":"Феникс","t":1793710244054,"sale":326.52,"ref":400,"profit":33.48,"roi":10.25,"bo":3,"so":13,"buy":302,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":564,"name":"Парис","t":1793714488316,"sale":547.73,"ref":727.94,"profit":107.42,"roi":19.61,"bo":2,"so":12,"buy":543.94,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":24,"name":"Инферно","t":1793714489808,"sale":1100,"ref":1285,"profit":56.5,"roi":5.14,"bo":19,"so":14,"buy":1080.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
