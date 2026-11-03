@@ -402,3 +402,5 @@
 {"id":260,"name":"Феникс","t":1793710244054,"sale":326.52,"ref":400,"profit":33.48,"roi":10.25,"bo":3,"so":13,"buy":302,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":564,"name":"Парис","t":1793714488316,"sale":547.73,"ref":727.94,"profit":107.42,"roi":19.61,"bo":2,"so":12,"buy":543.94,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":24,"name":"Инферно","t":1793714489808,"sale":1100,"ref":1285,"profit":56.5,"roi":5.14,"bo":19,"so":14,"buy":1080.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":439,"name":"Драйвер","t":1793715045437,"sale":875.67,"ref":1027.95,"profit":49.49,"roi":5.65,"bo":3,"so":25,"buy":871,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3757,"name":"УК-4 Гранит","t":1793715047501,"sale":866.19,"ref":997,"profit":31.11,"roi":3.59,"bo":0,"so":32,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
