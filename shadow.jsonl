@@ -586,3 +586,7 @@
 {"id":327,"name":"Ёкай","t":1793727659830,"sale":669.01,"ref":769.97,"profit":23.96,"roi":3.58,"bo":4,"so":25,"buy":645.35,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":254,"name":"ЗИС-33 Верзила","t":1793727659830,"sale":84.96,"ref":113.98,"profit":17.62,"roi":20.74,"bo":0,"so":32,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":255,"name":"Малыш 6Ф","t":1793727659830,"sale":19.55,"ref":34.45,"profit":11.46,"roi":58.59,"bo":0,"so":27,"buy":0,"act":10,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1301,"name":"Темное золото","t":1793728904395,"sale":124.2,"ref":157.2,"profit":17.28,"roi":13.91,"bo":1,"so":3,"buy":123.88,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":494,"name":"НВ-2 Клён","t":1793728904395,"sale":486,"ref":559.07,"profit":17.16,"roi":3.53,"bo":17,"so":24,"buy":481.02,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":484,"name":"ЭУ-1 Заряд","t":1793728904395,"sale":85.95,"ref":112,"profit":14.85,"roi":17.28,"bo":8,"so":7,"buy":82.6,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":350,"name":"Гоблин","t":1793728904395,"sale":68.75,"ref":92.69,"profit":14.67,"roi":21.34,"bo":0,"so":26,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
