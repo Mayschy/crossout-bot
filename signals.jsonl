@@ -417,3 +417,4 @@
 {"id":253,"name":"ЗИС-46 Мамонт","t":1793733056137,"sale":1500,"ref":1699.69,"profit":29.72,"roi":1.98,"bo":11,"so":11,"buy":1452.15,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":444,"name":"МН-Л 200","t":1793733057947,"sale":371.02,"ref":443.93,"profit":28.52,"roi":7.69,"bo":15,"so":25,"buy":370,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":642,"name":"Низкий просвет (пов.)","t":1793733688229,"sale":683.01,"ref":990,"profit":207.99,"roi":30.45,"bo":20,"so":40,"buy":683,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":253,"name":"ЗИС-46 Мамонт","t":1793737869764,"sale":1452.15,"ref":1689.99,"profit":68.84,"roi":4.74,"bo":9,"so":15,"buy":1452.14,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
