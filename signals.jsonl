@@ -388,3 +388,4 @@
 {"id":671,"name":"Крепыш","t":1793670044534,"sale":2997.74,"ref":3399.98,"profit":62.24,"roi":2.08,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":335,"name":"Триггер","t":1793671846811,"sale":170.86,"ref":225.04,"profit":31.68,"roi":18.54,"bo":13,"so":3,"buy":167.91,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":642,"name":"Низкий просвет (пов.)","t":1793674245733,"sale":737.04,"ref":850,"profit":27.96,"roi":3.79,"bo":14,"so":23,"buy":737,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1163,"name":"Рампа с платформой 12×12×3","t":1793675447738,"sale":40.31,"ref":120,"profit":67.69,"roi":167.92,"bo":0,"so":40,"buy":0,"act":8,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
