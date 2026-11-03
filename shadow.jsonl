@@ -569,3 +569,4 @@
 {"id":606,"name":"Титан (пов.)","t":1793718088704,"sale":155.66,"ref":197.97,"profit":22.51,"roi":14.46,"bo":5,"so":48,"buy":153.16,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":321,"name":"Мельник","t":1793718088704,"sale":412,"ref":479.9,"profit":19.91,"roi":4.83,"bo":16,"so":32,"buy":411,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":465,"name":"Счетчик урона","t":1793718088704,"sale":258.52,"ref":306.48,"profit":17.31,"roi":6.7,"bo":2,"so":33,"buy":258.5,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":40,"name":"Пилигрим","t":1793718647388,"sale":95.58,"ref":119.43,"profit":11.91,"roi":12.46,"bo":4,"so":7,"buy":95.03,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
