@@ -550,3 +550,4 @@
 {"id":350,"name":"Гоблин","t":1793697647040,"sale":73.25,"ref":95.96,"profit":13.11,"roi":17.9,"bo":3,"so":21,"buy":72.13,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1400,"name":"Маска смерти","t":1793701244632,"sale":178.1,"ref":216.38,"profit":16.64,"roi":9.34,"bo":1,"so":4,"buy":157.48,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":93,"name":"Онгаку","t":1793701864830,"sale":200.27,"ref":248.78,"profit":23.63,"roi":11.8,"bo":1,"so":14,"buy":195.42,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":358,"name":"Булава","t":1793705466994,"sale":89.07,"ref":114.99,"profit":14.42,"roi":16.19,"bo":29,"so":15,"buy":88.53,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
