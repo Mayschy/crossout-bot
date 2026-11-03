@@ -392,3 +392,4 @@
 {"id":3745,"name":"Вендетта","t":1793679042205,"sale":2355.75,"ref":2658.5,"profit":36.9,"roi":1.57,"bo":9,"so":30,"buy":2147.11,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":306,"name":"Гунгнир","t":1793680274469,"sale":284.21,"ref":351.71,"profit":32.33,"roi":11.38,"bo":3,"so":8,"buy":284.2,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":35,"name":"Призрак","t":1793682082791,"sale":600,"ref":711.89,"profit":40.7,"roi":6.78,"bo":8,"so":5,"buy":561.1,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":324,"name":"Буран","t":1793687465146,"sale":790.05,"ref":924,"profit":41.55,"roi":5.26,"bo":10,"so":34,"buy":790.04,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}

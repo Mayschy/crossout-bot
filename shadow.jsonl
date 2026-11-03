@@ -542,3 +542,4 @@
 {"id":184,"name":"Исполин","t":1793679041642,"sale":130.87,"ref":162,"profit":14.93,"roi":11.41,"bo":0,"so":43,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":465,"name":"Счетчик урона","t":1793679643069,"sale":258.5,"ref":306.93,"profit":17.74,"roi":6.86,"bo":2,"so":17,"buy":253.58,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1793686845306,"sale":162,"ref":199.98,"profit":17.98,"roi":11.1,"bo":14,"so":14,"buy":161.15,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":23,"name":"Маниту","t":1793687464591,"sale":430.05,"ref":500,"profit":19.95,"roi":4.64,"bo":11,"so":16,"buy":420.06,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
