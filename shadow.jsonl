@@ -590,3 +590,4 @@
 {"id":494,"name":"НВ-2 Клён","t":1793728904395,"sale":486,"ref":559.07,"profit":17.16,"roi":3.53,"bo":17,"so":24,"buy":481.02,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":484,"name":"ЭУ-1 Заряд","t":1793728904395,"sale":85.95,"ref":112,"profit":14.85,"roi":17.28,"bo":8,"so":7,"buy":82.6,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":350,"name":"Гоблин","t":1793728904395,"sale":68.75,"ref":92.69,"profit":14.67,"roi":21.34,"bo":0,"so":26,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":495,"name":"Фалко","t":1793730081198,"sale":86.23,"ref":108,"profit":10.97,"roi":12.72,"bo":3,"so":11,"buy":86.22,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
