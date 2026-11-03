@@ -599,3 +599,4 @@
 {"id":54,"name":"Гарпия","t":1793741491248,"sale":350,"ref":402.02,"profit":11.82,"roi":3.38,"bo":11,"so":12,"buy":333.99,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1793742645917,"sale":221.08,"ref":264,"profit":16.52,"roi":7.47,"bo":22,"so":17,"buy":221,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":710,"name":"Расширение склада","t":1793742645917,"sale":290,"ref":338.97,"profit":15.07,"roi":5.2,"bo":25,"so":24,"buy":270,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":508,"name":"РЛС-2 Чуткий","t":1793744446455,"sale":340,"ref":389.9,"profit":10.91,"roi":3.21,"bo":10,"so":16,"buy":325.89,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
