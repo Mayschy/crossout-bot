@@ -390,3 +390,4 @@
 {"id":642,"name":"Низкий просвет (пов.)","t":1793674245733,"sale":737.04,"ref":850,"profit":27.96,"roi":3.79,"bo":14,"so":23,"buy":737,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1163,"name":"Рампа с платформой 12×12×3","t":1793675447738,"sale":40.31,"ref":120,"profit":67.69,"roi":167.92,"bo":0,"so":40,"buy":0,"act":8,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3745,"name":"Вендетта","t":1793679042205,"sale":2355.75,"ref":2658.5,"profit":36.9,"roi":1.57,"bo":9,"so":30,"buy":2147.11,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":306,"name":"Гунгнир","t":1793680274469,"sale":284.21,"ref":351.71,"profit":32.33,"roi":11.38,"bo":3,"so":8,"buy":284.2,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
