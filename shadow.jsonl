@@ -591,3 +591,5 @@
 {"id":484,"name":"ЭУ-1 Заряд","t":1793728904395,"sale":85.95,"ref":112,"profit":14.85,"roi":17.28,"bo":8,"so":7,"buy":82.6,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":350,"name":"Гоблин","t":1793728904395,"sale":68.75,"ref":92.69,"profit":14.67,"roi":21.34,"bo":0,"so":26,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1793730081198,"sale":86.23,"ref":108,"profit":10.97,"roi":12.72,"bo":3,"so":11,"buy":86.22,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":463,"name":"Отшельник","t":1793731252071,"sale":766,"ref":874.15,"profit":20.74,"roi":2.71,"bo":12,"so":5,"buy":751,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":251,"name":"Райдзин","t":1793731252071,"sale":700,"ref":789.95,"profit":10.96,"roi":1.57,"bo":20,"so":27,"buy":650,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
