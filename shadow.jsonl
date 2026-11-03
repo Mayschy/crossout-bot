@@ -583,3 +583,6 @@
 {"id":486,"name":"Ампер","t":1793726457393,"sale":84.31,"ref":108.97,"profit":13.76,"roi":16.32,"bo":0,"so":35,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":460,"name":"Топливный бак","t":1793726457393,"sale":23.09,"ref":39.27,"profit":12.25,"roi":53.07,"bo":10,"so":17,"buy":22.8,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":568,"name":"Верификатор","t":1793726457393,"sale":122.07,"ref":147.9,"profit":11.04,"roi":9.04,"bo":18,"so":9,"buy":122.05,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":327,"name":"Ёкай","t":1793727659830,"sale":669.01,"ref":769.97,"profit":23.96,"roi":3.58,"bo":4,"so":25,"buy":645.35,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":254,"name":"ЗИС-33 Верзила","t":1793727659830,"sale":84.96,"ref":113.98,"profit":17.62,"roi":20.74,"bo":0,"so":32,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":255,"name":"Малыш 6Ф","t":1793727659830,"sale":19.55,"ref":34.45,"profit":11.46,"roi":58.59,"bo":0,"so":27,"buy":0,"act":10,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
