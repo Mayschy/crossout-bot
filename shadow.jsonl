@@ -577,3 +577,4 @@
 {"id":362,"name":"Кавказ","t":1793720445114,"sale":231.65,"ref":279.98,"profit":20.33,"roi":8.78,"bo":0,"so":61,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":9,"name":"Джаннаби","t":1793720445114,"sale":300,"ref":349.89,"profit":14.9,"roi":4.97,"bo":37,"so":10,"buy":285,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":555,"name":"Бум","t":1793720445114,"sale":85.03,"ref":105.96,"profit":10.33,"roi":12.15,"bo":9,"so":13,"buy":84.21,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1385,"name":"Призрачный холод","t":1793721046563,"sale":47.87,"ref":66.57,"profit":12.04,"roi":25.16,"bo":0,"so":3,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
