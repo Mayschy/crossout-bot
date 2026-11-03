@@ -535,3 +535,4 @@
 {"id":704,"name":"Хранилище чертежей","t":1793662069103,"sale":148.97,"ref":177.43,"profit":10.72,"roi":7.19,"bo":23,"so":36,"buy":140.17,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":296,"name":"АП62 Терм","t":1793665870410,"sale":175.84,"ref":222.21,"profit":24.15,"roi":13.73,"bo":12,"so":34,"buy":175.83,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":578,"name":"Гусеница укрепленная","t":1793665870410,"sale":134.23,"ref":165,"profit":14.27,"roi":10.63,"bo":40,"so":14,"buy":133.05,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":438,"name":"РН-М Дино","t":1793666441573,"sale":980,"ref":1100,"profit":10,"roi":1.02,"bo":8,"so":21,"buy":960,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
