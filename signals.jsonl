@@ -404,3 +404,4 @@
 {"id":24,"name":"Инферно","t":1793714489808,"sale":1100,"ref":1285,"profit":56.5,"roi":5.14,"bo":19,"so":14,"buy":1080.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":439,"name":"Драйвер","t":1793715045437,"sale":875.67,"ref":1027.95,"profit":49.49,"roi":5.65,"bo":3,"so":25,"buy":871,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3757,"name":"УК-4 Гранит","t":1793715047501,"sale":866.19,"ref":997,"profit":31.11,"roi":3.59,"bo":0,"so":32,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":646,"name":"Атом","t":1793716845516,"sale":169.49,"ref":219.9,"profit":28.42,"roi":16.77,"bo":21,"so":28,"buy":166.55,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
