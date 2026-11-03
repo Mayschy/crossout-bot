@@ -559,3 +559,6 @@
 {"id":113,"name":"Терзатель","t":1793710241529,"sale":180,"ref":217.77,"profit":15.99,"roi":8.89,"bo":6,"so":12,"buy":173.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":376,"name":"Квазар","t":1793710241529,"sale":157.5,"ref":189.98,"profit":13.48,"roi":8.56,"bo":1,"so":18,"buy":152.43,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1385,"name":"Призрачный холод","t":1793710241529,"sale":47.89,"ref":66.57,"profit":12.02,"roi":25.11,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":514,"name":"Ядро","t":1793710885583,"sale":208.44,"ref":248.98,"profit":15.64,"roi":7.5,"bo":0,"so":13,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":568,"name":"Верификатор","t":1793710885583,"sale":122.5,"ref":151.74,"profit":14.07,"roi":11.48,"bo":27,"so":4,"buy":122.05,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3764,"name":"Громила","t":1793710885583,"sale":451.09,"ref":514.9,"profit":12.32,"roi":2.73,"bo":9,"so":51,"buy":451.04,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
