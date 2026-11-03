@@ -604,3 +604,4 @@
 {"id":486,"name":"Ампер","t":1793746242453,"sale":82.54,"ref":105.72,"profit":12.61,"roi":15.28,"bo":9,"so":36,"buy":82.02,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":440,"name":"Фламинго","t":1793746242453,"sale":103.03,"ref":127.29,"profit":11.53,"roi":11.19,"bo":7,"so":32,"buy":103.02,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":606,"name":"Титан (пов.)","t":1793746886806,"sale":160,"ref":189.95,"profit":10.95,"roi":6.85,"bo":16,"so":58,"buy":155.66,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":353,"name":"Самопал","t":1793747441919,"sale":75.65,"ref":100.78,"profit":15.05,"roi":19.9,"bo":12,"so":11,"buy":75.09,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
