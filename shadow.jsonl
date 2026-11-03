@@ -556,3 +556,6 @@
 {"id":1455,"name":"Обугленный металл","t":1793708444604,"sale":15.03,"ref":29.89,"profit":11.87,"roi":78.98,"bo":3,"so":2,"buy":15.02,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":112,"name":"Рвач","t":1793709064878,"sale":125.67,"ref":161.39,"profit":19.58,"roi":15.58,"bo":3,"so":12,"buy":125.06,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":289,"name":"Дробитель","t":1793709645850,"sale":350,"ref":409.99,"profit":18.99,"roi":5.43,"bo":1,"so":32,"buy":342,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":113,"name":"Терзатель","t":1793710241529,"sale":180,"ref":217.77,"profit":15.99,"roi":8.89,"bo":6,"so":12,"buy":173.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":376,"name":"Квазар","t":1793710241529,"sale":157.5,"ref":189.98,"profit":13.48,"roi":8.56,"bo":1,"so":18,"buy":152.43,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1385,"name":"Призрачный холод","t":1793710241529,"sale":47.89,"ref":66.57,"profit":12.02,"roi":25.11,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

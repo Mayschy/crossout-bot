@@ -398,3 +398,5 @@
 {"id":273,"name":"В-37-39 Адаптер","t":1793705467904,"sale":422.07,"ref":527.22,"profit":52.43,"roi":12.42,"bo":11,"so":16,"buy":422.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":564,"name":"Парис","t":1793706642305,"sale":576,"ref":700.98,"profit":54.88,"roi":9.53,"bo":1,"so":19,"buy":549.43,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":21,"name":"Сумрак","t":1793709646608,"sale":536,"ref":639.91,"profit":39.92,"roi":7.45,"bo":0,"so":15,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":439,"name":"Драйвер","t":1793710242231,"sale":886.7,"ref":1028,"profit":38.5,"roi":4.34,"bo":6,"so":36,"buy":885,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":260,"name":"Феникс","t":1793710244054,"sale":326.52,"ref":400,"profit":33.48,"roi":10.25,"bo":3,"so":13,"buy":302,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
