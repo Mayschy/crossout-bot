@@ -564,3 +564,4 @@
 {"id":3764,"name":"Громила","t":1793710885583,"sale":451.09,"ref":514.9,"profit":12.32,"roi":2.73,"bo":9,"so":51,"buy":451.04,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":306,"name":"Гунгнир","t":1793714487552,"sale":300,"ref":353.73,"profit":18.36,"roi":6.12,"bo":11,"so":7,"buy":291.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":420,"name":"Гнездо","t":1793714487552,"sale":369,"ref":429.92,"profit":17.93,"roi":4.86,"bo":13,"so":17,"buy":351.27,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":562,"name":"Гироскоп","t":1793715647326,"sale":343,"ref":399.98,"profit":16.98,"roi":4.95,"bo":1,"so":15,"buy":339,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
