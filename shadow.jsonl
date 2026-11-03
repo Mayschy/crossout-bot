@@ -595,3 +595,4 @@
 {"id":251,"name":"Райдзин","t":1793731252071,"sale":700,"ref":789.95,"profit":10.96,"roi":1.57,"bo":20,"so":27,"buy":650,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":184,"name":"Исполин","t":1793732509431,"sale":138.72,"ref":170,"profit":14.28,"roi":10.29,"bo":8,"so":41,"buy":131,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":615,"name":"Прихвостень","t":1793733055404,"sale":87.17,"ref":108.06,"profit":10.08,"roi":11.57,"bo":14,"so":15,"buy":86.35,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":652,"name":"Жутка","t":1793736647805,"sale":100,"ref":132.2,"profit":18.98,"roi":18.98,"bo":58,"so":4,"buy":95,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
