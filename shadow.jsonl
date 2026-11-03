@@ -551,3 +551,6 @@
 {"id":1400,"name":"Маска смерти","t":1793701244632,"sale":178.1,"ref":216.38,"profit":16.64,"roi":9.34,"bo":1,"so":4,"buy":157.48,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":93,"name":"Онгаку","t":1793701864830,"sale":200.27,"ref":248.78,"profit":23.63,"roi":11.8,"bo":1,"so":14,"buy":195.42,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":358,"name":"Булава","t":1793705466994,"sale":89.07,"ref":114.99,"profit":14.42,"roi":16.19,"bo":29,"so":15,"buy":88.53,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":480,"name":"Тати","t":1793708444604,"sale":327.85,"ref":389.99,"profit":23.14,"roi":7.06,"bo":5,"so":12,"buy":324.95,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":184,"name":"Исполин","t":1793708444604,"sale":130.56,"ref":160.46,"profit":13.85,"roi":10.61,"bo":1,"so":43,"buy":129.56,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1455,"name":"Обугленный металл","t":1793708444604,"sale":15.03,"ref":29.89,"profit":11.87,"roi":78.98,"bo":3,"so":2,"buy":15.02,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
