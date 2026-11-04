@@ -637,3 +637,4 @@
 {"id":184,"name":"Исполин","t":1793782888056,"sale":131.65,"ref":159.97,"profit":12.32,"roi":9.36,"bo":4,"so":41,"buy":130.56,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1212,"name":"Плазменное кольцо","t":1793783442961,"sale":48.5,"ref":80,"profit":23.5,"roi":48.45,"bo":1,"so":11,"buy":48.49,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":438,"name":"РН-М Дино","t":1793783442961,"sale":961.09,"ref":1090,"profit":19.91,"roi":2.07,"bo":10,"so":19,"buy":961.06,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":67,"name":"Цикада","t":1793785848477,"sale":2250,"ref":2515,"profit":13.5,"roi":0.6,"bo":11,"so":10,"buy":2125,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
