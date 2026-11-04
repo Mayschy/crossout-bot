@@ -465,3 +465,9 @@
 {"id":276,"name":"Циклон","t":1793811689843,"sale":350.04,"ref":417.94,"profit":26.11,"roi":7.46,"bo":10,"so":28,"buy":350,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":593,"name":"ТР Анаконда","t":1793814045977,"sale":144.56,"ref":190.49,"profit":26.88,"roi":18.6,"bo":3,"so":6,"buy":142,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":24,"name":"Инферно","t":1793815288514,"sale":1060.03,"ref":1220,"profit":37.97,"roi":3.58,"bo":10,"so":25,"buy":1060.02,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":233,"name":"Мобильный урожай","t":1793817643482,"sale":190.25,"ref":521.07,"profit":278.71,"roi":146.5,"bo":6,"so":3,"buy":136,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
+{"id":579,"name":"Голиаф","t":1793817644860,"sale":1501.12,"ref":1780,"profit":100.88,"roi":6.72,"bo":18,"so":42,"buy":1500.15,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":422,"name":"Рой","t":1793817646342,"sale":3333.33,"ref":3798.79,"profit":85.58,"roi":2.57,"bo":11,"so":18,"buy":3142.03,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":438,"name":"РН-М Дино","t":1793817647688,"sale":990,"ref":1148.98,"profit":44.08,"roi":4.45,"bo":13,"so":13,"buy":981.03,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":420,"name":"Гнездо","t":1793817649180,"sale":360,"ref":430,"profit":27,"roi":7.5,"bo":13,"so":13,"buy":345.06,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":355,"name":"Нидхёгг","t":1793817650529,"sale":1710,"ref":1929.88,"profit":26.89,"roi":1.57,"bo":10,"so":8,"buy":1701,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
