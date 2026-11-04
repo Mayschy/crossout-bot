@@ -647,3 +647,4 @@
 {"id":143,"name":"Длинная голубая лампа","t":1793793685174,"sale":194.57,"ref":238.26,"profit":19.86,"roi":10.21,"bo":1,"so":7,"buy":184,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":875,"name":"Звонок","t":1793793685174,"sale":80.68,"ref":107.74,"profit":16.29,"roi":20.19,"bo":1,"so":3,"buy":80.61,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":419,"name":"Пламя","t":1793794245695,"sale":265.04,"ref":315,"profit":18.46,"roi":6.96,"bo":32,"so":24,"buy":265,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1365,"name":"Пурпурная тыква","t":1793794843337,"sale":69.73,"ref":91,"profit":12.17,"roi":17.45,"bo":0,"so":14,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
