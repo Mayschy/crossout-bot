@@ -697,3 +697,4 @@
 {"id":371,"name":"Синтез","t":1793830845387,"sale":95.73,"ref":126.39,"profit":18.02,"roi":18.82,"bo":0,"so":55,"buy":0,"act":10,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":555,"name":"Бум","t":1793830845387,"sale":81.42,"ref":109.74,"profit":17.35,"roi":21.3,"bo":8,"so":23,"buy":79.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":185,"name":"Жесткач","t":1793830845387,"sale":101.08,"ref":129.9,"profit":15.83,"roi":15.66,"bo":4,"so":27,"buy":98.62,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1443,"name":"Гравированные гильзы x1000","t":1793831466559,"sale":688.9,"ref":792.3,"profit":24.17,"roi":3.51,"bo":27,"so":8,"buy":265.7,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
