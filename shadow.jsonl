@@ -614,3 +614,4 @@
 {"id":16,"name":"Оборотень","t":1793755861638,"sale":210.32,"ref":255.55,"profit":19.68,"roi":9.35,"bo":4,"so":8,"buy":210.31,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":536,"name":"Мясорубка","t":1793757043508,"sale":247.1,"ref":299.99,"profit":22.89,"roi":9.26,"bo":5,"so":26,"buy":247,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":48,"name":"Хот-род","t":1793757679223,"sale":793.61,"ref":903.38,"profit":19.43,"roi":2.45,"bo":0,"so":2,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":668,"name":"Рык","t":1793758842979,"sale":25.34,"ref":39.9,"profit":10.57,"roi":41.71,"bo":5,"so":35,"buy":25.25,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
