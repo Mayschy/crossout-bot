@@ -642,3 +642,4 @@
 {"id":1146,"name":"Изогнутая балка 6×12×6","t":1793789445259,"sale":1.5,"ref":18.02,"profit":14.72,"roi":981.2,"bo":0,"so":9,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":339,"name":"Корво","t":1793792442635,"sale":200.01,"ref":244.98,"profit":20.47,"roi":10.24,"bo":0,"so":22,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":335,"name":"Триггер","t":1793792442635,"sale":198,"ref":234.54,"profit":13.09,"roi":6.61,"bo":7,"so":5,"buy":181,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":137,"name":"Голубая лампа","t":1793793042221,"sale":180,"ref":224.79,"profit":22.31,"roi":12.4,"bo":0,"so":12,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
