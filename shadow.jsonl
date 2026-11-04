@@ -680,3 +680,5 @@
 {"id":702,"name":"Комплект снаряжения С3","t":1793818884792,"sale":74.24,"ref":93.62,"profit":10.02,"roi":13.49,"bo":0,"so":24,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3745,"name":"Вендетта","t":1793822491020,"sale":2550,"ref":2855.9,"profit":20.31,"roi":0.8,"bo":9,"so":5,"buy":2400,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":375,"name":"Аврора","t":1793822491020,"sale":140.04,"ref":177.8,"profit":19.98,"roi":14.27,"bo":16,"so":40,"buy":135.36,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":321,"name":"Мельник","t":1793823045160,"sale":430,"ref":490,"profit":11,"roi":2.56,"bo":26,"so":31,"buy":416.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1793823045160,"sale":155,"ref":184.3,"profit":10.87,"roi":7.01,"bo":9,"so":20,"buy":150.29,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
