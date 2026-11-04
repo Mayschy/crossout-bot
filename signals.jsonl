@@ -428,3 +428,4 @@
 {"id":283,"name":"Горыныч","t":1793764880146,"sale":1125,"ref":1329.9,"profit":71.91,"roi":6.39,"bo":11,"so":13,"buy":1123.06,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":439,"name":"Драйвер","t":1793764881683,"sale":810,"ref":969.99,"profit":62.99,"roi":7.78,"bo":8,"so":28,"buy":802,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1448,"name":"Инквизитор","t":1793764883554,"sale":1411.15,"ref":1598,"profit":27.05,"roi":1.92,"bo":10,"so":16,"buy":1411.14,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1449,"name":"Гиена","t":1793767244059,"sale":702.26,"ref":844.99,"profit":58.23,"roi":8.29,"bo":21,"so":22,"buy":702.22,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
