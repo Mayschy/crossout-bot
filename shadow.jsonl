@@ -694,3 +694,6 @@
 {"id":1385,"name":"Призрачный холод","t":1793829690070,"sale":46.58,"ref":66.57,"profit":13.33,"roi":28.62,"bo":0,"so":2,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":112,"name":"Рвач","t":1793830244777,"sale":127.6,"ref":161.19,"profit":17.47,"roi":13.69,"bo":0,"so":20,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":375,"name":"Аврора","t":1793830244777,"sale":145.88,"ref":177.77,"profit":14.11,"roi":9.67,"bo":20,"so":38,"buy":143.82,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":371,"name":"Синтез","t":1793830845387,"sale":95.73,"ref":126.39,"profit":18.02,"roi":18.82,"bo":0,"so":55,"buy":0,"act":10,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":555,"name":"Бум","t":1793830845387,"sale":81.42,"ref":109.74,"profit":17.35,"roi":21.3,"bo":8,"so":23,"buy":79.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":185,"name":"Жесткач","t":1793830845387,"sale":101.08,"ref":129.9,"profit":15.83,"roi":15.66,"bo":4,"so":27,"buy":98.62,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
