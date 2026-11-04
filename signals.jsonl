@@ -449,3 +449,4 @@
 {"id":3778,"name":"Морриган (заготовка)","t":1793797853553,"sale":3500,"ref":3999.99,"profit":99.99,"roi":2.86,"bo":0,"so":9,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":438,"name":"РН-М Дино","t":1793799070557,"sale":980,"ref":1149.32,"profit":54.39,"roi":5.55,"bo":17,"so":13,"buy":975,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":561,"name":"Гармонизатор","t":1793799072092,"sale":779.11,"ref":900,"profit":30.89,"roi":3.96,"bo":39,"so":20,"buy":776,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":497,"name":"Колибри","t":1793801444497,"sale":354.13,"ref":460,"profit":59.87,"roi":16.91,"bo":4,"so":4,"buy":320,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
