@@ -464,3 +464,4 @@
 {"id":497,"name":"Колибри","t":1793811688423,"sale":348.14,"ref":432.8,"profit":41.38,"roi":11.89,"bo":4,"so":8,"buy":320,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":276,"name":"Циклон","t":1793811689843,"sale":350.04,"ref":417.94,"profit":26.11,"roi":7.46,"bo":10,"so":28,"buy":350,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":593,"name":"ТР Анаконда","t":1793814045977,"sale":144.56,"ref":190.49,"profit":26.88,"roi":18.6,"bo":3,"so":6,"buy":142,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":24,"name":"Инферно","t":1793815288514,"sale":1060.03,"ref":1220,"profit":37.97,"roi":3.58,"bo":10,"so":25,"buy":1060.02,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
