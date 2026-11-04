@@ -699,3 +699,4 @@
 {"id":185,"name":"Жесткач","t":1793830845387,"sale":101.08,"ref":129.9,"profit":15.83,"roi":15.66,"bo":4,"so":27,"buy":98.62,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1443,"name":"Гравированные гильзы x1000","t":1793831466559,"sale":688.9,"ref":792.3,"profit":24.17,"roi":3.51,"bo":27,"so":8,"buy":265.7,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1464,"name":"Икар I","t":1793832040955,"sale":405.01,"ref":468.08,"profit":16.26,"roi":4.02,"bo":46,"so":15,"buy":401.02,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1060,"name":"Шаблон: Опасность!","t":1793832644380,"sale":215.38,"ref":266.66,"profit":24.61,"roi":11.43,"bo":0,"so":7,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
