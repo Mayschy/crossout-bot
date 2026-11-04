@@ -668,3 +668,4 @@
 {"id":269,"name":"Медиана","t":1793809872322,"sale":94.05,"ref":117.69,"profit":11.87,"roi":12.62,"bo":0,"so":52,"buy":0,"act":8,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":353,"name":"Самопал","t":1793810444908,"sale":71.13,"ref":93.71,"profit":13.21,"roi":18.57,"bo":4,"so":11,"buy":70.61,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":185,"name":"Жесткач","t":1793810444908,"sale":106.88,"ref":132.96,"profit":12.78,"roi":11.96,"bo":8,"so":11,"buy":104.02,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1793812847764,"sale":164.05,"ref":200,"profit":15.95,"roi":9.72,"bo":30,"so":86,"buy":163.8,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
