@@ -483,3 +483,4 @@
 {"id":180,"name":"Беркут","t":1793831468401,"sale":1645.79,"ref":2054.98,"profit":203.69,"roi":12.38,"bo":0,"so":10,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":295,"name":"АП64 Джоуль","t":1793831470159,"sale":986,"ref":1175,"profit":71.5,"roi":7.25,"bo":16,"so":14,"buy":985,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":5,"name":"Кастет","t":1793831471692,"sale":173.19,"ref":224.8,"profit":29.13,"roi":16.82,"bo":2,"so":13,"buy":173.07,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1443,"name":"Гравированные гильзы x1000","t":1793832042508,"sale":270.46,"ref":792.3,"profit":442.61,"roi":163.65,"bo":27,"so":9,"buy":265.7,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
