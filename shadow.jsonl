@@ -676,3 +676,4 @@
 {"id":635,"name":"Колесо багги (пов.)","t":1793814044636,"sale":170.86,"ref":204.99,"profit":13.63,"roi":7.98,"bo":10,"so":12,"buy":158,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":606,"name":"Титан (пов.)","t":1793816446437,"sale":160.04,"ref":190,"profit":10.96,"roi":6.85,"bo":21,"so":32,"buy":160,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":676,"name":"Зубодробитель","t":1793817642784,"sale":77.17,"ref":101.69,"profit":14.35,"roi":18.6,"bo":1,"so":18,"buy":73.13,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":635,"name":"Колесо багги (пов.)","t":1793818248380,"sale":170.86,"ref":205,"profit":13.64,"roi":7.98,"bo":10,"so":7,"buy":158,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
