@@ -678,3 +678,5 @@
 {"id":676,"name":"Зубодробитель","t":1793817642784,"sale":77.17,"ref":101.69,"profit":14.35,"roi":18.6,"bo":1,"so":18,"buy":73.13,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1793818248380,"sale":170.86,"ref":205,"profit":13.64,"roi":7.98,"bo":10,"so":7,"buy":158,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":702,"name":"Комплект снаряжения С3","t":1793818884792,"sale":74.24,"ref":93.62,"profit":10.02,"roi":13.49,"bo":0,"so":24,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3745,"name":"Вендетта","t":1793822491020,"sale":2550,"ref":2855.9,"profit":20.31,"roi":0.8,"bo":9,"so":5,"buy":2400,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":375,"name":"Аврора","t":1793822491020,"sale":140.04,"ref":177.8,"profit":19.98,"roi":14.27,"bo":16,"so":40,"buy":135.36,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

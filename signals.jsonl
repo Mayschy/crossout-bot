@@ -475,3 +475,4 @@
 {"id":333,"name":"Юпитер","t":1793819447261,"sale":4200,"ref":4695.97,"profit":26.37,"roi":0.63,"bo":7,"so":10,"buy":4120,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":323,"name":"Пожиратель","t":1793820055952,"sale":23050,"ref":25999.99,"profit":349.99,"roi":1.52,"bo":3,"so":25,"buy":23020,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":276,"name":"Циклон","t":1793821248230,"sale":340,"ref":417.93,"profit":36.14,"roi":10.63,"bo":6,"so":25,"buy":331.04,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":445,"name":"Геррида I","t":1793822491467,"sale":680,"ref":849.99,"profit":84.99,"roi":12.5,"bo":4,"so":81,"buy":663.48,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
