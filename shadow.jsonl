@@ -670,3 +670,7 @@
 {"id":185,"name":"Жесткач","t":1793810444908,"sale":106.88,"ref":132.96,"profit":12.78,"roi":11.96,"bo":8,"so":11,"buy":104.02,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":646,"name":"Атом","t":1793812847764,"sale":164.05,"ref":200,"profit":15.95,"roi":9.72,"bo":30,"so":86,"buy":163.8,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":357,"name":"Молотобой","t":1793813473394,"sale":950,"ref":1080.27,"profit":22.24,"roi":2.34,"bo":9,"so":36,"buy":910.02,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":436,"name":"LED «Джек»","t":1793814044636,"sale":181.32,"ref":224,"profit":20.28,"roi":11.18,"bo":0,"so":7,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":153,"name":"Якорь","t":1793814044636,"sale":185,"ref":225.99,"profit":18.39,"roi":9.94,"bo":4,"so":13,"buy":178.1,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":106,"name":"«Титаник»","t":1793814044636,"sale":200,"ref":238.68,"profit":14.81,"roi":7.41,"bo":4,"so":7,"buy":181.77,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":635,"name":"Колесо багги (пов.)","t":1793814044636,"sale":170.86,"ref":204.99,"profit":13.63,"roi":7.98,"bo":10,"so":12,"buy":158,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
