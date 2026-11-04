@@ -630,3 +630,5 @@
 {"id":184,"name":"Исполин","t":1793777465137,"sale":132.97,"ref":159.97,"profit":11,"roi":8.27,"bo":6,"so":39,"buy":131,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":57,"name":"Фаворит","t":1793778643762,"sale":1070.26,"ref":1215.61,"profit":23.79,"roi":2.22,"bo":10,"so":9,"buy":1070.25,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":537,"name":"Скидутка","t":1793778643762,"sale":168.24,"ref":204.03,"profit":15.39,"roi":9.15,"bo":38,"so":13,"buy":160.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":605,"name":"Титан","t":1793779282239,"sale":115,"ref":150.18,"profit":20.16,"roi":17.53,"bo":10,"so":17,"buy":105.66,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1793779282239,"sale":177.66,"ref":214.99,"profit":15.83,"roi":8.91,"bo":16,"so":60,"buy":166.76,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
