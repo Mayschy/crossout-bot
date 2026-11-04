@@ -472,3 +472,4 @@
 {"id":420,"name":"Гнездо","t":1793817649180,"sale":360,"ref":430,"profit":27,"roi":7.5,"bo":13,"so":13,"buy":345.06,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":355,"name":"Нидхёгг","t":1793817650529,"sale":1710,"ref":1929.88,"profit":26.89,"roi":1.57,"bo":10,"so":8,"buy":1701,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":453,"name":"Мириада","t":1793818885431,"sale":460,"ref":550,"profit":35,"roi":7.61,"bo":10,"so":17,"buy":455,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":333,"name":"Юпитер","t":1793819447261,"sale":4200,"ref":4695.97,"profit":26.37,"roi":0.63,"bo":7,"so":10,"buy":4120,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
