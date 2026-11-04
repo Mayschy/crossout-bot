@@ -650,3 +650,4 @@
 {"id":1365,"name":"Пурпурная тыква","t":1793794843337,"sale":69.73,"ref":91,"profit":12.17,"roi":17.45,"bo":0,"so":14,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":679,"name":"Каракурт","t":1793799069783,"sale":2400,"ref":2690,"profit":21,"roi":0.88,"bo":14,"so":3,"buy":2222.23,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1793799644878,"sale":220,"ref":264.74,"profit":18.27,"roi":8.3,"bo":10,"so":7,"buy":216.07,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1212,"name":"Плазменное кольцо","t":1793802043597,"sale":48.51,"ref":79.4,"profit":22.95,"roi":47.31,"bo":1,"so":9,"buy":48.49,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
