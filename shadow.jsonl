@@ -653,3 +653,4 @@
 {"id":1212,"name":"Плазменное кольцо","t":1793802043597,"sale":48.51,"ref":79.4,"profit":22.95,"roi":47.31,"bo":1,"so":9,"buy":48.49,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":631,"name":"Бигфут (пов.)","t":1793803247843,"sale":178,"ref":215,"profit":15.5,"roi":8.71,"bo":6,"so":82,"buy":177.78,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1793803247843,"sale":165,"ref":194.97,"profit":10.47,"roi":6.35,"bo":8,"so":13,"buy":160.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1146,"name":"Изогнутая балка 6×12×6","t":1793803843538,"sale":2.18,"ref":18.02,"profit":14.04,"roi":643.94,"bo":1,"so":7,"buy":1,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
