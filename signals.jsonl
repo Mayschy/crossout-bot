@@ -433,3 +433,4 @@
 {"id":564,"name":"Парис","t":1793771444768,"sale":550,"ref":647.4,"profit":32.66,"roi":5.94,"bo":8,"so":21,"buy":535.21,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":572,"name":"Нейтрино","t":1793772078133,"sale":320.66,"ref":388.94,"profit":29.39,"roi":9.16,"bo":5,"so":14,"buy":320.65,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":561,"name":"Гармонизатор","t":1793773241830,"sale":780,"ref":900,"profit":30,"roi":3.85,"bo":35,"so":10,"buy":775.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":575,"name":"Гусеница танковая","t":1793776242630,"sale":661.21,"ref":781,"profit":41.69,"roi":6.31,"bo":6,"so":23,"buy":635.76,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
