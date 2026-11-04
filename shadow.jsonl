@@ -618,3 +618,4 @@
 {"id":309,"name":"Синус-0","t":1793761279496,"sale":87.91,"ref":111.11,"profit":12.09,"roi":13.75,"bo":1,"so":29,"buy":86.57,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":437,"name":"Тэнгу","t":1793761843182,"sale":801,"ref":917,"profit":24.3,"roi":3.03,"bo":11,"so":28,"buy":800,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":511,"name":"РС Нерпа","t":1793766664919,"sale":349.68,"ref":407.53,"profit":17.1,"roi":4.89,"bo":5,"so":53,"buy":349.67,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":65,"name":"Сверчок","t":1793771443947,"sale":346.19,"ref":401.03,"profit":14.74,"roi":4.26,"bo":44,"so":16,"buy":326.19,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

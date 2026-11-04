@@ -430,3 +430,4 @@
 {"id":1448,"name":"Инквизитор","t":1793764883554,"sale":1411.15,"ref":1598,"profit":27.05,"roi":1.92,"bo":10,"so":16,"buy":1411.14,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1449,"name":"Гиена","t":1793767244059,"sale":702.26,"ref":844.99,"profit":58.23,"roi":8.29,"bo":21,"so":22,"buy":702.22,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":24,"name":"Инферно","t":1793769643225,"sale":1100,"ref":1255.55,"profit":29.99,"roi":2.73,"bo":10,"so":21,"buy":1061.02,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":564,"name":"Парис","t":1793771444768,"sale":550,"ref":647.4,"profit":32.66,"roi":5.94,"bo":8,"so":21,"buy":535.21,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
