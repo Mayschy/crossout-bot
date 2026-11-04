@@ -660,3 +660,6 @@
 {"id":486,"name":"Ампер","t":1793805661116,"sale":83.21,"ref":105.7,"profit":11.92,"roi":14.33,"bo":6,"so":32,"buy":81.52,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":578,"name":"Гусеница укрепленная","t":1793806848838,"sale":142.36,"ref":179.99,"profit":19.63,"roi":13.79,"bo":7,"so":22,"buy":139.41,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":292,"name":"ПТУР Кларнет-С","t":1793806848838,"sale":251.02,"ref":300,"profit":18.98,"roi":7.56,"bo":13,"so":13,"buy":250.07,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":287,"name":"АГС-55 Импульс","t":1793807445950,"sale":145.65,"ref":179.94,"profit":16.3,"roi":11.19,"bo":13,"so":33,"buy":145.04,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":254,"name":"ЗИС-33 Верзила","t":1793807445950,"sale":84.77,"ref":111.06,"profit":15.18,"roi":17.91,"bo":2,"so":14,"buy":83.25,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":424,"name":"Икар VII","t":1793807445950,"sale":356.8,"ref":413,"profit":14.9,"roi":4.18,"bo":23,"so":65,"buy":356.71,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
