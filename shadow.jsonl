@@ -616,3 +616,4 @@
 {"id":48,"name":"Хот-род","t":1793757679223,"sale":793.61,"ref":903.38,"profit":19.43,"roi":2.45,"bo":0,"so":2,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":668,"name":"Рык","t":1793758842979,"sale":25.34,"ref":39.9,"profit":10.57,"roi":41.71,"bo":5,"so":35,"buy":25.25,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":309,"name":"Синус-0","t":1793761279496,"sale":87.91,"ref":111.11,"profit":12.09,"roi":13.75,"bo":1,"so":29,"buy":86.57,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":437,"name":"Тэнгу","t":1793761843182,"sale":801,"ref":917,"profit":24.3,"roi":3.03,"bo":11,"so":28,"buy":800,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
