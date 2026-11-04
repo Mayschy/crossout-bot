@@ -689,3 +689,5 @@
 {"id":676,"name":"Зубодробитель","t":1793827244191,"sale":75.08,"ref":101.26,"profit":16.05,"roi":21.38,"bo":1,"so":17,"buy":73.13,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1449,"name":"Гиена","t":1793828442166,"sale":750.06,"ref":849.6,"profit":14.58,"roi":1.94,"bo":21,"so":28,"buy":720,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":506,"name":"Максвелл","t":1793828442166,"sale":96.88,"ref":119.9,"profit":11.03,"roi":11.39,"bo":16,"so":8,"buy":94.5,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1448,"name":"Инквизитор","t":1793829044707,"sale":1533.5,"ref":1722.49,"profit":16.74,"roi":1.09,"bo":15,"so":12,"buy":1400.17,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":350,"name":"Гоблин","t":1793829044707,"sale":68.4,"ref":89.5,"profit":12.15,"roi":17.76,"bo":23,"so":40,"buy":67.96,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
