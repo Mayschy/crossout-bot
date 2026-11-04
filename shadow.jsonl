@@ -674,3 +674,4 @@
 {"id":153,"name":"Якорь","t":1793814044636,"sale":185,"ref":225.99,"profit":18.39,"roi":9.94,"bo":4,"so":13,"buy":178.1,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":106,"name":"«Титаник»","t":1793814044636,"sale":200,"ref":238.68,"profit":14.81,"roi":7.41,"bo":4,"so":7,"buy":181.77,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1793814044636,"sale":170.86,"ref":204.99,"profit":13.63,"roi":7.98,"bo":10,"so":12,"buy":158,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":606,"name":"Титан (пов.)","t":1793816446437,"sale":160.04,"ref":190,"profit":10.96,"roi":6.85,"bo":21,"so":32,"buy":160,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
