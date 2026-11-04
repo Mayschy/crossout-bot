@@ -691,3 +691,4 @@
 {"id":506,"name":"Максвелл","t":1793828442166,"sale":96.88,"ref":119.9,"profit":11.03,"roi":11.39,"bo":16,"so":8,"buy":94.5,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1448,"name":"Инквизитор","t":1793829044707,"sale":1533.5,"ref":1722.49,"profit":16.74,"roi":1.09,"bo":15,"so":12,"buy":1400.17,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":350,"name":"Гоблин","t":1793829044707,"sale":68.4,"ref":89.5,"profit":12.15,"roi":17.76,"bo":23,"so":40,"buy":67.96,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1385,"name":"Призрачный холод","t":1793829690070,"sale":46.58,"ref":66.57,"profit":13.33,"roi":28.62,"bo":0,"so":2,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

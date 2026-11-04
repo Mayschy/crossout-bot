@@ -478,3 +478,5 @@
 {"id":445,"name":"Геррида I","t":1793822491467,"sale":680,"ref":849.99,"profit":84.99,"roi":12.5,"bo":4,"so":81,"buy":663.48,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":223,"name":"Надувной Мамонт","t":1793823046066,"sale":1000,"ref":1178,"profit":60.2,"roi":6.02,"bo":14,"so":12,"buy":783.67,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":383,"name":"Коракс","t":1793823047998,"sale":3491.01,"ref":3938.99,"profit":54.08,"roi":1.55,"bo":3,"so":20,"buy":3410.01,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":575,"name":"Гусеница танковая","t":1793829690694,"sale":660.01,"ref":821.94,"profit":79.74,"roi":12.08,"bo":13,"so":16,"buy":660,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":364,"name":"П-38 Егоза","t":1793829692520,"sale":313.72,"ref":405.99,"profit":51.67,"roi":16.47,"bo":4,"so":24,"buy":307.98,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
