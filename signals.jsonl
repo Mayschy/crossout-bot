@@ -459,3 +459,4 @@
 {"id":404,"name":"Демонстрация силы","t":1793806851053,"sale":75.94,"ref":115.98,"profit":28.44,"roi":37.45,"bo":1,"so":2,"buy":75.92,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":21,"name":"Сумрак","t":1793807446821,"sale":500,"ref":608.94,"profit":48.05,"roi":9.61,"bo":3,"so":21,"buy":475.02,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":289,"name":"Дробитель","t":1793808647606,"sale":351.01,"ref":418.98,"profit":26.07,"roi":7.43,"bo":19,"so":14,"buy":351,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":24,"name":"Инферно","t":1793810445473,"sale":1070,"ref":1221.11,"profit":29,"roi":2.71,"bo":10,"so":28,"buy":1060.02,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
