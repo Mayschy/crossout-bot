@@ -611,3 +611,4 @@
 {"id":668,"name":"Рык","t":1793751643735,"sale":25.86,"ref":39.99,"profit":10.13,"roi":39.18,"bo":5,"so":28,"buy":25.25,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":363,"name":"П-37 Шило","t":1793754643085,"sale":121,"ref":146.76,"profit":11.08,"roi":9.16,"bo":13,"so":41,"buy":120.02,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1163,"name":"Рампа с платформой 12×12×3","t":1793755240824,"sale":133.33,"ref":169,"profit":18.77,"roi":14.08,"bo":0,"so":20,"buy":0,"act":11,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":16,"name":"Оборотень","t":1793755861638,"sale":210.32,"ref":255.55,"profit":19.68,"roi":9.35,"bo":4,"so":8,"buy":210.31,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
