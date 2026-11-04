@@ -664,3 +664,5 @@
 {"id":254,"name":"ЗИС-33 Верзила","t":1793807445950,"sale":84.77,"ref":111.06,"profit":15.18,"roi":17.91,"bo":2,"so":14,"buy":83.25,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":424,"name":"Икар VII","t":1793807445950,"sale":356.8,"ref":413,"profit":14.9,"roi":4.18,"bo":23,"so":65,"buy":356.71,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":371,"name":"Синтез","t":1793808646011,"sale":102,"ref":125,"profit":10.5,"roi":10.29,"bo":10,"so":22,"buy":101.91,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":562,"name":"Гироскоп","t":1793809872322,"sale":320,"ref":381.99,"profit":23.79,"roi":7.43,"bo":15,"so":13,"buy":290.29,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":269,"name":"Медиана","t":1793809872322,"sale":94.05,"ref":117.69,"profit":11.87,"roi":12.62,"bo":0,"so":52,"buy":0,"act":8,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
