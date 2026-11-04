@@ -632,3 +632,5 @@
 {"id":537,"name":"Скидутка","t":1793778643762,"sale":168.24,"ref":204.03,"profit":15.39,"roi":9.15,"bo":38,"so":13,"buy":160.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":605,"name":"Титан","t":1793779282239,"sale":115,"ref":150.18,"profit":20.16,"roi":17.53,"bo":10,"so":17,"buy":105.66,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":646,"name":"Атом","t":1793779282239,"sale":177.66,"ref":214.99,"profit":15.83,"roi":8.91,"bo":16,"so":60,"buy":166.76,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1448,"name":"Инквизитор","t":1793782239102,"sale":1500,"ref":1689.9,"profit":20.91,"roi":1.39,"bo":7,"so":11,"buy":1400,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":272,"name":"Нагваль","t":1793782239102,"sale":396,"ref":460,"profit":18,"roi":4.55,"bo":16,"so":21,"buy":395.55,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

@@ -436,3 +436,4 @@
 {"id":575,"name":"Гусеница танковая","t":1793776242630,"sale":661.21,"ref":781,"profit":41.69,"roi":6.31,"bo":6,"so":23,"buy":635.76,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":44,"name":"Агрессор","t":1793778645818,"sale":324,"ref":388.07,"profit":25.26,"roi":7.8,"bo":6,"so":13,"buy":318.06,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":263,"name":"ЗА-4 Звездопад","t":1793779282957,"sale":2800,"ref":3180.14,"profit":62.13,"roi":2.22,"bo":7,"so":26,"buy":2700,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":497,"name":"Колибри","t":1793782239819,"sale":360,"ref":429.99,"profit":26.99,"roi":7.5,"bo":13,"so":8,"buy":356.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
