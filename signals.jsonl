@@ -454,3 +454,4 @@
 {"id":151,"name":"Джеки","t":1793803249342,"sale":2880,"ref":3300,"profit":90,"roi":3.13,"bo":8,"so":9,"buy":2863.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":386,"name":"Рок","t":1793803844252,"sale":710.01,"ref":818,"profit":26.19,"roi":3.69,"bo":8,"so":9,"buy":710,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1053,"name":"Фиалковый глянец","t":1793804491214,"sale":407.14,"ref":534.66,"profit":74.05,"roi":18.19,"bo":2,"so":3,"buy":406.07,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":246,"name":"Палач 88мм","t":1793805089013,"sale":322.74,"ref":390,"profit":28.26,"roi":8.76,"bo":6,"so":21,"buy":322.05,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
