@@ -656,3 +656,5 @@
 {"id":1146,"name":"Изогнутая балка 6×12×6","t":1793803843538,"sale":2.18,"ref":18.02,"profit":14.04,"roi":643.94,"bo":1,"so":7,"buy":1,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":606,"name":"Титан (пов.)","t":1793804489898,"sale":160,"ref":190,"profit":11,"roi":6.88,"bo":21,"so":31,"buy":159,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":537,"name":"Скидутка","t":1793805087626,"sale":187.06,"ref":222.13,"profit":12.86,"roi":6.87,"bo":24,"so":5,"buy":160.1,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1365,"name":"Пурпурная тыква","t":1793805661116,"sale":68.89,"ref":91,"profit":13.01,"roi":18.89,"bo":0,"so":12,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":486,"name":"Ампер","t":1793805661116,"sale":83.21,"ref":105.7,"profit":11.92,"roi":14.33,"bo":6,"so":32,"buy":81.52,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
