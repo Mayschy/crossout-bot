@@ -451,3 +451,4 @@
 {"id":561,"name":"Гармонизатор","t":1793799072092,"sale":779.11,"ref":900,"profit":30.89,"roi":3.96,"bo":39,"so":20,"buy":776,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":497,"name":"Колибри","t":1793801444497,"sale":354.13,"ref":460,"profit":59.87,"roi":16.91,"bo":4,"so":4,"buy":320,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":609,"name":"Увабаки","t":1793802045328,"sale":346.49,"ref":440,"profit":49.51,"roi":14.29,"bo":4,"so":10,"buy":332.3,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":151,"name":"Джеки","t":1793803249342,"sale":2880,"ref":3300,"profit":90,"roi":3.13,"bo":8,"so":9,"buy":2863.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}

@@ -651,3 +651,5 @@
 {"id":679,"name":"Каракурт","t":1793799069783,"sale":2400,"ref":2690,"profit":21,"roi":0.88,"bo":14,"so":3,"buy":2222.23,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1793799644878,"sale":220,"ref":264.74,"profit":18.27,"roi":8.3,"bo":10,"so":7,"buy":216.07,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1212,"name":"Плазменное кольцо","t":1793802043597,"sale":48.51,"ref":79.4,"profit":22.95,"roi":47.31,"bo":1,"so":9,"buy":48.49,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":631,"name":"Бигфут (пов.)","t":1793803247843,"sale":178,"ref":215,"profit":15.5,"roi":8.71,"bo":6,"so":82,"buy":177.78,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1793803247843,"sale":165,"ref":194.97,"profit":10.47,"roi":6.35,"bo":8,"so":13,"buy":160.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
