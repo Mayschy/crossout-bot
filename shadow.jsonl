@@ -658,3 +658,5 @@
 {"id":537,"name":"Скидутка","t":1793805087626,"sale":187.06,"ref":222.13,"profit":12.86,"roi":6.87,"bo":24,"so":5,"buy":160.1,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1365,"name":"Пурпурная тыква","t":1793805661116,"sale":68.89,"ref":91,"profit":13.01,"roi":18.89,"bo":0,"so":12,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":486,"name":"Ампер","t":1793805661116,"sale":83.21,"ref":105.7,"profit":11.92,"roi":14.33,"bo":6,"so":32,"buy":81.52,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":578,"name":"Гусеница укрепленная","t":1793806848838,"sale":142.36,"ref":179.99,"profit":19.63,"roi":13.79,"bo":7,"so":22,"buy":139.41,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":292,"name":"ПТУР Кларнет-С","t":1793806848838,"sale":251.02,"ref":300,"profit":18.98,"roi":7.56,"bo":13,"so":13,"buy":250.07,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

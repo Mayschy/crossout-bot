@@ -456,3 +456,4 @@
 {"id":1053,"name":"Фиалковый глянец","t":1793804491214,"sale":407.14,"ref":534.66,"profit":74.05,"roi":18.19,"bo":2,"so":3,"buy":406.07,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":246,"name":"Палач 88мм","t":1793805089013,"sale":322.74,"ref":390,"profit":28.26,"roi":8.76,"bo":6,"so":21,"buy":322.05,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":497,"name":"Колибри","t":1793806267981,"sale":354.13,"ref":460,"profit":59.87,"roi":16.91,"bo":4,"so":5,"buy":320,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":404,"name":"Демонстрация силы","t":1793806851053,"sale":75.94,"ref":115.98,"profit":28.44,"roi":37.45,"bo":1,"so":2,"buy":75.92,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
