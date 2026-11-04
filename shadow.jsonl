@@ -607,3 +607,5 @@
 {"id":353,"name":"Самопал","t":1793747441919,"sale":75.65,"ref":100.78,"profit":15.05,"roi":19.9,"bo":12,"so":11,"buy":75.09,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1163,"name":"Рампа с платформой 12×12×3","t":1793750480152,"sale":128,"ref":169,"profit":24.1,"roi":18.83,"bo":0,"so":42,"buy":0,"act":11,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":184,"name":"Исполин","t":1793750480152,"sale":132.97,"ref":160,"profit":11.03,"roi":8.3,"bo":6,"so":37,"buy":131,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":571,"name":"Генезис","t":1793751643735,"sale":87.39,"ref":114.95,"profit":16.06,"roi":18.38,"bo":0,"so":29,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":668,"name":"Рык","t":1793751643735,"sale":25.86,"ref":39.99,"profit":10.13,"roi":39.18,"bo":5,"so":28,"buy":25.25,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
