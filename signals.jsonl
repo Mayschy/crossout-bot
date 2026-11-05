@@ -512,3 +512,4 @@
 {"id":463,"name":"Отшельник","t":1793895652471,"sale":720,"ref":889.95,"profit":80.96,"roi":11.24,"bo":5,"so":24,"buy":717.98,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":60,"name":"РУН-1А","t":1793898091014,"sale":730,"ref":867.77,"profit":50.99,"roi":6.99,"bo":9,"so":5,"buy":700.03,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":276,"name":"Циклон","t":1793898092367,"sale":335.59,"ref":416.97,"profit":39.68,"roi":11.82,"bo":9,"so":21,"buy":335.35,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":278,"name":"Артемида","t":1793899866180,"sale":1230,"ref":1400,"profit":30,"roi":2.44,"bo":7,"so":9,"buy":1140.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
