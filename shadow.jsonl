@@ -762,3 +762,5 @@
 {"id":495,"name":"Фалко","t":1793901681459,"sale":82.76,"ref":106.19,"profit":12.81,"roi":15.48,"bo":3,"so":12,"buy":81.51,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1793902245219,"sale":176.61,"ref":217.26,"profit":18.92,"roi":10.72,"bo":51,"so":3,"buy":174.5,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":40,"name":"Пилигрим","t":1793902847426,"sale":96.83,"ref":119.99,"profit":11.16,"roi":11.53,"bo":5,"so":16,"buy":95.6,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":184,"name":"Исполин","t":1793903470549,"sale":142.56,"ref":177.73,"profit":17.4,"roi":12.2,"bo":13,"so":26,"buy":141.52,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":353,"name":"Самопал","t":1793903470549,"sale":70.36,"ref":91.22,"profit":11.74,"roi":16.68,"bo":6,"so":21,"buy":69.52,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
