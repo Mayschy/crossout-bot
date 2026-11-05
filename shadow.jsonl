@@ -769,3 +769,4 @@
 {"id":112,"name":"Рвач","t":1793907066393,"sale":125.86,"ref":151.18,"profit":10.2,"roi":8.11,"bo":0,"so":30,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":427,"name":"ПТУР-Л Флейта","t":1793907644710,"sale":381.14,"ref":447,"profit":21.16,"roi":5.55,"bo":7,"so":26,"buy":380.99,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":187,"name":"Работяга","t":1793907644710,"sale":94.14,"ref":118,"profit":12.06,"roi":12.81,"bo":15,"so":2,"buy":91.17,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":181,"name":"Гепард","t":1793908245324,"sale":130.45,"ref":169.96,"profit":22.51,"roi":17.26,"bo":20,"so":16,"buy":129.15,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

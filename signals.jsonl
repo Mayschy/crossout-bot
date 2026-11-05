@@ -519,3 +519,5 @@
 {"id":268,"name":"Жнец","t":1793902247047,"sale":1859,"ref":2128.99,"profit":57.09,"roi":3.07,"bo":8,"so":17,"buy":1800,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":39,"name":"Кокпит","t":1793902848867,"sale":1382,"ref":1666.67,"profit":118,"roi":8.54,"bo":8,"so":7,"buy":1381,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":120,"name":"Озноб","t":1793903472112,"sale":342,"ref":407.98,"profit":25.18,"roi":7.36,"bo":4,"so":29,"buy":337.99,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":295,"name":"АП64 Джоуль","t":1793908245986,"sale":984,"ref":1149.95,"profit":50.96,"roi":5.18,"bo":15,"so":26,"buy":983.04,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":592,"name":"Панджи","t":1793908247801,"sale":650,"ref":754.29,"profit":28.86,"roi":4.44,"bo":15,"so":12,"buy":582.11,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
