@@ -736,3 +736,4 @@
 {"id":631,"name":"Бигфут (пов.)","t":1793883682791,"sale":179,"ref":210.99,"profit":10.89,"roi":6.08,"bo":21,"so":104,"buy":178.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":358,"name":"Булава","t":1793884246353,"sale":93.78,"ref":115.5,"profit":10.17,"roi":10.84,"bo":13,"so":18,"buy":91.54,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1793885472958,"sale":176.42,"ref":216.99,"profit":18.87,"roi":10.7,"bo":13,"so":17,"buy":170.61,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":73,"name":"Пернатый змей","t":1793886645896,"sale":72.79,"ref":92.32,"profit":10.3,"roi":14.15,"bo":2,"so":12,"buy":72.44,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
