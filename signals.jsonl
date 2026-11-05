@@ -497,3 +497,5 @@
 {"id":504,"name":"Аннигилятор","t":1793847685870,"sale":992.67,"ref":1145.38,"profit":38.17,"roi":3.85,"bo":7,"so":14,"buy":943.15,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":497,"name":"Колибри","t":1793848842341,"sale":339.5,"ref":431.5,"profit":48.85,"roi":14.39,"bo":4,"so":16,"buy":320,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":580,"name":"Знак такси","t":1793857242615,"sale":203.25,"ref":269.98,"profit":39.73,"roi":19.55,"bo":0,"so":9,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":303,"name":"П-29 Заступник","t":1793857846265,"sale":236.19,"ref":321.98,"profit":53.59,"roi":22.69,"bo":0,"so":6,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":427,"name":"ПТУР-Л Флейта","t":1793857847832,"sale":380,"ref":459.98,"profit":33.98,"roi":8.94,"bo":9,"so":20,"buy":356.85,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
