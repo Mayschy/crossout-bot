@@ -747,3 +747,5 @@
 {"id":353,"name":"Самопал","t":1793895651733,"sale":68.59,"ref":91.22,"profit":13.51,"roi":19.69,"bo":7,"so":20,"buy":68.54,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1793896270624,"sale":174.28,"ref":219.49,"profit":23.26,"roi":13.35,"bo":10,"so":3,"buy":169,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":341,"name":"Сплит","t":1793896270624,"sale":1869.9,"ref":2095.9,"profit":16.41,"roi":0.88,"bo":12,"so":20,"buy":1822.2,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":419,"name":"Пламя","t":1793896846769,"sale":280.01,"ref":333.96,"profit":20.55,"roi":7.34,"bo":38,"so":43,"buy":280,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1449,"name":"Гиена","t":1793896846769,"sale":771,"ref":869,"profit":11.1,"roi":1.44,"bo":17,"so":25,"buy":768.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
