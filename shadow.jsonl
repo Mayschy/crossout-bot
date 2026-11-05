@@ -777,3 +777,4 @@
 {"id":289,"name":"Дробитель","t":1793913049781,"sale":350,"ref":400,"profit":10,"roi":2.86,"bo":3,"so":33,"buy":340,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":576,"name":"Гусеница малая","t":1793915855253,"sale":168.11,"ref":199,"profit":10.99,"roi":6.54,"bo":11,"so":34,"buy":168,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":427,"name":"ПТУР-Л Флейта","t":1793916646221,"sale":380.99,"ref":446.98,"profit":21.29,"roi":5.59,"bo":9,"so":32,"buy":360,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":457,"name":"Снабжение","t":1793918445919,"sale":57.27,"ref":76.67,"profit":11.73,"roi":20.49,"bo":5,"so":10,"buy":55.8,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

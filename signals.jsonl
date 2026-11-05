@@ -528,3 +528,4 @@
 {"id":321,"name":"Мельник","t":1793914267087,"sale":422.04,"ref":503.21,"profit":30.85,"roi":7.31,"bo":23,"so":13,"buy":422.03,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":226,"name":"Надувной Аполлон","t":1793915856250,"sale":244.26,"ref":302.34,"profit":27.85,"roi":11.4,"bo":1,"so":8,"buy":230.54,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":283,"name":"Горыныч","t":1793916647017,"sale":1170.22,"ref":1350,"profit":44.78,"roi":3.83,"bo":5,"so":13,"buy":1170,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":514,"name":"Ядро","t":1793918447837,"sale":180.09,"ref":271.57,"profit":64.32,"roi":35.72,"bo":7,"so":5,"buy":180.08,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
