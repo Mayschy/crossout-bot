@@ -739,3 +739,4 @@
 {"id":73,"name":"Пернатый змей","t":1793886645896,"sale":72.79,"ref":92.32,"profit":10.3,"roi":14.15,"bo":2,"so":12,"buy":72.44,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":496,"name":"СВ-2 Буревестник","t":1793887852674,"sale":349.9,"ref":399.9,"profit":10.01,"roi":2.86,"bo":16,"so":17,"buy":312.2,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":284,"name":"Панацея","t":1793889657699,"sale":360,"ref":413.09,"profit":11.78,"roi":3.27,"bo":3,"so":23,"buy":337.1,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":184,"name":"Исполин","t":1793891458985,"sale":139.13,"ref":177.73,"profit":20.83,"roi":14.97,"bo":14,"so":29,"buy":139.12,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
