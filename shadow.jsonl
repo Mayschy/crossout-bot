@@ -770,3 +770,4 @@
 {"id":427,"name":"ПТУР-Л Флейта","t":1793907644710,"sale":381.14,"ref":447,"profit":21.16,"roi":5.55,"bo":7,"so":26,"buy":380.99,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":187,"name":"Работяга","t":1793907644710,"sale":94.14,"ref":118,"profit":12.06,"roi":12.81,"bo":15,"so":2,"buy":91.17,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1793908245324,"sale":130.45,"ref":169.96,"profit":22.51,"roi":17.26,"bo":20,"so":16,"buy":129.15,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":689,"name":"Контейнер разведчика","t":1793910668261,"sale":341.01,"ref":391,"profit":10.89,"roi":3.19,"bo":41,"so":181,"buy":341,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
