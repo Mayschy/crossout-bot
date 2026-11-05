@@ -517,3 +517,4 @@
 {"id":379,"name":"Гравастар","t":1793901046339,"sale":321.16,"ref":386,"profit":26.24,"roi":8.17,"bo":10,"so":25,"buy":321.11,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":385,"name":"Фортуна","t":1793901682073,"sale":1740.21,"ref":1999.97,"profit":59.76,"roi":3.43,"bo":22,"so":10,"buy":1740.2,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":268,"name":"Жнец","t":1793902247047,"sale":1859,"ref":2128.99,"profit":57.09,"roi":3.07,"bo":8,"so":17,"buy":1800,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":39,"name":"Кокпит","t":1793902848867,"sale":1382,"ref":1666.67,"profit":118,"roi":8.54,"bo":8,"so":7,"buy":1381,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
