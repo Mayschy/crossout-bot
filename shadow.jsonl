@@ -760,3 +760,4 @@
 {"id":23,"name":"Маниту","t":1793901681459,"sale":467.96,"ref":545,"profit":22.54,"roi":4.82,"bo":28,"so":7,"buy":444.44,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":288,"name":"Ёнван","t":1793901681459,"sale":560,"ref":637.78,"profit":14,"roi":2.5,"bo":3,"so":12,"buy":512.84,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1793901681459,"sale":82.76,"ref":106.19,"profit":12.81,"roi":15.48,"bo":3,"so":12,"buy":81.51,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1793902245219,"sale":176.61,"ref":217.26,"profit":18.92,"roi":10.72,"bo":51,"so":3,"buy":174.5,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
