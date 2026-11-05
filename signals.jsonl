@@ -488,3 +488,5 @@
 {"id":3758,"name":"Царица","t":1793836243700,"sale":4880.69,"ref":5700,"profit":249.31,"roi":5.11,"bo":11,"so":24,"buy":4869.98,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":223,"name":"Надувной Мамонт","t":1793836245054,"sale":900,"ref":1080,"profit":72,"roi":8,"bo":13,"so":13,"buy":783.34,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":664,"name":"Код «‎Оранжевый»","t":1793836246817,"sale":183.07,"ref":235.36,"profit":28.75,"roi":15.71,"bo":2,"so":4,"buy":175,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":380,"name":"Искра III","t":1793841047346,"sale":1600.2,"ref":1930.99,"profit":137.69,"roi":8.6,"bo":8,"so":20,"buy":1600.02,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":226,"name":"Надувной Аполлон","t":1793841049221,"sale":242.7,"ref":302.34,"profit":29.41,"roi":12.12,"bo":0,"so":9,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
