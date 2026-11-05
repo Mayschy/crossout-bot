@@ -764,3 +764,4 @@
 {"id":40,"name":"Пилигрим","t":1793902847426,"sale":96.83,"ref":119.99,"profit":11.16,"roi":11.53,"bo":5,"so":16,"buy":95.6,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":184,"name":"Исполин","t":1793903470549,"sale":142.56,"ref":177.73,"profit":17.4,"roi":12.2,"bo":13,"so":26,"buy":141.52,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":353,"name":"Самопал","t":1793903470549,"sale":70.36,"ref":91.22,"profit":11.74,"roi":16.68,"bo":6,"so":21,"buy":69.52,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":120,"name":"Озноб","t":1793904047720,"sale":341,"ref":390.01,"profit":10.01,"roi":2.94,"bo":4,"so":29,"buy":337.99,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
