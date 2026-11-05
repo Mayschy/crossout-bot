@@ -708,3 +708,4 @@
 {"id":685,"name":"Комплект снаряжения У1","t":1793845242205,"sale":263.42,"ref":319,"profit":23.68,"roi":8.99,"bo":1,"so":20,"buy":257.2,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":578,"name":"Гусеница укрепленная","t":1793846448882,"sale":142.3,"ref":179.98,"profit":19.68,"roi":13.83,"bo":9,"so":47,"buy":138.58,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1385,"name":"Призрачный холод","t":1793847040884,"sale":46.57,"ref":66.57,"profit":13.34,"roi":28.65,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":586,"name":"Слейпнир","t":1793848841764,"sale":383,"ref":437.7,"profit":10.93,"roi":2.85,"bo":2,"so":27,"buy":353.17,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
