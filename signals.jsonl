@@ -501,3 +501,5 @@
 {"id":427,"name":"ПТУР-Л Флейта","t":1793857847832,"sale":380,"ref":459.98,"profit":33.98,"roi":8.94,"bo":9,"so":20,"buy":356.85,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":60,"name":"РУН-1А","t":1793871648592,"sale":700,"ref":817.99,"profit":36.19,"roi":5.17,"bo":5,"so":13,"buy":676,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":444,"name":"МН-Л 200","t":1793872241855,"sale":365.97,"ref":443.95,"profit":33.58,"roi":9.18,"bo":11,"so":21,"buy":365.77,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":427,"name":"ПТУР-Л Флейта","t":1793876489395,"sale":360.25,"ref":454.99,"profit":49.24,"roi":13.67,"bo":9,"so":27,"buy":356.85,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":379,"name":"Гравастар","t":1793876491112,"sale":320.01,"ref":388.91,"profit":30.01,"roi":9.38,"bo":3,"so":30,"buy":320,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
