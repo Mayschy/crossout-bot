@@ -734,3 +734,4 @@
 {"id":295,"name":"АП64 Джоуль","t":1793881868071,"sale":1010.02,"ref":1150,"profit":24.98,"roi":2.47,"bo":17,"so":23,"buy":1010,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1793881868071,"sale":180,"ref":217,"profit":15.3,"roi":8.5,"bo":13,"so":13,"buy":170.61,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":631,"name":"Бигфут (пов.)","t":1793883682791,"sale":179,"ref":210.99,"profit":10.89,"roi":6.08,"bo":21,"so":104,"buy":178.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":358,"name":"Булава","t":1793884246353,"sale":93.78,"ref":115.5,"profit":10.17,"roi":10.84,"bo":13,"so":18,"buy":91.54,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
