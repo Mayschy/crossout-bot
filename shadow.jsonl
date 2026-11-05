@@ -703,3 +703,4 @@
 {"id":457,"name":"Снабжение","t":1793833845910,"sale":61.44,"ref":82.86,"profit":13.13,"roi":21.38,"bo":18,"so":3,"buy":60.84,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1462,"name":"Гоплит","t":1793835396901,"sale":1680,"ref":1886,"profit":17.4,"roi":1.04,"bo":7,"so":25,"buy":1651,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":185,"name":"Жесткач","t":1793836880255,"sale":101.14,"ref":129.85,"profit":15.72,"roi":15.55,"bo":8,"so":29,"buy":101.13,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":605,"name":"Титан","t":1793837441558,"sale":111.16,"ref":137.11,"profit":12.24,"roi":11.01,"bo":8,"so":11,"buy":109.38,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
