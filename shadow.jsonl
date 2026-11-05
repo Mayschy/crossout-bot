@@ -711,3 +711,4 @@
 {"id":586,"name":"Слейпнир","t":1793848841764,"sale":383,"ref":437.7,"profit":10.93,"roi":2.85,"bo":2,"so":27,"buy":353.17,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":185,"name":"Жесткач","t":1793849467323,"sale":99.17,"ref":129.68,"profit":17.54,"roi":17.69,"bo":5,"so":32,"buy":98.62,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":555,"name":"Бум","t":1793849467323,"sale":84.02,"ref":109.75,"profit":14.76,"roi":17.56,"bo":12,"so":10,"buy":82.78,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":149,"name":"Вакидатэ","t":1793851844952,"sale":196.06,"ref":233.9,"profit":14.45,"roi":7.37,"bo":2,"so":11,"buy":190.73,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
