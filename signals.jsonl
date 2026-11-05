@@ -523,3 +523,4 @@
 {"id":592,"name":"Панджи","t":1793908247801,"sale":650,"ref":754.29,"profit":28.86,"roi":4.44,"bo":15,"so":12,"buy":582.11,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":679,"name":"Каракурт","t":1793909446008,"sale":2094,"ref":2470,"profit":129,"roi":6.16,"bo":5,"so":13,"buy":2093,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":293,"name":"Шкуродер","t":1793911844122,"sale":228.28,"ref":299.13,"profit":40.94,"roi":17.93,"bo":8,"so":3,"buy":228.27,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":27,"name":"Машинист","t":1793912485870,"sale":2459,"ref":2876.19,"profit":129.57,"roi":5.27,"bo":4,"so":3,"buy":2368.38,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}

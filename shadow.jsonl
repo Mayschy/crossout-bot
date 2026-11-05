@@ -772,3 +772,5 @@
 {"id":181,"name":"Гепард","t":1793908245324,"sale":130.45,"ref":169.96,"profit":22.51,"roi":17.26,"bo":20,"so":16,"buy":129.15,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":689,"name":"Контейнер разведчика","t":1793910668261,"sale":341.01,"ref":391,"profit":10.89,"roi":3.19,"bo":41,"so":181,"buy":341,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":254,"name":"ЗИС-33 Верзила","t":1793911842850,"sale":84.17,"ref":107.66,"profit":12.72,"roi":15.12,"bo":4,"so":34,"buy":84.16,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":335,"name":"Триггер","t":1793912483624,"sale":181.05,"ref":220,"profit":16.95,"roi":9.36,"bo":2,"so":24,"buy":180.93,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":7,"name":"Бастион","t":1793912483624,"sale":250,"ref":289.96,"profit":10.96,"roi":4.39,"bo":14,"so":27,"buy":232.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
