@@ -720,3 +720,5 @@
 {"id":610,"name":"Увабаки (пов.)","t":1793867464414,"sale":222.03,"ref":274.2,"profit":24.75,"roi":11.15,"bo":21,"so":29,"buy":222.02,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":496,"name":"СВ-2 Буревестник","t":1793868647912,"sale":340,"ref":399.95,"profit":19.95,"roi":5.87,"bo":15,"so":17,"buy":311.07,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":578,"name":"Гусеница укрепленная","t":1793869295651,"sale":138.58,"ref":170.41,"profit":14.79,"roi":10.67,"bo":7,"so":55,"buy":137,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3769,"name":"Смог-15","t":1793870453161,"sale":193.26,"ref":236,"profit":19.14,"roi":9.9,"bo":21,"so":11,"buy":193.25,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":557,"name":"Снежинка","t":1793870453161,"sale":294.9,"ref":342.76,"profit":13.58,"roi":4.61,"bo":0,"so":1,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
