@@ -705,3 +705,4 @@
 {"id":185,"name":"Жесткач","t":1793836880255,"sale":101.14,"ref":129.85,"profit":15.72,"roi":15.55,"bo":8,"so":29,"buy":101.13,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":605,"name":"Титан","t":1793837441558,"sale":111.16,"ref":137.11,"profit":12.24,"roi":11.01,"bo":8,"so":11,"buy":109.38,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":486,"name":"Ампер","t":1793843441167,"sale":83.02,"ref":105.19,"profit":11.65,"roi":14.03,"bo":5,"so":42,"buy":82.87,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":685,"name":"Комплект снаряжения У1","t":1793845242205,"sale":263.42,"ref":319,"profit":23.68,"roi":8.99,"bo":1,"so":20,"buy":257.2,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

@@ -492,3 +492,4 @@
 {"id":226,"name":"Надувной Аполлон","t":1793841049221,"sale":242.7,"ref":302.34,"profit":29.41,"roi":12.12,"bo":0,"so":9,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":190,"name":"Пегас","t":1793843442665,"sale":4500,"ref":5200.41,"profit":180.37,"roi":4.01,"bo":2,"so":22,"buy":4244.69,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":290,"name":"Тошнитель","t":1793844078957,"sale":1600.01,"ref":1830,"profit":46.99,"roi":2.94,"bo":18,"so":11,"buy":1600,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":284,"name":"Панацея","t":1793845243731,"sale":337.9,"ref":416.98,"profit":37.38,"roi":11.06,"bo":3,"so":30,"buy":337.09,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
