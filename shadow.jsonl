@@ -731,3 +731,5 @@
 {"id":289,"name":"Дробитель","t":1793880646765,"sale":371,"ref":434.99,"profit":20.49,"roi":5.52,"bo":10,"so":23,"buy":353.12,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1464,"name":"Икар I","t":1793880646765,"sale":401.05,"ref":459.9,"profit":12.86,"roi":3.21,"bo":13,"so":26,"buy":401.02,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":555,"name":"Бум","t":1793881249638,"sale":85.5,"ref":109.75,"profit":13.28,"roi":15.53,"bo":15,"so":19,"buy":84.15,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":295,"name":"АП64 Джоуль","t":1793881868071,"sale":1010.02,"ref":1150,"profit":24.98,"roi":2.47,"bo":17,"so":23,"buy":1010,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1793881868071,"sale":180,"ref":217,"profit":15.3,"roi":8.5,"bo":13,"so":13,"buy":170.61,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
