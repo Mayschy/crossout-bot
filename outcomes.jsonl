@@ -6481,3 +6481,11 @@
 {"id":335,"t":1793912483624,"h":120,"at":1793919600000,"s":200,"b":0,"so":23,"bo":0,"ask":-1.05,"instant":null,"taken":true,"shadow":true,"roi":-0.58,"capital":181.05,"late":false}
 {"id":7,"t":1793912483624,"h":120,"at":1793919600000,"s":289.83,"b":232.51,"so":28,"bo":19,"ask":10.85,"instant":-40.74,"taken":true,"shadow":true,"roi":4.34,"capital":250,"late":false}
 {"id":457,"t":1793918445919,"h":30,"at":1793920200000,"s":75.15,"b":55.8,"so":9,"bo":5,"ask":10.37,"instant":-7.05,"taken":true,"shadow":true,"roi":18.1,"capital":57.27,"late":false}
+{"id":518,"t":1793913645323,"h":120,"at":1793920800000,"s":556.94,"b":451.02,"so":6,"bo":15,"ask":37.24,"instant":-58.09,"taken":true,"shadow":false,"roi":8.02,"capital":464.01,"late":false}
+{"id":283,"t":1793916647017,"h":60,"at":1793920200000,"s":1300,"b":1172,"so":13,"bo":8,"ask":-0.22,"instant":-115.42,"taken":true,"shadow":false,"roi":-0.02,"capital":1170.22,"late":false}
+{"id":514,"t":1793918447837,"h":30,"at":1793920200000,"s":271.57,"b":180.09,"so":3,"bo":5,"ask":64.32,"instant":-18.01,"taken":true,"shadow":false,"roi":35.72,"capital":180.09,"late":false}
+{"id":575,"t":1793919045561,"h":30,"at":1793920800000,"s":799.98,"b":660.01,"so":23,"bo":22,"ask":59.97,"instant":-66,"taken":true,"shadow":false,"roi":9.09,"capital":660.01,"late":false}
+{"id":289,"t":1793913049781,"h":120,"at":1793920200000,"s":400,"b":358,"so":30,"bo":3,"ask":10,"instant":-27.8,"taken":true,"shadow":true,"roi":2.86,"capital":350,"late":false}
+{"id":427,"t":1793916646221,"h":60,"at":1793920200000,"s":446.97,"b":360,"so":32,"bo":9,"ask":21.28,"instant":-56.99,"taken":true,"shadow":true,"roi":5.59,"capital":380.99,"late":false}
+{"id":198,"t":1793919682813,"h":10,"at":1793920200000,"s":229,"b":177,"so":5,"bo":1,"ask":14.91,"instant":-31.89,"taken":true,"shadow":true,"roi":7.8,"capital":191.19,"late":false}
+{"id":646,"t":1793919682813,"h":10,"at":1793920200000,"s":205.05,"b":170.4,"so":34,"bo":35,"ask":14.15,"instant":-17.04,"taken":true,"shadow":true,"roi":8.3,"capital":170.4,"late":false}
