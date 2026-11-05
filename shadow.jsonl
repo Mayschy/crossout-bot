@@ -742,3 +742,4 @@
 {"id":184,"name":"Исполин","t":1793891458985,"sale":139.13,"ref":177.73,"profit":20.83,"roi":14.97,"bo":14,"so":29,"buy":139.12,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1400,"name":"Маска смерти","t":1793892669831,"sale":190,"ref":234.46,"profit":21.01,"roi":11.06,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":437,"name":"Тэнгу","t":1793894486578,"sale":830.03,"ref":934.99,"profit":11.46,"roi":1.38,"bo":45,"so":13,"buy":830.02,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":555,"name":"Бум","t":1793895080359,"sale":87.13,"ref":109.02,"profit":10.99,"roi":12.61,"bo":15,"so":21,"buy":86,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
