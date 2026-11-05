@@ -515,3 +515,4 @@
 {"id":278,"name":"Артемида","t":1793899866180,"sale":1230,"ref":1400,"profit":30,"roi":2.44,"bo":7,"so":9,"buy":1140.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":190,"name":"Пегас","t":1793901044918,"sale":4300,"ref":5198.02,"profit":378.22,"roi":8.8,"bo":7,"so":18,"buy":4246.02,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":379,"name":"Гравастар","t":1793901046339,"sale":321.16,"ref":386,"profit":26.24,"roi":8.17,"bo":10,"so":25,"buy":321.11,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":385,"name":"Фортуна","t":1793901682073,"sale":1740.21,"ref":1999.97,"profit":59.76,"roi":3.43,"bo":22,"so":10,"buy":1740.2,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}

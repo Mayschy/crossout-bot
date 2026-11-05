@@ -757,3 +757,6 @@
 {"id":181,"name":"Гепард","t":1793900445090,"sale":136.11,"ref":167,"profit":14.19,"roi":10.43,"bo":5,"so":15,"buy":128.27,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":689,"name":"Контейнер разведчика","t":1793901044389,"sale":344.45,"ref":397.68,"profit":13.46,"roi":3.91,"bo":40,"so":191,"buy":340.07,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1793901044389,"sale":92.85,"ref":115.5,"profit":11.1,"roi":11.95,"bo":10,"so":43,"buy":90.24,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":23,"name":"Маниту","t":1793901681459,"sale":467.96,"ref":545,"profit":22.54,"roi":4.82,"bo":28,"so":7,"buy":444.44,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":288,"name":"Ёнван","t":1793901681459,"sale":560,"ref":637.78,"profit":14,"roi":2.5,"bo":3,"so":12,"buy":512.84,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":495,"name":"Фалко","t":1793901681459,"sale":82.76,"ref":106.19,"profit":12.81,"roi":15.48,"bo":3,"so":12,"buy":81.51,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
