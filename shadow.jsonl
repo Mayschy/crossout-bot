@@ -753,3 +753,5 @@
 {"id":472,"name":"Неоновый Санта","t":1793898090225,"sale":72.93,"ref":92.35,"profit":10.18,"roi":13.97,"bo":0,"so":6,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":321,"name":"Мельник","t":1793899864618,"sale":426,"ref":499.98,"profit":23.98,"roi":5.63,"bo":19,"so":27,"buy":421.11,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3757,"name":"УК-4 Гранит","t":1793899864618,"sale":950,"ref":1068,"profit":11.2,"roi":1.18,"bo":20,"so":9,"buy":900,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":312,"name":"Эмили","t":1793900445090,"sale":98.92,"ref":126,"profit":14.48,"roi":14.64,"bo":6,"so":17,"buy":98,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":181,"name":"Гепард","t":1793900445090,"sale":136.11,"ref":167,"profit":14.19,"roi":10.43,"bo":5,"so":15,"buy":128.27,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
