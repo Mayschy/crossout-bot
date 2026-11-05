@@ -755,3 +755,5 @@
 {"id":3757,"name":"УК-4 Гранит","t":1793899864618,"sale":950,"ref":1068,"profit":11.2,"roi":1.18,"bo":20,"so":9,"buy":900,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":312,"name":"Эмили","t":1793900445090,"sale":98.92,"ref":126,"profit":14.48,"roi":14.64,"bo":6,"so":17,"buy":98,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1793900445090,"sale":136.11,"ref":167,"profit":14.19,"roi":10.43,"bo":5,"so":15,"buy":128.27,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":689,"name":"Контейнер разведчика","t":1793901044389,"sale":344.45,"ref":397.68,"profit":13.46,"roi":3.91,"bo":40,"so":191,"buy":340.07,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":269,"name":"Медиана","t":1793901044389,"sale":92.85,"ref":115.5,"profit":11.1,"roi":11.95,"bo":10,"so":43,"buy":90.24,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
