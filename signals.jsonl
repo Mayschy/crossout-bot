@@ -499,3 +499,4 @@
 {"id":580,"name":"Знак такси","t":1793857242615,"sale":203.25,"ref":269.98,"profit":39.73,"roi":19.55,"bo":0,"so":9,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":303,"name":"П-29 Заступник","t":1793857846265,"sale":236.19,"ref":321.98,"profit":53.59,"roi":22.69,"bo":0,"so":6,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":427,"name":"ПТУР-Л Флейта","t":1793857847832,"sale":380,"ref":459.98,"profit":33.98,"roi":8.94,"bo":9,"so":20,"buy":356.85,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":60,"name":"РУН-1А","t":1793871648592,"sale":700,"ref":817.99,"profit":36.19,"roi":5.17,"bo":5,"so":13,"buy":676,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}

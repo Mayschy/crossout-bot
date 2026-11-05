@@ -722,3 +722,4 @@
 {"id":578,"name":"Гусеница укрепленная","t":1793869295651,"sale":138.58,"ref":170.41,"profit":14.79,"roi":10.67,"bo":7,"so":55,"buy":137,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3769,"name":"Смог-15","t":1793870453161,"sale":193.26,"ref":236,"profit":19.14,"roi":9.9,"bo":21,"so":11,"buy":193.25,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":557,"name":"Снежинка","t":1793870453161,"sale":294.9,"ref":342.76,"profit":13.58,"roi":4.61,"bo":0,"so":1,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":93,"name":"Онгаку","t":1793871646633,"sale":197.12,"ref":232.58,"profit":12.2,"roi":6.19,"bo":1,"so":7,"buy":195.5,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
