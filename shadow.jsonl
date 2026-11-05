@@ -726,3 +726,5 @@
 {"id":73,"name":"Пернатый змей","t":1793873444972,"sale":72.81,"ref":92.33,"profit":10.29,"roi":14.13,"bo":2,"so":13,"buy":72.44,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":336,"name":"Деструктор","t":1793875844080,"sale":1210,"ref":1369.89,"profit":22.9,"roi":1.89,"bo":3,"so":11,"buy":1201,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":444,"name":"МН-Л 200","t":1793875844080,"sale":365.97,"ref":420,"profit":12.03,"roi":3.29,"bo":11,"so":24,"buy":365.77,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":623,"name":"Виджет (пов.)","t":1793880082762,"sale":414,"ref":478,"profit":16.2,"roi":3.91,"bo":3,"so":27,"buy":394.17,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":252,"name":"ЗИС-34 Толстяк","t":1793880082762,"sale":222.23,"ref":259.88,"profit":11.66,"roi":5.25,"bo":14,"so":26,"buy":212.03,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
