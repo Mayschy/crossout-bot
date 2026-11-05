@@ -715,3 +715,4 @@
 {"id":430,"name":"Запал","t":1793853063065,"sale":128.75,"ref":163.95,"profit":18.81,"roi":14.61,"bo":6,"so":3,"buy":128,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":407,"name":"Проблема","t":1793855443741,"sale":43.58,"ref":60.15,"profit":10.55,"roi":24.22,"bo":0,"so":6,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1464,"name":"Икар I","t":1793856042019,"sale":401.03,"ref":459.98,"profit":12.95,"roi":3.23,"bo":39,"so":27,"buy":401.02,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":578,"name":"Гусеница укрепленная","t":1793859642443,"sale":142.3,"ref":179.96,"profit":19.66,"roi":13.82,"bo":9,"so":50,"buy":138.58,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
