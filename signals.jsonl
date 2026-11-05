@@ -493,3 +493,5 @@
 {"id":190,"name":"Пегас","t":1793843442665,"sale":4500,"ref":5200.41,"profit":180.37,"roi":4.01,"bo":2,"so":22,"buy":4244.69,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":290,"name":"Тошнитель","t":1793844078957,"sale":1600.01,"ref":1830,"profit":46.99,"roi":2.94,"bo":18,"so":11,"buy":1600,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":284,"name":"Панацея","t":1793845243731,"sale":337.9,"ref":416.98,"profit":37.38,"roi":11.06,"bo":3,"so":30,"buy":337.09,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1446,"name":"Мясник","t":1793847684409,"sale":1629.07,"ref":2098.98,"profit":260.01,"roi":15.96,"bo":5,"so":12,"buy":1625.31,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":504,"name":"Аннигилятор","t":1793847685870,"sale":992.67,"ref":1145.38,"profit":38.17,"roi":3.85,"bo":7,"so":14,"buy":943.15,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
