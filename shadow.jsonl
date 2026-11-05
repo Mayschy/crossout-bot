@@ -718,3 +718,4 @@
 {"id":578,"name":"Гусеница укрепленная","t":1793859642443,"sale":142.3,"ref":179.96,"profit":19.66,"roi":13.82,"bo":9,"so":50,"buy":138.58,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":605,"name":"Титан","t":1793860599465,"sale":109.38,"ref":133.94,"profit":11.17,"roi":10.21,"bo":4,"so":18,"buy":105.08,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1793867464414,"sale":222.03,"ref":274.2,"profit":24.75,"roi":11.15,"bo":21,"so":29,"buy":222.02,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":496,"name":"СВ-2 Буревестник","t":1793868647912,"sale":340,"ref":399.95,"profit":19.95,"roi":5.87,"bo":15,"so":17,"buy":311.07,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
