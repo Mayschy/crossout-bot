@@ -733,3 +733,4 @@
 {"id":555,"name":"Бум","t":1793881249638,"sale":85.5,"ref":109.75,"profit":13.28,"roi":15.53,"bo":15,"so":19,"buy":84.15,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":295,"name":"АП64 Джоуль","t":1793881868071,"sale":1010.02,"ref":1150,"profit":24.98,"roi":2.47,"bo":17,"so":23,"buy":1010,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1793881868071,"sale":180,"ref":217,"profit":15.3,"roi":8.5,"bo":13,"so":13,"buy":170.61,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":631,"name":"Бигфут (пов.)","t":1793883682791,"sale":179,"ref":210.99,"profit":10.89,"roi":6.08,"bo":21,"so":104,"buy":178.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
