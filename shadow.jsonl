@@ -791,3 +791,4 @@
 {"id":559,"name":"Замкнутый круг","t":1793952646479,"sale":2200,"ref":2463.58,"profit":17.22,"roi":0.78,"bo":2,"so":2,"buy":1911.01,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1793955683506,"sale":230.01,"ref":273.95,"profit":16.55,"roi":7.19,"bo":17,"so":31,"buy":230,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1793955683506,"sale":165.16,"ref":199.9,"profit":14.75,"roi":8.93,"bo":23,"so":20,"buy":165.05,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3769,"name":"Смог-15","t":1793958043568,"sale":179.74,"ref":219.99,"profit":18.25,"roi":10.15,"bo":3,"so":18,"buy":170.19,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
