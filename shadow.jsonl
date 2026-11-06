@@ -781,3 +781,5 @@
 {"id":198,"name":"Симбионт (правый)","t":1793919682813,"sale":191.19,"ref":229,"profit":14.91,"roi":7.8,"bo":1,"so":6,"buy":177,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":646,"name":"Атом","t":1793919682813,"sale":170.4,"ref":205.05,"profit":14.15,"roi":8.3,"bo":34,"so":36,"buy":170.35,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":576,"name":"Гусеница малая","t":1793923843604,"sale":168,"ref":199,"profit":11.1,"roi":6.61,"bo":8,"so":33,"buy":166.21,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1793925644139,"sale":163.93,"ref":208.78,"profit":23.97,"roi":14.62,"bo":26,"so":28,"buy":161.61,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":368,"name":"Астрей","t":1793925644139,"sale":470,"ref":547.99,"profit":23.19,"roi":4.93,"bo":18,"so":27,"buy":467.03,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
