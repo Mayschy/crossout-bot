@@ -571,3 +571,4 @@
 {"id":444,"name":"МН-Л 200","t":1793992846771,"sale":368,"ref":443.44,"profit":31.1,"roi":8.45,"bo":12,"so":37,"buy":365.35,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":365,"name":"П-39 Черт","t":1793993467953,"sale":2001,"ref":2348.99,"profit":113.09,"roi":5.65,"bo":4,"so":23,"buy":2000,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":518,"name":"Оберег","t":1793995277566,"sale":471.05,"ref":589.87,"profit":59.83,"roi":12.7,"bo":17,"so":7,"buy":471.04,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":263,"name":"ЗА-4 Звездопад","t":1793995845605,"sale":2700.01,"ref":3100,"profit":89.99,"roi":3.33,"bo":8,"so":19,"buy":2700,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}

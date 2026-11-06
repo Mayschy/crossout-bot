@@ -840,3 +840,4 @@
 {"id":635,"name":"Колесо багги (пов.)","t":1793992843025,"sale":201.06,"ref":248.4,"profit":22.5,"roi":11.19,"bo":11,"so":6,"buy":200.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":484,"name":"ЭУ-1 Заряд","t":1793993466189,"sale":97.23,"ref":122,"profit":12.57,"roi":12.93,"bo":9,"so":9,"buy":96.5,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":276,"name":"Циклон","t":1793995276820,"sale":387.4,"ref":449.28,"profit":16.95,"roi":4.38,"bo":7,"so":8,"buy":336.81,"act":8,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1793995845041,"sale":172.01,"ref":210.99,"profit":17.88,"roi":10.4,"bo":23,"so":26,"buy":172,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
