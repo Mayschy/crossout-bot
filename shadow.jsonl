@@ -798,3 +798,4 @@
 {"id":625,"name":"Затворник (пов.)","t":1793961925528,"sale":166,"ref":199.98,"profit":13.98,"roi":8.42,"bo":23,"so":15,"buy":165.05,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":463,"name":"Отшельник","t":1793963445156,"sale":751,"ref":850,"profit":14,"roi":1.86,"bo":5,"so":23,"buy":750,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":605,"name":"Титан","t":1793964040886,"sale":102.54,"ref":139.86,"profit":23.33,"roi":22.76,"bo":6,"so":3,"buy":102.51,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":184,"name":"Исполин","t":1793965245032,"sale":142.1,"ref":176.7,"profit":16.93,"roi":11.91,"bo":16,"so":31,"buy":141.06,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
