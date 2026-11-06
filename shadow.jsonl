@@ -810,3 +810,6 @@
 {"id":430,"name":"Запал","t":1793971250995,"sale":122.08,"ref":147.96,"profit":11.08,"roi":9.08,"bo":0,"so":19,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":645,"name":"Низкий просвет","t":1793973683019,"sale":300,"ref":359.86,"profit":23.87,"roi":7.96,"bo":18,"so":2,"buy":223.81,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":580,"name":"Знак такси","t":1793973683019,"sale":187.03,"ref":219.89,"profit":10.87,"roi":5.81,"bo":1,"so":14,"buy":180,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":309,"name":"Синус-0","t":1793974248122,"sale":84.27,"ref":108.36,"profit":13.25,"roi":15.73,"bo":0,"so":26,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":619,"name":"Омни","t":1793974248122,"sale":195,"ref":230,"profit":12,"roi":6.15,"bo":22,"so":62,"buy":194.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":301,"name":"Спектр-2","t":1793974248122,"sale":258,"ref":298.7,"profit":10.83,"roi":4.2,"bo":6,"so":54,"buy":257.5,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
