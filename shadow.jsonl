@@ -815,3 +815,6 @@
 {"id":301,"name":"Спектр-2","t":1793974248122,"sale":258,"ref":298.7,"profit":10.83,"roi":4.2,"bo":6,"so":54,"buy":257.5,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":375,"name":"Аврора","t":1793974847311,"sale":146.02,"ref":179.47,"profit":15.5,"roi":10.62,"bo":22,"so":25,"buy":146,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3756,"name":"Ревун","t":1793976647400,"sale":187.03,"ref":225.55,"profit":15.97,"roi":8.54,"bo":7,"so":4,"buy":186.27,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3757,"name":"УК-4 Гранит","t":1793978450178,"sale":960.1,"ref":1090.1,"profit":20.99,"roi":2.19,"bo":25,"so":6,"buy":920.02,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":437,"name":"Тэнгу","t":1793978450178,"sale":900,"ref":1018.99,"profit":17.09,"roi":1.9,"bo":42,"so":15,"buy":861,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":619,"name":"Омни","t":1793978450178,"sale":194.02,"ref":227.96,"profit":11.14,"roi":5.74,"bo":20,"so":65,"buy":194.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
