@@ -543,3 +543,4 @@
 {"id":1446,"name":"Мясник","t":1793945447131,"sale":1750,"ref":1990.93,"profit":41.84,"roi":2.39,"bo":9,"so":22,"buy":1701,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":427,"name":"ПТУР-Л Флейта","t":1793949642038,"sale":361,"ref":444,"profit":38.6,"roi":10.69,"bo":12,"so":55,"buy":360.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":327,"name":"Ёкай","t":1793952082764,"sale":685.05,"ref":810,"profit":43.95,"roi":6.42,"bo":12,"so":15,"buy":685.04,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":295,"name":"АП64 Джоуль","t":1793954443546,"sale":984,"ref":1139.96,"profit":41.96,"roi":4.26,"bo":11,"so":36,"buy":983.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
