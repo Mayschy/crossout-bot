@@ -801,3 +801,6 @@
 {"id":184,"name":"Исполин","t":1793965245032,"sale":142.1,"ref":176.7,"profit":16.93,"roi":11.91,"bo":16,"so":31,"buy":141.06,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":180,"name":"Беркут","t":1793966481978,"sale":2070.5,"ref":2328.33,"profit":25,"roi":1.21,"bo":7,"so":2,"buy":1811.09,"act":7,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":689,"name":"Контейнер разведчика","t":1793966481978,"sale":340.13,"ref":393.89,"profit":14.37,"roi":4.23,"bo":33,"so":173,"buy":340.12,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":464,"name":"Коготь","t":1793968265544,"sale":75.09,"ref":99.55,"profit":14.5,"roi":19.32,"bo":26,"so":3,"buy":75,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":19,"name":"Ермак","t":1793968265544,"sale":283,"ref":329.39,"profit":13.45,"roi":4.75,"bo":29,"so":26,"buy":282.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":296,"name":"АП62 Терм","t":1793968265544,"sale":187.13,"ref":221.84,"profit":12.53,"roi":6.69,"bo":18,"so":61,"buy":187.1,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
