@@ -560,3 +560,4 @@
 {"id":1,"name":"Кэнсэй","t":1793976658074,"sale":1394.98,"ref":1594.98,"profit":40.5,"roi":2.9,"bo":6,"so":10,"buy":1290.13,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":23,"name":"Маниту","t":1793977288529,"sale":458,"ref":565.29,"profit":50.76,"roi":11.08,"bo":8,"so":3,"buy":445,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":247,"name":"КП-17 Цунами","t":1793980243234,"sale":2200,"ref":2648,"profit":183.2,"roi":8.33,"bo":12,"so":11,"buy":2067,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":252,"name":"ЗИС-34 Толстяк","t":1793981447594,"sale":197.22,"ref":249.98,"profit":27.76,"roi":14.08,"bo":2,"so":32,"buy":196,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
