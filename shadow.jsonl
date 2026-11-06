@@ -804,3 +804,4 @@
 {"id":464,"name":"Коготь","t":1793968265544,"sale":75.09,"ref":99.55,"profit":14.5,"roi":19.32,"bo":26,"so":3,"buy":75,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":19,"name":"Ермак","t":1793968265544,"sale":283,"ref":329.39,"profit":13.45,"roi":4.75,"bo":29,"so":26,"buy":282.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":296,"name":"АП62 Терм","t":1793968265544,"sale":187.13,"ref":221.84,"profit":12.53,"roi":6.69,"bo":18,"so":61,"buy":187.1,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":420,"name":"Гнездо","t":1793968845060,"sale":370,"ref":429.99,"profit":16.99,"roi":4.59,"bo":10,"so":11,"buy":351,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
