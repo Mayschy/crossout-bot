@@ -792,3 +792,5 @@
 {"id":610,"name":"Увабаки (пов.)","t":1793955683506,"sale":230.01,"ref":273.95,"profit":16.55,"roi":7.19,"bo":17,"so":31,"buy":230,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1793955683506,"sale":165.16,"ref":199.9,"profit":14.75,"roi":8.93,"bo":23,"so":20,"buy":165.05,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3769,"name":"Смог-15","t":1793958043568,"sale":179.74,"ref":219.99,"profit":18.25,"roi":10.15,"bo":3,"so":18,"buy":170.19,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":563,"name":"Синхронизатор","t":1793960446031,"sale":300,"ref":344.98,"profit":10.48,"roi":3.49,"bo":19,"so":11,"buy":270,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":364,"name":"П-38 Егоза","t":1793960446031,"sale":320,"ref":367,"profit":10.3,"roi":3.22,"bo":6,"so":41,"buy":312.15,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
