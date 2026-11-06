@@ -534,3 +534,4 @@
 {"id":642,"name":"Низкий просвет (пов.)","t":1793924444539,"sale":759.44,"ref":994.31,"profit":135.44,"roi":17.83,"bo":26,"so":20,"buy":759.31,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":370,"name":"Имуги","t":1793925064018,"sale":1751.23,"ref":2197.5,"profit":226.52,"roi":12.93,"bo":27,"so":12,"buy":1751.22,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":21,"name":"Сумрак","t":1793928043757,"sale":485.99,"ref":602.45,"profit":56.22,"roi":11.57,"bo":9,"so":18,"buy":480.04,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":427,"name":"ПТУР-Л Флейта","t":1793930480092,"sale":360.03,"ref":446.97,"profit":42.24,"roi":11.73,"bo":13,"so":34,"buy":360.01,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
