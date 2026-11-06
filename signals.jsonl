@@ -576,3 +576,5 @@
 {"id":349,"name":"Тритон","t":1793998244050,"sale":2221,"ref":2588.98,"profit":109.08,"roi":4.91,"bo":6,"so":33,"buy":2095,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1307,"name":"Кристалл льда","t":1793998245398,"sale":324,"ref":414,"profit":48.6,"roi":15,"bo":1,"so":4,"buy":300.59,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":13,"name":"Зов","t":1793998881068,"sale":1308.79,"ref":1642.94,"profit":169.86,"roi":12.98,"bo":0,"so":8,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":153,"name":"Якорь","t":1794000665827,"sale":164.12,"ref":215.79,"profit":30.09,"roi":18.33,"bo":0,"so":7,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":590,"name":"Висельник","t":1794000667532,"sale":174.19,"ref":222.6,"profit":26.15,"roi":15.01,"bo":0,"so":6,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
