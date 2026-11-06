@@ -852,3 +852,4 @@
 {"id":676,"name":"Зубодробитель","t":1793998880147,"sale":71.14,"ref":91.79,"profit":11.47,"roi":16.12,"bo":3,"so":13,"buy":71,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":189,"name":"Четкий","t":1793999441587,"sale":150.77,"ref":190,"profit":20.23,"roi":13.42,"bo":4,"so":21,"buy":140,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":112,"name":"Рвач","t":1794000043000,"sale":124.6,"ref":150.17,"profit":10.55,"roi":8.47,"bo":0,"so":38,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":253,"name":"ЗИС-46 Мамонт","t":1794006083654,"sale":1610,"ref":1810,"profit":19,"roi":1.18,"bo":15,"so":9,"buy":1500.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
