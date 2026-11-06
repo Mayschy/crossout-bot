@@ -842,3 +842,6 @@
 {"id":276,"name":"Циклон","t":1793995276820,"sale":387.4,"ref":449.28,"profit":16.95,"roi":4.38,"bo":7,"so":8,"buy":336.81,"act":8,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1793995845041,"sale":172.01,"ref":210.99,"profit":17.88,"roi":10.4,"bo":23,"so":26,"buy":172,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":464,"name":"Коготь","t":1793996447792,"sale":78.67,"ref":102.06,"profit":13.18,"roi":16.76,"bo":15,"so":20,"buy":77.77,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":704,"name":"Хранилище чертежей","t":1793997066681,"sale":162,"ref":198.69,"profit":16.82,"roi":10.38,"bo":33,"so":10,"buy":160,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1014,"name":"Рыжий конь","t":1793997066681,"sale":56.45,"ref":75.23,"profit":11.26,"roi":19.94,"bo":0,"so":9,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":611,"name":"Колесо двойное","t":1793997066681,"sale":45.34,"ref":62.43,"profit":10.85,"roi":23.92,"bo":0,"so":9,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
