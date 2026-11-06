@@ -833,3 +833,5 @@
 {"id":457,"name":"Снабжение","t":1793989245823,"sale":56.52,"ref":74.95,"profit":10.93,"roi":19.35,"bo":3,"so":13,"buy":56.13,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1793990443090,"sale":82.88,"ref":107.49,"profit":13.86,"roi":16.72,"bo":3,"so":12,"buy":81.03,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":646,"name":"Атом","t":1793990443090,"sale":180.01,"ref":212,"profit":10.79,"roi":5.99,"bo":24,"so":40,"buy":171,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3756,"name":"Ревун","t":1793991040645,"sale":186.29,"ref":225.55,"profit":16.71,"roi":8.97,"bo":8,"so":4,"buy":186.28,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":704,"name":"Хранилище чертежей","t":1793991040645,"sale":148.32,"ref":180,"profit":13.68,"roi":9.22,"bo":35,"so":13,"buy":147.05,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
