@@ -821,3 +821,4 @@
 {"id":580,"name":"Знак такси","t":1793979071801,"sale":180,"ref":219.89,"profit":17.9,"roi":9.94,"bo":0,"so":14,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1793981446208,"sale":140,"ref":168.92,"profit":12.03,"roi":8.59,"bo":22,"so":21,"buy":136.51,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":427,"name":"ПТУР-Л Флейта","t":1793982048311,"sale":375,"ref":429.72,"profit":11.75,"roi":3.13,"bo":13,"so":52,"buy":370,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":54,"name":"Гарпия","t":1793982671336,"sale":350,"ref":407.97,"profit":17.17,"roi":4.91,"bo":5,"so":30,"buy":343.67,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
