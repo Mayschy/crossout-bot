@@ -545,3 +545,4 @@
 {"id":327,"name":"Ёкай","t":1793952082764,"sale":685.05,"ref":810,"profit":43.95,"roi":6.42,"bo":12,"so":15,"buy":685.04,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":295,"name":"АП64 Джоуль","t":1793954443546,"sale":984,"ref":1139.96,"profit":41.96,"roi":4.26,"bo":11,"so":36,"buy":983.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":22,"name":"Каталина","t":1793961645707,"sale":1433.52,"ref":1629.96,"profit":33.44,"roi":2.33,"bo":18,"so":7,"buy":1400,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":505,"name":"Доплер","t":1793962886725,"sale":315,"ref":390,"profit":36,"roi":11.43,"bo":6,"so":14,"buy":310.02,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
