@@ -546,3 +546,5 @@
 {"id":295,"name":"АП64 Джоуль","t":1793954443546,"sale":984,"ref":1139.96,"profit":41.96,"roi":4.26,"bo":11,"so":36,"buy":983.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":22,"name":"Каталина","t":1793961645707,"sale":1433.52,"ref":1629.96,"profit":33.44,"roi":2.33,"bo":18,"so":7,"buy":1400,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":505,"name":"Доплер","t":1793962886725,"sale":315,"ref":390,"profit":36,"roi":11.43,"bo":6,"so":14,"buy":310.02,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1446,"name":"Мясник","t":1793963445923,"sale":1700,"ref":1973,"profit":75.7,"roi":4.45,"bo":7,"so":20,"buy":1672.1,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":259,"name":"Компилятор","t":1793963447368,"sale":2824.39,"ref":3200,"profit":55.61,"roi":1.97,"bo":0,"so":14,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}

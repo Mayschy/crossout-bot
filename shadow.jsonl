@@ -796,3 +796,4 @@
 {"id":364,"name":"П-38 Егоза","t":1793960446031,"sale":320,"ref":367,"profit":10.3,"roi":3.22,"bo":6,"so":41,"buy":312.15,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1461,"name":"«Эхо далёких миров»","t":1793961925528,"sale":55.95,"ref":78.22,"profit":14.45,"roi":25.82,"bo":1,"so":5,"buy":55.65,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1793961925528,"sale":166,"ref":199.98,"profit":13.98,"roi":8.42,"bo":23,"so":15,"buy":165.05,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":463,"name":"Отшельник","t":1793963445156,"sale":751,"ref":850,"profit":14,"roi":1.86,"bo":5,"so":23,"buy":750,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
