@@ -808,3 +808,5 @@
 {"id":56,"name":"Омнибокс","t":1793969445647,"sale":370,"ref":425,"profit":12.5,"roi":3.38,"bo":10,"so":8,"buy":350.31,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":578,"name":"Гусеница укрепленная","t":1793971250995,"sale":132.07,"ref":163.92,"profit":15.46,"roi":11.7,"bo":6,"so":65,"buy":131.51,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":430,"name":"Запал","t":1793971250995,"sale":122.08,"ref":147.96,"profit":11.08,"roi":9.08,"bo":0,"so":19,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":645,"name":"Низкий просвет","t":1793973683019,"sale":300,"ref":359.86,"profit":23.87,"roi":7.96,"bo":18,"so":2,"buy":223.81,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":580,"name":"Знак такси","t":1793973683019,"sale":187.03,"ref":219.89,"profit":10.87,"roi":5.81,"bo":1,"so":14,"buy":180,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

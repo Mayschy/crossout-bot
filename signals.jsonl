@@ -554,3 +554,4 @@
 {"id":22,"name":"Каталина","t":1793968266031,"sale":1434,"ref":1629.96,"profit":32.96,"roi":2.3,"bo":16,"so":7,"buy":1400,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":437,"name":"Тэнгу","t":1793972447764,"sale":900,"ref":1044.44,"profit":40,"roi":4.44,"bo":44,"so":9,"buy":866.1,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":564,"name":"Парис","t":1793972449256,"sale":540,"ref":638.77,"profit":34.89,"roi":6.46,"bo":13,"so":17,"buy":511.03,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":582,"name":"Файер «Синяк»","t":1793973684807,"sale":289.57,"ref":357.99,"profit":32.62,"roi":11.27,"bo":0,"so":4,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
