@@ -578,3 +578,4 @@
 {"id":13,"name":"Зов","t":1793998881068,"sale":1308.79,"ref":1642.94,"profit":169.86,"roi":12.98,"bo":0,"so":8,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":153,"name":"Якорь","t":1794000665827,"sale":164.12,"ref":215.79,"profit":30.09,"roi":18.33,"bo":0,"so":7,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":590,"name":"Висельник","t":1794000667532,"sale":174.19,"ref":222.6,"profit":26.15,"roi":15.01,"bo":0,"so":6,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":497,"name":"Колибри","t":1794007863318,"sale":340,"ref":432.48,"profit":49.23,"roi":14.48,"bo":3,"so":12,"buy":339.63,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
