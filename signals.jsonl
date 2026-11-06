@@ -569,3 +569,4 @@
 {"id":37,"name":"Абсолют","t":1793992843788,"sale":3705.01,"ref":4249.9,"profit":119.9,"roi":3.24,"bo":4,"so":12,"buy":3705,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":437,"name":"Тэнгу","t":1793992845431,"sale":880.01,"ref":1021.9,"profit":39.7,"roi":4.51,"bo":49,"so":27,"buy":880,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":444,"name":"МН-Л 200","t":1793992846771,"sale":368,"ref":443.44,"profit":31.1,"roi":8.45,"bo":12,"so":37,"buy":365.35,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":365,"name":"П-39 Черт","t":1793993467953,"sale":2001,"ref":2348.99,"profit":113.09,"roi":5.65,"bo":4,"so":23,"buy":2000,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}

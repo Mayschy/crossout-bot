@@ -838,3 +838,4 @@
 {"id":365,"name":"П-39 Черт","t":1793992241192,"sale":2100,"ref":2349,"profit":14.1,"roi":0.67,"bo":4,"so":24,"buy":2000,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":676,"name":"Зубодробитель","t":1793992241192,"sale":71.73,"ref":91,"profit":10.17,"roi":14.18,"bo":4,"so":15,"buy":71.13,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1793992843025,"sale":201.06,"ref":248.4,"profit":22.5,"roi":11.19,"bo":11,"so":6,"buy":200.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":484,"name":"ЭУ-1 Заряд","t":1793993466189,"sale":97.23,"ref":122,"profit":12.57,"roi":12.93,"bo":9,"so":9,"buy":96.5,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
