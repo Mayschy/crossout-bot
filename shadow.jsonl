@@ -788,3 +788,4 @@
 {"id":347,"name":"Гром","t":1793940644033,"sale":114,"ref":139.83,"profit":11.85,"roi":10.39,"bo":1,"so":43,"buy":113.63,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1793941844515,"sale":165,"ref":199.94,"profit":14.95,"roi":9.06,"bo":21,"so":23,"buy":164.55,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":293,"name":"Шкуродер","t":1793943642865,"sale":257,"ref":303.89,"profit":16.5,"roi":6.42,"bo":14,"so":4,"buy":229.18,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":559,"name":"Замкнутый круг","t":1793952646479,"sale":2200,"ref":2463.58,"profit":17.22,"roi":0.78,"bo":2,"so":2,"buy":1911.01,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
