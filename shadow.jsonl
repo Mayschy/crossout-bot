@@ -786,3 +786,4 @@
 {"id":453,"name":"Мириада","t":1793927442307,"sale":460,"ref":530,"profit":17,"roi":3.7,"bo":9,"so":22,"buy":455,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":578,"name":"Гусеница укрепленная","t":1793929245538,"sale":136,"ref":163.99,"profit":11.59,"roi":8.52,"bo":22,"so":75,"buy":131.51,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1793940644033,"sale":114,"ref":139.83,"profit":11.85,"roi":10.39,"bo":1,"so":43,"buy":113.63,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1793941844515,"sale":165,"ref":199.94,"profit":14.95,"roi":9.06,"bo":21,"so":23,"buy":164.55,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

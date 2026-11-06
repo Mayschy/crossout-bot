@@ -537,3 +537,4 @@
 {"id":427,"name":"ПТУР-Л Флейта","t":1793930480092,"sale":360.03,"ref":446.97,"profit":42.24,"roi":11.73,"bo":13,"so":34,"buy":360.01,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":420,"name":"Гнездо","t":1793935244866,"sale":350.05,"ref":430.23,"profit":37.16,"roi":10.61,"bo":6,"so":10,"buy":350.02,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":335,"name":"Триггер","t":1793936446888,"sale":177.61,"ref":232.33,"profit":31.49,"roi":17.73,"bo":0,"so":26,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":322,"name":"ПУ14 Арбитр","t":1793941845525,"sale":1901.11,"ref":2249,"profit":122.99,"roi":6.47,"bo":29,"so":19,"buy":1872.01,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
