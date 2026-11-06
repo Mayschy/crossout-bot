@@ -531,3 +531,4 @@
 {"id":514,"name":"Ядро","t":1793918447837,"sale":180.09,"ref":271.57,"profit":64.32,"roi":35.72,"bo":7,"so":5,"buy":180.08,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":575,"name":"Гусеница танковая","t":1793919045561,"sale":660.01,"ref":800,"profit":59.99,"roi":9.09,"bo":22,"so":23,"buy":660,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":321,"name":"Мельник","t":1793922044539,"sale":422.04,"ref":509.98,"profit":36.94,"roi":8.75,"bo":23,"so":13,"buy":422.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":642,"name":"Низкий просвет (пов.)","t":1793924444539,"sale":759.44,"ref":994.31,"profit":135.44,"roi":17.83,"bo":26,"so":20,"buy":759.31,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
