@@ -825,3 +825,4 @@
 {"id":332,"name":"Тирс I","t":1793983244089,"sale":1885.5,"ref":2109.89,"profit":13.4,"roi":0.71,"bo":7,"so":7,"buy":1715.44,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1161,"name":"Большая рампа 6×30×15","t":1793983846546,"sale":24.98,"ref":44.93,"profit":15.46,"roi":61.88,"bo":1,"so":24,"buy":23.49,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1793984483195,"sale":148.01,"ref":175.94,"profit":10.34,"roi":6.98,"bo":37,"so":33,"buy":147.04,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":371,"name":"Синтез","t":1793985044383,"sale":101.48,"ref":125.78,"profit":11.72,"roi":11.55,"bo":7,"so":25,"buy":101.2,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
