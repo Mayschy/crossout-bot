@@ -541,3 +541,4 @@
 {"id":444,"name":"МН-Л 200","t":1793943068366,"sale":377.98,"ref":450,"profit":27.02,"roi":7.15,"bo":10,"so":16,"buy":364.18,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":427,"name":"ПТУР-Л Флейта","t":1793945445530,"sale":360.02,"ref":446.96,"profit":42.24,"roi":11.73,"bo":13,"so":46,"buy":360.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1446,"name":"Мясник","t":1793945447131,"sale":1750,"ref":1990.93,"profit":41.84,"roi":2.39,"bo":9,"so":22,"buy":1701,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":427,"name":"ПТУР-Л Флейта","t":1793949642038,"sale":361,"ref":444,"profit":38.6,"roi":10.69,"bo":12,"so":55,"buy":360.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
