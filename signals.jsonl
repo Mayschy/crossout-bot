@@ -563,3 +563,4 @@
 {"id":252,"name":"ЗИС-34 Толстяк","t":1793981447594,"sale":197.22,"ref":249.98,"profit":27.76,"roi":14.08,"bo":2,"so":32,"buy":196,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":498,"name":"Импеллер","t":1793982672249,"sale":901.11,"ref":1087,"profit":77.19,"roi":8.57,"bo":16,"so":9,"buy":901.1,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":53,"name":"Бивень","t":1793982674468,"sale":1200,"ref":1390,"profit":51,"roi":4.25,"bo":3,"so":11,"buy":1177.01,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":367,"name":"Харон","t":1793983244719,"sale":4021.1,"ref":4619,"profit":136,"roi":3.38,"bo":12,"so":23,"buy":4021,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
