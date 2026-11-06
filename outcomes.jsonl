@@ -6555,3 +6555,4 @@
 {"id":578,"t":1793929245538,"h":60,"at":1793932800000,"s":161.95,"b":131.5,"so":77,"bo":20,"ask":9.75,"instant":-17.65,"taken":true,"shadow":true,"roi":7.17,"capital":136,"late":false}
 {"id":427,"t":1793930480092,"h":60,"at":1793934000000,"s":446.98,"b":360.01,"so":34,"bo":13,"ask":42.25,"instant":-36.02,"taken":true,"shadow":false,"roi":11.74,"capital":360.03,"late":false}
 {"id":453,"t":1793927442307,"h":120,"at":1793934600000,"s":500,"b":0,"so":23,"bo":0,"ask":-10,"instant":null,"taken":true,"shadow":true,"roi":-2.17,"capital":460,"late":false}
+{"id":21,"t":1793928043757,"h":120,"at":1793935200000,"s":602.45,"b":480.04,"so":17,"bo":9,"ask":56.22,"instant":-53.95,"taken":true,"shadow":false,"roi":11.57,"capital":485.99,"late":false}

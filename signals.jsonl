@@ -535,3 +535,4 @@
 {"id":370,"name":"Имуги","t":1793925064018,"sale":1751.23,"ref":2197.5,"profit":226.52,"roi":12.93,"bo":27,"so":12,"buy":1751.22,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":21,"name":"Сумрак","t":1793928043757,"sale":485.99,"ref":602.45,"profit":56.22,"roi":11.57,"bo":9,"so":18,"buy":480.04,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":427,"name":"ПТУР-Л Флейта","t":1793930480092,"sale":360.03,"ref":446.97,"profit":42.24,"roi":11.73,"bo":13,"so":34,"buy":360.01,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":420,"name":"Гнездо","t":1793935244866,"sale":350.05,"ref":430.23,"profit":37.16,"roi":10.61,"bo":6,"so":10,"buy":350.02,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
