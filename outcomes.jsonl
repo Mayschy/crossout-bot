@@ -6730,3 +6730,11 @@
 {"id":420,"t":1793968845060,"h":30,"at":1793970600000,"s":425.99,"b":351,"so":10,"bo":10,"ask":13.39,"instant":-54.1,"taken":true,"shadow":true,"roi":3.62,"capital":370,"late":false}
 {"id":56,"t":1793969445647,"h":20,"at":1793970600000,"s":443,"b":350.33,"so":4,"bo":9,"ask":28.7,"instant":-54.7,"taken":true,"shadow":true,"roi":7.76,"capital":370,"late":false}
 {"id":56,"t":1793969445647,"h":30,"at":1793971200000,"s":442.9,"b":350.21,"so":5,"bo":9,"ask":28.61,"instant":-54.81,"taken":true,"shadow":true,"roi":7.73,"capital":370,"late":false}
+{"id":22,"t":1793968266031,"h":60,"at":1793971800000,"s":1629.95,"b":1400,"so":7,"bo":15,"ask":32.96,"instant":-174,"taken":true,"shadow":false,"roi":2.3,"capital":1434,"late":false}
+{"id":184,"t":1793965245032,"h":120,"at":1793972400000,"s":167,"b":141.07,"so":34,"bo":13,"ask":8.2,"instant":-15.14,"taken":true,"shadow":true,"roi":5.77,"capital":142.1,"late":false}
+{"id":464,"t":1793968265544,"h":60,"at":1793971800000,"s":100,"b":75.01,"so":4,"bo":20,"ask":14.91,"instant":-7.58,"taken":true,"shadow":true,"roi":19.86,"capital":75.09,"late":false}
+{"id":19,"t":1793968265544,"h":60,"at":1793971800000,"s":299.99,"b":282.01,"so":24,"bo":28,"ask":-13.01,"instant":-29.19,"taken":true,"shadow":true,"roi":-4.6,"capital":283,"late":false}
+{"id":296,"t":1793968265544,"h":60,"at":1793971800000,"s":220.89,"b":187.3,"so":60,"bo":26,"ask":11.67,"instant":-18.56,"taken":true,"shadow":true,"roi":6.24,"capital":187.13,"late":false}
+{"id":420,"t":1793968845060,"h":60,"at":1793972400000,"s":425.99,"b":350.09,"so":10,"bo":9,"ask":13.39,"instant":-54.92,"taken":true,"shadow":true,"roi":3.62,"capital":370,"late":false}
+{"id":578,"t":1793971250995,"h":10,"at":1793971800000,"s":132.07,"b":131.51,"so":65,"bo":6,"ask":-13.21,"instant":-13.71,"taken":false,"shadow":true,"roi":-10,"capital":132.07,"late":false}
+{"id":430,"t":1793971250995,"h":10,"at":1793971800000,"s":122.08,"b":0,"so":19,"bo":0,"ask":-12.21,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":122.08,"late":false}

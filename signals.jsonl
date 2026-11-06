@@ -552,3 +552,5 @@
 {"id":326,"name":"Вальс","t":1793965844375,"sale":1500,"ref":1699.79,"profit":29.81,"roi":1.99,"bo":0,"so":16,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1307,"name":"Кристалл льда","t":1793966483695,"sale":338.74,"ref":420.08,"profit":39.33,"roi":11.61,"bo":1,"so":2,"buy":300.59,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":22,"name":"Каталина","t":1793968266031,"sale":1434,"ref":1629.96,"profit":32.96,"roi":2.3,"bo":16,"so":7,"buy":1400,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":437,"name":"Тэнгу","t":1793972447764,"sale":900,"ref":1044.44,"profit":40,"roi":4.44,"bo":44,"so":9,"buy":866.1,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":564,"name":"Парис","t":1793972449256,"sale":540,"ref":638.77,"profit":34.89,"roi":6.46,"bo":13,"so":17,"buy":511.03,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
