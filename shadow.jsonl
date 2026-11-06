@@ -829,3 +829,5 @@
 {"id":1445,"name":"Ягуар","t":1793986265812,"sale":2235,"ref":2500,"profit":15,"roi":0.67,"bo":6,"so":7,"buy":2222,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":264,"name":"АП72 Вихрь","t":1793986844574,"sale":270,"ref":314.44,"profit":13,"roi":4.81,"bo":31,"so":33,"buy":265.11,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":57,"name":"Фаворит","t":1793988082184,"sale":1160,"ref":1304.5,"profit":14.05,"roi":1.21,"bo":6,"so":7,"buy":1061,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":578,"name":"Гусеница укрепленная","t":1793989245823,"sale":126.4,"ref":156,"profit":14,"roi":11.08,"bo":2,"so":76,"buy":125.6,"act":10,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":457,"name":"Снабжение","t":1793989245823,"sale":56.52,"ref":74.95,"profit":10.93,"roi":19.35,"bo":3,"so":13,"buy":56.13,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
