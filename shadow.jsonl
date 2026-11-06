@@ -847,3 +847,6 @@
 {"id":611,"name":"Колесо двойное","t":1793997066681,"sale":45.34,"ref":62.43,"profit":10.85,"roi":23.92,"bo":0,"so":9,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1793997641303,"sale":157.05,"ref":198.69,"profit":21.77,"roi":13.86,"bo":31,"so":13,"buy":150,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":465,"name":"Счетчик урона","t":1793997641303,"sale":259.47,"ref":305.89,"profit":15.83,"roi":6.1,"bo":3,"so":14,"buy":242.82,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3769,"name":"Смог-15","t":1793998880147,"sale":173.52,"ref":206.41,"profit":12.25,"roi":7.06,"bo":10,"so":20,"buy":173.5,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1449,"name":"Гиена","t":1793998880147,"sale":770,"ref":868.99,"profit":12.09,"roi":1.57,"bo":11,"so":13,"buy":760,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":676,"name":"Зубодробитель","t":1793998880147,"sale":71.14,"ref":91.79,"profit":11.47,"roi":16.12,"bo":3,"so":13,"buy":71,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
