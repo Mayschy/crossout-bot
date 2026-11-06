@@ -539,3 +539,5 @@
 {"id":335,"name":"Триггер","t":1793936446888,"sale":177.61,"ref":232.33,"profit":31.49,"roi":17.73,"bo":0,"so":26,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":322,"name":"ПУ14 Арбитр","t":1793941845525,"sale":1901.11,"ref":2249,"profit":122.99,"roi":6.47,"bo":29,"so":19,"buy":1872.01,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":444,"name":"МН-Л 200","t":1793943068366,"sale":377.98,"ref":450,"profit":27.02,"roi":7.15,"bo":10,"so":16,"buy":364.18,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":427,"name":"ПТУР-Л Флейта","t":1793945445530,"sale":360.02,"ref":446.96,"profit":42.24,"roi":11.73,"bo":13,"so":46,"buy":360.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1446,"name":"Мясник","t":1793945447131,"sale":1750,"ref":1990.93,"profit":41.84,"roi":2.39,"bo":9,"so":22,"buy":1701,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
