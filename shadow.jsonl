@@ -895,3 +895,4 @@
 {"id":1167,"name":"Треугольная рампа 6×24×6","t":1794056480992,"sale":1.64,"ref":16.97,"profit":13.63,"roi":831.28,"bo":0,"so":45,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":482,"name":"Мигалка","t":1794057641340,"sale":205.14,"ref":255.55,"profit":24.86,"roi":12.12,"bo":0,"so":5,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1167,"name":"Треугольная рампа 6×24×6","t":1794057641340,"sale":1.45,"ref":16.97,"profit":13.82,"roi":953.31,"bo":0,"so":51,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":635,"name":"Колесо багги (пов.)","t":1794058841033,"sale":187.72,"ref":235.35,"profit":24.09,"roi":12.84,"bo":4,"so":46,"buy":187.01,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

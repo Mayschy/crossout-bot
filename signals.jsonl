@@ -604,3 +604,4 @@
 {"id":374,"name":"Немезида","t":1794051642822,"sale":21600,"ref":25497.11,"profit":1347.4,"roi":6.24,"bo":2,"so":15,"buy":21000.67,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":295,"name":"АП64 Джоуль","t":1794055243187,"sale":935,"ref":1100,"profit":55,"roi":5.88,"bo":10,"so":27,"buy":925.1,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":247,"name":"КП-17 Цунами","t":1794055841301,"sale":2250.05,"ref":2548.82,"profit":43.89,"roi":1.95,"bo":22,"so":11,"buy":2250,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":630,"name":"Бигфут","t":1794058842433,"sale":180,"ref":228.95,"profit":26.06,"roi":14.48,"bo":2,"so":16,"buy":170.32,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
