@@ -891,3 +891,4 @@
 {"id":457,"name":"Снабжение","t":1794053442468,"sale":60.14,"ref":80.49,"profit":12.3,"roi":20.45,"bo":17,"so":6,"buy":59.37,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":21,"name":"Сумрак","t":1794054042462,"sale":545,"ref":631.81,"profit":23.63,"roi":4.34,"bo":14,"so":4,"buy":503,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3756,"name":"Ревун","t":1794054042462,"sale":186.24,"ref":225.55,"profit":16.75,"roi":9,"bo":3,"so":4,"buy":186.23,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":284,"name":"Панацея","t":1794055840775,"sale":306.76,"ref":363.58,"profit":20.46,"roi":6.67,"bo":0,"so":38,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
