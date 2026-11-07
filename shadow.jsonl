@@ -904,3 +904,5 @@
 {"id":440,"name":"Фламинго","t":1794061864776,"sale":100.03,"ref":125,"profit":12.47,"roi":12.47,"bo":12,"so":47,"buy":100.02,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":270,"name":"АП50 Шторм","t":1794062443833,"sale":76.43,"ref":98.17,"profit":11.92,"roi":15.6,"bo":8,"so":40,"buy":75.5,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":248,"name":"Обвинитель 76мм","t":1794062443833,"sale":78.83,"ref":99.96,"profit":11.13,"roi":14.12,"bo":5,"so":32,"buy":78.03,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":497,"name":"Колибри","t":1794064841032,"sale":359.99,"ref":420,"profit":18.01,"roi":5,"bo":6,"so":10,"buy":342.03,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":676,"name":"Зубодробитель","t":1794064841032,"sale":74.37,"ref":94.1,"profit":10.32,"roi":13.88,"bo":4,"so":18,"buy":73.22,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

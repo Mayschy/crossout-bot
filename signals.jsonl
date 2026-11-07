@@ -614,3 +614,4 @@
 {"id":625,"name":"Затворник (пов.)","t":1794061870561,"sale":156.01,"ref":202.2,"profit":25.97,"roi":16.65,"bo":0,"so":22,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":304,"name":"П-32 Поборник","t":1794063685070,"sale":1301,"ref":1475,"profit":26.5,"roi":2.04,"bo":5,"so":17,"buy":1202.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":23,"name":"Маниту","t":1794064244316,"sale":480,"ref":565.46,"profit":28.91,"roi":6.02,"bo":13,"so":2,"buy":466.33,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":453,"name":"Мириада","t":1794064841562,"sale":438.06,"ref":529.86,"profit":38.81,"roi":8.86,"bo":27,"so":23,"buy":438.05,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
