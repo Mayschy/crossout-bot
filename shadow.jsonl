@@ -928,3 +928,4 @@
 {"id":1060,"name":"Шаблон: Опасность!","t":1794087640294,"sale":209.33,"ref":259.4,"profit":24.13,"roi":11.53,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1794087640294,"sale":172.12,"ref":208,"profit":15.08,"roi":8.76,"bo":27,"so":43,"buy":172.1,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1794087640294,"sale":190.04,"ref":224.81,"profit":12.29,"roi":6.47,"bo":6,"so":23,"buy":190.03,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":605,"name":"Титан","t":1794089442982,"sale":111.93,"ref":136.01,"profit":10.48,"roi":9.36,"bo":11,"so":10,"buy":111.24,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
