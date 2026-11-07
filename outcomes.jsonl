@@ -7609,3 +7609,11 @@
 {"id":1207,"t":1794071441269,"h":10,"at":1794072000000,"s":17.24,"b":17.23,"so":8,"bo":3,"ask":-1.72,"instant":-1.73,"taken":false,"shadow":true,"roi":-10,"capital":17.24,"late":false}
 {"id":619,"t":1794070881019,"h":20,"at":1794072000000,"s":222.59,"b":176.55,"so":56,"bo":22,"ask":10.33,"instant":-31.1,"taken":true,"shadow":true,"roi":5.44,"capital":190,"late":false}
 {"id":1207,"t":1794071441269,"h":20,"at":1794072600000,"s":31.08,"b":17.23,"so":5,"bo":3,"ask":10.73,"instant":-1.73,"taken":true,"shadow":true,"roi":62.25,"capital":17.24,"late":false}
+{"id":27,"t":1794069065263,"h":60,"at":1794072600000,"s":2770,"b":2185.13,"so":16,"bo":6,"ask":93,"instant":-433.38,"taken":true,"shadow":false,"roi":3.88,"capital":2400,"late":false}
+{"id":1060,"t":1794069067083,"h":60,"at":1794072600000,"s":259.5,"b":209.38,"so":3,"bo":1,"ask":24.22,"instant":-20.89,"taken":true,"shadow":false,"roi":11.57,"capital":209.33,"late":false}
+{"id":268,"t":1794069639977,"h":60,"at":1794073200000,"s":2222.55,"b":1910,"so":7,"bo":18,"ask":50.3,"instant":-231,"taken":true,"shadow":false,"roi":2.58,"capital":1950,"late":false}
+{"id":437,"t":1794065464897,"h":120,"at":1794072600000,"s":989,"b":900,"so":19,"bo":50,"ask":25.1,"instant":-55,"taken":true,"shadow":true,"roi":2.9,"capital":865,"late":false}
+{"id":465,"t":1794065464897,"h":120,"at":1794072600000,"s":300,"b":242.82,"so":9,"bo":3,"ask":10.54,"instant":-40.92,"taken":true,"shadow":true,"roi":4.06,"capital":259.46,"late":false}
+{"id":704,"t":1794069064377,"h":60,"at":1794072600000,"s":198.84,"b":158,"so":54,"bo":22,"ask":21.09,"instant":-15.67,"taken":true,"shadow":true,"roi":13.36,"capital":157.87,"late":false}
+{"id":664,"t":1794069064377,"h":60,"at":1794072600000,"s":219.99,"b":171.1,"so":5,"bo":5,"ask":18.52,"instant":-25.48,"taken":true,"shadow":true,"roi":10.32,"capital":179.47,"late":false}
+{"id":619,"t":1794070881019,"h":30,"at":1794072600000,"s":222.5,"b":179.51,"so":58,"bo":26,"ask":10.25,"instant":-28.44,"taken":true,"shadow":true,"roi":5.39,"capital":190,"late":false}
