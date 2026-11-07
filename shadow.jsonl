@@ -892,3 +892,4 @@
 {"id":21,"name":"Сумрак","t":1794054042462,"sale":545,"ref":631.81,"profit":23.63,"roi":4.34,"bo":14,"so":4,"buy":503,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3756,"name":"Ревун","t":1794054042462,"sale":186.24,"ref":225.55,"profit":16.75,"roi":9,"bo":3,"so":4,"buy":186.23,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":284,"name":"Панацея","t":1794055840775,"sale":306.76,"ref":363.58,"profit":20.46,"roi":6.67,"bo":0,"so":38,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1167,"name":"Треугольная рампа 6×24×6","t":1794056480992,"sale":1.64,"ref":16.97,"profit":13.63,"roi":831.28,"bo":0,"so":45,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
