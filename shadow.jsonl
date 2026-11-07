@@ -865,3 +865,4 @@
 {"id":516,"name":"Шлем Мартина","t":1794026443997,"sale":33.96,"ref":54.09,"profit":14.72,"roi":43.35,"bo":0,"so":7,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1460,"name":"Копья","t":1794027679415,"sale":179.08,"ref":218.12,"profit":17.23,"roi":9.62,"bo":6,"so":6,"buy":168,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":511,"name":"РС Нерпа","t":1794027679415,"sale":350,"ref":400,"profit":10,"roi":2.86,"bo":15,"so":24,"buy":335.22,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":380,"name":"Искра III","t":1794030041766,"sale":1640.06,"ref":1849.98,"profit":24.92,"roi":1.52,"bo":18,"so":20,"buy":1640.05,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
