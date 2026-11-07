@@ -918,3 +918,4 @@
 {"id":495,"name":"Фалко","t":1794073844854,"sale":81.06,"ref":107.26,"profit":15.47,"roi":19.09,"bo":4,"so":13,"buy":81.05,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1272,"name":"Неоновый глянец","t":1794073844854,"sale":49.84,"ref":68.06,"profit":11.41,"roi":22.9,"bo":1,"so":3,"buy":40,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":579,"name":"Голиаф","t":1794075643974,"sale":1512,"ref":1700,"profit":18,"roi":1.19,"bo":14,"so":34,"buy":1510.11,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":386,"name":"Рок","t":1794076845393,"sale":744.91,"ref":844.9,"profit":15.5,"roi":2.08,"bo":10,"so":14,"buy":744.9,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
