@@ -911,3 +911,5 @@
 {"id":605,"name":"Титан","t":1794066041498,"sale":110,"ref":143.74,"profit":19.37,"roi":17.61,"bo":11,"so":3,"buy":107.69,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1302,"name":"Красный хрусталь","t":1794066041498,"sale":102.17,"ref":133.46,"profit":17.94,"roi":17.56,"bo":1,"so":3,"buy":88,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":515,"name":"Вак1дАТ3","t":1794067281744,"sale":53.02,"ref":75,"profit":14.48,"roi":27.31,"bo":0,"so":20,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":704,"name":"Хранилище чертежей","t":1794069064377,"sale":157.87,"ref":198.98,"profit":21.21,"roi":13.44,"bo":19,"so":49,"buy":157.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":664,"name":"Код «‎Оранжевый»","t":1794069064377,"sale":179.47,"ref":219.99,"profit":18.52,"roi":10.32,"bo":5,"so":6,"buy":171.06,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

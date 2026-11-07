@@ -616,3 +616,5 @@
 {"id":23,"name":"Маниту","t":1794064244316,"sale":480,"ref":565.46,"profit":28.91,"roi":6.02,"bo":13,"so":2,"buy":466.33,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":453,"name":"Мириада","t":1794064841562,"sale":438.06,"ref":529.86,"profit":38.81,"roi":8.86,"bo":27,"so":23,"buy":438.05,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":536,"name":"Мясорубка","t":1794066042040,"sale":284.38,"ref":359,"profit":38.72,"roi":13.62,"bo":20,"so":16,"buy":282,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":27,"name":"Машинист","t":1794069065263,"sale":2400,"ref":2770,"profit":93,"roi":3.88,"bo":4,"so":17,"buy":2184.22,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1060,"name":"Шаблон: Опасность!","t":1794069067083,"sale":209.33,"ref":280.09,"profit":42.75,"roi":20.42,"bo":1,"so":4,"buy":193.6,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
