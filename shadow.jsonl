@@ -883,3 +883,7 @@
 {"id":565,"name":"Хамелеон","t":1794045487133,"sale":70.62,"ref":93.2,"profit":13.26,"roi":18.78,"bo":17,"so":4,"buy":70.02,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1794046238938,"sale":188.82,"ref":236.92,"profit":24.41,"roi":12.93,"bo":6,"so":24,"buy":170.58,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1167,"name":"Треугольная рампа 6×24×6","t":1794046840216,"sale":5,"ref":16.97,"profit":10.27,"roi":205.46,"bo":23,"so":39,"buy":4.01,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":704,"name":"Хранилище чертежей","t":1794051641120,"sale":165.35,"ref":203.43,"profit":17.74,"roi":10.73,"bo":35,"so":27,"buy":157.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":462,"name":"Шабаш","t":1794051641120,"sale":270.65,"ref":316.91,"profit":14.57,"roi":5.38,"bo":5,"so":40,"buy":270.6,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1167,"name":"Треугольная рампа 6×24×6","t":1794051641120,"sale":2.73,"ref":16.97,"profit":12.54,"roi":459.45,"bo":7,"so":48,"buy":2.4,"act":4,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":565,"name":"Хамелеон","t":1794051641120,"sale":72.7,"ref":94,"profit":11.9,"roi":16.37,"bo":17,"so":5,"buy":70.65,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
