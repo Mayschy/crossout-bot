@@ -581,3 +581,5 @@
 {"id":497,"name":"Колибри","t":1794007863318,"sale":340,"ref":432.48,"profit":49.23,"roi":14.48,"bo":3,"so":12,"buy":339.63,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":385,"name":"Фортуна","t":1794010841298,"sale":1815.99,"ref":2097.01,"profit":71.32,"roi":3.93,"bo":19,"so":12,"buy":1815,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":439,"name":"Драйвер","t":1794011467301,"sale":807.02,"ref":990,"profit":83.98,"roi":10.41,"bo":20,"so":13,"buy":807.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":282,"name":"ЛТЦ-3 Стая","t":1794012644201,"sale":6571,"ref":7454.99,"profit":138.49,"roi":2.11,"bo":6,"so":4,"buy":5850,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3747,"name":"Экстремум","t":1794012646027,"sale":2444.44,"ref":2769.99,"profit":48.55,"roi":1.99,"bo":12,"so":5,"buy":2390,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
