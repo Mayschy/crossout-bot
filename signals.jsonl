@@ -600,3 +600,4 @@
 {"id":276,"name":"Циклон","t":1794047468131,"sale":348.04,"ref":439.99,"profit":47.95,"roi":13.78,"bo":13,"so":13,"buy":348.03,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3777,"name":"Морриган","t":1794048046103,"sale":5100,"ref":5784.95,"profit":106.45,"roi":2.09,"bo":9,"so":9,"buy":4650.66,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":262,"name":"Фукибари","t":1794048048708,"sale":2200,"ref":2523.21,"profit":70.89,"roi":3.22,"bo":11,"so":5,"buy":2100,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":704,"name":"Хранилище чертежей","t":1794048640688,"sale":158.2,"ref":209.96,"profit":30.76,"roi":19.45,"bo":35,"so":31,"buy":157.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
