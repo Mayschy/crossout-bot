@@ -897,3 +897,5 @@
 {"id":1167,"name":"Треугольная рампа 6×24×6","t":1794057641340,"sale":1.45,"ref":16.97,"profit":13.82,"roi":953.31,"bo":0,"so":51,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1794058841033,"sale":187.72,"ref":235.35,"profit":24.09,"roi":12.84,"bo":4,"so":46,"buy":187.01,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":690,"name":"Контейнер «Легенда»","t":1794059441552,"sale":135.99,"ref":168.82,"profit":15.95,"roi":11.73,"bo":1,"so":17,"buy":123.58,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":181,"name":"Гепард","t":1794060641599,"sale":133.08,"ref":165.76,"profit":16.1,"roi":12.1,"bo":6,"so":49,"buy":133,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1365,"name":"Пурпурная тыква","t":1794060641599,"sale":65.15,"ref":86.87,"profit":13.03,"roi":20,"bo":1,"so":6,"buy":65.14,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
