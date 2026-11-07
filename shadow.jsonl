@@ -861,3 +861,4 @@
 {"id":610,"name":"Увабаки (пов.)","t":1794018042879,"sale":225,"ref":262.07,"profit":10.86,"roi":4.83,"bo":17,"so":41,"buy":200.03,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":321,"name":"Мельник","t":1794022261794,"sale":440.1,"ref":510,"profit":18.9,"roi":4.29,"bo":15,"so":26,"buy":426,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3769,"name":"Смог-15","t":1794022261794,"sale":173.53,"ref":206.41,"profit":12.24,"roi":7.05,"bo":13,"so":20,"buy":173.52,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1208,"name":"Автокатапульта","t":1794025864897,"sale":35.29,"ref":50.56,"profit":10.21,"roi":28.94,"bo":0,"so":20,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
