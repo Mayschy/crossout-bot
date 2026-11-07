@@ -584,3 +584,5 @@
 {"id":282,"name":"ЛТЦ-3 Стая","t":1794012644201,"sale":6571,"ref":7454.99,"profit":138.49,"roi":2.11,"bo":6,"so":4,"buy":5850,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3747,"name":"Экстремум","t":1794012646027,"sale":2444.44,"ref":2769.99,"profit":48.55,"roi":1.99,"bo":12,"so":5,"buy":2390,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":263,"name":"ЗА-4 Звездопад","t":1794014440830,"sale":2700,"ref":3111.11,"profit":100,"roi":3.7,"bo":6,"so":21,"buy":2650.02,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":438,"name":"РН-М Дино","t":1794016876039,"sale":1032.46,"ref":1198,"profit":45.74,"roi":4.43,"bo":3,"so":4,"buy":990,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":300,"name":"П-26 Заградитель","t":1794016877396,"sale":280.58,"ref":349,"profit":33.52,"roi":11.95,"bo":2,"so":24,"buy":279.91,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}

@@ -857,3 +857,4 @@
 {"id":518,"name":"Оберег","t":1794008442998,"sale":502,"ref":577.78,"profit":18,"roi":3.59,"bo":17,"so":9,"buy":471.05,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":690,"name":"Контейнер «Легенда»","t":1794013274524,"sale":135.99,"ref":166.19,"profit":13.58,"roi":9.99,"bo":1,"so":12,"buy":123.58,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1794013839934,"sale":225,"ref":262.07,"profit":10.86,"roi":4.83,"bo":19,"so":43,"buy":200.03,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":606,"name":"Титан (пов.)","t":1794016875519,"sale":170,"ref":212.97,"profit":21.67,"roi":12.75,"bo":12,"so":12,"buy":160,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
