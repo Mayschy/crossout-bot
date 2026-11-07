@@ -906,3 +906,5 @@
 {"id":248,"name":"Обвинитель 76мм","t":1794062443833,"sale":78.83,"ref":99.96,"profit":11.13,"roi":14.12,"bo":5,"so":32,"buy":78.03,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":497,"name":"Колибри","t":1794064841032,"sale":359.99,"ref":420,"profit":18.01,"roi":5,"bo":6,"so":10,"buy":342.03,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":676,"name":"Зубодробитель","t":1794064841032,"sale":74.37,"ref":94.1,"profit":10.32,"roi":13.88,"bo":4,"so":18,"buy":73.22,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":437,"name":"Тэнгу","t":1794065464897,"sale":865,"ref":985,"profit":21.5,"roi":2.49,"bo":51,"so":27,"buy":860,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":465,"name":"Счетчик урона","t":1794065464897,"sale":259.46,"ref":300,"profit":10.54,"roi":4.06,"bo":3,"so":11,"buy":242.82,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
