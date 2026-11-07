@@ -608,3 +608,7 @@
 {"id":3763,"name":"МВП Флагман","t":1794059442318,"sale":490,"ref":575.32,"profit":27.79,"roi":5.67,"bo":21,"so":29,"buy":489,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":24,"name":"Инферно","t":1794060642404,"sale":1030,"ref":1175.74,"profit":28.17,"roi":2.73,"bo":19,"so":13,"buy":1024.96,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":180,"name":"Беркут","t":1794061248072,"sale":1939.25,"ref":2299.69,"profit":130.47,"roi":6.73,"bo":11,"so":12,"buy":1828.14,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":60,"name":"РУН-1А","t":1794061865533,"sale":713,"ref":839.99,"profit":42.99,"roi":6.03,"bo":4,"so":15,"buy":700.01,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":463,"name":"Отшельник","t":1794061866990,"sale":700,"ref":823.99,"profit":41.59,"roi":5.94,"bo":21,"so":46,"buy":665.05,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":288,"name":"Ёнван","t":1794061868700,"sale":530,"ref":620,"profit":28,"roi":5.28,"bo":12,"so":16,"buy":511.15,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":625,"name":"Затворник (пов.)","t":1794061870561,"sale":156.01,"ref":202.2,"profit":25.97,"roi":16.65,"bo":0,"so":22,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
