@@ -908,3 +908,5 @@
 {"id":676,"name":"Зубодробитель","t":1794064841032,"sale":74.37,"ref":94.1,"profit":10.32,"roi":13.88,"bo":4,"so":18,"buy":73.22,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":437,"name":"Тэнгу","t":1794065464897,"sale":865,"ref":985,"profit":21.5,"roi":2.49,"bo":51,"so":27,"buy":860,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":465,"name":"Счетчик урона","t":1794065464897,"sale":259.46,"ref":300,"profit":10.54,"roi":4.06,"bo":3,"so":11,"buy":242.82,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":605,"name":"Титан","t":1794066041498,"sale":110,"ref":143.74,"profit":19.37,"roi":17.61,"bo":11,"so":3,"buy":107.69,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1302,"name":"Красный хрусталь","t":1794066041498,"sale":102.17,"ref":133.46,"profit":17.94,"roi":17.56,"bo":1,"so":3,"buy":88,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
