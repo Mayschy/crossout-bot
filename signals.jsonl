@@ -602,3 +602,4 @@
 {"id":262,"name":"Фукибари","t":1794048048708,"sale":2200,"ref":2523.21,"profit":70.89,"roi":3.22,"bo":11,"so":5,"buy":2100,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":704,"name":"Хранилище чертежей","t":1794048640688,"sale":158.2,"ref":209.96,"profit":30.76,"roi":19.45,"bo":35,"so":31,"buy":157.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":374,"name":"Немезида","t":1794051642822,"sale":21600,"ref":25497.11,"profit":1347.4,"roi":6.24,"bo":2,"so":15,"buy":21000.67,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":295,"name":"АП64 Джоуль","t":1794055243187,"sale":935,"ref":1100,"profit":55,"roi":5.88,"bo":10,"so":27,"buy":925.1,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
