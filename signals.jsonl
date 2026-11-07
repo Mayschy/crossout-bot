@@ -618,3 +618,5 @@
 {"id":536,"name":"Мясорубка","t":1794066042040,"sale":284.38,"ref":359,"profit":38.72,"roi":13.62,"bo":20,"so":16,"buy":282,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":27,"name":"Машинист","t":1794069065263,"sale":2400,"ref":2770,"profit":93,"roi":3.88,"bo":4,"so":17,"buy":2184.22,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1060,"name":"Шаблон: Опасность!","t":1794069067083,"sale":209.33,"ref":280.09,"profit":42.75,"roi":20.42,"bo":1,"so":4,"buy":193.6,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":268,"name":"Жнец","t":1794069639977,"sale":1950,"ref":2222.57,"profit":50.31,"roi":2.58,"bo":18,"so":7,"buy":1910,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1449,"name":"Гиена","t":1794069641394,"sale":750,"ref":868.97,"profit":32.07,"roi":4.28,"bo":28,"so":18,"buy":705.08,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
