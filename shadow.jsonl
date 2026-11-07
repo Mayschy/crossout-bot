@@ -889,3 +889,5 @@
 {"id":565,"name":"Хамелеон","t":1794051641120,"sale":72.7,"ref":94,"profit":11.9,"roi":16.37,"bo":17,"so":5,"buy":70.65,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":593,"name":"ТР Анаконда","t":1794053442468,"sale":157.76,"ref":196.62,"profit":19.2,"roi":12.17,"bo":6,"so":5,"buy":157.46,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":457,"name":"Снабжение","t":1794053442468,"sale":60.14,"ref":80.49,"profit":12.3,"roi":20.45,"bo":17,"so":6,"buy":59.37,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":21,"name":"Сумрак","t":1794054042462,"sale":545,"ref":631.81,"profit":23.63,"roi":4.34,"bo":14,"so":4,"buy":503,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3756,"name":"Ревун","t":1794054042462,"sale":186.24,"ref":225.55,"profit":16.75,"roi":9,"bo":3,"so":4,"buy":186.23,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
