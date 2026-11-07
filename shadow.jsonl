@@ -882,3 +882,4 @@
 {"id":495,"name":"Фалко","t":1794043864413,"sale":82.44,"ref":106.05,"profit":13,"roi":15.78,"bo":6,"so":13,"buy":81.06,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":565,"name":"Хамелеон","t":1794045487133,"sale":70.62,"ref":93.2,"profit":13.26,"roi":18.78,"bo":17,"so":4,"buy":70.02,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1794046238938,"sale":188.82,"ref":236.92,"profit":24.41,"roi":12.93,"bo":6,"so":24,"buy":170.58,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1167,"name":"Треугольная рампа 6×24×6","t":1794046840216,"sale":5,"ref":16.97,"profit":10.27,"roi":205.46,"bo":23,"so":39,"buy":4.01,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
