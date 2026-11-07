@@ -587,3 +587,4 @@
 {"id":438,"name":"РН-М Дино","t":1794016876039,"sale":1032.46,"ref":1198,"profit":45.74,"roi":4.43,"bo":3,"so":4,"buy":990,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":300,"name":"П-26 Заградитель","t":1794016877396,"sale":280.58,"ref":349,"profit":33.52,"roi":11.95,"bo":2,"so":24,"buy":279.91,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":282,"name":"ЛТЦ-3 Стая","t":1794017440326,"sale":6570.69,"ref":7454.99,"profit":138.8,"roi":2.11,"bo":6,"so":4,"buy":5850,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":300,"name":"П-26 Заградитель","t":1794023438864,"sale":280.58,"ref":345,"profit":29.92,"roi":10.66,"bo":2,"so":29,"buy":279.91,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
