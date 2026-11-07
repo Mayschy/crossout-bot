@@ -607,3 +607,4 @@
 {"id":630,"name":"Бигфут","t":1794058842433,"sale":180,"ref":228.95,"profit":26.06,"roi":14.48,"bo":2,"so":16,"buy":170.32,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3763,"name":"МВП Флагман","t":1794059442318,"sale":490,"ref":575.32,"profit":27.79,"roi":5.67,"bo":21,"so":29,"buy":489,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":24,"name":"Инферно","t":1794060642404,"sale":1030,"ref":1175.74,"profit":28.17,"roi":2.73,"bo":19,"so":13,"buy":1024.96,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":180,"name":"Беркут","t":1794061248072,"sale":1939.25,"ref":2299.69,"profit":130.47,"roi":6.73,"bo":11,"so":12,"buy":1828.14,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
