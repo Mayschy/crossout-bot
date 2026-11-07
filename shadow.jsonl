@@ -866,3 +866,4 @@
 {"id":1460,"name":"Копья","t":1794027679415,"sale":179.08,"ref":218.12,"profit":17.23,"roi":9.62,"bo":6,"so":6,"buy":168,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":511,"name":"РС Нерпа","t":1794027679415,"sale":350,"ref":400,"profit":10,"roi":2.86,"bo":15,"so":24,"buy":335.22,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":380,"name":"Искра III","t":1794030041766,"sale":1640.06,"ref":1849.98,"profit":24.92,"roi":1.52,"bo":18,"so":20,"buy":1640.05,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":635,"name":"Колесо багги (пов.)","t":1794031277266,"sale":201,"ref":238.9,"profit":14.01,"roi":6.97,"bo":8,"so":13,"buy":200.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
