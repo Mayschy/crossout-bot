@@ -583,3 +583,4 @@
 {"id":439,"name":"Драйвер","t":1794011467301,"sale":807.02,"ref":990,"profit":83.98,"roi":10.41,"bo":20,"so":13,"buy":807.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":282,"name":"ЛТЦ-3 Стая","t":1794012644201,"sale":6571,"ref":7454.99,"profit":138.49,"roi":2.11,"bo":6,"so":4,"buy":5850,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3747,"name":"Экстремум","t":1794012646027,"sale":2444.44,"ref":2769.99,"profit":48.55,"roi":1.99,"bo":12,"so":5,"buy":2390,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":263,"name":"ЗА-4 Звездопад","t":1794014440830,"sale":2700,"ref":3111.11,"profit":100,"roi":3.7,"bo":6,"so":21,"buy":2650.02,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
