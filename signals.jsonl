@@ -622,3 +622,4 @@
 {"id":1449,"name":"Гиена","t":1794069641394,"sale":750,"ref":868.97,"profit":32.07,"roi":4.28,"bo":28,"so":18,"buy":705.08,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3768,"name":"МЦР-8 Ломтик","t":1794079862318,"sale":1800,"ref":2040.84,"profit":36.76,"roi":2.04,"bo":6,"so":23,"buy":1755,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":27,"name":"Машинист","t":1794080440855,"sale":2400,"ref":2769.5,"profit":92.55,"roi":3.86,"bo":3,"so":18,"buy":2186.13,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":297,"name":"Ассемблер","t":1794082845460,"sale":1500,"ref":1841.05,"profit":156.94,"roi":10.46,"bo":6,"so":5,"buy":1450,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
