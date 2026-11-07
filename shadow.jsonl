@@ -880,3 +880,4 @@
 {"id":1365,"name":"Пурпурная тыква","t":1794042641905,"sale":65.84,"ref":90,"profit":15.16,"roi":23.03,"bo":1,"so":3,"buy":65.8,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":676,"name":"Зубодробитель","t":1794043242239,"sale":71.58,"ref":91.78,"profit":11.02,"roi":15.4,"bo":2,"so":23,"buy":70.39,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1794043864413,"sale":82.44,"ref":106.05,"profit":13,"roi":15.78,"bo":6,"so":13,"buy":81.06,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":565,"name":"Хамелеон","t":1794045487133,"sale":70.62,"ref":93.2,"profit":13.26,"roi":18.78,"bo":17,"so":4,"buy":70.02,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
