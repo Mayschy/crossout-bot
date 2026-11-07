@@ -929,3 +929,5 @@
 {"id":117,"name":"КА-2 Маховик","t":1794087640294,"sale":172.12,"ref":208,"profit":15.08,"roi":8.76,"bo":27,"so":43,"buy":172.1,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1794087640294,"sale":190.04,"ref":224.81,"profit":12.29,"roi":6.47,"bo":6,"so":23,"buy":190.03,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":605,"name":"Титан","t":1794089442982,"sale":111.93,"ref":136.01,"profit":10.48,"roi":9.36,"bo":11,"so":10,"buy":111.24,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":181,"name":"Гепард","t":1794090666648,"sale":133,"ref":162.8,"profit":13.52,"roi":10.17,"bo":19,"so":44,"buy":132.11,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":465,"name":"Счетчик урона","t":1794090666648,"sale":259.42,"ref":300,"profit":10.58,"roi":4.08,"bo":3,"so":9,"buy":242.82,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
