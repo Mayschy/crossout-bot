@@ -902,3 +902,5 @@
 {"id":465,"name":"Счетчик урона","t":1794061864776,"sale":259.47,"ref":305.9,"profit":15.84,"roi":6.1,"bo":3,"so":11,"buy":242.82,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":404,"name":"Демонстрация силы","t":1794061864776,"sale":70.9,"ref":95.51,"profit":15.06,"roi":21.24,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":440,"name":"Фламинго","t":1794061864776,"sale":100.03,"ref":125,"profit":12.47,"roi":12.47,"bo":12,"so":47,"buy":100.02,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":270,"name":"АП50 Шторм","t":1794062443833,"sale":76.43,"ref":98.17,"profit":11.92,"roi":15.6,"bo":8,"so":40,"buy":75.5,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":248,"name":"Обвинитель 76мм","t":1794062443833,"sale":78.83,"ref":99.96,"profit":11.13,"roi":14.12,"bo":5,"so":32,"buy":78.03,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
