@@ -625,3 +625,4 @@
 {"id":297,"name":"Ассемблер","t":1794082845460,"sale":1500,"ref":1841.05,"profit":156.94,"roi":10.46,"bo":6,"so":5,"buy":1450,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":367,"name":"Харон","t":1794084642659,"sale":3700,"ref":4500,"profit":350,"roi":9.46,"bo":3,"so":19,"buy":3690,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":242,"name":"Коммит","t":1794084644349,"sale":1618.93,"ref":1910.78,"profit":100.77,"roi":6.22,"bo":4,"so":2,"buy":1520,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":357,"name":"Молотобой","t":1794088241626,"sale":960.01,"ref":1155.42,"profit":79.87,"roi":8.32,"bo":12,"so":12,"buy":960,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
