@@ -862,3 +862,4 @@
 {"id":321,"name":"Мельник","t":1794022261794,"sale":440.1,"ref":510,"profit":18.9,"roi":4.29,"bo":15,"so":26,"buy":426,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3769,"name":"Смог-15","t":1794022261794,"sale":173.53,"ref":206.41,"profit":12.24,"roi":7.05,"bo":13,"so":20,"buy":173.52,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1208,"name":"Автокатапульта","t":1794025864897,"sale":35.29,"ref":50.56,"profit":10.21,"roi":28.94,"bo":0,"so":20,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":516,"name":"Шлем Мартина","t":1794026443997,"sale":33.96,"ref":54.09,"profit":14.72,"roi":43.35,"bo":0,"so":7,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
