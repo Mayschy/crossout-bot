@@ -591,3 +591,6 @@
 {"id":58,"name":"МВП Торпеда","t":1794036040065,"sale":761.03,"ref":930,"profit":75.97,"roi":9.98,"bo":7,"so":20,"buy":761.02,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":295,"name":"АП64 Джоуль","t":1794038476292,"sale":935.01,"ref":1099,"profit":54.09,"roi":5.78,"bo":12,"so":30,"buy":935,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1100,"name":"Леденец","t":1794040840351,"sale":882.92,"ref":1247,"profit":239.38,"roi":27.11,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":498,"name":"Импеллер","t":1794041439089,"sale":904.01,"ref":1137.69,"profit":119.91,"roi":13.26,"bo":10,"so":9,"buy":904,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":445,"name":"Геррида I","t":1794041440417,"sale":708.01,"ref":850.7,"profit":57.62,"roi":8.14,"bo":21,"so":30,"buy":708,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":279,"name":"Иглобрюх","t":1794041441877,"sale":720.02,"ref":829.99,"profit":26.97,"roi":3.75,"bo":18,"so":62,"buy":720.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}

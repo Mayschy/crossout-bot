@@ -876,3 +876,4 @@
 {"id":484,"name":"ЭУ-1 Заряд","t":1794036661659,"sale":94.19,"ref":118.97,"profit":12.88,"roi":13.68,"bo":5,"so":21,"buy":93.8,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1302,"name":"Красный хрусталь","t":1794039042908,"sale":105.96,"ref":133.46,"profit":14.15,"roi":13.36,"bo":1,"so":3,"buy":88,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1794040265423,"sale":200,"ref":237.1,"profit":13.39,"roi":6.69,"bo":6,"so":19,"buy":170.58,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":455,"name":"Боеукладка","t":1794041438548,"sale":122,"ref":149.68,"profit":12.71,"roi":10.42,"bo":9,"so":34,"buy":121.21,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
