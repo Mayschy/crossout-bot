@@ -590,3 +590,4 @@
 {"id":300,"name":"П-26 Заградитель","t":1794023438864,"sale":280.58,"ref":345,"profit":29.92,"roi":10.66,"bo":2,"so":29,"buy":279.91,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":58,"name":"МВП Торпеда","t":1794036040065,"sale":761.03,"ref":930,"profit":75.97,"roi":9.98,"bo":7,"so":20,"buy":761.02,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":295,"name":"АП64 Джоуль","t":1794038476292,"sale":935.01,"ref":1099,"profit":54.09,"roi":5.78,"bo":12,"so":30,"buy":935,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1100,"name":"Леденец","t":1794040840351,"sale":882.92,"ref":1247,"profit":239.38,"roi":27.11,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
