@@ -623,3 +623,5 @@
 {"id":3768,"name":"МЦР-8 Ломтик","t":1794079862318,"sale":1800,"ref":2040.84,"profit":36.76,"roi":2.04,"bo":6,"so":23,"buy":1755,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":27,"name":"Машинист","t":1794080440855,"sale":2400,"ref":2769.5,"profit":92.55,"roi":3.86,"bo":3,"so":18,"buy":2186.13,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":297,"name":"Ассемблер","t":1794082845460,"sale":1500,"ref":1841.05,"profit":156.94,"roi":10.46,"bo":6,"so":5,"buy":1450,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":367,"name":"Харон","t":1794084642659,"sale":3700,"ref":4500,"profit":350,"roi":9.46,"bo":3,"so":19,"buy":3690,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":242,"name":"Коммит","t":1794084644349,"sale":1618.93,"ref":1910.78,"profit":100.77,"roi":6.22,"bo":4,"so":2,"buy":1520,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}

@@ -923,3 +923,4 @@
 {"id":515,"name":"Вак1дАТ3","t":1794077444567,"sale":50.67,"ref":75,"profit":16.83,"roi":33.21,"bo":0,"so":21,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":157,"name":"Большая декоративная решетка 1","t":1794078643985,"sale":106.86,"ref":129.98,"profit":10.12,"roi":9.47,"bo":0,"so":6,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":364,"name":"П-38 Егоза","t":1794081040864,"sale":335,"ref":387,"profit":13.3,"roi":3.97,"bo":17,"so":20,"buy":325.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":609,"name":"Увабаки","t":1794084642010,"sale":340,"ref":402.67,"profit":22.4,"roi":6.59,"bo":2,"so":9,"buy":336.75,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
