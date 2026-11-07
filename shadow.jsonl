@@ -855,3 +855,4 @@
 {"id":253,"name":"ЗИС-46 Мамонт","t":1794006083654,"sale":1610,"ref":1810,"profit":19,"roi":1.18,"bo":15,"so":9,"buy":1500.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":274,"name":"Испепелитель","t":1794008442998,"sale":250,"ref":299.99,"profit":19.99,"roi":8,"bo":20,"so":13,"buy":246.2,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":518,"name":"Оберег","t":1794008442998,"sale":502,"ref":577.78,"profit":18,"roi":3.59,"bo":17,"so":9,"buy":471.05,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":690,"name":"Контейнер «Легенда»","t":1794013274524,"sale":135.99,"ref":166.19,"profit":13.58,"roi":9.99,"bo":1,"so":12,"buy":123.58,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
