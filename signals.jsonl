@@ -664,3 +664,4 @@
 {"id":1233,"name":"Шаблон: Блуждающий огонь","t":1794149441884,"sale":379.64,"ref":473,"profit":46.06,"roi":12.13,"bo":1,"so":5,"buy":332.69,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":421,"name":"Тромбон","t":1794150081641,"sale":595,"ref":700,"profit":35,"roi":5.88,"bo":7,"so":25,"buy":589.05,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":24,"name":"Инферно","t":1794151245199,"sale":1080.01,"ref":1286.33,"profit":77.69,"roi":7.19,"bo":15,"so":9,"buy":1057,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":243,"name":"ШМ-5 Лавина","t":1794153045016,"sale":4000,"ref":4597.99,"profit":138.19,"roi":3.45,"bo":15,"so":19,"buy":3900,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
