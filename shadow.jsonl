@@ -943,3 +943,4 @@
 {"id":353,"name":"Самопал","t":1794102640871,"sale":71.26,"ref":92.4,"profit":11.9,"roi":16.7,"bo":1,"so":8,"buy":69.52,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":646,"name":"Атом","t":1794103842580,"sale":175.67,"ref":209.73,"profit":13.09,"roi":7.45,"bo":26,"so":21,"buy":173.15,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":710,"name":"Расширение склада","t":1794103842580,"sale":270,"ref":313.88,"profit":12.49,"roi":4.63,"bo":4,"so":65,"buy":262.63,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":495,"name":"Фалко","t":1794104440564,"sale":81.24,"ref":107.26,"profit":15.29,"roi":18.83,"bo":6,"so":14,"buy":81.21,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
