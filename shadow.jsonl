@@ -1010,3 +1010,4 @@
 {"id":320,"name":"ПУ13 Уравнитель","t":1794169242193,"sale":271,"ref":327.69,"profit":23.92,"roi":8.83,"bo":31,"so":25,"buy":270.13,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1161,"name":"Большая рампа 6×30×15","t":1794169242193,"sale":39.36,"ref":59.11,"profit":13.84,"roi":35.16,"bo":5,"so":11,"buy":33.06,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1212,"name":"Плазменное кольцо","t":1794169865490,"sale":46.28,"ref":67,"profit":14.02,"roi":30.29,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":605,"name":"Титан","t":1794170448568,"sale":112.32,"ref":135.98,"profit":10.06,"roi":8.96,"bo":6,"so":13,"buy":103.66,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

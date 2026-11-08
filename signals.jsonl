@@ -680,3 +680,4 @@
 {"id":272,"name":"Нагваль","t":1794167446521,"sale":450,"ref":537.23,"profit":33.51,"roi":7.45,"bo":23,"so":35,"buy":444,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":60,"name":"РУН-1А","t":1794169242813,"sale":708,"ref":838.72,"profit":46.85,"roi":6.62,"bo":8,"so":24,"buy":707.25,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":587,"name":"Светофор","t":1794169867589,"sale":165.21,"ref":218.94,"profit":31.84,"roi":19.27,"bo":1,"so":6,"buy":165.15,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":656,"name":"Грейфер","t":1794170450278,"sale":188.69,"ref":258.3,"profit":43.78,"roi":23.2,"bo":0,"so":3,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
