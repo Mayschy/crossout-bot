@@ -646,3 +646,4 @@
 {"id":534,"name":"Мучитель","t":1794114640172,"sale":337.45,"ref":422.57,"profit":42.86,"roi":12.7,"bo":1,"so":18,"buy":332.98,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":263,"name":"ЗА-4 Звездопад","t":1794116442820,"sale":2601,"ref":2998,"profit":97.2,"roi":3.74,"bo":6,"so":31,"buy":2600,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":418,"name":"Ураган","t":1794117041630,"sale":2300,"ref":2610.88,"profit":49.79,"roi":2.16,"bo":17,"so":7,"buy":2210,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1300,"name":"Матовый ультрафиолет","t":1794117679945,"sale":325.98,"ref":398.99,"profit":33.11,"roi":10.16,"bo":1,"so":4,"buy":276.42,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
