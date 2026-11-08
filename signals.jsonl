@@ -669,3 +669,4 @@
 {"id":67,"name":"Цикада","t":1794155465105,"sale":2084.2,"ref":2379.99,"profit":57.79,"roi":2.77,"bo":0,"so":16,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":370,"name":"Имуги","t":1794155466825,"sale":1850,"ref":2114.85,"profit":53.37,"roi":2.88,"bo":11,"so":14,"buy":1800,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1048,"name":"Сажа","t":1794156644168,"sale":87.43,"ref":129.77,"profit":29.36,"roi":33.58,"bo":0,"so":4,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":367,"name":"Харон","t":1794157279228,"sale":3831.51,"ref":4300,"profit":38.49,"roi":1,"bo":7,"so":31,"buy":3800,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
