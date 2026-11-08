@@ -1000,3 +1000,5 @@
 {"id":1212,"name":"Плазменное кольцо","t":1794160243241,"sale":44.38,"ref":66.87,"profit":15.8,"roi":35.61,"bo":0,"so":10,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":138,"name":"Желтая лампа","t":1794161442119,"sale":39.68,"ref":55.66,"profit":10.41,"roi":26.24,"bo":6,"so":5,"buy":39.65,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":622,"name":"Виджет","t":1794162045546,"sale":220.42,"ref":270,"profit":22.58,"roi":10.24,"bo":2,"so":14,"buy":213.49,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":146,"name":"Длинная синяя лампа","t":1794163839541,"sale":89.11,"ref":117,"profit":16.19,"roi":18.17,"bo":0,"so":18,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":362,"name":"Кавказ","t":1794163839541,"sale":243.18,"ref":285.64,"profit":13.9,"roi":5.71,"bo":15,"so":16,"buy":230.66,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
