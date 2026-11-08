@@ -957,3 +957,4 @@
 {"id":276,"name":"Циклон","t":1794116442137,"sale":358.9,"ref":420,"profit":19.1,"roi":5.32,"bo":10,"so":18,"buy":348.9,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1302,"name":"Красный хрусталь","t":1794117040992,"sale":95.31,"ref":129.68,"profit":21.4,"roi":22.46,"bo":1,"so":4,"buy":95.29,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1794117040992,"sale":158.15,"ref":198.84,"profit":20.81,"roi":13.16,"bo":14,"so":55,"buy":156.32,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1447,"name":"Хищная хватка","t":1794118841484,"sale":183.26,"ref":215.15,"profit":10.38,"roi":5.66,"bo":3,"so":6,"buy":164.01,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
