@@ -991,3 +991,4 @@
 {"id":676,"name":"Зубодробитель","t":1794153043293,"sale":74.11,"ref":94.19,"profit":10.66,"roi":14.39,"bo":5,"so":16,"buy":74,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":437,"name":"Тэнгу","t":1794154844751,"sale":867,"ref":980,"profit":15,"roi":1.73,"bo":35,"so":36,"buy":866.01,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":184,"name":"Исполин","t":1794154844751,"sale":146.23,"ref":175,"profit":11.27,"roi":7.71,"bo":13,"so":35,"buy":146.09,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":457,"name":"Снабжение","t":1794156040432,"sale":71.94,"ref":96.7,"profit":15.09,"roi":20.98,"bo":19,"so":5,"buy":71.1,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
