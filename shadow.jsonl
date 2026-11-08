@@ -973,3 +973,4 @@
 {"id":484,"name":"ЭУ-1 Заряд","t":1794143441994,"sale":94.7,"ref":118.76,"profit":12.18,"roi":12.87,"bo":7,"so":22,"buy":94.15,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":555,"name":"Бум","t":1794144662803,"sale":94.44,"ref":129.23,"profit":21.87,"roi":23.15,"bo":10,"so":4,"buy":90.11,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1794145840308,"sale":168.66,"ref":203.03,"profit":14.07,"roi":8.34,"bo":6,"so":37,"buy":162.09,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":270,"name":"АП50 Шторм","t":1794146476188,"sale":78.78,"ref":99.9,"profit":11.13,"roi":14.13,"bo":8,"so":10,"buy":78.4,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
