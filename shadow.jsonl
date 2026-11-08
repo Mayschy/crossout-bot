@@ -935,3 +935,4 @@
 {"id":353,"name":"Самопал","t":1794091841531,"sale":72.01,"ref":92.39,"profit":11.14,"roi":15.47,"bo":1,"so":11,"buy":69.52,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":437,"name":"Тэнгу","t":1794093042129,"sale":880,"ref":998.8,"profit":18.92,"roi":2.15,"bo":40,"so":19,"buy":866,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":21,"name":"Сумрак","t":1794093641742,"sale":560,"ref":634.95,"profit":11.46,"roi":2.05,"bo":19,"so":6,"buy":520,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":485,"name":"Бутстрэп","t":1794096082133,"sale":669.69,"ref":756.44,"profit":11.11,"roi":1.66,"bo":8,"so":11,"buy":606.03,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
