@@ -992,3 +992,5 @@
 {"id":437,"name":"Тэнгу","t":1794154844751,"sale":867,"ref":980,"profit":15,"roi":1.73,"bo":35,"so":36,"buy":866.01,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":184,"name":"Исполин","t":1794154844751,"sale":146.23,"ref":175,"profit":11.27,"roi":7.71,"bo":13,"so":35,"buy":146.09,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":457,"name":"Снабжение","t":1794156040432,"sale":71.94,"ref":96.7,"profit":15.09,"roi":20.98,"bo":19,"so":5,"buy":71.1,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":424,"name":"Икар VII","t":1794158442186,"sale":360,"ref":420.01,"profit":18.01,"roi":5,"bo":41,"so":47,"buy":356.2,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":93,"name":"Онгаку","t":1794158442186,"sale":190.05,"ref":226.55,"profit":13.84,"roi":7.28,"bo":6,"so":4,"buy":187.51,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
