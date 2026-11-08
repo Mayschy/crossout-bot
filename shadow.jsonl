@@ -996,3 +996,5 @@
 {"id":93,"name":"Онгаку","t":1794158442186,"sale":190.05,"ref":226.55,"profit":13.84,"roi":7.28,"bo":6,"so":4,"buy":187.51,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1794159063087,"sale":156.34,"ref":189.98,"profit":14.64,"roi":9.37,"bo":8,"so":68,"buy":156.32,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1161,"name":"Большая рампа 6×30×15","t":1794159063087,"sale":39.37,"ref":59.11,"profit":13.83,"roi":35.13,"bo":5,"so":11,"buy":33.06,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":334,"name":"Блокчейн","t":1794160243241,"sale":353.1,"ref":414.93,"profit":20.34,"roi":5.76,"bo":2,"so":28,"buy":353.01,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1212,"name":"Плазменное кольцо","t":1794160243241,"sale":44.38,"ref":66.87,"profit":15.8,"roi":35.61,"bo":0,"so":10,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
