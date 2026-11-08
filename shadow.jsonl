@@ -936,3 +936,4 @@
 {"id":437,"name":"Тэнгу","t":1794093042129,"sale":880,"ref":998.8,"profit":18.92,"roi":2.15,"bo":40,"so":19,"buy":866,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":21,"name":"Сумрак","t":1794093641742,"sale":560,"ref":634.95,"profit":11.46,"roi":2.05,"bo":19,"so":6,"buy":520,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":485,"name":"Бутстрэп","t":1794096082133,"sale":669.69,"ref":756.44,"profit":11.11,"roi":1.66,"bo":8,"so":11,"buy":606.03,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":484,"name":"ЭУ-1 Заряд","t":1794096639323,"sale":94.19,"ref":118.8,"profit":12.73,"roi":13.52,"bo":17,"so":18,"buy":94.07,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
