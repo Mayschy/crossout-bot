@@ -645,3 +645,4 @@
 {"id":438,"name":"РН-М Дино","t":1794111643561,"sale":930,"ref":1079,"profit":41.1,"roi":4.42,"bo":1,"so":11,"buy":928.38,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":534,"name":"Мучитель","t":1794114640172,"sale":337.45,"ref":422.57,"profit":42.86,"roi":12.7,"bo":1,"so":18,"buy":332.98,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":263,"name":"ЗА-4 Звездопад","t":1794116442820,"sale":2601,"ref":2998,"profit":97.2,"roi":3.74,"bo":6,"so":31,"buy":2600,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":418,"name":"Ураган","t":1794117041630,"sale":2300,"ref":2610.88,"profit":49.79,"roi":2.16,"bo":17,"so":7,"buy":2210,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
