@@ -999,3 +999,4 @@
 {"id":334,"name":"Блокчейн","t":1794160243241,"sale":353.1,"ref":414.93,"profit":20.34,"roi":5.76,"bo":2,"so":28,"buy":353.01,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1212,"name":"Плазменное кольцо","t":1794160243241,"sale":44.38,"ref":66.87,"profit":15.8,"roi":35.61,"bo":0,"so":10,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":138,"name":"Желтая лампа","t":1794161442119,"sale":39.68,"ref":55.66,"profit":10.41,"roi":26.24,"bo":6,"so":5,"buy":39.65,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":622,"name":"Виджет","t":1794162045546,"sale":220.42,"ref":270,"profit":22.58,"roi":10.24,"bo":2,"so":14,"buy":213.49,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
