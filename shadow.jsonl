@@ -961,3 +961,4 @@
 {"id":630,"name":"Бигфут","t":1794120643721,"sale":175.25,"ref":212.96,"profit":16.41,"roi":9.37,"bo":2,"so":36,"buy":175.14,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1794120643721,"sale":170.1,"ref":203.03,"profit":12.63,"roi":7.42,"bo":5,"so":50,"buy":161.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":21,"name":"Сумрак","t":1794121842305,"sale":559,"ref":634.99,"profit":12.49,"roi":2.23,"bo":20,"so":5,"buy":550,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":593,"name":"ТР Анаконда","t":1794123637216,"sale":176.96,"ref":211,"profit":12.94,"roi":7.31,"bo":14,"so":9,"buy":158.97,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
