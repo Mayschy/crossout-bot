@@ -652,3 +652,4 @@
 {"id":317,"name":"Дамка","t":1794133277614,"sale":1164.61,"ref":1348.89,"profit":49.39,"roi":4.24,"bo":1,"so":28,"buy":1083.18,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":262,"name":"Фукибари","t":1794135677025,"sale":2400,"ref":2715.05,"profit":43.55,"roi":1.81,"bo":16,"so":6,"buy":2104,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":294,"name":"Морта","t":1794136245025,"sale":1890,"ref":2148.99,"profit":44.09,"roi":2.33,"bo":7,"so":15,"buy":1775,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":58,"name":"МВП Торпеда","t":1794136839931,"sale":850,"ref":1049.94,"profit":94.95,"roi":11.17,"bo":22,"so":26,"buy":816.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

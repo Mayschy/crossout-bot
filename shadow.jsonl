@@ -965,3 +965,4 @@
 {"id":635,"name":"Колесо багги (пов.)","t":1794124876563,"sale":166,"ref":199.98,"profit":13.98,"roi":8.42,"bo":5,"so":60,"buy":161.01,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":465,"name":"Счетчик урона","t":1794130851202,"sale":259.47,"ref":305.89,"profit":15.83,"roi":6.1,"bo":4,"so":9,"buy":249.41,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":26,"name":"Цербер","t":1794134445313,"sale":750,"ref":853.97,"profit":18.57,"roi":2.48,"bo":11,"so":6,"buy":675.03,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":273,"name":"В-37-39 Адаптер","t":1794136839310,"sale":478,"ref":556.3,"profit":22.67,"roi":4.74,"bo":9,"so":10,"buy":467,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
