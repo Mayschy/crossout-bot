@@ -8395,3 +8395,11 @@
 {"id":605,"t":1794170448568,"h":20,"at":1794171600000,"s":135.98,"b":103.66,"so":12,"bo":6,"ask":10.06,"instant":-19.03,"taken":true,"shadow":true,"roi":8.96,"capital":112.32,"late":false}
 {"id":498,"t":1794164479501,"h":120,"at":1794171600000,"s":1129.92,"b":909.54,"so":20,"bo":23,"ask":16.93,"instant":-181.41,"taken":true,"shadow":true,"roi":1.69,"capital":1000,"late":false}
 {"id":85,"t":1794164479501,"h":120,"at":1794171600000,"s":42,"b":33.19,"so":21,"bo":48,"ask":5.7,"instant":-2.23,"taken":true,"shadow":true,"roi":17.76,"capital":32.1,"late":false}
+{"id":280,"t":1794165045018,"h":120,"at":1794172200000,"s":380,"b":296,"so":13,"bo":25,"ask":32,"instant":-43.6,"taken":true,"shadow":false,"roi":10.32,"capital":310,"late":false}
+{"id":60,"t":1794169242813,"h":60,"at":1794172800000,"s":838.72,"b":708,"so":22,"bo":8,"ask":46.85,"instant":-70.8,"taken":true,"shadow":false,"roi":6.62,"capital":708,"late":false}
+{"id":656,"t":1794170450278,"h":30,"at":1794172200000,"s":246.5,"b":0,"so":3,"bo":0,"ask":33.16,"instant":null,"taken":true,"shadow":false,"roi":17.57,"capital":188.69,"late":false}
+{"id":327,"t":1794171677066,"h":10,"at":1794172200000,"s":687,"b":686.05,"so":16,"bo":3,"ask":-68.71,"instant":-69.57,"taken":false,"shadow":false,"roi":-10,"capital":687.01,"late":false}
+{"id":320,"t":1794169242193,"h":60,"at":1794172800000,"s":326.97,"b":273.01,"so":30,"bo":37,"ask":23.27,"instant":-25.29,"taken":true,"shadow":true,"roi":8.59,"capital":271,"late":false}
+{"id":1161,"t":1794169242193,"h":60,"at":1794172800000,"s":58.99,"b":33.06,"so":19,"bo":5,"ask":13.73,"instant":-9.61,"taken":true,"shadow":true,"roi":34.89,"capital":39.36,"late":false}
+{"id":605,"t":1794170448568,"h":30,"at":1794172200000,"s":135.98,"b":108.11,"so":12,"bo":7,"ask":10.06,"instant":-15.02,"taken":true,"shadow":true,"roi":8.96,"capital":112.32,"late":false}
+{"id":465,"t":1794172240082,"h":10,"at":1794172800000,"s":249,"b":235,"so":13,"bo":2,"ask":-25.31,"instant":-37.91,"taken":false,"shadow":true,"roi":-10.15,"capital":249.41,"late":false}

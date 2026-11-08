@@ -682,3 +682,4 @@
 {"id":587,"name":"Светофор","t":1794169867589,"sale":165.21,"ref":218.94,"profit":31.84,"roi":19.27,"bo":1,"so":6,"buy":165.15,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":656,"name":"Грейфер","t":1794170450278,"sale":188.69,"ref":258.3,"profit":43.78,"roi":23.2,"bo":0,"so":3,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":327,"name":"Ёкай","t":1794171677066,"sale":687.01,"ref":794.98,"profit":28.47,"roi":4.14,"bo":4,"so":18,"buy":687,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1051,"name":"Материал: Карбон","t":1794172846011,"sale":184.63,"ref":258.99,"profit":48.46,"roi":26.25,"bo":1,"so":2,"buy":72.5,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
