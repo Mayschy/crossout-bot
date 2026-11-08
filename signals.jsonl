@@ -678,3 +678,4 @@
 {"id":383,"name":"Коракс","t":1794166273582,"sale":3484.2,"ref":4464.43,"profit":533.79,"roi":15.32,"bo":5,"so":4,"buy":3484.03,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":265,"name":"Смерч","t":1794167444813,"sale":1670,"ref":1898.94,"profit":39.05,"roi":2.34,"bo":8,"so":27,"buy":1650.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":272,"name":"Нагваль","t":1794167446521,"sale":450,"ref":537.23,"profit":33.51,"roi":7.45,"bo":23,"so":35,"buy":444,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":60,"name":"РУН-1А","t":1794169242813,"sale":708,"ref":838.72,"profit":46.85,"roi":6.62,"bo":8,"so":24,"buy":707.25,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}

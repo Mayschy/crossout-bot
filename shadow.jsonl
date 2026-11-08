@@ -1007,3 +1007,5 @@
 {"id":284,"name":"Панацея","t":1794166272592,"sale":303.56,"ref":349.87,"profit":11.32,"roi":3.73,"bo":13,"so":26,"buy":303.5,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":65,"name":"Сверчок","t":1794166802888,"sale":372.16,"ref":430.99,"profit":15.73,"roi":4.23,"bo":32,"so":24,"buy":366.1,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":376,"name":"Квазар","t":1794168076297,"sale":170,"ref":205.49,"profit":14.94,"roi":8.79,"bo":8,"so":7,"buy":163.33,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":320,"name":"ПУ13 Уравнитель","t":1794169242193,"sale":271,"ref":327.69,"profit":23.92,"roi":8.83,"bo":31,"so":25,"buy":270.13,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1161,"name":"Большая рампа 6×30×15","t":1794169242193,"sale":39.36,"ref":59.11,"profit":13.84,"roi":35.16,"bo":5,"so":11,"buy":33.06,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
