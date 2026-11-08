@@ -662,3 +662,4 @@
 {"id":622,"name":"Виджет","t":1794148840466,"sale":230.01,"ref":284.89,"profit":26.39,"roi":11.47,"bo":4,"so":10,"buy":230,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":57,"name":"Фаворит","t":1794149440198,"sale":1100.11,"ref":1285,"profit":56.39,"roi":5.13,"bo":3,"so":16,"buy":1100,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1233,"name":"Шаблон: Блуждающий огонь","t":1794149441884,"sale":379.64,"ref":473,"profit":46.06,"roi":12.13,"bo":1,"so":5,"buy":332.69,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":421,"name":"Тромбон","t":1794150081641,"sale":595,"ref":700,"profit":35,"roi":5.88,"bo":7,"so":25,"buy":589.05,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
