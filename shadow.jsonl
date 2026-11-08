@@ -994,3 +994,5 @@
 {"id":457,"name":"Снабжение","t":1794156040432,"sale":71.94,"ref":96.7,"profit":15.09,"roi":20.98,"bo":19,"so":5,"buy":71.1,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":424,"name":"Икар VII","t":1794158442186,"sale":360,"ref":420.01,"profit":18.01,"roi":5,"bo":41,"so":47,"buy":356.2,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":93,"name":"Онгаку","t":1794158442186,"sale":190.05,"ref":226.55,"profit":13.84,"roi":7.28,"bo":6,"so":4,"buy":187.51,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":704,"name":"Хранилище чертежей","t":1794159063087,"sale":156.34,"ref":189.98,"profit":14.64,"roi":9.37,"bo":8,"so":68,"buy":156.32,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1161,"name":"Большая рампа 6×30×15","t":1794159063087,"sale":39.37,"ref":59.11,"profit":13.83,"roi":35.13,"bo":5,"so":11,"buy":33.06,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
