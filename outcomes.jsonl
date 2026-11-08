@@ -8303,3 +8303,11 @@
 {"id":138,"t":1794161442119,"h":30,"at":1794163200000,"s":50,"b":39.65,"so":4,"bo":6,"ask":5.32,"instant":-3.99,"taken":true,"shadow":true,"roi":13.41,"capital":39.68,"late":false}
 {"id":622,"t":1794162045546,"h":10,"at":1794162600000,"s":269.9,"b":213.49,"so":14,"bo":2,"ask":22.49,"instant":-28.28,"taken":true,"shadow":true,"roi":10.2,"capital":220.42,"late":false}
 {"id":622,"t":1794162045546,"h":20,"at":1794163200000,"s":269.9,"b":217.88,"so":14,"bo":3,"ask":22.49,"instant":-24.33,"taken":true,"shadow":true,"roi":10.2,"capital":220.42,"late":false}
+{"id":1048,"t":1794156644168,"h":120,"at":1794163800000,"s":87.43,"b":0,"so":4,"bo":0,"ask":-8.74,"instant":null,"taken":false,"shadow":false,"roi":-10,"capital":87.43,"late":false}
+{"id":367,"t":1794157279228,"h":120,"at":1794164400000,"s":4400,"b":3800,"so":24,"bo":8,"ask":128.49,"instant":-411.51,"taken":true,"shadow":false,"roi":3.35,"capital":3831.51,"late":false}
+{"id":609,"t":1794163840238,"h":10,"at":1794164400000,"s":422.2,"b":339.08,"so":9,"bo":1,"ask":39.98,"instant":-34.83,"taken":true,"shadow":false,"roi":11.76,"capital":340,"late":false}
+{"id":334,"t":1794160243241,"h":60,"at":1794163800000,"s":399.99,"b":353.05,"so":32,"bo":5,"ask":6.89,"instant":-35.36,"taken":true,"shadow":true,"roi":1.95,"capital":353.1,"late":false}
+{"id":1212,"t":1794160243241,"h":60,"at":1794163800000,"s":66.86,"b":0,"so":9,"bo":0,"ask":15.79,"instant":null,"taken":true,"shadow":true,"roi":35.59,"capital":44.38,"late":false}
+{"id":622,"t":1794162045546,"h":30,"at":1794163800000,"s":269.9,"b":217.88,"so":14,"bo":3,"ask":22.49,"instant":-24.33,"taken":true,"shadow":true,"roi":10.2,"capital":220.42,"late":false}
+{"id":146,"t":1794163839541,"h":10,"at":1794164400000,"s":89.11,"b":0,"so":18,"bo":0,"ask":-8.91,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":89.11,"late":false}
+{"id":362,"t":1794163839541,"h":10,"at":1794164400000,"s":243.18,"b":240,"so":16,"bo":16,"ask":-24.32,"instant":-27.18,"taken":false,"shadow":true,"roi":-10,"capital":243.18,"late":false}

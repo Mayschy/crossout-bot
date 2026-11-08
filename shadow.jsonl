@@ -1002,3 +1002,5 @@
 {"id":622,"name":"Виджет","t":1794162045546,"sale":220.42,"ref":270,"profit":22.58,"roi":10.24,"bo":2,"so":14,"buy":213.49,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":146,"name":"Длинная синяя лампа","t":1794163839541,"sale":89.11,"ref":117,"profit":16.19,"roi":18.17,"bo":0,"so":18,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":362,"name":"Кавказ","t":1794163839541,"sale":243.18,"ref":285.64,"profit":13.9,"roi":5.71,"bo":15,"so":16,"buy":230.66,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":498,"name":"Импеллер","t":1794164479501,"sale":1000,"ref":1129.9,"profit":16.91,"roi":1.69,"bo":21,"so":24,"buy":909.41,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":85,"name":"Разгон","t":1794164479501,"sale":32.1,"ref":47,"profit":10.2,"roi":31.78,"bo":30,"so":10,"buy":32.04,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
