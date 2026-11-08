@@ -655,3 +655,5 @@
 {"id":58,"name":"МВП Торпеда","t":1794136839931,"sale":850,"ref":1049.94,"profit":94.95,"roi":11.17,"bo":22,"so":26,"buy":816.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":337,"name":"Акари","t":1794138045251,"sale":1906,"ref":2350.2,"profit":209.18,"roi":10.97,"bo":2,"so":10,"buy":1905,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":25,"name":"Ками","t":1794142242893,"sale":1854,"ref":2199.87,"profit":125.88,"roi":6.79,"bo":12,"so":11,"buy":1756.13,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":357,"name":"Молотобой","t":1794142880581,"sale":970.01,"ref":1155.32,"profit":69.78,"roi":7.19,"bo":14,"so":22,"buy":970,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":579,"name":"Голиаф","t":1794142882143,"sale":1515.25,"ref":1740,"profit":50.75,"roi":3.35,"bo":10,"so":30,"buy":1513.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
