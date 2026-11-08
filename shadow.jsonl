@@ -987,3 +987,4 @@
 {"id":251,"name":"Райдзин","t":1794151244185,"sale":677,"ref":777.5,"profit":22.75,"roi":3.36,"bo":7,"so":23,"buy":675,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1301,"name":"Темное золото","t":1794151244185,"sale":122.23,"ref":147.71,"profit":10.71,"roi":8.76,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":284,"name":"Панацея","t":1794151863610,"sale":300.16,"ref":350,"profit":14.84,"roi":4.94,"bo":11,"so":33,"buy":300.15,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":309,"name":"Синус-0","t":1794152441159,"sale":85,"ref":109.49,"profit":13.54,"roi":15.93,"bo":0,"so":9,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
