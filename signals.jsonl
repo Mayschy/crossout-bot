@@ -659,3 +659,4 @@
 {"id":579,"name":"Голиаф","t":1794142882143,"sale":1515.25,"ref":1740,"profit":50.75,"roi":3.35,"bo":10,"so":30,"buy":1513.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":53,"name":"Бивень","t":1794145840914,"sale":1200,"ref":1365.98,"profit":29.38,"roi":2.45,"bo":4,"so":13,"buy":1111.11,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":14,"name":"Хугин","t":1794147040203,"sale":500,"ref":597.54,"profit":37.79,"roi":7.56,"bo":12,"so":9,"buy":494.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":622,"name":"Виджет","t":1794148840466,"sale":230.01,"ref":284.89,"profit":26.39,"roi":11.47,"bo":4,"so":10,"buy":230,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
