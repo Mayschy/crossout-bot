@@ -964,3 +964,4 @@
 {"id":593,"name":"ТР Анаконда","t":1794123637216,"sale":176.96,"ref":211,"profit":12.94,"roi":7.31,"bo":14,"so":9,"buy":158.97,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1794124876563,"sale":166,"ref":199.98,"profit":13.98,"roi":8.42,"bo":5,"so":60,"buy":161.01,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":465,"name":"Счетчик урона","t":1794130851202,"sale":259.47,"ref":305.89,"profit":15.83,"roi":6.1,"bo":4,"so":9,"buy":249.41,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":26,"name":"Цербер","t":1794134445313,"sale":750,"ref":853.97,"profit":18.57,"roi":2.48,"bo":11,"so":6,"buy":675.03,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
