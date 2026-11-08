@@ -633,3 +633,4 @@
 {"id":316,"name":"Дикобраз","t":1794099680191,"sale":22602,"ref":25790,"profit":609,"roi":2.69,"bo":7,"so":22,"buy":22600.8,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":295,"name":"АП64 Джоуль","t":1794100241412,"sale":927.04,"ref":1100,"profit":62.96,"roi":6.79,"bo":7,"so":24,"buy":927.03,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":84,"name":"Гермес","t":1794100243113,"sale":323.99,"ref":394.89,"profit":31.41,"roi":9.7,"bo":10,"so":17,"buy":323.2,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":277,"name":"Кайдзю","t":1794101467568,"sale":1189,"ref":1379,"profit":52.1,"roi":4.38,"bo":6,"so":15,"buy":1136.14,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
