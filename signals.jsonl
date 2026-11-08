@@ -654,3 +654,4 @@
 {"id":294,"name":"Морта","t":1794136245025,"sale":1890,"ref":2148.99,"profit":44.09,"roi":2.33,"bo":7,"so":15,"buy":1775,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":58,"name":"МВП Торпеда","t":1794136839931,"sale":850,"ref":1049.94,"profit":94.95,"roi":11.17,"bo":22,"so":26,"buy":816.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":337,"name":"Акари","t":1794138045251,"sale":1906,"ref":2350.2,"profit":209.18,"roi":10.97,"bo":2,"so":10,"buy":1905,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":25,"name":"Ками","t":1794142242893,"sale":1854,"ref":2199.87,"profit":125.88,"roi":6.79,"bo":12,"so":11,"buy":1756.13,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
