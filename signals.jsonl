@@ -635,3 +635,4 @@
 {"id":84,"name":"Гермес","t":1794100243113,"sale":323.99,"ref":394.89,"profit":31.41,"roi":9.7,"bo":10,"so":17,"buy":323.2,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":277,"name":"Кайдзю","t":1794101467568,"sale":1189,"ref":1379,"profit":52.1,"roi":4.38,"bo":6,"so":15,"buy":1136.14,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":333,"name":"Юпитер","t":1794102641384,"sale":4102,"ref":4599,"profit":37.1,"roi":0.9,"bo":7,"so":11,"buy":4008,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":421,"name":"Тромбон","t":1794103275891,"sale":640,"ref":739.93,"profit":25.94,"roi":4.05,"bo":7,"so":15,"buy":605.01,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}

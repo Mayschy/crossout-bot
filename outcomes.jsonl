@@ -7807,3 +7807,11 @@
 {"id":84,"t":1794100243113,"h":30,"at":1794102000000,"s":393.81,"b":323.11,"so":15,"bo":8,"ask":30.44,"instant":-33.19,"taken":true,"shadow":false,"roi":9.4,"capital":323.99,"late":false}
 {"id":277,"t":1794101467568,"h":10,"at":1794102000000,"s":1379,"b":1136.14,"so":14,"bo":6,"ask":52.1,"instant":-166.47,"taken":true,"shadow":false,"roi":4.38,"capital":1189,"late":false}
 {"id":21,"t":1794101466887,"h":10,"at":1794102000000,"s":559,"b":520,"so":6,"bo":19,"ask":-55.9,"instant":-91,"taken":false,"shadow":true,"roi":-10,"capital":559,"late":false}
+{"id":277,"t":1794101467568,"h":20,"at":1794102600000,"s":1379,"b":1136.13,"so":14,"bo":5,"ask":52.1,"instant":-166.48,"taken":true,"shadow":false,"roi":4.38,"capital":1189,"late":false}
+{"id":277,"t":1794101467568,"h":30,"at":1794103200000,"s":1379,"b":1136.13,"so":14,"bo":5,"ask":52.1,"instant":-166.48,"taken":true,"shadow":false,"roi":4.38,"capital":1189,"late":false}
+{"id":333,"t":1794102641384,"h":10,"at":1794103200000,"s":4102,"b":4008,"so":11,"bo":7,"ask":-410.2,"instant":-494.8,"taken":false,"shadow":false,"roi":-10,"capital":4102,"late":false}
+{"id":704,"t":1794099043729,"h":60,"at":1794102600000,"s":198.8,"b":156.32,"so":59,"bo":15,"ask":21.92,"instant":-16.31,"taken":true,"shadow":true,"roi":13.96,"capital":157,"late":false}
+{"id":73,"t":1794099043729,"h":60,"at":1794102600000,"s":83.86,"b":63.55,"so":12,"bo":1,"ask":11.91,"instant":-6.37,"taken":true,"shadow":true,"roi":18.74,"capital":63.56,"late":false}
+{"id":21,"t":1794101466887,"h":20,"at":1794102600000,"s":559,"b":520,"so":5,"bo":19,"ask":-55.9,"instant":-91,"taken":false,"shadow":true,"roi":-10,"capital":559,"late":false}
+{"id":21,"t":1794101466887,"h":30,"at":1794103200000,"s":559,"b":521,"so":5,"bo":20,"ask":-55.9,"instant":-90.1,"taken":false,"shadow":true,"roi":-10,"capital":559,"late":false}
+{"id":353,"t":1794102640871,"h":10,"at":1794103200000,"s":71.26,"b":69.52,"so":8,"bo":1,"ask":-7.13,"instant":-8.69,"taken":false,"shadow":true,"roi":-10,"capital":71.26,"late":false}
