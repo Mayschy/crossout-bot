@@ -975,3 +975,4 @@
 {"id":635,"name":"Колесо багги (пов.)","t":1794145840308,"sale":168.66,"ref":203.03,"profit":14.07,"roi":8.34,"bo":6,"so":37,"buy":162.09,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":270,"name":"АП50 Шторм","t":1794146476188,"sale":78.78,"ref":99.9,"profit":11.13,"roi":14.13,"bo":8,"so":10,"buy":78.4,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3763,"name":"МВП Флагман","t":1794147039572,"sale":480,"ref":554.88,"profit":19.39,"roi":4.04,"bo":15,"so":58,"buy":474.02,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":288,"name":"Ёнван","t":1794147638928,"sale":530,"ref":612,"profit":20.8,"roi":3.92,"bo":2,"so":12,"buy":523,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
