@@ -637,3 +637,5 @@
 {"id":333,"name":"Юпитер","t":1794102641384,"sale":4102,"ref":4599,"profit":37.1,"roi":0.9,"bo":7,"so":11,"buy":4008,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":421,"name":"Тромбон","t":1794103275891,"sale":640,"ref":739.93,"profit":25.94,"roi":4.05,"bo":7,"so":15,"buy":605.01,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":340,"name":"Афина","t":1794105641867,"sale":2504,"ref":2849,"profit":60.1,"roi":2.4,"bo":0,"so":13,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":295,"name":"АП64 Джоуль","t":1794106243041,"sale":927,"ref":1100,"profit":63,"roi":6.8,"bo":5,"so":25,"buy":905.49,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":261,"name":"Б12 Голубка","t":1794106244970,"sale":1250.16,"ref":1429.3,"profit":36.21,"roi":2.9,"bo":8,"so":10,"buy":1170.16,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
