@@ -665,3 +665,4 @@
 {"id":421,"name":"Тромбон","t":1794150081641,"sale":595,"ref":700,"profit":35,"roi":5.88,"bo":7,"so":25,"buy":589.05,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":24,"name":"Инферно","t":1794151245199,"sale":1080.01,"ref":1286.33,"profit":77.69,"roi":7.19,"bo":15,"so":9,"buy":1057,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":243,"name":"ШМ-5 Лавина","t":1794153045016,"sale":4000,"ref":4597.99,"profit":138.19,"roi":3.45,"bo":15,"so":19,"buy":3900,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":386,"name":"Рок","t":1794154845470,"sale":760.01,"ref":909,"profit":58.09,"roi":7.64,"bo":13,"so":3,"buy":760,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}

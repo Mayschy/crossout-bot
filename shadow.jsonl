@@ -989,3 +989,5 @@
 {"id":284,"name":"Панацея","t":1794151863610,"sale":300.16,"ref":350,"profit":14.84,"roi":4.94,"bo":11,"so":33,"buy":300.15,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":309,"name":"Синус-0","t":1794152441159,"sale":85,"ref":109.49,"profit":13.54,"roi":15.93,"bo":0,"so":9,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":676,"name":"Зубодробитель","t":1794153043293,"sale":74.11,"ref":94.19,"profit":10.66,"roi":14.39,"bo":5,"so":16,"buy":74,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":437,"name":"Тэнгу","t":1794154844751,"sale":867,"ref":980,"profit":15,"roi":1.73,"bo":35,"so":36,"buy":866.01,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":184,"name":"Исполин","t":1794154844751,"sale":146.23,"ref":175,"profit":11.27,"roi":7.71,"bo":13,"so":35,"buy":146.09,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
