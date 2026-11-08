@@ -984,3 +984,5 @@
 {"id":619,"name":"Омни","t":1794148839092,"sale":183,"ref":220,"profit":15,"roi":8.2,"bo":6,"so":72,"buy":176,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":133,"name":"Короткая красная лампа","t":1794149439458,"sale":73.39,"ref":98.47,"profit":15.23,"roi":20.76,"bo":2,"so":10,"buy":72.41,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":486,"name":"Ампер","t":1794149439458,"sale":78.59,"ref":100.56,"profit":11.91,"roi":15.16,"bo":8,"so":22,"buy":78.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":251,"name":"Райдзин","t":1794151244185,"sale":677,"ref":777.5,"profit":22.75,"roi":3.36,"bo":7,"so":23,"buy":675,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1301,"name":"Темное золото","t":1794151244185,"sale":122.23,"ref":147.71,"profit":10.71,"roi":8.76,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
