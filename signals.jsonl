@@ -676,3 +676,5 @@
 {"id":609,"name":"Увабаки","t":1794163840238,"sale":340,"ref":422.22,"profit":40,"roi":11.76,"bo":1,"so":9,"buy":339.08,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":280,"name":"Яогуай","t":1794165045018,"sale":310,"ref":380,"profit":32,"roi":10.32,"bo":27,"so":15,"buy":297,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":383,"name":"Коракс","t":1794166273582,"sale":3484.2,"ref":4464.43,"profit":533.79,"roi":15.32,"bo":5,"so":4,"buy":3484.03,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":265,"name":"Смерч","t":1794167444813,"sale":1670,"ref":1898.94,"profit":39.05,"roi":2.34,"bo":8,"so":27,"buy":1650.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":272,"name":"Нагваль","t":1794167446521,"sale":450,"ref":537.23,"profit":33.51,"roi":7.45,"bo":23,"so":35,"buy":444,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
