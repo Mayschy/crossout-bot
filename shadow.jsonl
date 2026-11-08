@@ -944,3 +944,4 @@
 {"id":646,"name":"Атом","t":1794103842580,"sale":175.67,"ref":209.73,"profit":13.09,"roi":7.45,"bo":26,"so":21,"buy":173.15,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":710,"name":"Расширение склада","t":1794103842580,"sale":270,"ref":313.88,"profit":12.49,"roi":4.63,"bo":4,"so":65,"buy":262.63,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1794104440564,"sale":81.24,"ref":107.26,"profit":15.29,"roi":18.83,"bo":6,"so":14,"buy":81.21,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":143,"name":"Длинная голубая лампа","t":1794108040202,"sale":175.21,"ref":219.99,"profit":22.78,"roi":13,"bo":2,"so":3,"buy":175.04,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
