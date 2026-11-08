@@ -976,3 +976,8 @@
 {"id":270,"name":"АП50 Шторм","t":1794146476188,"sale":78.78,"ref":99.9,"profit":11.13,"roi":14.13,"bo":8,"so":10,"buy":78.4,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3763,"name":"МВП Флагман","t":1794147039572,"sale":480,"ref":554.88,"profit":19.39,"roi":4.04,"bo":15,"so":58,"buy":474.02,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":288,"name":"Ёнван","t":1794147638928,"sale":530,"ref":612,"profit":20.8,"roi":3.92,"bo":2,"so":12,"buy":523,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":582,"name":"Файер «Синяк»","t":1794148263193,"sale":298.72,"ref":357.98,"profit":23.46,"roi":7.85,"bo":3,"so":4,"buy":277,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":536,"name":"Мясорубка","t":1794148263193,"sale":304.95,"ref":359.98,"profit":19.03,"roi":6.24,"bo":18,"so":27,"buy":304.81,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1794148263193,"sale":180,"ref":216.97,"profit":15.27,"roi":8.48,"bo":15,"so":21,"buy":160.15,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":376,"name":"Квазар","t":1794148263193,"sale":169.19,"ref":203.5,"profit":13.96,"roi":8.25,"bo":9,"so":9,"buy":165,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":181,"name":"Гепард","t":1794148263193,"sale":136.16,"ref":163.55,"profit":11.04,"roi":8.1,"bo":8,"so":28,"buy":126.28,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
