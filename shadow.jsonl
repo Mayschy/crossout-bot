@@ -982,3 +982,5 @@
 {"id":376,"name":"Квазар","t":1794148263193,"sale":169.19,"ref":203.5,"profit":13.96,"roi":8.25,"bo":9,"so":9,"buy":165,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1794148263193,"sale":136.16,"ref":163.55,"profit":11.04,"roi":8.1,"bo":8,"so":28,"buy":126.28,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":619,"name":"Омни","t":1794148839092,"sale":183,"ref":220,"profit":15,"roi":8.2,"bo":6,"so":72,"buy":176,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":133,"name":"Короткая красная лампа","t":1794149439458,"sale":73.39,"ref":98.47,"profit":15.23,"roi":20.76,"bo":2,"so":10,"buy":72.41,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":486,"name":"Ампер","t":1794149439458,"sale":78.59,"ref":100.56,"profit":11.91,"roi":15.16,"bo":8,"so":22,"buy":78.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
