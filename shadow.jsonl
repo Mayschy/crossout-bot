@@ -967,3 +967,4 @@
 {"id":26,"name":"Цербер","t":1794134445313,"sale":750,"ref":853.97,"profit":18.57,"roi":2.48,"bo":11,"so":6,"buy":675.03,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":273,"name":"В-37-39 Адаптер","t":1794136839310,"sale":478,"ref":556.3,"profit":22.67,"roi":4.74,"bo":9,"so":10,"buy":467,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":646,"name":"Атом","t":1794137460937,"sale":186.9,"ref":235,"profit":24.6,"roi":13.16,"bo":29,"so":21,"buy":185,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":437,"name":"Тэнгу","t":1794138043195,"sale":965,"ref":1098.71,"profit":23.84,"roi":2.47,"bo":47,"so":24,"buy":914,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
