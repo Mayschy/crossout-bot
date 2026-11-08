@@ -671,3 +671,5 @@
 {"id":1048,"name":"Сажа","t":1794156644168,"sale":87.43,"ref":129.77,"profit":29.36,"roi":33.58,"bo":0,"so":4,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":367,"name":"Харон","t":1794157279228,"sale":3831.51,"ref":4300,"profit":38.49,"roi":1,"bo":7,"so":31,"buy":3800,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":60,"name":"РУН-1А","t":1794157845672,"sale":707.99,"ref":834.97,"profit":43.48,"roi":6.14,"bo":8,"so":25,"buy":707.07,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":498,"name":"Импеллер","t":1794161442772,"sale":909.41,"ref":1129.94,"profit":107.54,"roi":11.82,"bo":21,"so":21,"buy":909.4,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":438,"name":"РН-М Дино","t":1794161444206,"sale":1000,"ref":1167.96,"profit":51.16,"roi":5.12,"bo":13,"so":10,"buy":940,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
