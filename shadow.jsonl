@@ -948,3 +948,4 @@
 {"id":635,"name":"Колесо багги (пов.)","t":1794108661423,"sale":164.53,"ref":208.75,"profit":23.34,"roi":14.19,"bo":0,"so":52,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":623,"name":"Виджет (пов.)","t":1794108661423,"sale":410,"ref":479.87,"profit":21.88,"roi":5.34,"bo":16,"so":73,"buy":400,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1794109243616,"sale":158.15,"ref":198.85,"profit":20.81,"roi":13.16,"bo":14,"so":55,"buy":156.32,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":495,"name":"Фалко","t":1794111042342,"sale":81.24,"ref":107.21,"profit":15.25,"roi":18.77,"bo":6,"so":12,"buy":81.21,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

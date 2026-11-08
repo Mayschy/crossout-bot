@@ -641,3 +641,4 @@
 {"id":261,"name":"Б12 Голубка","t":1794106244970,"sale":1250.16,"ref":1429.3,"profit":36.21,"roi":2.9,"bo":8,"so":10,"buy":1170.16,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":534,"name":"Мучитель","t":1794108041640,"sale":340.86,"ref":422.57,"profit":39.45,"roi":11.57,"bo":2,"so":17,"buy":339.28,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":579,"name":"Голиаф","t":1794109244404,"sale":1502,"ref":1700.5,"profit":28.45,"roi":1.89,"bo":11,"so":29,"buy":1501.16,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":24,"name":"Инферно","t":1794111043162,"sale":1111.12,"ref":1269.5,"profit":31.43,"roi":2.83,"bo":17,"so":5,"buy":1050,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
