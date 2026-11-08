@@ -630,3 +630,4 @@
 {"id":277,"name":"Кайдзю","t":1794093043683,"sale":1200,"ref":1379.7,"profit":41.73,"roi":3.48,"bo":4,"so":14,"buy":1135.71,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":439,"name":"Драйвер","t":1794093045029,"sale":871.97,"ref":1014,"profit":40.63,"roi":4.66,"bo":20,"so":28,"buy":850,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":497,"name":"Колибри","t":1794096639919,"sale":345.03,"ref":445.14,"profit":55.6,"roi":16.11,"bo":10,"so":4,"buy":345.02,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":316,"name":"Дикобраз","t":1794099680191,"sale":22602,"ref":25790,"profit":609,"roi":2.69,"bo":7,"so":22,"buy":22600.8,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
