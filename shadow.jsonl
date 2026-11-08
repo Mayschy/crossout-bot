@@ -954,3 +954,4 @@
 {"id":353,"name":"Самопал","t":1794114082077,"sale":71.26,"ref":91.13,"profit":10.76,"roi":15.1,"bo":1,"so":11,"buy":69.52,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":616,"name":"Гренадер","t":1794115860739,"sale":165,"ref":210.79,"profit":24.71,"roi":14.98,"bo":13,"so":3,"buy":158.3,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1794115860739,"sale":177.03,"ref":212.99,"profit":14.66,"roi":8.28,"bo":2,"so":31,"buy":175.14,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":276,"name":"Циклон","t":1794116442137,"sale":358.9,"ref":420,"profit":19.1,"roi":5.32,"bo":10,"so":18,"buy":348.9,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
