@@ -951,3 +951,4 @@
 {"id":495,"name":"Фалко","t":1794111042342,"sale":81.24,"ref":107.21,"profit":15.25,"roi":18.77,"bo":6,"so":12,"buy":81.21,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":312,"name":"Эмили","t":1794111642745,"sale":101.79,"ref":135.99,"profit":20.6,"roi":20.24,"bo":39,"so":4,"buy":101.01,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":9,"name":"Джаннаби","t":1794113439060,"sale":297,"ref":345.99,"profit":14.39,"roi":4.85,"bo":17,"so":24,"buy":290.16,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":353,"name":"Самопал","t":1794114082077,"sale":71.26,"ref":91.13,"profit":10.76,"roi":15.1,"bo":1,"so":11,"buy":69.52,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
