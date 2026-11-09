@@ -8810,3 +8810,11 @@
 {"id":66,"t":1794242445018,"h":120,"at":1794249600000,"s":232.71,"b":187.14,"so":12,"bo":14,"ask":9.44,"instant":-31.57,"taken":true,"shadow":true,"roi":4.72,"capital":200,"late":false}
 {"id":566,"t":1794249078787,"h":10,"at":1794249600000,"s":394.51,"b":313.14,"so":12,"bo":14,"ask":17.47,"instant":-55.76,"taken":true,"shadow":true,"roi":5.17,"capital":337.59,"late":false}
 {"id":511,"t":1794249078787,"h":10,"at":1794249600000,"s":405.89,"b":352.82,"so":17,"bo":25,"ask":10.3,"instant":-37.46,"taken":true,"shadow":true,"roi":2.9,"capital":355,"late":false}
+{"id":247,"t":1794246645080,"h":60,"at":1794250200000,"s":2400.1,"b":2191.1,"so":12,"bo":11,"ask":-31.03,"instant":-219.13,"taken":true,"shadow":false,"roi":-1.42,"capital":2191.12,"late":false}
+{"id":370,"t":1794243047098,"h":120,"at":1794250200000,"s":1999.99,"b":1787.11,"so":12,"bo":9,"ask":14.99,"instant":-176.6,"taken":true,"shadow":true,"roi":0.84,"capital":1785,"late":false}
+{"id":1048,"t":1794243047098,"h":120,"at":1794250200000,"s":111.99,"b":0,"so":3,"bo":0,"ask":11.98,"instant":null,"taken":true,"shadow":true,"roi":13.49,"capital":88.81,"late":false}
+{"id":566,"t":1794249078787,"h":20,"at":1794250200000,"s":394.51,"b":313.14,"so":11,"bo":13,"ask":17.47,"instant":-55.76,"taken":true,"shadow":true,"roi":5.17,"capital":337.59,"late":false}
+{"id":566,"t":1794249078787,"h":30,"at":1794250800000,"s":394.51,"b":313.17,"so":11,"bo":13,"ask":17.47,"instant":-55.74,"taken":true,"shadow":true,"roi":5.17,"capital":337.59,"late":false}
+{"id":511,"t":1794249078787,"h":20,"at":1794250200000,"s":405.89,"b":355,"so":17,"bo":26,"ask":10.3,"instant":-35.5,"taken":true,"shadow":true,"roi":2.9,"capital":355,"late":false}
+{"id":511,"t":1794249078787,"h":30,"at":1794250800000,"s":405.89,"b":355,"so":17,"bo":26,"ask":10.3,"instant":-35.5,"taken":true,"shadow":true,"roi":2.9,"capital":355,"late":false}
+{"id":1212,"t":1794250244110,"h":10,"at":1794250800000,"s":45.69,"b":0,"so":4,"bo":0,"ask":-4.57,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":45.69,"late":false}

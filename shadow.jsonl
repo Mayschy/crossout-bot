@@ -1065,3 +1065,4 @@
 {"id":566,"name":"Хамелеон Mk2","t":1794249078787,"sale":337.59,"ref":394.59,"profit":17.54,"roi":5.2,"bo":14,"so":11,"buy":313.09,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":511,"name":"РС Нерпа","t":1794249078787,"sale":355,"ref":405.9,"profit":10.31,"roi":2.9,"bo":27,"so":18,"buy":353,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1212,"name":"Плазменное кольцо","t":1794250244110,"sale":45.69,"ref":66.95,"profit":14.57,"roi":31.88,"bo":0,"so":4,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":498,"name":"Импеллер","t":1794250883127,"sale":1000,"ref":1130.88,"profit":17.79,"roi":1.78,"bo":23,"so":20,"buy":928.88,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
