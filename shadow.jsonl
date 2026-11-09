@@ -1066,3 +1066,6 @@
 {"id":511,"name":"РС Нерпа","t":1794249078787,"sale":355,"ref":405.9,"profit":10.31,"roi":2.9,"bo":27,"so":18,"buy":353,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1212,"name":"Плазменное кольцо","t":1794250244110,"sale":45.69,"ref":66.95,"profit":14.57,"roi":31.88,"bo":0,"so":4,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":498,"name":"Импеллер","t":1794250883127,"sale":1000,"ref":1130.88,"profit":17.79,"roi":1.78,"bo":23,"so":20,"buy":928.88,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":537,"name":"Скидутка","t":1794252664365,"sale":154.33,"ref":189.21,"profit":15.96,"roi":10.34,"bo":1,"so":57,"buy":153.5,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":58,"name":"МВП Торпеда","t":1794252664365,"sale":870,"ref":983.94,"profit":15.55,"roi":1.79,"bo":8,"so":23,"buy":852.45,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":457,"name":"Снабжение","t":1794252664365,"sale":79.74,"ref":104.67,"profit":14.46,"roi":18.14,"bo":22,"so":15,"buy":77.02,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
