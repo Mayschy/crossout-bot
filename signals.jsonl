@@ -719,3 +719,6 @@
 {"id":117,"name":"КА-2 Маховик","t":1794261052526,"sale":177.04,"ref":229.99,"profit":29.95,"roi":16.92,"bo":18,"so":27,"buy":177.03,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":579,"name":"Голиаф","t":1794262844694,"sale":1610,"ref":1844.98,"profit":50.48,"roi":3.14,"bo":28,"so":20,"buy":1600,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1081,"name":"Зимняя ночь","t":1794264044951,"sale":74.73,"ref":122.87,"profit":35.85,"roi":47.98,"bo":1,"so":2,"buy":54.65,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":23,"name":"Маниту","t":1794264643304,"sale":540.06,"ref":672,"profit":64.74,"roi":11.99,"bo":12,"so":2,"buy":540.05,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":419,"name":"Пламя","t":1794264644681,"sale":327.8,"ref":406.05,"profit":37.64,"roi":11.48,"bo":26,"so":21,"buy":307.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":9,"name":"Джаннаби","t":1794264646368,"sale":302.09,"ref":363.99,"profit":25.5,"roi":8.44,"bo":14,"so":21,"buy":302.08,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
