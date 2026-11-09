@@ -1047,3 +1047,7 @@
 {"id":1161,"name":"Большая рампа 6×30×15","t":1794231066081,"sale":39.38,"ref":58.98,"profit":13.7,"roi":34.79,"bo":5,"so":21,"buy":33.06,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":110,"name":"Охотничий рог","t":1794233446301,"sale":167.55,"ref":212.9,"profit":24.06,"roi":14.36,"bo":2,"so":3,"buy":153.48,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":599,"name":"Богатства Пустошей","t":1794235245117,"sale":180.56,"ref":217.47,"profit":15.16,"roi":8.4,"bo":2,"so":24,"buy":177,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3769,"name":"Смог-15","t":1794236486056,"sale":167.66,"ref":214,"profit":24.94,"roi":14.88,"bo":13,"so":10,"buy":162.56,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":5,"name":"Кастет","t":1794236486056,"sale":185,"ref":224.7,"profit":17.23,"roi":9.31,"bo":9,"so":11,"buy":182.05,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":565,"name":"Хамелеон","t":1794236486056,"sale":87.43,"ref":108.94,"profit":10.62,"roi":12.14,"bo":8,"so":8,"buy":85.88,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":138,"name":"Желтая лампа","t":1794236486056,"sale":34.54,"ref":50,"profit":10.46,"roi":30.28,"bo":4,"so":6,"buy":33.42,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
