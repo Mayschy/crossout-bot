@@ -1026,3 +1026,4 @@
 {"id":625,"name":"Затворник (пов.)","t":1794200478780,"sale":164.03,"ref":210,"profit":24.97,"roi":15.22,"bo":14,"so":41,"buy":164.02,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":586,"name":"Слейпнир","t":1794211295926,"sale":380,"ref":439.65,"profit":15.69,"roi":4.13,"bo":32,"so":11,"buy":360.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":365,"name":"П-39 Черт","t":1794213645738,"sale":2050.03,"ref":2299.95,"profit":19.92,"roi":0.97,"bo":5,"so":24,"buy":2000,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":276,"name":"Циклон","t":1794214884731,"sale":328.1,"ref":384.96,"profit":18.36,"roi":5.6,"bo":3,"so":33,"buy":328.02,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
