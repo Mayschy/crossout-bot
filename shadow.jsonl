@@ -1070,3 +1070,4 @@
 {"id":58,"name":"МВП Торпеда","t":1794252664365,"sale":870,"ref":983.94,"profit":15.55,"roi":1.79,"bo":8,"so":23,"buy":852.45,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":457,"name":"Снабжение","t":1794252664365,"sale":79.74,"ref":104.67,"profit":14.46,"roi":18.14,"bo":22,"so":15,"buy":77.02,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":295,"name":"АП64 Джоуль","t":1794255042648,"sale":1001,"ref":1124.9,"profit":11.41,"roi":1.14,"bo":29,"so":23,"buy":1000,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":66,"name":"Саранча","t":1794256844716,"sale":187.02,"ref":222,"profit":12.78,"roi":6.83,"bo":8,"so":26,"buy":180.1,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

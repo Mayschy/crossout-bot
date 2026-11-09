@@ -712,3 +712,4 @@
 {"id":335,"name":"Триггер","t":1794247292016,"sale":180,"ref":228,"profit":25.2,"roi":14,"bo":7,"so":9,"buy":178.39,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":321,"name":"Мельник","t":1794254482122,"sale":416.03,"ref":498.99,"profit":33.06,"roi":7.95,"bo":13,"so":22,"buy":416.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":631,"name":"Бигфут (пов.)","t":1794256269898,"sale":188.81,"ref":240,"profit":27.19,"roi":14.4,"bo":3,"so":35,"buy":186.82,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":421,"name":"Тромбон","t":1794256845707,"sale":600,"ref":699,"profit":29.1,"roi":4.85,"bo":17,"so":40,"buy":596,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
