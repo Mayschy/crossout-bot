@@ -1062,3 +1062,5 @@
 {"id":1048,"name":"Сажа","t":1794243047098,"sale":88.81,"ref":111.9,"profit":11.9,"roi":13.4,"bo":0,"so":5,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":384,"name":"Дзюбокко","t":1794244849097,"sale":1111.11,"ref":1259.09,"profit":22.07,"roi":1.99,"bo":6,"so":14,"buy":1097.91,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":677,"name":"Панцирь","t":1794245467807,"sale":288.23,"ref":331.87,"profit":10.45,"roi":3.63,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":566,"name":"Хамелеон Mk2","t":1794249078787,"sale":337.59,"ref":394.59,"profit":17.54,"roi":5.2,"bo":14,"so":11,"buy":313.09,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":511,"name":"РС Нерпа","t":1794249078787,"sale":355,"ref":405.9,"profit":10.31,"roi":2.9,"bo":27,"so":18,"buy":353,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
