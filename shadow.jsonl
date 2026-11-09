@@ -1034,3 +1034,6 @@
 {"id":565,"name":"Хамелеон","t":1794225678957,"sale":91.05,"ref":115.94,"profit":13.3,"roi":14.6,"bo":9,"so":5,"buy":89.8,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":317,"name":"Дамка","t":1794226242618,"sale":1200,"ref":1360,"profit":24,"roi":2,"bo":19,"so":25,"buy":1152.03,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":586,"name":"Слейпнир","t":1794226841609,"sale":380,"ref":439.64,"profit":15.68,"roi":4.13,"bo":31,"so":19,"buy":365,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1441,"name":"Купоны x1000","t":1794227469156,"sale":176.01,"ref":219.8,"profit":21.81,"roi":12.39,"bo":68,"so":100,"buy":176,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":537,"name":"Скидутка","t":1794227469156,"sale":158.5,"ref":189.99,"profit":12.49,"roi":7.88,"bo":16,"so":55,"buy":158.04,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1794227469156,"sale":200,"ref":235.45,"profit":11.91,"roi":5.95,"bo":25,"so":24,"buy":195.13,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
