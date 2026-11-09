@@ -692,3 +692,4 @@
 {"id":284,"name":"Панацея","t":1794223865236,"sale":307.02,"ref":374.98,"profit":30.46,"roi":9.92,"bo":11,"so":14,"buy":307.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":480,"name":"Тати","t":1794224444010,"sale":351.45,"ref":444.45,"profit":48.56,"roi":13.82,"bo":7,"so":5,"buy":331,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":497,"name":"Колибри","t":1794224445447,"sale":344.01,"ref":414,"profit":28.59,"roi":8.31,"bo":3,"so":20,"buy":344,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":592,"name":"Панджи","t":1794228039861,"sale":631,"ref":743.3,"profit":37.97,"roi":6.02,"bo":6,"so":15,"buy":625.25,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}

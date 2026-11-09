@@ -1037,3 +1037,4 @@
 {"id":1441,"name":"Купоны x1000","t":1794227469156,"sale":176.01,"ref":219.8,"profit":21.81,"roi":12.39,"bo":68,"so":100,"buy":176,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":537,"name":"Скидутка","t":1794227469156,"sale":158.5,"ref":189.99,"profit":12.49,"roi":7.88,"bo":16,"so":55,"buy":158.04,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1794227469156,"sale":200,"ref":235.45,"profit":11.91,"roi":5.95,"bo":25,"so":24,"buy":195.13,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":367,"name":"Харон","t":1794228039239,"sale":3900,"ref":4350,"profit":15,"roi":0.38,"bo":10,"so":35,"buy":3850,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
