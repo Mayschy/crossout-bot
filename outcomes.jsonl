@@ -8500,3 +8500,4 @@
 {"id":625,"t":1794200478780,"h":10,"at":1794201000000,"s":209,"b":164.02,"so":40,"bo":16,"ask":24.07,"instant":-16.41,"taken":true,"shadow":true,"roi":14.67,"capital":164.03,"late":false}
 {"id":625,"t":1794200478780,"h":20,"at":1794201600000,"s":208.25,"b":164.01,"so":39,"bo":15,"ask":23.4,"instant":-16.42,"taken":true,"shadow":true,"roi":14.26,"capital":164.03,"late":false}
 {"id":625,"t":1794200478780,"h":30,"at":1794202200000,"s":208.2,"b":164.01,"so":41,"bo":15,"ask":23.35,"instant":-16.42,"taken":true,"shadow":true,"roi":14.24,"capital":164.03,"late":false}
+{"id":625,"t":1794200478780,"h":60,"at":1794204000000,"s":208.19,"b":164.01,"so":37,"bo":15,"ask":23.34,"instant":-16.42,"taken":true,"shadow":true,"roi":14.23,"capital":164.03,"late":false}
