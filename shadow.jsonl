@@ -1046,3 +1046,4 @@
 {"id":112,"name":"Рвач","t":1794230442818,"sale":115.63,"ref":140,"profit":10.37,"roi":8.97,"bo":0,"so":38,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1161,"name":"Большая рампа 6×30×15","t":1794231066081,"sale":39.38,"ref":58.98,"profit":13.7,"roi":34.79,"bo":5,"so":21,"buy":33.06,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":110,"name":"Охотничий рог","t":1794233446301,"sale":167.55,"ref":212.9,"profit":24.06,"roi":14.36,"bo":2,"so":3,"buy":153.48,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":599,"name":"Богатства Пустошей","t":1794235245117,"sale":180.56,"ref":217.47,"profit":15.16,"roi":8.4,"bo":2,"so":24,"buy":177,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
