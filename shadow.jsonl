@@ -1021,3 +1021,4 @@
 {"id":565,"name":"Хамелеон","t":1794190844323,"sale":82.53,"ref":108.99,"profit":15.56,"roi":18.85,"bo":9,"so":2,"buy":81.71,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":138,"name":"Желтая лампа","t":1794190844323,"sale":34.54,"ref":50,"profit":10.46,"roi":30.28,"bo":1,"so":5,"buy":33.33,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":254,"name":"ЗИС-33 Верзила","t":1794193279139,"sale":76.79,"ref":97.4,"profit":10.87,"roi":14.16,"bo":6,"so":28,"buy":75.05,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":610,"name":"Увабаки (пов.)","t":1794194443193,"sale":200,"ref":235.96,"profit":12.36,"roi":6.18,"bo":1,"so":32,"buy":180.9,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
