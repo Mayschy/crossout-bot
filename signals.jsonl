@@ -683,3 +683,4 @@
 {"id":656,"name":"Грейфер","t":1794170450278,"sale":188.69,"ref":258.3,"profit":43.78,"roi":23.2,"bo":0,"so":3,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":327,"name":"Ёкай","t":1794171677066,"sale":687.01,"ref":794.98,"profit":28.47,"roi":4.14,"bo":4,"so":18,"buy":687,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1051,"name":"Материал: Карбон","t":1794172846011,"sale":184.63,"ref":258.99,"profit":48.46,"roi":26.25,"bo":1,"so":2,"buy":72.5,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":223,"name":"Надувной Мамонт","t":1794182482030,"sale":795,"ref":1067.65,"profit":165.89,"roi":20.87,"bo":11,"so":7,"buy":791.21,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
