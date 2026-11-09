@@ -1055,3 +1055,5 @@
 {"id":577,"name":"Гусеница бронированная","t":1794238270129,"sale":335,"ref":398.81,"profit":23.93,"roi":7.14,"bo":9,"so":37,"buy":334.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":457,"name":"Снабжение","t":1794239443254,"sale":78.45,"ref":101.87,"profit":13.23,"roi":16.87,"bo":19,"so":18,"buy":75.13,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1794240085657,"sale":130.98,"ref":162.99,"profit":15.71,"roi":11.99,"bo":27,"so":23,"buy":130.97,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":497,"name":"Колибри","t":1794241242686,"sale":350,"ref":408.86,"profit":17.97,"roi":5.14,"bo":4,"so":24,"buy":336,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1794241242686,"sale":200,"ref":234.99,"profit":11.49,"roi":5.75,"bo":20,"so":19,"buy":195.07,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
