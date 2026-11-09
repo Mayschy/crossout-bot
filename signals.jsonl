@@ -715,3 +715,4 @@
 {"id":421,"name":"Тромбон","t":1794256845707,"sale":600,"ref":699,"profit":29.1,"roi":4.85,"bo":17,"so":40,"buy":596,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":263,"name":"ЗА-4 Звездопад","t":1794257441948,"sale":2700.01,"ref":3099.43,"profit":89.48,"roi":3.31,"bo":10,"so":22,"buy":2700,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":94,"name":"Зов свободы","t":1794258086981,"sale":206.06,"ref":265.96,"profit":33.3,"roi":16.16,"bo":1,"so":7,"buy":198.5,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1100,"name":"Леденец","t":1794258645076,"sale":1080.25,"ref":1235.7,"profit":31.88,"roi":2.95,"bo":3,"so":4,"buy":838.76,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
