@@ -689,3 +689,4 @@
 {"id":579,"name":"Голиаф","t":1794211296544,"sale":1531.04,"ref":1819.98,"profit":106.94,"roi":6.98,"bo":25,"so":21,"buy":1531.03,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":60,"name":"РУН-1А","t":1794211880337,"sale":707.07,"ref":839.76,"profit":48.71,"roi":6.89,"bo":6,"so":24,"buy":707.05,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":383,"name":"Коракс","t":1794213646515,"sale":3800.1,"ref":4463.79,"profit":217.31,"roi":5.72,"bo":12,"so":17,"buy":3800,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":284,"name":"Панацея","t":1794223865236,"sale":307.02,"ref":374.98,"profit":30.46,"roi":9.92,"bo":11,"so":14,"buy":307.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

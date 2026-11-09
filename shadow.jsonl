@@ -1029,3 +1029,5 @@
 {"id":276,"name":"Циклон","t":1794214884731,"sale":328.1,"ref":384.96,"profit":18.36,"roi":5.6,"bo":3,"so":33,"buy":328.02,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":94,"name":"Зов свободы","t":1794216041218,"sale":216.94,"ref":267,"profit":23.36,"roi":10.77,"bo":1,"so":5,"buy":198.5,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":376,"name":"Квазар","t":1794221445175,"sale":159.28,"ref":199.96,"profit":20.68,"roi":12.99,"bo":7,"so":24,"buy":158.26,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":335,"name":"Триггер","t":1794223864249,"sale":193,"ref":229.02,"profit":13.12,"roi":6.8,"bo":5,"so":10,"buy":189.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1301,"name":"Темное золото","t":1794223864249,"sale":122.22,"ref":147.71,"profit":10.72,"roi":8.77,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
