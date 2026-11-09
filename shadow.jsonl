@@ -1060,3 +1060,4 @@
 {"id":66,"name":"Саранча","t":1794242445018,"sale":200,"ref":234,"profit":10.6,"roi":5.3,"bo":10,"so":16,"buy":188,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":370,"name":"Имуги","t":1794243047098,"sale":1785,"ref":1999.95,"profit":14.96,"roi":0.84,"bo":7,"so":12,"buy":1784.99,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1048,"name":"Сажа","t":1794243047098,"sale":88.81,"ref":111.9,"profit":11.9,"roi":13.4,"bo":0,"so":5,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":384,"name":"Дзюбокко","t":1794244849097,"sale":1111.11,"ref":1259.09,"profit":22.07,"roi":1.99,"bo":6,"so":14,"buy":1097.91,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

@@ -706,3 +706,5 @@
 {"id":609,"name":"Увабаки","t":1794239443910,"sale":340.79,"ref":430,"profit":46.21,"roi":13.56,"bo":3,"so":4,"buy":339.08,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":66,"name":"Саранча","t":1794240086559,"sale":187.06,"ref":249.62,"profit":37.6,"roi":20.1,"bo":10,"so":13,"buy":187.03,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":283,"name":"Горыныч","t":1794242445945,"sale":1213,"ref":1399.99,"profit":46.99,"roi":3.87,"bo":9,"so":14,"buy":1160,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":28,"name":"Гиппогриф","t":1794244851476,"sale":2111.12,"ref":2452.69,"profit":96.3,"roi":4.56,"bo":8,"so":3,"buy":1855.58,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":421,"name":"Тромбон","t":1794244852916,"sale":619.99,"ref":719.19,"profit":27.28,"roi":4.4,"bo":16,"so":36,"buy":615,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
