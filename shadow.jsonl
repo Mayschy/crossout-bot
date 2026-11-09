@@ -1015,3 +1015,5 @@
 {"id":605,"name":"Титан","t":1794173462426,"sale":108.11,"ref":135.98,"profit":14.27,"roi":13.2,"bo":6,"so":13,"buy":103.66,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1794183641128,"sale":155.16,"ref":194.99,"profit":20.33,"roi":13.1,"bo":11,"so":44,"buy":152.74,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":462,"name":"Шабаш","t":1794187864873,"sale":264.01,"ref":318.88,"profit":22.98,"roi":8.7,"bo":31,"so":35,"buy":264,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":605,"name":"Титан","t":1794189043803,"sale":105.96,"ref":135.97,"profit":16.41,"roi":15.49,"bo":2,"so":18,"buy":103.66,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":40,"name":"Пилигрим","t":1794189043803,"sale":96.58,"ref":119,"profit":10.52,"roi":10.89,"bo":8,"so":14,"buy":96.57,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
