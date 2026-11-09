@@ -686,3 +686,4 @@
 {"id":223,"name":"Надувной Мамонт","t":1794182482030,"sale":795,"ref":1067.65,"profit":165.89,"roi":20.87,"bo":11,"so":7,"buy":791.21,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":380,"name":"Искра III","t":1794183641863,"sale":1620,"ref":1888.17,"profit":79.35,"roi":4.9,"bo":10,"so":12,"buy":1617.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":557,"name":"Снежинка","t":1794204654912,"sale":228.14,"ref":301.34,"profit":43.07,"roi":18.88,"bo":1,"so":3,"buy":226.74,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":579,"name":"Голиаф","t":1794211296544,"sale":1531.04,"ref":1819.98,"profit":106.94,"roi":6.98,"bo":25,"so":21,"buy":1531.03,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
