@@ -1041,3 +1041,6 @@
 {"id":263,"name":"ЗА-4 Звездопад","t":1794228641245,"sale":2765.01,"ref":3100,"profit":24.99,"roi":0.9,"bo":11,"so":18,"buy":2600.99,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":49,"name":"Квант","t":1794228641245,"sale":356.44,"ref":410.72,"profit":13.21,"roi":3.71,"bo":15,"so":15,"buy":356.2,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":529,"name":"Циркулярка","t":1794228641245,"sale":87.6,"ref":111.68,"profit":12.91,"roi":14.74,"bo":5,"so":27,"buy":87.58,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":622,"name":"Виджет","t":1794230442818,"sale":218.45,"ref":269.97,"profit":24.52,"roi":11.23,"bo":3,"so":14,"buy":218.43,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":273,"name":"В-37-39 Адаптер","t":1794230442818,"sale":466,"ref":544.45,"profit":24.01,"roi":5.15,"bo":2,"so":12,"buy":428.97,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":112,"name":"Рвач","t":1794230442818,"sale":115.63,"ref":140,"profit":10.37,"roi":8.97,"bo":0,"so":38,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
