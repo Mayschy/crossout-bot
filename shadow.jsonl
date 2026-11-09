@@ -1023,3 +1023,4 @@
 {"id":254,"name":"ЗИС-33 Верзила","t":1794193279139,"sale":76.79,"ref":97.4,"profit":10.87,"roi":14.16,"bo":6,"so":28,"buy":75.05,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1794194443193,"sale":200,"ref":235.96,"profit":12.36,"roi":6.18,"bo":1,"so":32,"buy":180.9,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1794198666149,"sale":141.9,"ref":169.94,"profit":11.05,"roi":7.78,"bo":14,"so":39,"buy":138.19,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1794200478780,"sale":164.03,"ref":210,"profit":24.97,"roi":15.22,"bo":14,"so":41,"buy":164.02,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
