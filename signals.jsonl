@@ -718,3 +718,4 @@
 {"id":1100,"name":"Леденец","t":1794258645076,"sale":1080.25,"ref":1235.7,"profit":31.88,"roi":2.95,"bo":3,"so":4,"buy":838.76,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":117,"name":"КА-2 Маховик","t":1794261052526,"sale":177.04,"ref":229.99,"profit":29.95,"roi":16.92,"bo":18,"so":27,"buy":177.03,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":579,"name":"Голиаф","t":1794262844694,"sale":1610,"ref":1844.98,"profit":50.48,"roi":3.14,"bo":28,"so":20,"buy":1600,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1081,"name":"Зимняя ночь","t":1794264044951,"sale":74.73,"ref":122.87,"profit":35.85,"roi":47.98,"bo":1,"so":2,"buy":54.65,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
