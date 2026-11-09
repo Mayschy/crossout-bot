@@ -701,3 +701,5 @@
 {"id":356,"name":"Ёрмунганд","t":1794234049235,"sale":31000,"ref":34990,"profit":491,"roi":1.58,"bo":4,"so":19,"buy":29000,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":257,"name":"Слон","t":1794234050669,"sale":2100,"ref":2379.9,"profit":41.91,"roi":2,"bo":17,"so":23,"buy":1911.52,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":342,"name":"РА-1 Вереск","t":1794237044060,"sale":1625,"ref":1897.89,"profit":83.1,"roi":5.11,"bo":14,"so":12,"buy":1622.61,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":382,"name":"Варун","t":1794237646845,"sale":600.01,"ref":743.85,"profit":69.46,"roi":11.58,"bo":6,"so":6,"buy":569,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":278,"name":"Артемида","t":1794237648387,"sale":1250,"ref":1455,"profit":59.5,"roi":4.76,"bo":2,"so":11,"buy":1191,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
