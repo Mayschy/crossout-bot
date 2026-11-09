@@ -1052,3 +1052,4 @@
 {"id":565,"name":"Хамелеон","t":1794236486056,"sale":87.43,"ref":108.94,"profit":10.62,"roi":12.14,"bo":8,"so":8,"buy":85.88,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":138,"name":"Желтая лампа","t":1794236486056,"sale":34.54,"ref":50,"profit":10.46,"roi":30.28,"bo":4,"so":6,"buy":33.42,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1443,"name":"Гравированные гильзы x1000","t":1794237645771,"sale":300,"ref":347,"profit":12.3,"roi":4.1,"bo":45,"so":104,"buy":288.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":577,"name":"Гусеница бронированная","t":1794238270129,"sale":335,"ref":398.81,"profit":23.93,"roi":7.14,"bo":9,"so":37,"buy":334.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
