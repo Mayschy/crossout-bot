@@ -708,3 +708,4 @@
 {"id":283,"name":"Горыныч","t":1794242445945,"sale":1213,"ref":1399.99,"profit":46.99,"roi":3.87,"bo":9,"so":14,"buy":1160,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":28,"name":"Гиппогриф","t":1794244851476,"sale":2111.12,"ref":2452.69,"profit":96.3,"roi":4.56,"bo":8,"so":3,"buy":1855.58,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":421,"name":"Тромбон","t":1794244852916,"sale":619.99,"ref":719.19,"profit":27.28,"roi":4.4,"bo":16,"so":36,"buy":615,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":247,"name":"КП-17 Цунами","t":1794246645080,"sale":2191.12,"ref":2598.87,"profit":147.86,"roi":6.75,"bo":9,"so":11,"buy":2191.1,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
