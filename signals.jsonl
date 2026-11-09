@@ -697,3 +697,4 @@
 {"id":321,"name":"Мельник","t":1794228643523,"sale":420,"ref":499.35,"profit":29.42,"roi":7,"bo":17,"so":32,"buy":410.23,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":258,"name":"Слон (тюн.) (заготовка)","t":1794229849098,"sale":3333,"ref":3751.25,"profit":43.13,"roi":1.29,"bo":4,"so":5,"buy":2806,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
 {"id":273,"name":"В-37-39 Адаптер","t":1794229850521,"sale":466,"ref":549,"profit":28.1,"roi":6.03,"bo":2,"so":12,"buy":428.97,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":284,"name":"Панацея","t":1794231066849,"sale":310,"ref":388.99,"profit":40.09,"roi":12.93,"bo":11,"so":10,"buy":309.99,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
