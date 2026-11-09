@@ -1018,3 +1018,5 @@
 {"id":605,"name":"Титан","t":1794189043803,"sale":105.96,"ref":135.97,"profit":16.41,"roi":15.49,"bo":2,"so":18,"buy":103.66,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":40,"name":"Пилигрим","t":1794189043803,"sale":96.58,"ref":119,"profit":10.52,"roi":10.89,"bo":8,"so":14,"buy":96.57,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":435,"name":"LED «Нетопырь»","t":1794189675825,"sale":180,"ref":216,"profit":14.4,"roi":8,"bo":7,"so":4,"buy":164.04,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":565,"name":"Хамелеон","t":1794190844323,"sale":82.53,"ref":108.99,"profit":15.56,"roi":18.85,"bo":9,"so":2,"buy":81.71,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":138,"name":"Желтая лампа","t":1794190844323,"sale":34.54,"ref":50,"profit":10.46,"roi":30.28,"bo":1,"so":5,"buy":33.33,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
