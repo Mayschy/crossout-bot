@@ -693,3 +693,5 @@
 {"id":480,"name":"Тати","t":1794224444010,"sale":351.45,"ref":444.45,"profit":48.56,"roi":13.82,"bo":7,"so":5,"buy":331,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":497,"name":"Колибри","t":1794224445447,"sale":344.01,"ref":414,"profit":28.59,"roi":8.31,"bo":3,"so":20,"buy":344,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":592,"name":"Панджи","t":1794228039861,"sale":631,"ref":743.3,"profit":37.97,"roi":6.02,"bo":6,"so":15,"buy":625.25,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":289,"name":"Дробитель","t":1794228642048,"sale":303.46,"ref":370,"profit":29.54,"roi":9.73,"bo":9,"so":19,"buy":303.45,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":321,"name":"Мельник","t":1794228643523,"sale":420,"ref":499.35,"profit":29.42,"roi":7,"bo":17,"so":32,"buy":410.23,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

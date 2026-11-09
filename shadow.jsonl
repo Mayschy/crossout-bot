@@ -1038,3 +1038,6 @@
 {"id":537,"name":"Скидутка","t":1794227469156,"sale":158.5,"ref":189.99,"profit":12.49,"roi":7.88,"bo":16,"so":55,"buy":158.04,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1794227469156,"sale":200,"ref":235.45,"profit":11.91,"roi":5.95,"bo":25,"so":24,"buy":195.13,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":367,"name":"Харон","t":1794228039239,"sale":3900,"ref":4350,"profit":15,"roi":0.38,"bo":10,"so":35,"buy":3850,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":263,"name":"ЗА-4 Звездопад","t":1794228641245,"sale":2765.01,"ref":3100,"profit":24.99,"roi":0.9,"bo":11,"so":18,"buy":2600.99,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":49,"name":"Квант","t":1794228641245,"sale":356.44,"ref":410.72,"profit":13.21,"roi":3.71,"bo":15,"so":15,"buy":356.2,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":529,"name":"Циркулярка","t":1794228641245,"sale":87.6,"ref":111.68,"profit":12.91,"roi":14.74,"bo":5,"so":27,"buy":87.58,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
