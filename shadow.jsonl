@@ -1013,3 +1013,4 @@
 {"id":605,"name":"Титан","t":1794170448568,"sale":112.32,"ref":135.98,"profit":10.06,"roi":8.96,"bo":6,"so":13,"buy":103.66,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":465,"name":"Счетчик урона","t":1794172240082,"sale":249.41,"ref":299.99,"profit":20.58,"roi":8.25,"bo":2,"so":12,"buy":235,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":605,"name":"Титан","t":1794173462426,"sale":108.11,"ref":135.98,"profit":14.27,"roi":13.2,"bo":6,"so":13,"buy":103.66,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":704,"name":"Хранилище чертежей","t":1794183641128,"sale":155.16,"ref":194.99,"profit":20.33,"roi":13.1,"bo":11,"so":44,"buy":152.74,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
