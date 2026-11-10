@@ -756,3 +756,4 @@
 {"id":420,"name":"Гнездо","t":1794345638223,"sale":323.34,"ref":394.84,"profit":32.02,"roi":9.9,"bo":7,"so":66,"buy":323.3,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":258,"name":"Слон (тюн.) (заготовка)","t":1794346263589,"sale":3000,"ref":3400,"profit":60,"roi":2,"bo":6,"so":3,"buy":2752.52,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":482,"name":"Мигалка","t":1794346843541,"sale":244.89,"ref":300,"profit":25.11,"roi":10.25,"bo":0,"so":6,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":361,"name":"Шредер","t":1794352839877,"sale":2690.34,"ref":3099.95,"profit":99.61,"roi":3.7,"bo":2,"so":21,"buy":2609.79,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
