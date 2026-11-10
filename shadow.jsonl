@@ -1078,3 +1078,5 @@
 {"id":565,"name":"Хамелеон","t":1794269445916,"sale":80.82,"ref":106.73,"profit":15.24,"roi":18.85,"bo":3,"so":14,"buy":76.32,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":576,"name":"Гусеница малая","t":1794270663384,"sale":170.82,"ref":210,"profit":18.18,"roi":10.64,"bo":8,"so":27,"buy":160.06,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":464,"name":"Коготь","t":1794270663384,"sale":78.19,"ref":98.8,"profit":10.73,"roi":13.72,"bo":9,"so":57,"buy":74.88,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":181,"name":"Гепард","t":1794274844697,"sale":130.56,"ref":161.84,"profit":15.1,"roi":11.56,"bo":24,"so":21,"buy":130.55,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":487,"name":"Газген","t":1794274844697,"sale":335.01,"ref":387.97,"profit":14.16,"roi":4.23,"bo":9,"so":20,"buy":330.5,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
