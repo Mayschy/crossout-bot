@@ -1128,3 +1128,4 @@
 {"id":110,"name":"Охотничий рог","t":1794328845143,"sale":163.68,"ref":199,"profit":15.42,"roi":9.42,"bo":1,"so":4,"buy":153.48,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1794328845143,"sale":127.58,"ref":158.88,"profit":15.41,"roi":12.08,"bo":2,"so":19,"buy":127.37,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1794328845143,"sale":180,"ref":214.83,"profit":13.35,"roi":7.42,"bo":38,"so":19,"buy":172.35,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1794330087916,"sale":151.97,"ref":188.46,"profit":17.64,"roi":11.61,"bo":7,"so":34,"buy":148.57,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
