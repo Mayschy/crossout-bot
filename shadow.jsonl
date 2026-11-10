@@ -1092,3 +1092,4 @@
 {"id":489,"name":"Аполлон IV","t":1794299466484,"sale":2350,"ref":2637.75,"profit":23.97,"roi":1.02,"bo":2,"so":20,"buy":2280.24,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":274,"name":"Испепелитель","t":1794299466484,"sale":255.16,"ref":308.64,"profit":22.62,"roi":8.86,"bo":23,"so":17,"buy":255.11,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":420,"name":"Гнездо","t":1794302444772,"sale":365,"ref":418.96,"profit":12.06,"roi":3.31,"bo":22,"so":40,"buy":352.02,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":66,"name":"Саранча","t":1794304245721,"sale":180,"ref":219.98,"profit":17.98,"roi":9.99,"bo":10,"so":34,"buy":170.01,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
