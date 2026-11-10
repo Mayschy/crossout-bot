@@ -744,3 +744,4 @@
 {"id":355,"name":"Нидхёгг","t":1794325247311,"sale":1708.99,"ref":1998,"profit":89.21,"roi":5.22,"bo":13,"so":9,"buy":1706,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":44,"name":"Агрессор","t":1794326488123,"sale":341.26,"ref":419.99,"profit":36.73,"roi":10.76,"bo":7,"so":15,"buy":340.99,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":557,"name":"Снежинка","t":1794330088924,"sale":243.46,"ref":331.48,"profit":54.87,"roi":22.54,"bo":2,"so":2,"buy":216.69,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1448,"name":"Инквизитор","t":1794330647483,"sale":1500,"ref":1735.15,"profit":61.64,"roi":4.11,"bo":7,"so":9,"buy":1431,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
