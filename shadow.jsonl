@@ -1118,3 +1118,6 @@
 {"id":335,"name":"Триггер","t":1794326486808,"sale":186.66,"ref":227.76,"profit":18.32,"roi":9.82,"bo":4,"so":11,"buy":168.96,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":457,"name":"Снабжение","t":1794326486808,"sale":67.87,"ref":89.96,"profit":13.09,"roi":19.29,"bo":3,"so":44,"buy":67,"act":11,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":464,"name":"Коготь","t":1794326486808,"sale":74.95,"ref":94.47,"profit":10.07,"roi":13.44,"bo":9,"so":68,"buy":74.88,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1794327641878,"sale":156.74,"ref":199.97,"profit":23.23,"roi":14.82,"bo":0,"so":33,"buy":0,"act":8,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":518,"name":"Оберег","t":1794327641878,"sale":560.01,"ref":638,"profit":14.19,"roi":2.53,"bo":9,"so":24,"buy":560,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":506,"name":"Максвелл","t":1794327641878,"sale":75,"ref":94.99,"profit":10.49,"roi":13.99,"bo":7,"so":26,"buy":72.85,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
