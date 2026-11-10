@@ -723,3 +723,4 @@
 {"id":419,"name":"Пламя","t":1794264644681,"sale":327.8,"ref":406.05,"profit":37.64,"roi":11.48,"bo":26,"so":21,"buy":307.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":9,"name":"Джаннаби","t":1794264646368,"sale":302.09,"ref":363.99,"profit":25.5,"roi":8.44,"bo":14,"so":21,"buy":302.08,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":596,"name":"Барьер IX","t":1794265282721,"sale":360.8,"ref":439.99,"profit":35.19,"roi":9.75,"bo":8,"so":13,"buy":360.7,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":355,"name":"Нидхёгг","t":1794280846064,"sale":1692,"ref":1998.97,"profit":107.07,"roi":6.33,"bo":11,"so":8,"buy":1666,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
