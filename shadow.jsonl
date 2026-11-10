@@ -1100,3 +1100,4 @@
 {"id":511,"name":"РС Нерпа","t":1794313871008,"sale":350,"ref":400,"profit":10,"roi":2.86,"bo":24,"so":17,"buy":342.05,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":677,"name":"Панцирь","t":1794314443895,"sale":290.86,"ref":336.28,"profit":11.79,"roi":4.05,"bo":1,"so":3,"buy":288.23,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1105,"name":"Белое солнце","t":1794315682319,"sale":128.17,"ref":164.37,"profit":19.76,"roi":15.42,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1462,"name":"Гоплит","t":1794316242461,"sale":1600,"ref":1790,"profit":11,"roi":0.69,"bo":3,"so":18,"buy":1504.01,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
