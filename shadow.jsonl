@@ -1115,3 +1115,6 @@
 {"id":855,"name":"Призрак пламени","t":1794323447707,"sale":61.68,"ref":82.1,"profit":12.21,"roi":19.8,"bo":0,"so":14,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1206,"name":"Стальной мяч","t":1794325842129,"sale":177.77,"ref":211.2,"profit":12.31,"roi":6.92,"bo":7,"so":14,"buy":137.5,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":354,"name":"Фафнир","t":1794325842129,"sale":129.09,"ref":155,"profit":10.41,"roi":8.06,"bo":3,"so":18,"buy":125.12,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":335,"name":"Триггер","t":1794326486808,"sale":186.66,"ref":227.76,"profit":18.32,"roi":9.82,"bo":4,"so":11,"buy":168.96,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":457,"name":"Снабжение","t":1794326486808,"sale":67.87,"ref":89.96,"profit":13.09,"roi":19.29,"bo":3,"so":44,"buy":67,"act":11,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":464,"name":"Коготь","t":1794326486808,"sale":74.95,"ref":94.47,"profit":10.07,"roi":13.44,"bo":9,"so":68,"buy":74.88,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
