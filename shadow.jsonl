@@ -1149,3 +1149,4 @@
 {"id":296,"name":"АП62 Терм","t":1794346842810,"sale":168.2,"ref":208.16,"profit":19.14,"roi":11.38,"bo":7,"so":64,"buy":167.23,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1794348072088,"sale":156.47,"ref":187,"profit":11.83,"roi":7.56,"bo":71,"so":33,"buy":147.76,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":499,"name":"Тыква-фонарь","t":1794348642272,"sale":183.68,"ref":219.84,"profit":14.18,"roi":7.72,"bo":2,"so":6,"buy":168.31,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":387,"name":"Хвостовой плавник","t":1794351039739,"sale":162.07,"ref":198.89,"profit":16.93,"roi":10.45,"bo":3,"so":6,"buy":162.06,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
