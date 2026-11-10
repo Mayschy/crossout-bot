@@ -726,3 +726,4 @@
 {"id":355,"name":"Нидхёгг","t":1794280846064,"sale":1692,"ref":1998.97,"profit":107.07,"roi":6.33,"bo":11,"so":8,"buy":1666,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":497,"name":"Колибри","t":1794282053341,"sale":325.02,"ref":408,"profit":42.18,"roi":12.98,"bo":9,"so":24,"buy":325.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":579,"name":"Голиаф","t":1794285062506,"sale":1601,"ref":1844.94,"profit":59.45,"roi":3.71,"bo":29,"so":26,"buy":1600,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":355,"name":"Нидхёгг","t":1794285639666,"sale":1692,"ref":1998.97,"profit":107.07,"roi":6.33,"bo":11,"so":8,"buy":1666,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
