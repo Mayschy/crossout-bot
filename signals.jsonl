@@ -733,3 +733,5 @@
 {"id":339,"name":"Корво","t":1794304878775,"sale":299.99,"ref":371.65,"profit":34.5,"roi":11.5,"bo":10,"so":7,"buy":297,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":299,"name":"Гибрид","t":1794310267316,"sale":2501,"ref":3028,"profit":224.2,"roi":8.96,"bo":9,"so":13,"buy":2500,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":295,"name":"АП64 Джоуль","t":1794310268753,"sale":970,"ref":1121,"profit":38.9,"roi":4.01,"bo":21,"so":19,"buy":950.8,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":251,"name":"Райдзин","t":1794315683004,"sale":650,"ref":777.75,"profit":49.98,"roi":7.69,"bo":8,"so":21,"buy":638.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":575,"name":"Гусеница танковая","t":1794315684401,"sale":710.03,"ref":837,"profit":43.27,"roi":6.09,"bo":7,"so":12,"buy":710,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
