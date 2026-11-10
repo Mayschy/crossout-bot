@@ -1132,3 +1132,4 @@
 {"id":419,"name":"Пламя","t":1794331866234,"sale":328.01,"ref":384.08,"profit":17.66,"roi":5.38,"bo":18,"so":46,"buy":327.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":320,"name":"ПУ13 Уравнитель","t":1794331866234,"sale":284.08,"ref":331.12,"profit":13.93,"roi":4.9,"bo":24,"so":19,"buy":262.12,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":218,"name":"Выхлопная труба грузовика","t":1794332462955,"sale":174.04,"ref":208.78,"profit":13.86,"roi":7.96,"bo":4,"so":16,"buy":174.03,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1794333679522,"sale":143.37,"ref":184.99,"profit":23.12,"roi":16.13,"bo":0,"so":39,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
