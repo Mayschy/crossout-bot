@@ -1143,3 +1143,4 @@
 {"id":704,"name":"Хранилище чертежей","t":1794337843821,"sale":154.61,"ref":187.99,"profit":14.58,"roi":9.43,"bo":70,"so":40,"buy":146.05,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1794338441947,"sale":83.44,"ref":105.98,"profit":11.94,"roi":14.31,"bo":4,"so":9,"buy":82.5,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":296,"name":"АП62 Терм","t":1794338441947,"sale":177,"ref":208.21,"profit":10.39,"roi":5.87,"bo":20,"so":65,"buy":174.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":565,"name":"Хамелеон","t":1794340875999,"sale":71.01,"ref":93.63,"profit":13.26,"roi":18.67,"bo":0,"so":37,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
