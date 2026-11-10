@@ -748,3 +748,5 @@
 {"id":630,"name":"Бигфут","t":1794331247867,"sale":144.54,"ref":188.46,"profit":25.07,"roi":17.35,"bo":0,"so":36,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":335,"name":"Триггер","t":1794333044341,"sale":168.96,"ref":217.94,"profit":27.19,"roi":16.09,"bo":2,"so":12,"buy":168.1,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":22,"name":"Каталина","t":1794333680177,"sale":1205,"ref":1399.98,"profit":54.98,"roi":4.56,"bo":5,"so":23,"buy":1204,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":297,"name":"Ассемблер","t":1794337279076,"sale":1444.67,"ref":1669.98,"profit":58.31,"roi":4.04,"bo":1,"so":6,"buy":1354.23,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":229,"name":"Надувной Голиаф правый","t":1794337280901,"sale":225.77,"ref":280.96,"profit":27.09,"roi":12,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}

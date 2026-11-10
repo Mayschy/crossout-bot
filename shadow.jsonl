@@ -1135,3 +1135,8 @@
 {"id":630,"name":"Бигфут","t":1794333679522,"sale":143.37,"ref":184.99,"profit":23.12,"roi":16.13,"bo":0,"so":39,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1794334246108,"sale":83.44,"ref":104.6,"profit":10.7,"roi":12.82,"bo":4,"so":9,"buy":82.5,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1794335465850,"sale":162.87,"ref":197.29,"profit":14.69,"roi":9.02,"bo":75,"so":20,"buy":146.05,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1794337278455,"sale":179.91,"ref":222.97,"profit":20.76,"roi":11.54,"bo":24,"so":29,"buy":179.9,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":30,"name":"Кронос","t":1794337278455,"sale":2100,"ref":2350,"profit":15,"roi":0.71,"bo":17,"so":7,"buy":1925,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":419,"name":"Пламя","t":1794337278455,"sale":330,"ref":381.96,"profit":13.76,"roi":4.17,"bo":22,"so":54,"buy":327.05,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":405,"name":"Прощание","t":1794337278455,"sale":69.98,"ref":90.15,"profit":11.16,"roi":15.94,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":689,"name":"Контейнер разведчика","t":1794337278455,"sale":341.01,"ref":391,"profit":10.89,"roi":3.19,"bo":40,"so":222,"buy":341,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
