@@ -1097,3 +1097,4 @@
 {"id":511,"name":"РС Нерпа","t":1794310265597,"sale":342.07,"ref":400,"profit":17.93,"roi":5.24,"bo":26,"so":14,"buy":342.05,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":290,"name":"Тошнитель","t":1794311443546,"sale":1700,"ref":1904.98,"profit":14.48,"roi":0.85,"bo":20,"so":7,"buy":1650,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1794312081004,"sale":159.99,"ref":194.93,"profit":15.45,"roi":9.65,"bo":89,"so":20,"buy":144.58,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":511,"name":"РС Нерпа","t":1794313871008,"sale":350,"ref":400,"profit":10,"roi":2.86,"bo":24,"so":17,"buy":342.05,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
