@@ -1088,3 +1088,4 @@
 {"id":462,"name":"Шабаш","t":1794286879652,"sale":266.56,"ref":319.92,"profit":21.37,"roi":8.02,"bo":27,"so":22,"buy":266.55,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":309,"name":"Синус-0","t":1794290483526,"sale":83.32,"ref":106.97,"profit":12.95,"roi":15.55,"bo":7,"so":11,"buy":83.31,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":184,"name":"Исполин","t":1794297678127,"sale":154.44,"ref":188.87,"profit":15.54,"roi":10.06,"bo":5,"so":21,"buy":152,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":354,"name":"Фафнир","t":1794298246625,"sale":125.8,"ref":154.78,"profit":13.5,"roi":10.73,"bo":3,"so":22,"buy":125.12,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
