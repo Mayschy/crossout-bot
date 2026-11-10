@@ -1147,3 +1147,4 @@
 {"id":264,"name":"АП72 Вихрь","t":1794345637312,"sale":260.01,"ref":307.98,"profit":17.17,"roi":6.6,"bo":30,"so":37,"buy":260,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":646,"name":"Атом","t":1794346262963,"sale":178.39,"ref":222.88,"profit":22.2,"roi":12.45,"bo":15,"so":26,"buy":178.38,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":296,"name":"АП62 Терм","t":1794346842810,"sale":168.2,"ref":208.16,"profit":19.14,"roi":11.38,"bo":7,"so":64,"buy":167.23,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":704,"name":"Хранилище чертежей","t":1794348072088,"sale":156.47,"ref":187,"profit":11.83,"roi":7.56,"bo":71,"so":33,"buy":147.76,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
