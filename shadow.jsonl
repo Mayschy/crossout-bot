@@ -1084,3 +1084,4 @@
 {"id":634,"name":"Колесо багги","t":1794278441637,"sale":47.31,"ref":63.9,"profit":10.2,"roi":21.56,"bo":23,"so":15,"buy":46,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":855,"name":"Призрак пламени","t":1794280239513,"sale":61.79,"ref":82.1,"profit":12.1,"roi":19.58,"bo":0,"so":14,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":309,"name":"Синус-0","t":1794282052735,"sale":85,"ref":110,"profit":14,"roi":16.47,"bo":5,"so":8,"buy":82.81,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":354,"name":"Фафнир","t":1794283841341,"sale":125.8,"ref":154.8,"profit":13.52,"roi":10.75,"bo":3,"so":22,"buy":125.12,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
