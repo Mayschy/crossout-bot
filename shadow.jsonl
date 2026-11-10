@@ -1108,3 +1108,5 @@
 {"id":375,"name":"Аврора","t":1794320444756,"sale":163.2,"ref":199.98,"profit":16.78,"roi":10.28,"bo":40,"so":10,"buy":158.35,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1794321641768,"sale":171.36,"ref":211.94,"profit":19.39,"roi":11.31,"bo":42,"so":17,"buy":170,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1208,"name":"Автокатапульта","t":1794321641768,"sale":34.5,"ref":49.93,"profit":10.44,"roi":30.25,"bo":2,"so":19,"buy":34.49,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":66,"name":"Саранча","t":1794322885247,"sale":173.1,"ref":219.96,"profit":24.86,"roi":14.36,"bo":6,"so":40,"buy":173,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":198,"name":"Симбионт (правый)","t":1794322885247,"sale":187.61,"ref":223.99,"profit":13.98,"roi":7.45,"bo":0,"so":4,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

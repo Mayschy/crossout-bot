@@ -739,3 +739,4 @@
 {"id":60,"name":"РУН-1А","t":1794317465627,"sale":713.5,"ref":829,"profit":32.6,"roi":4.57,"bo":5,"so":22,"buy":705.03,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1062,"name":"Материал: Золото","t":1794318642732,"sale":800,"ref":1049.85,"profit":144.86,"roi":18.11,"bo":1,"so":8,"buy":761.21,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":380,"name":"Искра III","t":1794321642444,"sale":1700,"ref":1917.9,"profit":26.11,"roi":1.54,"bo":17,"so":15,"buy":1631,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":421,"name":"Тромбон","t":1794322886956,"sale":600,"ref":704,"profit":33.6,"roi":5.6,"bo":20,"so":38,"buy":590.1,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
