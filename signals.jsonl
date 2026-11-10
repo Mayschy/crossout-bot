@@ -751,3 +751,5 @@
 {"id":297,"name":"Ассемблер","t":1794337279076,"sale":1444.67,"ref":1669.98,"profit":58.31,"roi":4.04,"bo":1,"so":6,"buy":1354.23,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":229,"name":"Надувной Голиаф правый","t":1794337280901,"sale":225.77,"ref":280.96,"profit":27.09,"roi":12,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":30,"name":"Кронос","t":1794341444397,"sale":1989,"ref":2350,"profit":126,"roi":6.33,"bo":17,"so":7,"buy":1925.9,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":294,"name":"Морта","t":1794342043891,"sale":2000,"ref":2309,"profit":78.1,"roi":3.9,"bo":5,"so":7,"buy":1962,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":530,"name":"Инкубатор","t":1794342045698,"sale":170.01,"ref":218,"profit":26.19,"roi":15.4,"bo":1,"so":8,"buy":166,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
