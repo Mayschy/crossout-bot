@@ -1110,3 +1110,6 @@
 {"id":1208,"name":"Автокатапульта","t":1794321641768,"sale":34.5,"ref":49.93,"profit":10.44,"roi":30.25,"bo":2,"so":19,"buy":34.49,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":66,"name":"Саранча","t":1794322885247,"sale":173.1,"ref":219.96,"profit":24.86,"roi":14.36,"bo":6,"so":40,"buy":173,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":198,"name":"Симбионт (правый)","t":1794322885247,"sale":187.61,"ref":223.99,"profit":13.98,"roi":7.45,"bo":0,"so":4,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1794323447707,"sale":160.6,"ref":199.97,"profit":19.37,"roi":12.06,"bo":0,"so":29,"buy":0,"act":8,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":704,"name":"Хранилище чертежей","t":1794323447707,"sale":150.01,"ref":184.95,"profit":16.44,"roi":10.96,"bo":84,"so":21,"buy":146.2,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":855,"name":"Призрак пламени","t":1794323447707,"sale":61.68,"ref":82.1,"profit":12.21,"roi":19.8,"bo":0,"so":14,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
