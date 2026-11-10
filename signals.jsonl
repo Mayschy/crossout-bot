@@ -728,3 +728,4 @@
 {"id":579,"name":"Голиаф","t":1794285062506,"sale":1601,"ref":1844.94,"profit":59.45,"roi":3.71,"bo":29,"so":26,"buy":1600,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":355,"name":"Нидхёгг","t":1794285639666,"sale":1692,"ref":1998.97,"profit":107.07,"roi":6.33,"bo":11,"so":8,"buy":1666,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":419,"name":"Пламя","t":1794287441817,"sale":325.37,"ref":396.69,"profit":31.65,"roi":9.73,"bo":28,"so":29,"buy":322.2,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":321,"name":"Мельник","t":1794292843221,"sale":420.01,"ref":499,"profit":29.09,"roi":6.93,"bo":11,"so":18,"buy":420,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
