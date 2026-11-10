@@ -731,3 +731,5 @@
 {"id":321,"name":"Мельник","t":1794292843221,"sale":420.01,"ref":499,"profit":29.09,"roi":6.93,"bo":11,"so":18,"buy":420,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":631,"name":"Бигфут (пов.)","t":1794299467315,"sale":184.41,"ref":233.34,"profit":25.6,"roi":13.88,"bo":0,"so":61,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":339,"name":"Корво","t":1794304878775,"sale":299.99,"ref":371.65,"profit":34.5,"roi":11.5,"bo":10,"so":7,"buy":297,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":299,"name":"Гибрид","t":1794310267316,"sale":2501,"ref":3028,"profit":224.2,"roi":8.96,"bo":9,"so":13,"buy":2500,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":295,"name":"АП64 Джоуль","t":1794310268753,"sale":970,"ref":1121,"profit":38.9,"roi":4.01,"bo":21,"so":19,"buy":950.8,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
