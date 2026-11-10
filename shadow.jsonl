@@ -1121,3 +1121,7 @@
 {"id":630,"name":"Бигфут","t":1794327641878,"sale":156.74,"ref":199.97,"profit":23.23,"roi":14.82,"bo":0,"so":33,"buy":0,"act":8,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":518,"name":"Оберег","t":1794327641878,"sale":560.01,"ref":638,"profit":14.19,"roi":2.53,"bo":9,"so":24,"buy":560,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":506,"name":"Максвелл","t":1794327641878,"sale":75,"ref":94.99,"profit":10.49,"roi":13.99,"bo":7,"so":26,"buy":72.85,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":462,"name":"Шабаш","t":1794328265158,"sale":268.22,"ref":319.51,"profit":19.34,"roi":7.21,"bo":25,"so":31,"buy":268.2,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":565,"name":"Хамелеон","t":1794328265158,"sale":77,"ref":99.89,"profit":12.9,"roi":16.75,"bo":3,"so":25,"buy":76.32,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":180,"name":"Беркут","t":1794328265158,"sale":1770,"ref":1980,"profit":12,"roi":0.68,"bo":4,"so":13,"buy":1645.1,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":619,"name":"Омни","t":1794328265158,"sale":190.05,"ref":222.58,"profit":10.27,"roi":5.4,"bo":29,"so":18,"buy":188,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
