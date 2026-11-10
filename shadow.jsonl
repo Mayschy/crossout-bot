@@ -1145,3 +1145,4 @@
 {"id":296,"name":"АП62 Терм","t":1794338441947,"sale":177,"ref":208.21,"profit":10.39,"roi":5.87,"bo":20,"so":65,"buy":174.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":565,"name":"Хамелеон","t":1794340875999,"sale":71.01,"ref":93.63,"profit":13.26,"roi":18.67,"bo":0,"so":37,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":264,"name":"АП72 Вихрь","t":1794345637312,"sale":260.01,"ref":307.98,"profit":17.17,"roi":6.6,"bo":30,"so":37,"buy":260,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1794346262963,"sale":178.39,"ref":222.88,"profit":22.2,"roi":12.45,"bo":15,"so":26,"buy":178.38,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
