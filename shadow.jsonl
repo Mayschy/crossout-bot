@@ -1105,3 +1105,4 @@
 {"id":615,"name":"Прихвостень","t":1794316846188,"sale":100,"ref":122.66,"profit":10.39,"roi":10.39,"bo":8,"so":13,"buy":96.12,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":231,"name":"Кепарик","t":1794318044859,"sale":171.01,"ref":212.26,"profit":20.02,"roi":11.71,"bo":2,"so":2,"buy":171,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":293,"name":"Шкуродер","t":1794318642166,"sale":225,"ref":265.28,"profit":13.75,"roi":6.11,"bo":6,"so":18,"buy":217.18,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":375,"name":"Аврора","t":1794320444756,"sale":163.2,"ref":199.98,"profit":16.78,"roi":10.28,"bo":40,"so":10,"buy":158.35,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
