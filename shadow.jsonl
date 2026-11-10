@@ -1134,3 +1134,4 @@
 {"id":218,"name":"Выхлопная труба грузовика","t":1794332462955,"sale":174.04,"ref":208.78,"profit":13.86,"roi":7.96,"bo":4,"so":16,"buy":174.03,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1794333679522,"sale":143.37,"ref":184.99,"profit":23.12,"roi":16.13,"bo":0,"so":39,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1794334246108,"sale":83.44,"ref":104.6,"profit":10.7,"roi":12.82,"bo":4,"so":9,"buy":82.5,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":704,"name":"Хранилище чертежей","t":1794335465850,"sale":162.87,"ref":197.29,"profit":14.69,"roi":9.02,"bo":75,"so":20,"buy":146.05,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
