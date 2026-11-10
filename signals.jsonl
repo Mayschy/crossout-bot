@@ -740,3 +740,4 @@
 {"id":1062,"name":"Материал: Золото","t":1794318642732,"sale":800,"ref":1049.85,"profit":144.86,"roi":18.11,"bo":1,"so":8,"buy":761.21,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":380,"name":"Искра III","t":1794321642444,"sale":1700,"ref":1917.9,"profit":26.11,"roi":1.54,"bo":17,"so":15,"buy":1631,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":421,"name":"Тромбон","t":1794322886956,"sale":600,"ref":704,"profit":33.6,"roi":5.6,"bo":20,"so":38,"buy":590.1,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":610,"name":"Увабаки (пов.)","t":1794324042398,"sale":186.53,"ref":252.94,"profit":41.12,"roi":22.04,"bo":3,"so":3,"buy":180.91,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
