@@ -736,3 +736,4 @@
 {"id":251,"name":"Райдзин","t":1794315683004,"sale":650,"ref":777.75,"profit":49.98,"roi":7.69,"bo":8,"so":21,"buy":638.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":575,"name":"Гусеница танковая","t":1794315684401,"sale":710.03,"ref":837,"profit":43.27,"roi":6.09,"bo":7,"so":12,"buy":710,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":421,"name":"Тромбон","t":1794316243096,"sale":600,"ref":704.99,"profit":34.49,"roi":5.75,"bo":18,"so":33,"buy":589.02,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":60,"name":"РУН-1А","t":1794317465627,"sale":713.5,"ref":829,"profit":32.6,"roi":4.57,"bo":5,"so":22,"buy":705.03,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
