@@ -1204,3 +1204,4 @@
 {"id":3769,"name":"Смог-15","t":1794412240393,"sale":174.08,"ref":210.61,"profit":15.47,"roi":8.89,"bo":11,"so":9,"buy":173.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":9,"name":"Джаннаби","t":1794412240393,"sale":300,"ref":349.8,"profit":14.82,"roi":4.94,"bo":13,"so":24,"buy":276.22,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":676,"name":"Зубодробитель","t":1794412240393,"sale":75.81,"ref":100.5,"profit":14.64,"roi":19.31,"bo":5,"so":9,"buy":75.74,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":363,"name":"П-37 Шило","t":1794412873822,"sale":120,"ref":149.99,"profit":14.99,"roi":12.49,"bo":8,"so":32,"buy":118.25,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
