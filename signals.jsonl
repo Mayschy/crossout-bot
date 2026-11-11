@@ -787,3 +787,4 @@
 {"id":327,"name":"Ёкай","t":1794408039762,"sale":690,"ref":848.89,"profit":74,"roi":10.72,"bo":2,"so":14,"buy":660,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":257,"name":"Слон","t":1794408041101,"sale":1999.99,"ref":2299.99,"profit":70,"roi":3.5,"bo":12,"so":24,"buy":1916.11,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":420,"name":"Гнездо","t":1794408042553,"sale":306.1,"ref":368.97,"profit":25.97,"roi":8.49,"bo":8,"so":53,"buy":306.09,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":17,"name":"Мастер","t":1794408642133,"sale":2909.2,"ref":3430,"profit":177.8,"roi":6.11,"bo":4,"so":15,"buy":2902.2,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
