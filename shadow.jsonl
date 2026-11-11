@@ -1164,3 +1164,4 @@
 {"id":622,"name":"Виджет","t":1794363036632,"sale":221,"ref":268,"profit":20.2,"roi":9.14,"bo":0,"so":5,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":437,"name":"Тэнгу","t":1794363036632,"sale":810,"ref":919.95,"profit":17.96,"roi":2.22,"bo":54,"so":60,"buy":800,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":623,"name":"Виджет (пов.)","t":1794363642331,"sale":425.1,"ref":494.99,"profit":20.39,"roi":4.8,"bo":24,"so":41,"buy":425.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":480,"name":"Тати","t":1794366075552,"sale":342.66,"ref":400,"profit":17.34,"roi":5.06,"bo":3,"so":32,"buy":328.08,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
