@@ -1201,3 +1201,6 @@
 {"id":65,"name":"Сверчок","t":1794410440344,"sale":350,"ref":410,"profit":19,"roi":5.43,"bo":6,"so":31,"buy":333.51,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":464,"name":"Коготь","t":1794410440344,"sale":90,"ref":112.44,"profit":11.2,"roi":12.44,"bo":32,"so":8,"buy":84.51,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":35,"name":"Призрак","t":1794411641421,"sale":625,"ref":718.95,"profit":22.06,"roi":3.53,"bo":4,"so":8,"buy":585.29,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3769,"name":"Смог-15","t":1794412240393,"sale":174.08,"ref":210.61,"profit":15.47,"roi":8.89,"bo":11,"so":9,"buy":173.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":9,"name":"Джаннаби","t":1794412240393,"sale":300,"ref":349.8,"profit":14.82,"roi":4.94,"bo":13,"so":24,"buy":276.22,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":676,"name":"Зубодробитель","t":1794412240393,"sale":75.81,"ref":100.5,"profit":14.64,"roi":19.31,"bo":5,"so":9,"buy":75.74,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
