@@ -775,3 +775,4 @@
 {"id":453,"name":"Мириада","t":1794393059419,"sale":460.02,"ref":584.48,"profit":66.01,"roi":14.35,"bo":16,"so":8,"buy":460.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":329,"name":"Мандрагора","t":1794395441772,"sale":1950,"ref":2233.99,"profit":60.59,"roi":3.11,"bo":9,"so":3,"buy":1800,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":625,"name":"Затворник (пов.)","t":1794395443339,"sale":152.59,"ref":198.53,"profit":26.09,"roi":17.1,"bo":4,"so":40,"buy":152.58,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":265,"name":"Смерч","t":1794396037769,"sale":1700,"ref":1999.98,"profit":99.98,"roi":5.88,"bo":11,"so":17,"buy":1670.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
