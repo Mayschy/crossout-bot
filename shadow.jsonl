@@ -1195,3 +1195,4 @@
 {"id":600,"name":"Ступор","t":1794406840928,"sale":160.1,"ref":194.77,"profit":15.19,"roi":9.49,"bo":2,"so":8,"buy":160,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1794406840928,"sale":146,"ref":176,"profit":12.4,"roi":8.49,"bo":17,"so":8,"buy":140.03,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":379,"name":"Гравастар","t":1794406840928,"sale":325,"ref":373.99,"profit":11.59,"roi":3.57,"bo":29,"so":27,"buy":323.04,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":269,"name":"Медиана","t":1794407464503,"sale":100.54,"ref":128.75,"profit":15.33,"roi":15.25,"bo":0,"so":28,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
