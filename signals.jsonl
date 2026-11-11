@@ -807,3 +807,4 @@
 {"id":257,"name":"Слон","t":1794424837809,"sale":1889,"ref":2219,"profit":108.1,"roi":5.72,"bo":3,"so":26,"buy":1868.4,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":304,"name":"П-32 Поборник","t":1794424839286,"sale":1370.88,"ref":1578.08,"profit":49.39,"roi":3.6,"bo":4,"so":3,"buy":1300,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":258,"name":"Слон (тюн.) (заготовка)","t":1794425461739,"sale":3000,"ref":3610.09,"profit":249.08,"roi":8.3,"bo":11,"so":10,"buy":2761.5,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":642,"name":"Низкий просвет (пов.)","t":1794427274883,"sale":780.75,"ref":1100,"profit":209.25,"roi":26.8,"bo":14,"so":27,"buy":780.74,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
