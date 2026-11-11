@@ -772,3 +772,4 @@
 {"id":365,"name":"П-39 Черт","t":1794387674346,"sale":1900,"ref":2199.99,"profit":79.99,"roi":4.21,"bo":21,"so":17,"buy":1860,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":268,"name":"Жнец","t":1794390042339,"sale":1900,"ref":2187.74,"profit":68.97,"roi":3.63,"bo":15,"so":24,"buy":1851,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":428,"name":"Перехватчик","t":1794391271715,"sale":286.64,"ref":357.09,"profit":34.74,"roi":12.12,"bo":2,"so":3,"buy":271,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":453,"name":"Мириада","t":1794393059419,"sale":460.02,"ref":584.48,"profit":66.01,"roi":14.35,"bo":16,"so":8,"buy":460.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
