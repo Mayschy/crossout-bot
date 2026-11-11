@@ -767,3 +767,5 @@
 {"id":3777,"name":"Морриган","t":1794376246368,"sale":4264,"ref":4997,"profit":233.3,"roi":5.47,"bo":0,"so":15,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":329,"name":"Мандрагора","t":1794377444373,"sale":1753.01,"ref":1997,"profit":44.29,"roi":2.53,"bo":8,"so":7,"buy":1753,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":368,"name":"Астрей","t":1794378037692,"sale":380.04,"ref":456,"profit":30.36,"roi":7.99,"bo":13,"so":23,"buy":380.03,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":438,"name":"РН-М Дино","t":1794383441719,"sale":1100,"ref":1309,"profit":78.1,"roi":7.1,"bo":8,"so":8,"buy":1050.5,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1210,"name":"Огненное кольцо","t":1794383443176,"sale":31.89,"ref":65.78,"profit":27.31,"roi":85.64,"bo":5,"so":9,"buy":31.88,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
