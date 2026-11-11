@@ -1167,3 +1167,4 @@
 {"id":480,"name":"Тати","t":1794366075552,"sale":342.66,"ref":400,"profit":17.34,"roi":5.06,"bo":3,"so":32,"buy":328.08,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":379,"name":"Гравастар","t":1794369670120,"sale":323.03,"ref":375.99,"profit":15.36,"roi":4.76,"bo":29,"so":20,"buy":323,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":335,"name":"Триггер","t":1794369670120,"sale":180,"ref":214.73,"profit":13.26,"roi":7.37,"bo":2,"so":12,"buy":168.1,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":635,"name":"Колесо багги (пов.)","t":1794373837790,"sale":176.15,"ref":213.96,"profit":16.41,"roi":9.32,"bo":30,"so":40,"buy":176.11,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
