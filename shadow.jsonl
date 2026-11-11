@@ -1225,3 +1225,4 @@
 {"id":514,"name":"Ядро","t":1794425461107,"sale":177.37,"ref":213.87,"profit":15.11,"roi":8.52,"bo":2,"so":3,"buy":166.27,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":576,"name":"Гусеница малая","t":1794426041901,"sale":172.05,"ref":211.66,"profit":18.44,"roi":10.72,"bo":22,"so":37,"buy":172.04,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":284,"name":"Панацея","t":1794426041901,"sale":325.01,"ref":376.76,"profit":14.07,"roi":4.33,"bo":11,"so":9,"buy":325,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":66,"name":"Саранча","t":1794426640757,"sale":166.36,"ref":207.96,"profit":20.8,"roi":12.51,"bo":49,"so":35,"buy":166.34,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
