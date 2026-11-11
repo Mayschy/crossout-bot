@@ -790,3 +790,6 @@
 {"id":17,"name":"Мастер","t":1794408642133,"sale":2909.2,"ref":3430,"profit":177.8,"roi":6.11,"bo":4,"so":15,"buy":2902.2,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":259,"name":"Компилятор","t":1794409843177,"sale":2950.1,"ref":3375.99,"profit":88.29,"roi":2.99,"bo":7,"so":7,"buy":2850.1,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":453,"name":"Мириада","t":1794409844561,"sale":441,"ref":540,"profit":45,"roi":10.2,"bo":6,"so":19,"buy":440.4,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":482,"name":"Мигалка","t":1794411642120,"sale":226.32,"ref":299.98,"profit":43.66,"roi":19.29,"bo":1,"so":7,"buy":226.2,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":579,"name":"Голиаф","t":1794411643499,"sale":1615.22,"ref":1839.89,"profit":40.68,"roi":2.52,"bo":26,"so":36,"buy":1607,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":445,"name":"Геррида I","t":1794411644886,"sale":707.99,"ref":828,"profit":37.21,"roi":5.26,"bo":2,"so":93,"buy":690.19,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
