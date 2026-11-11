@@ -804,3 +804,5 @@
 {"id":438,"name":"РН-М Дино","t":1794423042404,"sale":1100,"ref":1309.99,"profit":78.99,"roi":7.18,"bo":6,"so":10,"buy":1035.5,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":482,"name":"Мигалка","t":1794423043801,"sale":236.2,"ref":299.99,"profit":33.79,"roi":14.31,"bo":2,"so":6,"buy":226.2,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":265,"name":"Смерч","t":1794423674082,"sale":1750,"ref":1979,"profit":31.1,"roi":1.78,"bo":15,"so":26,"buy":1706.14,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":257,"name":"Слон","t":1794424837809,"sale":1889,"ref":2219,"profit":108.1,"roi":5.72,"bo":3,"so":26,"buy":1868.4,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":304,"name":"П-32 Поборник","t":1794424839286,"sale":1370.88,"ref":1578.08,"profit":49.39,"roi":3.6,"bo":4,"so":3,"buy":1300,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
