@@ -1233,3 +1233,4 @@
 {"id":289,"name":"Дробитель","t":1794435039837,"sale":352.1,"ref":403.9,"profit":11.41,"roi":3.24,"bo":17,"so":29,"buy":333.03,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":529,"name":"Циркулярка","t":1794435039837,"sale":76.01,"ref":96.79,"profit":11.1,"roi":14.6,"bo":9,"so":12,"buy":76,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":485,"name":"Бутстрэп","t":1794436260042,"sale":625.01,"ref":722.23,"profit":25,"roi":4,"bo":7,"so":21,"buy":625,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1207,"name":"Измельчитель","t":1794441036221,"sale":18.11,"ref":41.01,"profit":18.8,"roi":103.8,"bo":5,"so":2,"buy":18.05,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
