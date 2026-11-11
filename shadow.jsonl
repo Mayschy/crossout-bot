@@ -1185,3 +1185,5 @@
 {"id":444,"name":"МН-Л 200","t":1794399038168,"sale":379.98,"ref":438.78,"profit":14.92,"roi":3.93,"bo":16,"so":69,"buy":376.99,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":529,"name":"Циркулярка","t":1794399038168,"sale":86.33,"ref":110,"profit":12.67,"roi":14.68,"bo":0,"so":16,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1794399644236,"sale":141.61,"ref":169.48,"profit":10.92,"roi":7.71,"bo":2,"so":20,"buy":130.2,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":631,"name":"Бигфут (пов.)","t":1794403239125,"sale":180,"ref":213,"profit":11.7,"roi":6.5,"bo":18,"so":56,"buy":179.04,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":424,"name":"Икар VII","t":1794403239125,"sale":376,"ref":428.99,"profit":10.09,"roi":2.68,"bo":47,"so":44,"buy":374.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
