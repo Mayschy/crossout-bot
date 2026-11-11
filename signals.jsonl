@@ -780,3 +780,4 @@
 {"id":535,"name":"Эгида-Прайм","t":1794402643315,"sale":1934.1,"ref":2179.99,"profit":27.89,"roi":1.44,"bo":3,"so":23,"buy":1901.06,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1467,"name":"АП64 Джоуль (тюн.) (заготовка)","t":1794403859562,"sale":196.21,"ref":249.98,"profit":28.77,"roi":14.66,"bo":6,"so":12,"buy":196,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":445,"name":"Геррида I","t":1794405041816,"sale":760.47,"ref":898,"profit":47.73,"roi":6.28,"bo":5,"so":79,"buy":740,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":485,"name":"Бутстрэп","t":1794406170548,"sale":604.89,"ref":725,"profit":47.61,"roi":7.87,"bo":4,"so":17,"buy":592.25,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
