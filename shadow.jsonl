@@ -1156,3 +1156,6 @@
 {"id":347,"name":"Гром","t":1794355277362,"sale":141.22,"ref":169.58,"profit":11.4,"roi":8.07,"bo":3,"so":22,"buy":134.81,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1794356438452,"sale":155.89,"ref":186.99,"profit":12.4,"roi":7.95,"bo":70,"so":32,"buy":147.76,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":354,"name":"Фафнир","t":1794357640831,"sale":125.12,"ref":152,"profit":11.68,"roi":9.34,"bo":14,"so":19,"buy":123.7,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":29,"name":"Торреро","t":1794358236578,"sale":1416.59,"ref":1599.59,"profit":23.04,"roi":1.63,"bo":6,"so":21,"buy":1401,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":184,"name":"Исполин","t":1794358236578,"sale":150.2,"ref":185,"profit":16.3,"roi":10.85,"bo":5,"so":28,"buy":150.11,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":148,"name":"Фукигаеси","t":1794358236578,"sale":85.14,"ref":107.65,"profit":11.75,"roi":13.79,"bo":1,"so":2,"buy":85.09,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
