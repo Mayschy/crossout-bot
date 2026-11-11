@@ -757,3 +757,5 @@
 {"id":258,"name":"Слон (тюн.) (заготовка)","t":1794346263589,"sale":3000,"ref":3400,"profit":60,"roi":2,"bo":6,"so":3,"buy":2752.52,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":482,"name":"Мигалка","t":1794346843541,"sale":244.89,"ref":300,"profit":25.11,"roi":10.25,"bo":0,"so":6,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":361,"name":"Шредер","t":1794352839877,"sale":2690.34,"ref":3099.95,"profit":99.61,"roi":3.7,"bo":2,"so":21,"buy":2609.79,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3779,"name":"Талисман","t":1794355284208,"sale":2439.42,"ref":2800,"profit":80.58,"roi":3.3,"bo":0,"so":18,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":494,"name":"НВ-2 Клён","t":1794355286743,"sale":500,"ref":590,"profit":31,"roi":6.2,"bo":9,"so":23,"buy":468.1,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}

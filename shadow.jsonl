@@ -1152,3 +1152,5 @@
 {"id":387,"name":"Хвостовой плавник","t":1794351039739,"sale":162.07,"ref":198.89,"profit":16.93,"roi":10.45,"bo":3,"so":6,"buy":162.06,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":147,"name":"Длинная фиолетовая лампа","t":1794351674782,"sale":67.98,"ref":101.02,"profit":22.94,"roi":33.74,"bo":0,"so":4,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":537,"name":"Скидутка","t":1794354041913,"sale":150.07,"ref":180.8,"profit":12.65,"roi":8.43,"bo":17,"so":46,"buy":150.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":498,"name":"Импеллер","t":1794355277362,"sale":1000,"ref":1129.95,"profit":16.96,"roi":1.7,"bo":6,"so":14,"buy":950,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":347,"name":"Гром","t":1794355277362,"sale":141.22,"ref":169.58,"profit":11.4,"roi":8.07,"bo":3,"so":22,"buy":134.81,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
