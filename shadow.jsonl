@@ -1155,3 +1155,4 @@
 {"id":498,"name":"Импеллер","t":1794355277362,"sale":1000,"ref":1129.95,"profit":16.96,"roi":1.7,"bo":6,"so":14,"buy":950,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1794355277362,"sale":141.22,"ref":169.58,"profit":11.4,"roi":8.07,"bo":3,"so":22,"buy":134.81,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1794356438452,"sale":155.89,"ref":186.99,"profit":12.4,"roi":7.95,"bo":70,"so":32,"buy":147.76,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":354,"name":"Фафнир","t":1794357640831,"sale":125.12,"ref":152,"profit":11.68,"roi":9.34,"bo":14,"so":19,"buy":123.7,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
