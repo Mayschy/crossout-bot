@@ -1179,3 +1179,4 @@
 {"id":324,"name":"Буран","t":1794388240579,"sale":900,"ref":1020.93,"profit":18.84,"roi":2.09,"bo":16,"so":18,"buy":850,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":420,"name":"Гнездо","t":1794390041642,"sale":325,"ref":375.91,"profit":13.32,"roi":4.1,"bo":11,"so":48,"buy":306.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":594,"name":"ТЗ Питон","t":1794391270369,"sale":73.6,"ref":95.07,"profit":11.96,"roi":16.25,"bo":9,"so":16,"buy":71.17,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":565,"name":"Хамелеон","t":1794392440136,"sale":71,"ref":92,"profit":11.8,"roi":16.62,"bo":6,"so":31,"buy":70.14,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
