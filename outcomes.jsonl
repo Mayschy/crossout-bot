@@ -10150,3 +10150,11 @@
 {"id":1156,"t":1794431439370,"h":60,"at":1794435000000,"s":13.37,"b":0,"so":19,"bo":0,"ask":-1.34,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":13.37,"late":false}
 {"id":1233,"t":1794431440023,"h":60,"at":1794435000000,"s":351,"b":0,"so":4,"bo":0,"ask":-35.1,"instant":null,"taken":false,"shadow":false,"roi":-10,"capital":351,"late":false}
 {"id":332,"t":1794434473199,"h":10,"at":1794435000000,"s":1800.01,"b":1750.02,"so":14,"bo":8,"ask":-180,"instant":-224.99,"taken":false,"shadow":false,"roi":-10,"capital":1800.01,"late":false}
+{"id":332,"t":1794434473199,"h":20,"at":1794435600000,"s":1800.01,"b":1750.02,"so":14,"bo":8,"ask":-180,"instant":-224.99,"taken":false,"shadow":false,"roi":-10,"capital":1800.01,"late":false}
+{"id":354,"t":1794435041531,"h":10,"at":1794435600000,"s":163.92,"b":132.02,"so":7,"bo":40,"ask":15.5,"instant":-13.21,"taken":true,"shadow":false,"roi":11.74,"capital":132.03,"late":false}
+{"id":354,"t":1794435041531,"h":20,"at":1794436200000,"s":171.13,"b":132.02,"so":5,"bo":40,"ask":21.99,"instant":-13.21,"taken":true,"shadow":false,"roi":16.65,"capital":132.03,"late":false}
+{"id":284,"t":1794435637261,"h":10,"at":1794436200000,"s":356.13,"b":310,"so":15,"bo":2,"ask":10.51,"instant":-31.01,"taken":true,"shadow":false,"roi":3.39,"capital":310.01,"late":false}
+{"id":289,"t":1794435039837,"h":10,"at":1794435600000,"s":403.8,"b":333.03,"so":27,"bo":17,"ask":11.32,"instant":-52.37,"taken":true,"shadow":true,"roi":3.21,"capital":352.1,"late":false}
+{"id":289,"t":1794435039837,"h":20,"at":1794436200000,"s":403.8,"b":333.03,"so":27,"bo":17,"ask":11.32,"instant":-52.37,"taken":true,"shadow":true,"roi":3.21,"capital":352.1,"late":false}
+{"id":529,"t":1794435039837,"h":10,"at":1794435600000,"s":96.79,"b":95.18,"so":11,"bo":10,"ask":11.1,"instant":9.65,"taken":true,"shadow":true,"roi":14.6,"capital":76.01,"late":false}
+{"id":529,"t":1794435039837,"h":20,"at":1794436200000,"s":96.79,"b":75.05,"so":11,"bo":10,"ask":11.1,"instant":-8.47,"taken":true,"shadow":true,"roi":14.6,"capital":76.01,"late":false}
