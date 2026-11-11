@@ -1184,3 +1184,4 @@
 {"id":269,"name":"Медиана","t":1794397238307,"sale":102.59,"ref":130,"profit":14.41,"roi":14.05,"bo":1,"so":29,"buy":95.32,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":444,"name":"МН-Л 200","t":1794399038168,"sale":379.98,"ref":438.78,"profit":14.92,"roi":3.93,"bo":16,"so":69,"buy":376.99,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":529,"name":"Циркулярка","t":1794399038168,"sale":86.33,"ref":110,"profit":12.67,"roi":14.68,"bo":0,"so":16,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":347,"name":"Гром","t":1794399644236,"sale":141.61,"ref":169.48,"profit":10.92,"roi":7.71,"bo":2,"so":20,"buy":130.2,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
