@@ -760,3 +760,4 @@
 {"id":3779,"name":"Талисман","t":1794355284208,"sale":2439.42,"ref":2800,"profit":80.58,"roi":3.3,"bo":0,"so":18,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":494,"name":"НВ-2 Клён","t":1794355286743,"sale":500,"ref":590,"profit":31,"roi":6.2,"bo":9,"so":23,"buy":468.1,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":289,"name":"Дробитель","t":1794369040331,"sale":330.41,"ref":414.95,"profit":43.04,"roi":13.03,"bo":30,"so":12,"buy":330.4,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":386,"name":"Рок","t":1794369670756,"sale":761.01,"ref":899.98,"profit":48.97,"roi":6.44,"bo":32,"so":7,"buy":758.98,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
