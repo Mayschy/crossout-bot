@@ -1190,3 +1190,5 @@
 {"id":106,"name":"«Титаник»","t":1794404437860,"sale":170,"ref":210.05,"profit":19.05,"roi":11.2,"bo":5,"so":7,"buy":166,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1794404437860,"sale":142.1,"ref":175,"profit":15.4,"roi":10.84,"bo":27,"so":22,"buy":142.09,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":189,"name":"Четкий","t":1794405041031,"sale":140,"ref":178.74,"profit":20.87,"roi":14.9,"bo":31,"so":11,"buy":131.45,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":241,"name":"Шквал","t":1794405680572,"sale":3485.05,"ref":3898.34,"profit":23.46,"roi":0.67,"bo":6,"so":25,"buy":3371.05,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":590,"name":"Висельник","t":1794405680572,"sale":176.85,"ref":213,"profit":14.85,"roi":8.4,"bo":2,"so":3,"buy":164,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
