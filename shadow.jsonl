@@ -1170,3 +1170,4 @@
 {"id":635,"name":"Колесо багги (пов.)","t":1794373837790,"sale":176.15,"ref":213.96,"profit":16.41,"roi":9.32,"bo":30,"so":40,"buy":176.11,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":321,"name":"Мельник","t":1794375640046,"sale":421.06,"ref":485.84,"profit":16.2,"roi":3.85,"bo":13,"so":33,"buy":420.6,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1794380479296,"sale":102.69,"ref":129.99,"profit":14.3,"roi":13.93,"bo":1,"so":35,"buy":95.32,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":269,"name":"Медиана","t":1794384638907,"sale":102.69,"ref":129.94,"profit":14.26,"roi":13.88,"bo":1,"so":35,"buy":95.32,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
