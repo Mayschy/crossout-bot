@@ -806,3 +806,4 @@
 {"id":265,"name":"Смерч","t":1794423674082,"sale":1750,"ref":1979,"profit":31.1,"roi":1.78,"bo":15,"so":26,"buy":1706.14,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":257,"name":"Слон","t":1794424837809,"sale":1889,"ref":2219,"profit":108.1,"roi":5.72,"bo":3,"so":26,"buy":1868.4,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":304,"name":"П-32 Поборник","t":1794424839286,"sale":1370.88,"ref":1578.08,"profit":49.39,"roi":3.6,"bo":4,"so":3,"buy":1300,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":258,"name":"Слон (тюн.) (заготовка)","t":1794425461739,"sale":3000,"ref":3610.09,"profit":249.08,"roi":8.3,"bo":11,"so":10,"buy":2761.5,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}

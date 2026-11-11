@@ -1222,3 +1222,4 @@
 {"id":147,"name":"Длинная фиолетовая лампа","t":1794424237382,"sale":62.85,"ref":97.24,"profit":24.67,"roi":39.25,"bo":0,"so":7,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1794424237382,"sale":200.01,"ref":235.97,"profit":12.36,"roi":6.18,"bo":23,"so":12,"buy":200,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1794424837315,"sale":144.59,"ref":176,"profit":13.81,"roi":9.55,"bo":2,"so":2,"buy":141.61,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":514,"name":"Ядро","t":1794425461107,"sale":177.37,"ref":213.87,"profit":15.11,"roi":8.52,"bo":2,"so":3,"buy":166.27,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
