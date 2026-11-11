@@ -800,3 +800,6 @@
 {"id":3778,"name":"Морриган (заготовка)","t":1794421245058,"sale":2884.75,"ref":3597.78,"profit":353.25,"roi":12.25,"bo":0,"so":2,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":280,"name":"Яогуай","t":1794422439307,"sale":301.59,"ref":376.68,"profit":37.42,"roi":12.41,"bo":2,"so":6,"buy":284.59,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":295,"name":"АП64 Джоуль","t":1794422440637,"sale":962.72,"ref":1109.93,"profit":36.22,"roi":3.76,"bo":18,"so":16,"buy":962.15,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":259,"name":"Компилятор","t":1794423041022,"sale":2910,"ref":3389.9,"profit":140.91,"roi":4.84,"bo":8,"so":9,"buy":2901,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":438,"name":"РН-М Дино","t":1794423042404,"sale":1100,"ref":1309.99,"profit":78.99,"roi":7.18,"bo":6,"so":10,"buy":1035.5,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":482,"name":"Мигалка","t":1794423043801,"sale":236.2,"ref":299.99,"profit":33.79,"roi":14.31,"bo":2,"so":6,"buy":226.2,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
