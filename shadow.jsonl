@@ -1198,3 +1198,5 @@
 {"id":269,"name":"Медиана","t":1794407464503,"sale":100.54,"ref":128.75,"profit":15.33,"roi":15.25,"bo":0,"so":28,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":7,"name":"Бастион","t":1794408640540,"sale":252,"ref":297.97,"profit":16.17,"roi":6.42,"bo":10,"so":12,"buy":245.08,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":440,"name":"Фламинго","t":1794409842495,"sale":96.44,"ref":120.2,"profit":11.74,"roi":12.17,"bo":7,"so":34,"buy":96.23,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":65,"name":"Сверчок","t":1794410440344,"sale":350,"ref":410,"profit":19,"roi":5.43,"bo":6,"so":31,"buy":333.51,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":464,"name":"Коготь","t":1794410440344,"sale":90,"ref":112.44,"profit":11.2,"roi":12.44,"bo":32,"so":8,"buy":84.51,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
