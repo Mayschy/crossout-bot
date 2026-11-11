@@ -9993,3 +9993,11 @@
 {"id":321,"t":1794419441907,"h":10,"at":1794420000000,"s":435.6,"b":420.02,"so":30,"bo":14,"ask":-28.02,"instant":-42.04,"taken":true,"shadow":true,"roi":-6.67,"capital":420.06,"late":false}
 {"id":269,"t":1794419441907,"h":10,"at":1794420000000,"s":98.72,"b":97.65,"so":26,"bo":2,"ask":-9.87,"instant":-10.83,"taken":false,"shadow":true,"roi":-10,"capital":98.72,"late":false}
 {"id":257,"t":1794419441907,"h":10,"at":1794420000000,"s":1900.02,"b":1889,"so":25,"bo":5,"ask":-279.98,"instant":-289.9,"taken":false,"shadow":true,"roi":-14.07,"capital":1990,"late":false}
+{"id":257,"t":1794420228780,"h":10,"at":1794420900000,"s":2219,"b":1889,"so":24,"bo":4,"ask":97.08,"instant":-199.92,"taken":true,"shadow":false,"roi":5.11,"capital":1900.02,"late":false}
+{"id":497,"t":1794413440600,"h":120,"at":1794420600000,"s":389.95,"b":323.15,"so":39,"bo":6,"ask":17.88,"instant":-42.25,"taken":true,"shadow":true,"roi":5.37,"capital":333.08,"late":false}
+{"id":631,"t":1794413440600,"h":120,"at":1794420600000,"s":207.96,"b":181,"so":64,"bo":7,"ask":9.1,"instant":-15.16,"taken":true,"shadow":true,"roi":5.11,"capital":178.06,"late":false}
+{"id":453,"t":1794413440600,"h":120,"at":1794420600000,"s":439.99,"b":406.24,"so":21,"bo":24,"ask":-44.01,"instant":-74.38,"taken":false,"shadow":true,"roi":-10,"capital":440,"late":false}
+{"id":499,"t":1794419441907,"h":20,"at":1794420600000,"s":219,"b":162.63,"so":4,"bo":1,"ask":24.23,"instant":-26.5,"taken":true,"shadow":true,"roi":14.02,"capital":172.87,"late":false}
+{"id":321,"t":1794419441907,"h":20,"at":1794420600000,"s":435.6,"b":420.02,"so":34,"bo":16,"ask":-28.02,"instant":-42.04,"taken":true,"shadow":true,"roi":-6.67,"capital":420.06,"late":false}
+{"id":269,"t":1794419441907,"h":20,"at":1794420600000,"s":98.72,"b":97.65,"so":26,"bo":2,"ask":-9.87,"instant":-10.83,"taken":false,"shadow":true,"roi":-10,"capital":98.72,"late":false}
+{"id":257,"t":1794419441907,"h":20,"at":1794420600000,"s":2220,"b":1889,"so":23,"bo":4,"ask":8,"instant":-289.9,"taken":true,"shadow":true,"roi":0.4,"capital":1990,"late":false}

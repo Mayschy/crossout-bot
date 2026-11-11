@@ -797,3 +797,4 @@
 {"id":465,"name":"Счетчик урона","t":1794414041614,"sale":226.34,"ref":281.82,"profit":27.3,"roi":12.06,"bo":2,"so":7,"buy":220.82,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3767,"name":"ПТУР-Л Корнет","t":1794415838089,"sale":1670,"ref":1976,"profit":108.4,"roi":6.49,"bo":20,"so":20,"buy":1663,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":257,"name":"Слон","t":1794420228780,"sale":1900.02,"ref":2225,"profit":102.48,"roi":5.39,"bo":5,"so":25,"buy":1889,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3778,"name":"Морриган (заготовка)","t":1794421245058,"sale":2884.75,"ref":3597.78,"profit":353.25,"roi":12.25,"bo":0,"so":2,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}

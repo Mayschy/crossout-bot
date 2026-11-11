@@ -1216,3 +1216,4 @@
 {"id":321,"name":"Мельник","t":1794419441907,"sale":420.06,"ref":485.98,"profit":17.32,"roi":4.12,"bo":14,"so":27,"buy":420.03,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1794419441907,"sale":98.72,"ref":125,"profit":13.78,"roi":13.96,"bo":2,"so":26,"buy":97.65,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":257,"name":"Слон","t":1794419441907,"sale":1990,"ref":2225,"profit":12.5,"roi":0.63,"bo":6,"so":25,"buy":1900.02,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":462,"name":"Шабаш","t":1794421238581,"sale":242.1,"ref":289.97,"profit":18.87,"roi":7.8,"bo":13,"so":36,"buy":242.09,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
