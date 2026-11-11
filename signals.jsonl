@@ -771,3 +771,4 @@
 {"id":1210,"name":"Огненное кольцо","t":1794383443176,"sale":31.89,"ref":65.78,"profit":27.31,"roi":85.64,"bo":5,"so":9,"buy":31.88,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":365,"name":"П-39 Черт","t":1794387674346,"sale":1900,"ref":2199.99,"profit":79.99,"roi":4.21,"bo":21,"so":17,"buy":1860,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":268,"name":"Жнец","t":1794390042339,"sale":1900,"ref":2187.74,"profit":68.97,"roi":3.63,"bo":15,"so":24,"buy":1851,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":428,"name":"Перехватчик","t":1794391271715,"sale":286.64,"ref":357.09,"profit":34.74,"roi":12.12,"bo":2,"so":3,"buy":271,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
