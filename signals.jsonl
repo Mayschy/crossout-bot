@@ -811,3 +811,4 @@
 {"id":1233,"name":"Шаблон: Блуждающий огонь","t":1794431440023,"sale":351,"ref":444.45,"profit":49,"roi":13.96,"bo":0,"so":4,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":332,"name":"Тирс I","t":1794434473199,"sale":1800.01,"ref":2066.66,"profit":59.98,"roi":3.33,"bo":8,"so":14,"buy":1752,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":354,"name":"Фафнир","t":1794435041531,"sale":132.03,"ref":174.65,"profit":25.16,"roi":19.05,"bo":40,"so":7,"buy":132.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":284,"name":"Панацея","t":1794435637261,"sale":310.01,"ref":376.97,"profit":29.26,"roi":9.44,"bo":3,"so":15,"buy":310,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
