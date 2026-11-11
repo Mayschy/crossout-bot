@@ -777,3 +777,4 @@
 {"id":625,"name":"Затворник (пов.)","t":1794395443339,"sale":152.59,"ref":198.53,"profit":26.09,"roi":17.1,"bo":4,"so":40,"buy":152.58,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":265,"name":"Смерч","t":1794396037769,"sale":1700,"ref":1999.98,"profit":99.98,"roi":5.88,"bo":11,"so":17,"buy":1670.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":428,"name":"Перехватчик","t":1794398477138,"sale":286.64,"ref":357.09,"profit":34.74,"roi":12.12,"bo":2,"so":5,"buy":271,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":535,"name":"Эгида-Прайм","t":1794402643315,"sale":1934.1,"ref":2179.99,"profit":27.89,"roi":1.44,"bo":3,"so":23,"buy":1901.06,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
