@@ -763,3 +763,4 @@
 {"id":386,"name":"Рок","t":1794369670756,"sale":761.01,"ref":899.98,"profit":48.97,"roi":6.44,"bo":32,"so":7,"buy":758.98,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":295,"name":"АП64 Джоуль","t":1794370242177,"sale":963,"ref":1112.96,"profit":38.66,"roi":4.01,"bo":21,"so":20,"buy":960.72,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":259,"name":"Компилятор","t":1794370837037,"sale":3002.01,"ref":3375.99,"profit":36.38,"roi":1.21,"bo":7,"so":7,"buy":3002,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":60,"name":"РУН-1А","t":1794371459165,"sale":707.02,"ref":834.4,"profit":43.94,"roi":6.21,"bo":7,"so":18,"buy":705.04,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
