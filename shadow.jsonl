@@ -1205,3 +1205,6 @@
 {"id":9,"name":"Джаннаби","t":1794412240393,"sale":300,"ref":349.8,"profit":14.82,"roi":4.94,"bo":13,"so":24,"buy":276.22,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":676,"name":"Зубодробитель","t":1794412240393,"sale":75.81,"ref":100.5,"profit":14.64,"roi":19.31,"bo":5,"so":9,"buy":75.74,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":363,"name":"П-37 Шило","t":1794412873822,"sale":120,"ref":149.99,"profit":14.99,"roi":12.49,"bo":8,"so":32,"buy":118.25,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":497,"name":"Колибри","t":1794413440600,"sale":333.08,"ref":389.99,"profit":17.91,"roi":5.38,"bo":5,"so":40,"buy":322.09,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":631,"name":"Бигфут (пов.)","t":1794413440600,"sale":178.06,"ref":211.92,"profit":12.67,"roi":7.11,"bo":4,"so":54,"buy":178,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":453,"name":"Мириада","t":1794413440600,"sale":440,"ref":500,"profit":10,"roi":2.27,"bo":0,"so":26,"buy":0,"act":10,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
