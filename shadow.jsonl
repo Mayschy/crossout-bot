@@ -1208,3 +1208,4 @@
 {"id":497,"name":"Колибри","t":1794413440600,"sale":333.08,"ref":389.99,"profit":17.91,"roi":5.38,"bo":5,"so":40,"buy":322.09,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":631,"name":"Бигфут (пов.)","t":1794413440600,"sale":178.06,"ref":211.92,"profit":12.67,"roi":7.11,"bo":4,"so":54,"buy":178,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":453,"name":"Мириада","t":1794413440600,"sale":440,"ref":500,"profit":10,"roi":2.27,"bo":0,"so":26,"buy":0,"act":10,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":500,"name":"РД-3 Филин","t":1794414039858,"sale":196.83,"ref":239,"profit":18.27,"roi":9.28,"bo":15,"so":7,"buy":188,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
