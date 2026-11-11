@@ -770,3 +770,4 @@
 {"id":438,"name":"РН-М Дино","t":1794383441719,"sale":1100,"ref":1309,"profit":78.1,"roi":7.1,"bo":8,"so":8,"buy":1050.5,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1210,"name":"Огненное кольцо","t":1794383443176,"sale":31.89,"ref":65.78,"profit":27.31,"roi":85.64,"bo":5,"so":9,"buy":31.88,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":365,"name":"П-39 Черт","t":1794387674346,"sale":1900,"ref":2199.99,"profit":79.99,"roi":4.21,"bo":21,"so":17,"buy":1860,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":268,"name":"Жнец","t":1794390042339,"sale":1900,"ref":2187.74,"profit":68.97,"roi":3.63,"bo":15,"so":24,"buy":1851,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
