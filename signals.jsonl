@@ -798,3 +798,5 @@
 {"id":3767,"name":"ПТУР-Л Корнет","t":1794415838089,"sale":1670,"ref":1976,"profit":108.4,"roi":6.49,"bo":20,"so":20,"buy":1663,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":257,"name":"Слон","t":1794420228780,"sale":1900.02,"ref":2225,"profit":102.48,"roi":5.39,"bo":5,"so":25,"buy":1889,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3778,"name":"Морриган (заготовка)","t":1794421245058,"sale":2884.75,"ref":3597.78,"profit":353.25,"roi":12.25,"bo":0,"so":2,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":280,"name":"Яогуай","t":1794422439307,"sale":301.59,"ref":376.68,"profit":37.42,"roi":12.41,"bo":2,"so":6,"buy":284.59,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":295,"name":"АП64 Джоуль","t":1794422440637,"sale":962.72,"ref":1109.93,"profit":36.22,"roi":3.76,"bo":18,"so":16,"buy":962.15,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
