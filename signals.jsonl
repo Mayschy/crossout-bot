@@ -809,3 +809,4 @@
 {"id":258,"name":"Слон (тюн.) (заготовка)","t":1794425461739,"sale":3000,"ref":3610.09,"profit":249.08,"roi":8.3,"bo":11,"so":10,"buy":2761.5,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":642,"name":"Низкий просвет (пов.)","t":1794427274883,"sale":780.75,"ref":1100,"profit":209.25,"roi":26.8,"bo":14,"so":27,"buy":780.74,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1233,"name":"Шаблон: Блуждающий огонь","t":1794431440023,"sale":351,"ref":444.45,"profit":49,"roi":13.96,"bo":0,"so":4,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":332,"name":"Тирс I","t":1794434473199,"sale":1800.01,"ref":2066.66,"profit":59.98,"roi":3.33,"bo":8,"so":14,"buy":1752,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
