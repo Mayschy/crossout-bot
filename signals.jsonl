@@ -773,3 +773,5 @@
 {"id":268,"name":"Жнец","t":1794390042339,"sale":1900,"ref":2187.74,"profit":68.97,"roi":3.63,"bo":15,"so":24,"buy":1851,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":428,"name":"Перехватчик","t":1794391271715,"sale":286.64,"ref":357.09,"profit":34.74,"roi":12.12,"bo":2,"so":3,"buy":271,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":453,"name":"Мириада","t":1794393059419,"sale":460.02,"ref":584.48,"profit":66.01,"roi":14.35,"bo":16,"so":8,"buy":460.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":329,"name":"Мандрагора","t":1794395441772,"sale":1950,"ref":2233.99,"profit":60.59,"roi":3.11,"bo":9,"so":3,"buy":1800,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":625,"name":"Затворник (пов.)","t":1794395443339,"sale":152.59,"ref":198.53,"profit":26.09,"roi":17.1,"bo":4,"so":40,"buy":152.58,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
