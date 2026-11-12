@@ -831,3 +831,4 @@
 {"id":284,"name":"Панацея","t":1794485440902,"sale":289.03,"ref":356.01,"profit":31.38,"roi":10.86,"bo":2,"so":21,"buy":289,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":197,"name":"Симбионт (левый)","t":1794486661488,"sale":176.61,"ref":230.16,"profit":30.53,"roi":17.29,"bo":0,"so":3,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":281,"name":"СД-15 Гриф","t":1794490261685,"sale":1850,"ref":2149.93,"profit":84.94,"roi":4.59,"bo":5,"so":10,"buy":1811.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":247,"name":"КП-17 Цунами","t":1794491442730,"sale":2300,"ref":2686.98,"profit":118.28,"roi":5.14,"bo":14,"so":15,"buy":2241.99,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
