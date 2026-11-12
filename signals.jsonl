@@ -828,3 +828,4 @@
 {"id":3756,"name":"Ревун","t":1794480642861,"sale":226.12,"ref":279.22,"profit":25.18,"roi":11.13,"bo":3,"so":2,"buy":185.51,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":386,"name":"Рок","t":1794480644303,"sale":830,"ref":950,"profit":25,"roi":3.01,"bo":21,"so":13,"buy":810.02,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":180,"name":"Беркут","t":1794481041086,"sale":1600,"ref":1855,"profit":69.5,"roi":4.34,"bo":9,"so":14,"buy":1465,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":284,"name":"Панацея","t":1794485440902,"sale":289.03,"ref":356.01,"profit":31.38,"roi":10.86,"bo":2,"so":21,"buy":289,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
