@@ -1322,3 +1322,4 @@
 {"id":184,"name":"Исполин","t":1794525038590,"sale":146.1,"ref":185,"profit":20.4,"roi":13.96,"bo":3,"so":37,"buy":146.09,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":19,"name":"Ермак","t":1794525038590,"sale":303.33,"ref":354.99,"profit":16.16,"roi":5.33,"bo":6,"so":20,"buy":291.11,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":139,"name":"Красная лампа","t":1794525645895,"sale":53.66,"ref":71,"profit":10.24,"roi":19.08,"bo":0,"so":8,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1794527446969,"sale":200.07,"ref":244.45,"profit":19.94,"roi":9.96,"bo":15,"so":48,"buy":200.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

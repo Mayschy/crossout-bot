@@ -859,3 +859,4 @@
 {"id":585,"name":"Файер «Фингал»","t":1794522043255,"sale":387,"ref":472.98,"profit":38.68,"roi":10,"bo":1,"so":5,"buy":348.11,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":528,"name":"Харибда","t":1794523241669,"sale":1700,"ref":1999.99,"profit":99.99,"roi":5.88,"bo":7,"so":3,"buy":1667.1,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":278,"name":"Артемида","t":1794525039097,"sale":1323.03,"ref":1550,"profit":71.97,"roi":5.44,"bo":14,"so":16,"buy":1323,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":619,"name":"Омни","t":1794527448669,"sale":180.15,"ref":233.33,"profit":29.85,"roi":16.57,"bo":9,"so":29,"buy":180,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
