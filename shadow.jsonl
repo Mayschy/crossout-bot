@@ -1247,3 +1247,4 @@
 {"id":184,"name":"Исполин","t":1794471636209,"sale":156,"ref":187,"profit":12.3,"roi":7.88,"bo":9,"so":23,"buy":155,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":445,"name":"Геррида I","t":1794475237917,"sale":700,"ref":796.89,"profit":17.2,"roi":2.46,"bo":36,"so":92,"buy":666.03,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":453,"name":"Мириада","t":1794478838111,"sale":440,"ref":500,"profit":10,"roi":2.27,"bo":40,"so":23,"buy":410.24,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1014,"name":"Рыжий конь","t":1794481842416,"sale":13.14,"ref":39.91,"profit":22.78,"roi":173.36,"bo":0,"so":17,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
