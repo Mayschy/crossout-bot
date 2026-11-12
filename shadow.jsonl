@@ -1299,3 +1299,5 @@
 {"id":309,"name":"Синус-0","t":1794508842556,"sale":80,"ref":105.01,"profit":14.51,"roi":18.14,"bo":4,"so":8,"buy":77.01,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":94,"name":"Зов свободы","t":1794509443911,"sale":217.77,"ref":266.4,"profit":21.99,"roi":10.1,"bo":1,"so":6,"buy":195.72,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1211,"name":"Прыжковая площадка","t":1794509443911,"sale":32.37,"ref":53,"profit":15.33,"roi":47.36,"bo":19,"so":11,"buy":30,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":445,"name":"Геррида I","t":1794510644233,"sale":651,"ref":749,"profit":23.1,"roi":3.55,"bo":7,"so":97,"buy":610.01,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":676,"name":"Зубодробитель","t":1794510644233,"sale":71.59,"ref":91.68,"profit":10.92,"roi":15.26,"bo":2,"so":15,"buy":70.5,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
