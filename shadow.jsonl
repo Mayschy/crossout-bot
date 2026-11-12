@@ -1274,3 +1274,5 @@
 {"id":590,"name":"Висельник","t":1794495041459,"sale":180,"ref":217.96,"profit":16.16,"roi":8.98,"bo":1,"so":2,"buy":160,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":272,"name":"Нагваль","t":1794495681249,"sale":431.04,"ref":502,"profit":20.76,"roi":4.82,"bo":3,"so":17,"buy":410,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":664,"name":"Код «‎Оранжевый»","t":1794495681249,"sale":183,"ref":220.25,"profit":15.22,"roi":8.32,"bo":0,"so":2,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":321,"name":"Мельник","t":1794496245924,"sale":413.03,"ref":485.97,"profit":24.34,"roi":5.89,"bo":4,"so":33,"buy":413,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":247,"name":"КП-17 Цунами","t":1794496245924,"sale":2400,"ref":2686.97,"profit":18.27,"roi":0.76,"bo":15,"so":15,"buy":2242.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
