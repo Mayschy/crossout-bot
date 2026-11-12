@@ -1257,3 +1257,4 @@
 {"id":9,"name":"Джаннаби","t":1794484874362,"sale":291.02,"ref":347,"profit":21.28,"roi":7.31,"bo":18,"so":30,"buy":291.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":284,"name":"Панацея","t":1794484874362,"sale":310,"ref":356.02,"profit":10.42,"roi":3.36,"bo":3,"so":21,"buy":289.03,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1794485439982,"sale":143.5,"ref":178.39,"profit":17.05,"roi":11.88,"bo":13,"so":15,"buy":141,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":198,"name":"Симбионт (правый)","t":1794486041203,"sale":171.34,"ref":216,"profit":23.06,"roi":13.46,"bo":0,"so":3,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
