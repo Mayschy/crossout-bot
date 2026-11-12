@@ -821,3 +821,4 @@
 {"id":439,"name":"Драйвер","t":1794459036012,"sale":851,"ref":1000,"profit":49,"roi":5.76,"bo":12,"so":35,"buy":850,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1145,"name":"Наклонная балка 6×12×6","t":1794466241381,"sale":34.06,"ref":75,"profit":33.44,"roi":98.18,"bo":1,"so":6,"buy":10.94,"act":6,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":497,"name":"Колибри","t":1794469237173,"sale":325.07,"ref":389.96,"profit":25.89,"roi":7.97,"bo":5,"so":28,"buy":325.06,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":117,"name":"КА-2 Маховик","t":1794471636878,"sale":206,"ref":263.95,"profit":31.56,"roi":15.32,"bo":21,"so":6,"buy":205.4,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}

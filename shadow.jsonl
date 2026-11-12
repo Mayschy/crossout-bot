@@ -1244,3 +1244,4 @@
 {"id":287,"name":"АГС-55 Импульс","t":1794462636564,"sale":148.19,"ref":177.99,"profit":12,"roi":8.1,"bo":4,"so":26,"buy":143.47,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1794467438805,"sale":196,"ref":233.36,"profit":14.02,"roi":7.16,"bo":28,"so":5,"buy":195.1,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":487,"name":"Газген","t":1794471036670,"sale":345,"ref":400,"profit":15,"roi":4.35,"bo":8,"so":12,"buy":340,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":184,"name":"Исполин","t":1794471636209,"sale":156,"ref":187,"profit":12.3,"roi":7.88,"bo":9,"so":23,"buy":155,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
