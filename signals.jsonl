@@ -814,3 +814,4 @@
 {"id":284,"name":"Панацея","t":1794435637261,"sale":310.01,"ref":376.97,"profit":29.26,"roi":9.44,"bo":3,"so":15,"buy":310,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":278,"name":"Артемида","t":1794436260723,"sale":1350,"ref":1620,"profit":108,"roi":8,"bo":10,"so":6,"buy":1265,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":307,"name":"Нотунг","t":1794443460605,"sale":2399.89,"ref":2769.92,"profit":93.04,"roi":3.88,"bo":3,"so":13,"buy":2321,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":419,"name":"Пламя","t":1794447056538,"sale":307.53,"ref":379.99,"profit":34.46,"roi":11.21,"bo":5,"so":61,"buy":306.94,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
