@@ -1250,3 +1250,4 @@
 {"id":1014,"name":"Рыжий конь","t":1794481842416,"sale":13.14,"ref":39.91,"profit":22.78,"roi":173.36,"bo":0,"so":17,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":571,"name":"Генезис","t":1794482438541,"sale":98.14,"ref":125.85,"profit":15.13,"roi":15.41,"bo":8,"so":7,"buy":96,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":455,"name":"Боеукладка","t":1794482438541,"sale":150,"ref":179.98,"profit":11.98,"roi":7.99,"bo":5,"so":15,"buy":146.01,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":293,"name":"Шкуродер","t":1794483060177,"sale":238.73,"ref":281,"profit":14.17,"roi":5.94,"bo":21,"so":9,"buy":222.16,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
