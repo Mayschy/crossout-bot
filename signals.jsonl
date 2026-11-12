@@ -840,3 +840,4 @@
 {"id":44,"name":"Агрессор","t":1794501067446,"sale":329.85,"ref":408,"profit":37.35,"roi":11.32,"bo":3,"so":21,"buy":329.83,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":380,"name":"Искра III","t":1794501068964,"sale":1700.01,"ref":1916.99,"profit":25.28,"roi":1.49,"bo":9,"so":17,"buy":1700,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":52,"name":"Грифон","t":1794502244326,"sale":1732.3,"ref":2160,"profit":211.7,"roi":12.22,"bo":8,"so":8,"buy":1732.15,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":420,"name":"Гнездо","t":1794502878913,"sale":300,"ref":364.95,"profit":28.45,"roi":9.48,"bo":28,"so":52,"buy":292.02,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
