@@ -1241,3 +1241,4 @@
 {"id":420,"name":"Гнездо","t":1794460835346,"sale":300.01,"ref":349.98,"profit":14.97,"roi":4.99,"bo":27,"so":54,"buy":300,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":437,"name":"Тэнгу","t":1794460835346,"sale":715,"ref":807.92,"profit":12.13,"roi":1.7,"bo":42,"so":57,"buy":714.5,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1794462043416,"sale":99.09,"ref":125.55,"profit":13.91,"roi":14.03,"bo":2,"so":17,"buy":97.65,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":287,"name":"АГС-55 Импульс","t":1794462636564,"sale":148.19,"ref":177.99,"profit":12,"roi":8.1,"bo":4,"so":26,"buy":143.47,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
