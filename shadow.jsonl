@@ -1319,3 +1319,5 @@
 {"id":427,"name":"ПТУР-Л Флейта","t":1794523240884,"sale":355.56,"ref":415,"profit":17.94,"roi":5.05,"bo":18,"so":23,"buy":351,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":348,"name":"Гремлин","t":1794523240884,"sale":79.81,"ref":102.99,"profit":12.88,"roi":16.14,"bo":26,"so":76,"buy":79.8,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":339,"name":"Корво","t":1794524478581,"sale":279,"ref":328,"profit":16.2,"roi":5.81,"bo":4,"so":21,"buy":278.97,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":184,"name":"Исполин","t":1794525038590,"sale":146.1,"ref":185,"profit":20.4,"roi":13.96,"bo":3,"so":37,"buy":146.09,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":19,"name":"Ермак","t":1794525038590,"sale":303.33,"ref":354.99,"profit":16.16,"roi":5.33,"bo":6,"so":20,"buy":291.11,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
