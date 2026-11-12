@@ -845,3 +845,4 @@
 {"id":265,"name":"Смерч","t":1794504665581,"sale":1660,"ref":1895.5,"profit":45.95,"roi":2.77,"bo":3,"so":32,"buy":1652,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3778,"name":"Морриган (заготовка)","t":1794505246292,"sale":2853.66,"ref":3587.8,"profit":375.36,"roi":13.15,"bo":0,"so":8,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":566,"name":"Хамелеон Mk2","t":1794505848657,"sale":300,"ref":363.8,"profit":27.42,"roi":9.14,"bo":1,"so":27,"buy":297.13,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":180,"name":"Беркут","t":1794506479217,"sale":1600,"ref":1810,"profit":29,"roi":1.81,"bo":10,"so":19,"buy":1530.98,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
