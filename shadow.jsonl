@@ -1321,3 +1321,4 @@
 {"id":339,"name":"Корво","t":1794524478581,"sale":279,"ref":328,"profit":16.2,"roi":5.81,"bo":4,"so":21,"buy":278.97,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":184,"name":"Исполин","t":1794525038590,"sale":146.1,"ref":185,"profit":20.4,"roi":13.96,"bo":3,"so":37,"buy":146.09,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":19,"name":"Ермак","t":1794525038590,"sale":303.33,"ref":354.99,"profit":16.16,"roi":5.33,"bo":6,"so":20,"buy":291.11,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":139,"name":"Красная лампа","t":1794525645895,"sale":53.66,"ref":71,"profit":10.24,"roi":19.08,"bo":0,"so":8,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
