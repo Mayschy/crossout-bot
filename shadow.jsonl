@@ -1271,3 +1271,4 @@
 {"id":56,"name":"Омнибокс","t":1794493864325,"sale":360,"ref":418.95,"profit":17.06,"roi":4.74,"bo":4,"so":28,"buy":330.01,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":171,"name":"Крянштейн","t":1794494442404,"sale":178.9,"ref":216.3,"profit":15.77,"roi":8.81,"bo":15,"so":8,"buy":173,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":676,"name":"Зубодробитель","t":1794494442404,"sale":72.9,"ref":94.75,"profit":12.38,"roi":16.98,"bo":0,"so":15,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":590,"name":"Висельник","t":1794495041459,"sale":180,"ref":217.96,"profit":16.16,"roi":8.98,"bo":1,"so":2,"buy":160,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
