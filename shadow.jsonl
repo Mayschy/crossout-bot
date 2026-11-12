@@ -1281,3 +1281,4 @@
 {"id":363,"name":"П-37 Шило","t":1794500448034,"sale":120,"ref":149.98,"profit":14.98,"roi":12.48,"bo":5,"so":29,"buy":115.09,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":501,"name":"АД-13 Ястреб","t":1794500448034,"sale":82.27,"ref":106.63,"profit":13.7,"roi":16.65,"bo":0,"so":16,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1794501066604,"sale":209.99,"ref":259.99,"profit":24,"roi":11.43,"bo":19,"so":29,"buy":205.4,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":367,"name":"Харон","t":1794501645440,"sale":3900,"ref":4359.99,"profit":23.99,"roi":0.62,"bo":8,"so":19,"buy":3760,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
