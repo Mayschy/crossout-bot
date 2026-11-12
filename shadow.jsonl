@@ -1282,3 +1282,6 @@
 {"id":501,"name":"АД-13 Ястреб","t":1794500448034,"sale":82.27,"ref":106.63,"profit":13.7,"roi":16.65,"bo":0,"so":16,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1794501066604,"sale":209.99,"ref":259.99,"profit":24,"roi":11.43,"bo":19,"so":29,"buy":205.4,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":367,"name":"Харон","t":1794501645440,"sale":3900,"ref":4359.99,"profit":23.99,"roi":0.62,"bo":8,"so":19,"buy":3760,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":616,"name":"Гренадер","t":1794502242956,"sale":150.14,"ref":186.98,"profit":18.14,"roi":12.08,"bo":8,"so":16,"buy":150.13,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":420,"name":"Гнездо","t":1794502242956,"sale":315,"ref":364.95,"profit":13.45,"roi":4.27,"bo":30,"so":53,"buy":300,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":530,"name":"Инкубатор","t":1794502242956,"sale":166.02,"ref":196.16,"profit":10.52,"roi":6.34,"bo":5,"so":3,"buy":166,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
