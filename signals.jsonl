@@ -816,3 +816,4 @@
 {"id":307,"name":"Нотунг","t":1794443460605,"sale":2399.89,"ref":2769.92,"profit":93.04,"roi":3.88,"bo":3,"so":13,"buy":2321,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":419,"name":"Пламя","t":1794447056538,"sale":307.53,"ref":379.99,"profit":34.46,"roi":11.21,"bo":5,"so":61,"buy":306.94,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":109,"name":"Вувузела","t":1794450040617,"sale":228.23,"ref":299.97,"profit":41.74,"roi":18.29,"bo":1,"so":6,"buy":225.2,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":445,"name":"Геррида I","t":1794453640672,"sale":662,"ref":796.95,"profit":55.26,"roi":8.35,"bo":15,"so":79,"buy":661.15,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}

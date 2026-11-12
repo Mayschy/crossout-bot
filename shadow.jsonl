@@ -1235,3 +1235,4 @@
 {"id":485,"name":"Бутстрэп","t":1794436260042,"sale":625.01,"ref":722.23,"profit":25,"roi":4,"bo":7,"so":21,"buy":625,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1207,"name":"Измельчитель","t":1794441036221,"sale":18.11,"ref":41.01,"profit":18.8,"roi":103.8,"bo":5,"so":2,"buy":18.05,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":94,"name":"Зов свободы","t":1794450038719,"sale":229.3,"ref":266.65,"profit":10.68,"roi":4.66,"bo":2,"so":5,"buy":200,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":577,"name":"Гусеница бронированная","t":1794453639992,"sale":345,"ref":399.9,"profit":14.91,"roi":4.32,"bo":8,"so":20,"buy":340.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
