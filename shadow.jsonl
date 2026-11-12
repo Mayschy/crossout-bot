@@ -1286,3 +1286,5 @@
 {"id":420,"name":"Гнездо","t":1794502242956,"sale":315,"ref":364.95,"profit":13.45,"roi":4.27,"bo":30,"so":53,"buy":300,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":530,"name":"Инкубатор","t":1794502242956,"sale":166.02,"ref":196.16,"profit":10.52,"roi":6.34,"bo":5,"so":3,"buy":166,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":487,"name":"Газген","t":1794504041978,"sale":350,"ref":403.98,"profit":13.58,"roi":3.88,"bo":11,"so":17,"buy":338.06,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":9,"name":"Джаннаби","t":1794504664879,"sale":295,"ref":341.9,"profit":12.71,"roi":4.31,"bo":18,"so":28,"buy":283.15,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":187,"name":"Работяга","t":1794504664879,"sale":81.75,"ref":103.75,"profit":11.63,"roi":14.22,"bo":7,"so":10,"buy":81.74,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
