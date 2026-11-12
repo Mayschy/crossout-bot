@@ -1251,3 +1251,5 @@
 {"id":571,"name":"Генезис","t":1794482438541,"sale":98.14,"ref":125.85,"profit":15.13,"roi":15.41,"bo":8,"so":7,"buy":96,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":455,"name":"Боеукладка","t":1794482438541,"sale":150,"ref":179.98,"profit":11.98,"roi":7.99,"bo":5,"so":15,"buy":146.01,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":293,"name":"Шкуродер","t":1794483060177,"sale":238.73,"ref":281,"profit":14.17,"roi":5.94,"bo":21,"so":9,"buy":222.16,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":11,"name":"Мертвец","t":1794483637511,"sale":1150,"ref":1299.57,"profit":19.61,"roi":1.71,"bo":15,"so":3,"buy":1035.68,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":289,"name":"Дробитель","t":1794483637511,"sale":340,"ref":397,"profit":17.3,"roi":5.09,"bo":21,"so":25,"buy":333.08,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
