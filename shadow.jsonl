@@ -1290,3 +1290,7 @@
 {"id":187,"name":"Работяга","t":1794504664879,"sale":81.75,"ref":103.75,"profit":11.63,"roi":14.22,"bo":7,"so":10,"buy":81.74,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1794505239907,"sale":156.33,"ref":197.74,"profit":21.64,"roi":13.84,"bo":67,"so":5,"buy":155.24,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":312,"name":"Эмили","t":1794505239907,"sale":103.05,"ref":129.52,"profit":13.52,"roi":13.12,"bo":2,"so":5,"buy":97.02,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":610,"name":"Увабаки (пов.)","t":1794507045920,"sale":201.55,"ref":251,"profit":24.35,"roi":12.08,"bo":23,"so":10,"buy":201.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":252,"name":"ЗИС-34 Толстяк","t":1794507045920,"sale":220.03,"ref":266,"profit":19.37,"roi":8.8,"bo":15,"so":21,"buy":220.02,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":363,"name":"П-37 Шило","t":1794507045920,"sale":111.71,"ref":145,"profit":18.79,"roi":16.82,"bo":12,"so":32,"buy":111.15,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":279,"name":"Иглобрюх","t":1794507045920,"sale":750,"ref":849.99,"profit":14.99,"roi":2,"bo":17,"so":53,"buy":731.13,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
