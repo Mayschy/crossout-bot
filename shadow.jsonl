@@ -1245,3 +1245,4 @@
 {"id":610,"name":"Увабаки (пов.)","t":1794467438805,"sale":196,"ref":233.36,"profit":14.02,"roi":7.16,"bo":28,"so":5,"buy":195.1,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":487,"name":"Газген","t":1794471036670,"sale":345,"ref":400,"profit":15,"roi":4.35,"bo":8,"so":12,"buy":340,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":184,"name":"Исполин","t":1794471636209,"sale":156,"ref":187,"profit":12.3,"roi":7.88,"bo":9,"so":23,"buy":155,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":445,"name":"Геррида I","t":1794475237917,"sale":700,"ref":796.89,"profit":17.2,"roi":2.46,"bo":36,"so":92,"buy":666.03,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
