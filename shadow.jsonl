@@ -1311,3 +1311,5 @@
 {"id":677,"name":"Панцирь","t":1794516641974,"sale":294.9,"ref":340.29,"profit":11.36,"roi":3.85,"bo":1,"so":2,"buy":293.22,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":482,"name":"Мигалка","t":1794516641974,"sale":250,"ref":290,"profit":11,"roi":4.4,"bo":1,"so":11,"buy":231.73,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":320,"name":"ПУ13 Уравнитель","t":1794517285568,"sale":276.27,"ref":325,"profit":16.23,"roi":5.87,"bo":22,"so":13,"buy":276.26,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":619,"name":"Омни","t":1794517843152,"sale":183.56,"ref":222.5,"profit":16.69,"roi":9.09,"bo":14,"so":39,"buy":180.16,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":312,"name":"Эмили","t":1794517843152,"sale":101.11,"ref":128.69,"profit":14.71,"roi":14.55,"bo":2,"so":7,"buy":97.02,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
