@@ -1278,3 +1278,5 @@
 {"id":247,"name":"КП-17 Цунами","t":1794496245924,"sale":2400,"ref":2686.97,"profit":18.27,"roi":0.76,"bo":15,"so":15,"buy":2242.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":312,"name":"Эмили","t":1794496856436,"sale":103.05,"ref":129.2,"profit":13.23,"roi":12.84,"bo":2,"so":4,"buy":97.02,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":365,"name":"П-39 Черт","t":1794498647904,"sale":2050,"ref":2300,"profit":20,"roi":0.98,"bo":16,"so":23,"buy":1988,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":363,"name":"П-37 Шило","t":1794500448034,"sale":120,"ref":149.98,"profit":14.98,"roi":12.48,"bo":5,"so":29,"buy":115.09,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":501,"name":"АД-13 Ястреб","t":1794500448034,"sale":82.27,"ref":106.63,"profit":13.7,"roi":16.65,"bo":0,"so":16,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
