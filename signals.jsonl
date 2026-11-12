@@ -854,3 +854,5 @@
 {"id":463,"name":"Отшельник","t":1794517843716,"sale":652.27,"ref":779.92,"profit":49.66,"roi":7.61,"bo":0,"so":28,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":365,"name":"П-39 Черт","t":1794518445195,"sale":1986.01,"ref":2299.98,"profit":83.97,"roi":4.23,"bo":7,"so":26,"buy":1900.67,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":586,"name":"Слейпнир","t":1794520874772,"sale":300,"ref":363.79,"profit":27.41,"roi":9.14,"bo":1,"so":14,"buy":288.73,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":336,"name":"Деструктор","t":1794521446085,"sale":1145,"ref":1422.23,"profit":135.01,"roi":11.79,"bo":13,"so":15,"buy":1139.64,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":445,"name":"Геррида I","t":1794521447481,"sale":674.08,"ref":780,"profit":27.92,"roi":4.14,"bo":11,"so":97,"buy":600.07,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
