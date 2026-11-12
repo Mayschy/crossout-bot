@@ -1294,3 +1294,4 @@
 {"id":252,"name":"ЗИС-34 Толстяк","t":1794507045920,"sale":220.03,"ref":266,"profit":19.37,"roi":8.8,"bo":15,"so":21,"buy":220.02,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":363,"name":"П-37 Шило","t":1794507045920,"sale":111.71,"ref":145,"profit":18.79,"roi":16.82,"bo":12,"so":32,"buy":111.15,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":279,"name":"Иглобрюх","t":1794507045920,"sale":750,"ref":849.99,"profit":14.99,"roi":2,"bo":17,"so":53,"buy":731.13,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":218,"name":"Выхлопная труба грузовика","t":1794507644182,"sale":165,"ref":196.92,"profit":12.23,"roi":7.41,"bo":9,"so":17,"buy":162.06,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
