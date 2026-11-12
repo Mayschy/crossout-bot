@@ -835,3 +835,5 @@
 {"id":504,"name":"Аннигилятор","t":1794492076033,"sale":1001.01,"ref":1249.78,"profit":123.79,"roi":12.37,"bo":13,"so":19,"buy":1001,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":273,"name":"В-37-39 Адаптер","t":1794493253547,"sale":444.44,"ref":535.98,"profit":37.94,"roi":8.54,"bo":11,"so":19,"buy":444.24,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":111,"name":"Зов духов","t":1794494443881,"sale":274.39,"ref":333.99,"profit":26.2,"roi":9.55,"bo":3,"so":2,"buy":248.89,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":317,"name":"Дамка","t":1794499843664,"sale":1160,"ref":1339.96,"profit":45.96,"roi":3.96,"bo":10,"so":16,"buy":1156.04,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3756,"name":"Ревун","t":1794499845011,"sale":215.75,"ref":279.21,"profit":35.54,"roi":16.47,"bo":3,"so":3,"buy":185.51,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
