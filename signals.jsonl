@@ -848,3 +848,4 @@
 {"id":180,"name":"Беркут","t":1794506479217,"sale":1600,"ref":1810,"profit":29,"roi":1.81,"bo":10,"so":19,"buy":1530.98,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":365,"name":"П-39 Черт","t":1794508263462,"sale":1986.99,"ref":2300,"profit":83.01,"roi":4.18,"bo":8,"so":22,"buy":1986.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":321,"name":"Мельник","t":1794508264789,"sale":400,"ref":485.86,"profit":37.27,"roi":9.32,"bo":7,"so":32,"buy":372.17,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":57,"name":"Фаворит","t":1794513705768,"sale":1000.06,"ref":1180,"profit":61.94,"roi":6.19,"bo":6,"so":38,"buy":1000.05,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}

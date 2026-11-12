@@ -1301,3 +1301,4 @@
 {"id":1211,"name":"Прыжковая площадка","t":1794509443911,"sale":32.37,"ref":53,"profit":15.33,"roi":47.36,"bo":19,"so":11,"buy":30,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":445,"name":"Геррида I","t":1794510644233,"sale":651,"ref":749,"profit":23.1,"roi":3.55,"bo":7,"so":97,"buy":610.01,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":676,"name":"Зубодробитель","t":1794510644233,"sale":71.59,"ref":91.68,"profit":10.92,"roi":15.26,"bo":2,"so":15,"buy":70.5,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":312,"name":"Эмили","t":1794513705154,"sale":103.05,"ref":129.52,"profit":13.52,"roi":13.12,"bo":2,"so":5,"buy":97.02,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
