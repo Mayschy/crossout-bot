@@ -1259,3 +1259,5 @@
 {"id":181,"name":"Гепард","t":1794485439982,"sale":143.5,"ref":178.39,"profit":17.05,"roi":11.88,"bo":13,"so":15,"buy":141,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":198,"name":"Симбионт (правый)","t":1794486041203,"sale":171.34,"ref":216,"profit":23.06,"roi":13.46,"bo":0,"so":3,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":518,"name":"Оберег","t":1794486659976,"sale":500,"ref":576.95,"profit":19.26,"roi":3.85,"bo":6,"so":25,"buy":450,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":320,"name":"ПУ13 Уравнитель","t":1794487239918,"sale":276.23,"ref":329.1,"profit":19.96,"roi":7.23,"bo":37,"so":21,"buy":276.21,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":555,"name":"Бум","t":1794487239918,"sale":92,"ref":116.27,"profit":12.64,"roi":13.74,"bo":10,"so":35,"buy":90.05,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
