@@ -1263,3 +1263,5 @@
 {"id":555,"name":"Бум","t":1794487239918,"sale":92,"ref":116.27,"profit":12.64,"roi":13.74,"bo":10,"so":35,"buy":90.05,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":536,"name":"Мясорубка","t":1794487838989,"sale":270,"ref":325.9,"profit":23.31,"roi":8.63,"bo":6,"so":16,"buy":269.34,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1794489640322,"sale":99.63,"ref":133,"profit":20.07,"roi":20.14,"bo":1,"so":15,"buy":99.6,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":218,"name":"Выхлопная труба грузовика","t":1794492650425,"sale":164,"ref":196.92,"profit":13.23,"roi":8.07,"bo":8,"so":17,"buy":163.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":455,"name":"Боеукладка","t":1794492650425,"sale":148.82,"ref":176.6,"profit":10.12,"roi":6.8,"bo":4,"so":18,"buy":136.41,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
