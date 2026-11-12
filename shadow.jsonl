@@ -1276,3 +1276,4 @@
 {"id":664,"name":"Код «‎Оранжевый»","t":1794495681249,"sale":183,"ref":220.25,"profit":15.22,"roi":8.32,"bo":0,"so":2,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":321,"name":"Мельник","t":1794496245924,"sale":413.03,"ref":485.97,"profit":24.34,"roi":5.89,"bo":4,"so":33,"buy":413,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":247,"name":"КП-17 Цунами","t":1794496245924,"sale":2400,"ref":2686.97,"profit":18.27,"roi":0.76,"bo":15,"so":15,"buy":2242.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":312,"name":"Эмили","t":1794496856436,"sale":103.05,"ref":129.2,"profit":13.23,"roi":12.84,"bo":2,"so":4,"buy":97.02,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
