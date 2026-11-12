@@ -1304,3 +1304,6 @@
 {"id":312,"name":"Эмили","t":1794513705154,"sale":103.05,"ref":129.52,"profit":13.52,"roi":13.12,"bo":2,"so":5,"buy":97.02,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":421,"name":"Тромбон","t":1794514843831,"sale":550,"ref":637.96,"profit":24.16,"roi":4.39,"bo":10,"so":20,"buy":541.31,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":171,"name":"Крянштейн","t":1794515465436,"sale":176,"ref":210,"profit":13,"roi":7.39,"bo":12,"so":30,"buy":175,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":496,"name":"СВ-2 Буревестник","t":1794516043554,"sale":330.73,"ref":394.99,"profit":24.76,"roi":7.49,"bo":1,"so":21,"buy":314.73,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":462,"name":"Шабаш","t":1794516043554,"sale":245.12,"ref":289.99,"profit":15.87,"roi":6.47,"bo":13,"so":23,"buy":240.1,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":320,"name":"ПУ13 Уравнитель","t":1794516043554,"sale":288,"ref":334.9,"profit":13.41,"roi":4.66,"bo":24,"so":13,"buy":276.26,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
