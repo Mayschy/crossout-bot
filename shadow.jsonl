@@ -1237,3 +1237,4 @@
 {"id":94,"name":"Зов свободы","t":1794450038719,"sale":229.3,"ref":266.65,"profit":10.68,"roi":4.66,"bo":2,"so":5,"buy":200,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":577,"name":"Гусеница бронированная","t":1794453639992,"sale":345,"ref":399.9,"profit":14.91,"roi":4.32,"bo":8,"so":20,"buy":340.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":420,"name":"Гнездо","t":1794454835608,"sale":300.02,"ref":355,"profit":19.48,"roi":6.49,"bo":29,"so":52,"buy":300.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":704,"name":"Хранилище чертежей","t":1794460235821,"sale":154.55,"ref":196.62,"profit":22.41,"roi":14.5,"bo":69,"so":5,"buy":151.52,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
