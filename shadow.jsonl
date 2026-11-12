@@ -1295,3 +1295,5 @@
 {"id":363,"name":"П-37 Шило","t":1794507045920,"sale":111.71,"ref":145,"profit":18.79,"roi":16.82,"bo":12,"so":32,"buy":111.15,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":279,"name":"Иглобрюх","t":1794507045920,"sale":750,"ref":849.99,"profit":14.99,"roi":2,"bo":17,"so":53,"buy":731.13,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":218,"name":"Выхлопная труба грузовика","t":1794507644182,"sale":165,"ref":196.92,"profit":12.23,"roi":7.41,"bo":9,"so":17,"buy":162.06,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":425,"name":"Икар IV","t":1794508842556,"sale":780,"ref":889,"profit":20.1,"roi":2.58,"bo":26,"so":15,"buy":777.81,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":309,"name":"Синус-0","t":1794508842556,"sale":80,"ref":105.01,"profit":14.51,"roi":18.14,"bo":4,"so":8,"buy":77.01,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
