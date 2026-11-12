@@ -1261,3 +1261,4 @@
 {"id":518,"name":"Оберег","t":1794486659976,"sale":500,"ref":576.95,"profit":19.26,"roi":3.85,"bo":6,"so":25,"buy":450,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":320,"name":"ПУ13 Уравнитель","t":1794487239918,"sale":276.23,"ref":329.1,"profit":19.96,"roi":7.23,"bo":37,"so":21,"buy":276.21,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":555,"name":"Бум","t":1794487239918,"sale":92,"ref":116.27,"profit":12.64,"roi":13.74,"bo":10,"so":35,"buy":90.05,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":536,"name":"Мясорубка","t":1794487838989,"sale":270,"ref":325.9,"profit":23.31,"roi":8.63,"bo":6,"so":16,"buy":269.34,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
