@@ -10487,3 +10487,11 @@
 {"id":312,"t":1794496856436,"h":10,"at":1794497400000,"s":103.05,"b":97.02,"so":4,"bo":2,"ask":-10.3,"instant":-15.73,"taken":false,"shadow":true,"roi":-10,"capital":103.05,"late":false}
 {"id":272,"t":1794495681249,"h":30,"at":1794497400000,"s":500.99,"b":421,"so":15,"bo":7,"ask":19.85,"instant":-52.14,"taken":true,"shadow":true,"roi":4.61,"capital":431.04,"late":false}
 {"id":664,"t":1794495681249,"h":30,"at":1794497400000,"s":183,"b":0,"so":2,"bo":0,"ask":-18.3,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":183,"late":false}
+{"id":247,"t":1794491442730,"h":120,"at":1794498600000,"s":2444.45,"b":2246,"so":17,"bo":17,"ask":-99.99,"instant":-278.6,"taken":true,"shadow":false,"roi":-4.35,"capital":2300,"late":false}
+{"id":111,"t":1794494443881,"h":60,"at":1794498000000,"s":274.36,"b":248.89,"so":3,"bo":2,"ask":-27.47,"instant":-50.39,"taken":false,"shadow":false,"roi":-10.01,"capital":274.39,"late":false}
+{"id":171,"t":1794494442404,"h":60,"at":1794498000000,"s":190,"b":173,"so":13,"bo":15,"ask":-7.9,"instant":-23.2,"taken":true,"shadow":true,"roi":-4.42,"capital":178.9,"late":false}
+{"id":676,"t":1794494442404,"h":60,"at":1794498000000,"s":90.08,"b":73.13,"so":18,"bo":1,"ask":8.17,"instant":-7.08,"taken":true,"shadow":true,"roi":11.21,"capital":72.9,"late":false}
+{"id":590,"t":1794495041459,"h":60,"at":1794498600000,"s":180,"b":160,"so":2,"bo":1,"ask":-18,"instant":-36,"taken":false,"shadow":true,"roi":-10,"capital":180,"late":false}
+{"id":321,"t":1794496245924,"h":30,"at":1794498000000,"s":485.97,"b":400.04,"so":29,"bo":3,"ask":24.34,"instant":-52.99,"taken":true,"shadow":true,"roi":5.89,"capital":413.03,"late":false}
+{"id":247,"t":1794496245924,"h":30,"at":1794498000000,"s":2686.96,"b":2242.01,"so":15,"bo":14,"ask":18.26,"instant":-382.19,"taken":true,"shadow":true,"roi":0.76,"capital":2400,"late":false}
+{"id":312,"t":1794496856436,"h":20,"at":1794498000000,"s":103.05,"b":97.02,"so":4,"bo":2,"ask":-10.3,"instant":-15.73,"taken":false,"shadow":true,"roi":-10,"capital":103.05,"late":false}
