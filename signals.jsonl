@@ -837,3 +837,5 @@
 {"id":111,"name":"Зов духов","t":1794494443881,"sale":274.39,"ref":333.99,"profit":26.2,"roi":9.55,"bo":3,"so":2,"buy":248.89,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":317,"name":"Дамка","t":1794499843664,"sale":1160,"ref":1339.96,"profit":45.96,"roi":3.96,"bo":10,"so":16,"buy":1156.04,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3756,"name":"Ревун","t":1794499845011,"sale":215.75,"ref":279.21,"profit":35.54,"roi":16.47,"bo":3,"so":3,"buy":185.51,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":44,"name":"Агрессор","t":1794501067446,"sale":329.85,"ref":408,"profit":37.35,"roi":11.32,"bo":3,"so":21,"buy":329.83,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":380,"name":"Искра III","t":1794501068964,"sale":1700.01,"ref":1916.99,"profit":25.28,"roi":1.49,"bo":9,"so":17,"buy":1700,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
