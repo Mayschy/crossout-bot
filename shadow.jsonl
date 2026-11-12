@@ -1265,3 +1265,6 @@
 {"id":269,"name":"Медиана","t":1794489640322,"sale":99.63,"ref":133,"profit":20.07,"roi":20.14,"bo":1,"so":15,"buy":99.6,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":218,"name":"Выхлопная труба грузовика","t":1794492650425,"sale":164,"ref":196.92,"profit":13.23,"roi":8.07,"bo":8,"so":17,"buy":163.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":455,"name":"Боеукладка","t":1794492650425,"sale":148.82,"ref":176.6,"profit":10.12,"roi":6.8,"bo":4,"so":18,"buy":136.41,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":335,"name":"Триггер","t":1794493252508,"sale":183.61,"ref":228,"profit":21.59,"roi":11.76,"bo":4,"so":6,"buy":179.12,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":312,"name":"Эмили","t":1794493252508,"sale":102.65,"ref":129.52,"profit":13.92,"roi":13.56,"bo":2,"so":6,"buy":97.02,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":40,"name":"Пилигрим","t":1794493252508,"sale":91.2,"ref":114.59,"profit":11.93,"roi":13.08,"bo":0,"so":19,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

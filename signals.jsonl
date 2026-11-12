@@ -833,3 +833,4 @@
 {"id":281,"name":"СД-15 Гриф","t":1794490261685,"sale":1850,"ref":2149.93,"profit":84.94,"roi":4.59,"bo":5,"so":10,"buy":1811.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":247,"name":"КП-17 Цунами","t":1794491442730,"sale":2300,"ref":2686.98,"profit":118.28,"roi":5.14,"bo":14,"so":15,"buy":2241.99,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":504,"name":"Аннигилятор","t":1794492076033,"sale":1001.01,"ref":1249.78,"profit":123.79,"roi":12.37,"bo":13,"so":19,"buy":1001,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":273,"name":"В-37-39 Адаптер","t":1794493253547,"sale":444.44,"ref":535.98,"profit":37.94,"roi":8.54,"bo":11,"so":19,"buy":444.24,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
