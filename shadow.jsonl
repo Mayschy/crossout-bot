@@ -1246,3 +1246,4 @@
 {"id":487,"name":"Газген","t":1794471036670,"sale":345,"ref":400,"profit":15,"roi":4.35,"bo":8,"so":12,"buy":340,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":184,"name":"Исполин","t":1794471636209,"sale":156,"ref":187,"profit":12.3,"roi":7.88,"bo":9,"so":23,"buy":155,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":445,"name":"Геррида I","t":1794475237917,"sale":700,"ref":796.89,"profit":17.2,"roi":2.46,"bo":36,"so":92,"buy":666.03,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":453,"name":"Мириада","t":1794478838111,"sale":440,"ref":500,"profit":10,"roi":2.27,"bo":40,"so":23,"buy":410.24,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
