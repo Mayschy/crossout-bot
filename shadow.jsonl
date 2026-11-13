@@ -1352,3 +1352,4 @@
 {"id":139,"name":"Красная лампа","t":1794572440019,"sale":51.87,"ref":68.92,"profit":10.16,"roi":19.58,"bo":0,"so":4,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":35,"name":"Призрак","t":1794573643396,"sale":630,"ref":712.95,"profit":11.66,"roi":1.85,"bo":6,"so":9,"buy":590.04,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1794576045489,"sale":160.01,"ref":200,"profit":19.99,"roi":12.49,"bo":10,"so":30,"buy":160,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":421,"name":"Тромбон","t":1794580266323,"sale":560.5,"ref":649.99,"profit":24.49,"roi":4.37,"bo":18,"so":16,"buy":545.06,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
