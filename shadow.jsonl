@@ -1365,3 +1365,6 @@
 {"id":269,"name":"Медиана","t":1794588042650,"sale":103.38,"ref":129.79,"profit":13.43,"roi":12.99,"bo":1,"so":34,"buy":102.55,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1163,"name":"Рампа с платформой 12×12×3","t":1794588641613,"sale":15.6,"ref":33.99,"profit":14.99,"roi":96.1,"bo":0,"so":55,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":65,"name":"Сверчок","t":1794589283478,"sale":369,"ref":429.72,"profit":17.75,"roi":4.81,"bo":20,"so":32,"buy":355,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1794589843287,"sale":116.1,"ref":150.65,"profit":19.49,"roi":16.78,"bo":21,"so":35,"buy":116.09,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1207,"name":"Измельчитель","t":1794589843287,"sale":18.84,"ref":40.87,"profit":17.94,"roi":95.24,"bo":0,"so":4,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":348,"name":"Гремлин","t":1794589843287,"sale":81,"ref":102.98,"profit":11.68,"roi":14.42,"bo":37,"so":46,"buy":79.95,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
