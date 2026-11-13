@@ -1345,3 +1345,4 @@
 {"id":571,"name":"Генезис","t":1794566443091,"sale":101.68,"ref":134.69,"profit":19.54,"roi":19.22,"bo":6,"so":4,"buy":99.52,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":576,"name":"Гусеница малая","t":1794567047706,"sale":168.11,"ref":208.89,"profit":19.89,"roi":11.83,"bo":7,"so":40,"buy":166,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":444,"name":"МН-Л 200","t":1794568243729,"sale":360,"ref":424,"profit":21.6,"roi":6,"bo":26,"so":24,"buy":355.06,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1794569466998,"sale":180.28,"ref":222.87,"profit":20.3,"roi":11.26,"bo":6,"so":15,"buy":174.86,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
