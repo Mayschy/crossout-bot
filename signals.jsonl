@@ -872,3 +872,4 @@
 {"id":496,"name":"СВ-2 Буревестник","t":1794568848369,"sale":314.94,"ref":398.68,"profit":43.87,"roi":13.93,"bo":3,"so":16,"buy":310.12,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1446,"name":"Мясник","t":1794571842413,"sale":1800,"ref":2099.85,"profit":89.87,"roi":4.99,"bo":8,"so":11,"buy":1771,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1051,"name":"Материал: Карбон","t":1794575442160,"sale":201.78,"ref":255.91,"profit":28.54,"roi":14.14,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":334,"name":"Блокчейн","t":1794576047703,"sale":380,"ref":450.45,"profit":25.4,"roi":6.69,"bo":28,"so":7,"buy":367.78,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
