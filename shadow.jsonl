@@ -1332,3 +1332,4 @@
 {"id":610,"name":"Увабаки (пов.)","t":1794541840063,"sale":201.05,"ref":250,"profit":23.95,"roi":11.91,"bo":16,"so":9,"buy":201.01,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":615,"name":"Прихвостень","t":1794543042183,"sale":97.09,"ref":122.94,"profit":13.56,"roi":13.96,"bo":11,"so":20,"buy":97,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1014,"name":"Рыжий конь","t":1794543642282,"sale":25,"ref":39.91,"profit":10.92,"roi":43.68,"bo":0,"so":15,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":65,"name":"Сверчок","t":1794549038957,"sale":365,"ref":430,"profit":22,"roi":6.03,"bo":21,"so":15,"buy":360,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
