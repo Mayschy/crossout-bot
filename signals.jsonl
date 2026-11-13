@@ -886,3 +886,5 @@
 {"id":1206,"name":"Стальной мяч","t":1794598275838,"sale":183.86,"ref":283.85,"profit":71.61,"roi":38.95,"bo":8,"so":3,"buy":160,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":482,"name":"Мигалка","t":1794598277399,"sale":220.1,"ref":283.6,"profit":35.14,"roi":15.97,"bo":1,"so":10,"buy":220.09,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":610,"name":"Увабаки (пов.)","t":1794603683997,"sale":171.27,"ref":219.95,"profit":26.68,"roi":15.58,"bo":1,"so":22,"buy":171.26,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":57,"name":"Фаворит","t":1794609643875,"sale":941,"ref":1089.99,"profit":39.99,"roi":4.25,"bo":4,"so":39,"buy":940,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":710,"name":"Расширение склада","t":1794609645319,"sale":260.02,"ref":318.99,"profit":27.07,"roi":10.41,"bo":38,"so":16,"buy":260,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}

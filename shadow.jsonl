@@ -1395,3 +1395,5 @@
 {"id":464,"name":"Коготь","t":1794606043475,"sale":81.09,"ref":104.35,"profit":12.82,"roi":15.82,"bo":29,"so":12,"buy":78,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1794607276861,"sale":116.09,"ref":151.85,"profit":20.57,"roi":17.72,"bo":15,"so":34,"buy":116.08,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":421,"name":"Тромбон","t":1794609063794,"sale":553,"ref":637.74,"profit":20.97,"roi":3.79,"bo":17,"so":18,"buy":551.12,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":358,"name":"Булава","t":1794609643204,"sale":87.48,"ref":115.4,"profit":16.38,"roi":18.72,"bo":11,"so":13,"buy":87,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":511,"name":"РС Нерпа","t":1794609643204,"sale":333.78,"ref":388.93,"profit":16.26,"roi":4.87,"bo":13,"so":35,"buy":330,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
