@@ -1326,3 +1326,4 @@
 {"id":619,"name":"Омни","t":1794528080083,"sale":180.15,"ref":222.23,"profit":19.86,"roi":11.02,"bo":9,"so":29,"buy":180,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1211,"name":"Прыжковая площадка","t":1794528080083,"sale":30.01,"ref":50.77,"profit":15.68,"roi":52.26,"bo":19,"so":14,"buy":30,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":348,"name":"Гремлин","t":1794528642533,"sale":79.82,"ref":102.98,"profit":12.86,"roi":16.11,"bo":48,"so":76,"buy":79.81,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":272,"name":"Нагваль","t":1794529860976,"sale":400,"ref":469.83,"profit":22.85,"roi":5.71,"bo":18,"so":30,"buy":391.16,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
