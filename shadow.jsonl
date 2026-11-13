@@ -1374,3 +1374,4 @@
 {"id":1390,"name":"Материал: Змей","t":1794591648913,"sale":129.12,"ref":159.8,"profit":14.7,"roi":11.38,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":289,"name":"Дробитель","t":1794592881650,"sale":345,"ref":399.98,"profit":14.98,"roi":4.34,"bo":8,"so":27,"buy":338,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1794592881650,"sale":160.03,"ref":192.96,"profit":13.63,"roi":8.52,"bo":7,"so":74,"buy":160.02,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":457,"name":"Снабжение","t":1794594043222,"sale":71,"ref":91.27,"profit":11.14,"roi":15.69,"bo":8,"so":15,"buy":70.75,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
