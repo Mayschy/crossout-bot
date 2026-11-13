@@ -888,3 +888,4 @@
 {"id":610,"name":"Увабаки (пов.)","t":1794603683997,"sale":171.27,"ref":219.95,"profit":26.68,"roi":15.58,"bo":1,"so":22,"buy":171.26,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":57,"name":"Фаворит","t":1794609643875,"sale":941,"ref":1089.99,"profit":39.99,"roi":4.25,"bo":4,"so":39,"buy":940,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":710,"name":"Расширение склада","t":1794609645319,"sale":260.02,"ref":318.99,"profit":27.07,"roi":10.41,"bo":38,"so":16,"buy":260,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1464,"name":"Икар I","t":1794613839792,"sale":460.72,"ref":563.1,"profit":46.07,"roi":10,"bo":25,"so":13,"buy":444.85,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
