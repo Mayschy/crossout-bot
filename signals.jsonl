@@ -867,3 +867,4 @@
 {"id":117,"name":"КА-2 Маховик","t":1794549678341,"sale":187.2,"ref":244.2,"profit":32.58,"roi":17.4,"bo":9,"so":58,"buy":184,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":592,"name":"Панджи","t":1794558668074,"sale":610.02,"ref":716,"profit":34.38,"roi":5.64,"bo":8,"so":22,"buy":610.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":335,"name":"Триггер","t":1794560485112,"sale":183.76,"ref":233.21,"profit":26.13,"roi":14.22,"bo":6,"so":4,"buy":183.72,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":273,"name":"В-37-39 Адаптер","t":1794562841583,"sale":445,"ref":530,"profit":32,"roi":7.19,"bo":11,"so":21,"buy":444.17,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
