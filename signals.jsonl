@@ -864,3 +864,4 @@
 {"id":1449,"name":"Гиена","t":1794538244621,"sale":750,"ref":899,"profit":59.1,"roi":7.88,"bo":9,"so":38,"buy":728.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":586,"name":"Слейпнир","t":1794540040350,"sale":292.01,"ref":360,"profit":31.99,"roi":10.96,"bo":10,"so":19,"buy":291,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":117,"name":"КА-2 Маховик","t":1794542480779,"sale":189.22,"ref":244.3,"profit":30.65,"roi":16.2,"bo":9,"so":54,"buy":184,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":117,"name":"КА-2 Маховик","t":1794549678341,"sale":187.2,"ref":244.2,"profit":32.58,"roi":17.4,"bo":9,"so":58,"buy":184,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
