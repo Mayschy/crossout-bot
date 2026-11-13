@@ -1353,3 +1353,4 @@
 {"id":35,"name":"Призрак","t":1794573643396,"sale":630,"ref":712.95,"profit":11.66,"roi":1.85,"bo":6,"so":9,"buy":590.04,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1794576045489,"sale":160.01,"ref":200,"profit":19.99,"roi":12.49,"bo":10,"so":30,"buy":160,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":421,"name":"Тромбон","t":1794580266323,"sale":560.5,"ref":649.99,"profit":24.49,"roi":4.37,"bo":18,"so":16,"buy":545.06,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":289,"name":"Дробитель","t":1794580842227,"sale":360,"ref":411.99,"profit":10.79,"roi":3,"bo":15,"so":22,"buy":340,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
