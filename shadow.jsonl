@@ -1338,3 +1338,4 @@
 {"id":464,"name":"Коготь","t":1794553281666,"sale":79.47,"ref":99.97,"profit":10.5,"roi":13.22,"bo":11,"so":25,"buy":78,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1794553840153,"sale":133.17,"ref":175,"profit":24.33,"roi":18.27,"bo":5,"so":18,"buy":131.44,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1794555071378,"sale":161.55,"ref":206,"profit":23.85,"roi":14.76,"bo":3,"so":25,"buy":160,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":309,"name":"Синус-0","t":1794557444820,"sale":90.47,"ref":113.59,"profit":11.76,"roi":13,"bo":5,"so":5,"buy":87.13,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
