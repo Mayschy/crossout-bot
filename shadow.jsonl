@@ -1348,3 +1348,5 @@
 {"id":646,"name":"Атом","t":1794569466998,"sale":180.28,"ref":222.87,"profit":20.3,"roi":11.26,"bo":6,"so":15,"buy":174.86,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1794570648961,"sale":151.28,"ref":194,"profit":23.32,"roi":15.42,"bo":0,"so":82,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":284,"name":"Панацея","t":1794570648961,"sale":311.16,"ref":369,"profit":20.94,"roi":6.73,"bo":17,"so":12,"buy":310.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":481,"name":"Темпура","t":1794572440019,"sale":67.08,"ref":86.88,"profit":11.11,"roi":16.57,"bo":0,"so":5,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":139,"name":"Красная лампа","t":1794572440019,"sale":51.87,"ref":68.92,"profit":10.16,"roi":19.58,"bo":0,"so":4,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
