@@ -1387,3 +1387,4 @@
 {"id":179,"name":"Саврас","t":1794597643702,"sale":82.06,"ref":104.97,"profit":12.41,"roi":15.13,"bo":3,"so":23,"buy":82.05,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1794598274072,"sale":88.57,"ref":111,"profit":11.33,"roi":12.79,"bo":4,"so":4,"buy":88.11,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":309,"name":"Синус-0","t":1794598274072,"sale":80.66,"ref":101.8,"profit":10.96,"roi":13.59,"bo":4,"so":23,"buy":79.85,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":610,"name":"Увабаки (пов.)","t":1794598843039,"sale":173.67,"ref":219.9,"profit":24.24,"roi":13.96,"bo":0,"so":24,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
