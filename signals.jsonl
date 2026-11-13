@@ -883,3 +883,5 @@
 {"id":357,"name":"Молотобой","t":1794591649755,"sale":925,"ref":1097.95,"profit":63.16,"roi":6.83,"bo":16,"so":24,"buy":920.08,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":301,"name":"Спектр-2","t":1794592883491,"sale":261,"ref":321.4,"profit":28.26,"roi":10.83,"bo":12,"so":17,"buy":257.05,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":33,"name":"Маяк 11","t":1794595840422,"sale":495,"ref":578,"profit":25.2,"roi":5.09,"bo":13,"so":7,"buy":450.08,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1206,"name":"Стальной мяч","t":1794598275838,"sale":183.86,"ref":283.85,"profit":71.61,"roi":38.95,"bo":8,"so":3,"buy":160,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":482,"name":"Мигалка","t":1794598277399,"sale":220.1,"ref":283.6,"profit":35.14,"roi":15.97,"bo":1,"so":10,"buy":220.09,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
