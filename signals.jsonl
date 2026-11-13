@@ -875,3 +875,4 @@
 {"id":334,"name":"Блокчейн","t":1794576047703,"sale":380,"ref":450.45,"profit":25.4,"roi":6.69,"bo":28,"so":7,"buy":367.78,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":378,"name":"Квазар (тюн.) (заготовка)","t":1794577246517,"sale":504.65,"ref":629.99,"profit":62.34,"roi":12.35,"bo":1,"so":19,"buy":500.74,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1051,"name":"Материал: Карбон","t":1794579043539,"sale":201.57,"ref":255.91,"profit":28.75,"roi":14.26,"bo":0,"so":3,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":361,"name":"Шредер","t":1794579643088,"sale":2611,"ref":3020.4,"profit":107.36,"roi":4.11,"bo":5,"so":23,"buy":2475.75,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
