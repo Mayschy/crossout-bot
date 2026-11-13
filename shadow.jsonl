@@ -1346,3 +1346,5 @@
 {"id":576,"name":"Гусеница малая","t":1794567047706,"sale":168.11,"ref":208.89,"profit":19.89,"roi":11.83,"bo":7,"so":40,"buy":166,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":444,"name":"МН-Л 200","t":1794568243729,"sale":360,"ref":424,"profit":21.6,"roi":6,"bo":26,"so":24,"buy":355.06,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":646,"name":"Атом","t":1794569466998,"sale":180.28,"ref":222.87,"profit":20.3,"roi":11.26,"bo":6,"so":15,"buy":174.86,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":635,"name":"Колесо багги (пов.)","t":1794570648961,"sale":151.28,"ref":194,"profit":23.32,"roi":15.42,"bo":0,"so":82,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":284,"name":"Панацея","t":1794570648961,"sale":311.16,"ref":369,"profit":20.94,"roi":6.73,"bo":17,"so":12,"buy":310.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
