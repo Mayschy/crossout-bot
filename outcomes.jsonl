@@ -11213,3 +11213,11 @@
 {"id":289,"t":1794592881650,"h":20,"at":1794594000000,"s":398.89,"b":360,"so":26,"bo":8,"ask":14,"instant":-21,"taken":true,"shadow":true,"roi":4.06,"capital":345,"late":false}
 {"id":635,"t":1794592881650,"h":20,"at":1794594000000,"s":192.94,"b":160.22,"so":72,"bo":8,"ask":13.62,"instant":-15.83,"taken":true,"shadow":true,"roi":8.51,"capital":160.03,"late":false}
 {"id":457,"t":1794594043222,"h":10,"at":1794594600000,"s":85,"b":70.8,"so":15,"bo":10,"ask":5.5,"instant":-7.28,"taken":true,"shadow":true,"roi":7.75,"capital":71,"late":false}
+{"id":710,"t":1794588044059,"h":120,"at":1794595200000,"s":310.7,"b":260,"so":57,"bo":45,"ask":26.79,"instant":-18.84,"taken":true,"shadow":false,"roi":10.6,"capital":252.84,"late":false}
+{"id":301,"t":1794592883491,"h":30,"at":1794594600000,"s":321.37,"b":258,"so":17,"bo":13,"ask":28.23,"instant":-28.8,"taken":true,"shadow":false,"roi":10.82,"capital":261,"late":false}
+{"id":1390,"t":1794588042650,"h":120,"at":1794595200000,"s":159.8,"b":0,"so":2,"bo":0,"ask":14.54,"instant":null,"taken":true,"shadow":true,"roi":11.25,"capital":129.28,"late":false}
+{"id":117,"t":1794588042650,"h":120,"at":1794595200000,"s":230.99,"b":191,"so":40,"bo":16,"ask":6.89,"instant":-29.1,"taken":true,"shadow":true,"roi":3.43,"capital":201,"late":false}
+{"id":269,"t":1794588042650,"h":120,"at":1794595200000,"s":127.97,"b":104.01,"so":38,"bo":5,"ask":11.79,"instant":-9.77,"taken":true,"shadow":true,"roi":11.41,"capital":103.38,"late":false}
+{"id":289,"t":1794592881650,"h":30,"at":1794594600000,"s":398,"b":335,"so":28,"bo":7,"ask":13.2,"instant":-43.5,"taken":true,"shadow":true,"roi":3.83,"capital":345,"late":false}
+{"id":635,"t":1794592881650,"h":30,"at":1794594600000,"s":192.89,"b":160.22,"so":71,"bo":8,"ask":13.57,"instant":-15.83,"taken":true,"shadow":true,"roi":8.48,"capital":160.03,"late":false}
+{"id":457,"t":1794594043222,"h":20,"at":1794595200000,"s":85,"b":70.8,"so":15,"bo":11,"ask":5.5,"instant":-7.28,"taken":true,"shadow":true,"roi":7.75,"capital":71,"late":false}
