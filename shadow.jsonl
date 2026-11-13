@@ -1360,3 +1360,6 @@
 {"id":309,"name":"Синус-0","t":1794585680386,"sale":84.81,"ref":109.9,"profit":14.1,"roi":16.63,"bo":3,"so":14,"buy":77.01,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":94,"name":"Зов свободы","t":1794585680386,"sale":219.63,"ref":258.95,"profit":13.43,"roi":6.11,"bo":1,"so":7,"buy":195.72,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":481,"name":"Темпура","t":1794585680386,"sale":65.5,"ref":86.88,"profit":12.69,"roi":19.38,"bo":1,"so":6,"buy":65.26,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1390,"name":"Материал: Змей","t":1794588042650,"sale":129.28,"ref":159.8,"profit":14.54,"roi":11.25,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1794588042650,"sale":201,"ref":239.37,"profit":14.43,"roi":7.18,"bo":21,"so":56,"buy":200.4,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":269,"name":"Медиана","t":1794588042650,"sale":103.38,"ref":129.79,"profit":13.43,"roi":12.99,"bo":1,"so":34,"buy":102.55,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
