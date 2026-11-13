@@ -1323,3 +1323,5 @@
 {"id":19,"name":"Ермак","t":1794525038590,"sale":303.33,"ref":354.99,"profit":16.16,"roi":5.33,"bo":6,"so":20,"buy":291.11,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":139,"name":"Красная лампа","t":1794525645895,"sale":53.66,"ref":71,"profit":10.24,"roi":19.08,"bo":0,"so":8,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1794527446969,"sale":200.07,"ref":244.45,"profit":19.94,"roi":9.96,"bo":15,"so":48,"buy":200.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":619,"name":"Омни","t":1794528080083,"sale":180.15,"ref":222.23,"profit":19.86,"roi":11.02,"bo":9,"so":29,"buy":180,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1211,"name":"Прыжковая площадка","t":1794528080083,"sale":30.01,"ref":50.77,"profit":15.68,"roi":52.26,"bo":19,"so":14,"buy":30,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
