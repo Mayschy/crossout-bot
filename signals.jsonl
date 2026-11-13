@@ -880,3 +880,4 @@
 {"id":338,"name":"ДР-27 Морган","t":1794582651032,"sale":1660,"ref":1934.99,"profit":81.49,"roi":4.91,"bo":12,"so":17,"buy":1651,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":261,"name":"Б12 Голубка","t":1794586848260,"sale":1180,"ref":1418.94,"profit":97.05,"roi":8.22,"bo":4,"so":4,"buy":1175.01,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":710,"name":"Расширение склада","t":1794588044059,"sale":252.84,"ref":314.98,"profit":30.64,"roi":12.12,"bo":28,"so":44,"buy":252.02,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":357,"name":"Молотобой","t":1794591649755,"sale":925,"ref":1097.95,"profit":63.16,"roi":6.83,"bo":16,"so":24,"buy":920.08,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}

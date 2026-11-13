@@ -1370,3 +1370,5 @@
 {"id":348,"name":"Гремлин","t":1794589843287,"sale":81,"ref":102.98,"profit":11.68,"roi":14.42,"bo":37,"so":46,"buy":79.95,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":339,"name":"Корво","t":1794591067660,"sale":278.98,"ref":328,"profit":16.22,"roi":5.81,"bo":1,"so":10,"buy":278.97,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3778,"name":"Морриган (заготовка)","t":1794591067660,"sale":3000,"ref":3350,"profit":15,"roi":0.5,"bo":0,"so":15,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":301,"name":"Спектр-2","t":1794591648913,"sale":271,"ref":321.4,"profit":18.26,"roi":6.74,"bo":12,"so":15,"buy":257.05,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1390,"name":"Материал: Змей","t":1794591648913,"sale":129.12,"ref":159.8,"profit":14.7,"roi":11.38,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
