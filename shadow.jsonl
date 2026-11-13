@@ -1334,3 +1334,4 @@
 {"id":1014,"name":"Рыжий конь","t":1794543642282,"sale":25,"ref":39.91,"profit":10.92,"roi":43.68,"bo":0,"so":15,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":65,"name":"Сверчок","t":1794549038957,"sale":365,"ref":430,"profit":22,"roi":6.03,"bo":21,"so":15,"buy":360,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":226,"name":"Надувной Аполлон","t":1794549677668,"sale":252.73,"ref":300.86,"profit":18.04,"roi":7.14,"bo":1,"so":3,"buy":234.74,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":487,"name":"Газген","t":1794552640486,"sale":351,"ref":414.98,"profit":22.48,"roi":6.41,"bo":11,"so":15,"buy":337.2,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
