@@ -1390,3 +1390,5 @@
 {"id":610,"name":"Увабаки (пов.)","t":1794598843039,"sale":173.67,"ref":219.9,"profit":24.24,"roi":13.96,"bo":0,"so":24,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":252,"name":"ЗИС-34 Толстяк","t":1794601863493,"sale":239.16,"ref":292.07,"profit":23.7,"roi":9.91,"bo":13,"so":3,"buy":230,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":484,"name":"ЭУ-1 Заряд","t":1794602445947,"sale":95,"ref":117.8,"profit":11.02,"roi":11.6,"bo":14,"so":3,"buy":87.52,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":24,"name":"Инферно","t":1794603683306,"sale":1000,"ref":1130,"profit":17,"roi":1.7,"bo":20,"so":14,"buy":993.03,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":619,"name":"Омни","t":1794603683306,"sale":190.35,"ref":223.84,"profit":11.11,"roi":5.83,"bo":26,"so":52,"buy":185,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
