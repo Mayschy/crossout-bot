@@ -1381,3 +1381,5 @@
 {"id":623,"name":"Виджет (пов.)","t":1794595839682,"sale":460,"ref":535.11,"profit":21.6,"roi":4.7,"bo":20,"so":58,"buy":436.99,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1467,"name":"АП64 Джоуль (тюн.) (заготовка)","t":1794595839682,"sale":198.01,"ref":236,"profit":14.39,"roi":7.27,"bo":19,"so":31,"buy":197.52,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":312,"name":"Эмили","t":1794596481627,"sale":100,"ref":131.84,"profit":18.66,"roi":18.66,"bo":4,"so":4,"buy":99.71,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":609,"name":"Увабаки","t":1794597043861,"sale":330,"ref":390,"profit":21,"roi":6.36,"bo":2,"so":14,"buy":326.12,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":610,"name":"Увабаки (пов.)","t":1794597043861,"sale":187,"ref":219.95,"profit":10.95,"roi":5.86,"bo":3,"so":25,"buy":181.28,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
