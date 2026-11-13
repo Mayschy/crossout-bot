@@ -1368,3 +1368,5 @@
 {"id":630,"name":"Бигфут","t":1794589843287,"sale":116.1,"ref":150.65,"profit":19.49,"roi":16.78,"bo":21,"so":35,"buy":116.09,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1207,"name":"Измельчитель","t":1794589843287,"sale":18.84,"ref":40.87,"profit":17.94,"roi":95.24,"bo":0,"so":4,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":348,"name":"Гремлин","t":1794589843287,"sale":81,"ref":102.98,"profit":11.68,"roi":14.42,"bo":37,"so":46,"buy":79.95,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":339,"name":"Корво","t":1794591067660,"sale":278.98,"ref":328,"profit":16.22,"roi":5.81,"bo":1,"so":10,"buy":278.97,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3778,"name":"Морриган (заготовка)","t":1794591067660,"sale":3000,"ref":3350,"profit":15,"roi":0.5,"bo":0,"so":15,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
