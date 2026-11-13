@@ -1354,3 +1354,5 @@
 {"id":625,"name":"Затворник (пов.)","t":1794576045489,"sale":160.01,"ref":200,"profit":19.99,"roi":12.49,"bo":10,"so":30,"buy":160,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":421,"name":"Тромбон","t":1794580266323,"sale":560.5,"ref":649.99,"profit":24.49,"roi":4.37,"bo":18,"so":16,"buy":545.06,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":289,"name":"Дробитель","t":1794580842227,"sale":360,"ref":411.99,"profit":10.79,"roi":3,"bo":15,"so":22,"buy":340,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1794582642460,"sale":190,"ref":230,"profit":17,"roi":8.95,"bo":17,"so":55,"buy":187.03,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":269,"name":"Медиана","t":1794582642460,"sale":103.38,"ref":131.09,"profit":14.6,"roi":14.12,"bo":3,"so":20,"buy":103.03,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
