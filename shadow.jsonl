@@ -1342,3 +1342,4 @@
 {"id":511,"name":"РС Нерпа","t":1794562265786,"sale":326.01,"ref":375,"profit":11.49,"roi":3.52,"bo":21,"so":33,"buy":325.16,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":701,"name":"Комплект снаряжения С2","t":1794564646683,"sale":76.67,"ref":100,"profit":13.33,"roi":17.39,"bo":1,"so":5,"buy":75.19,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":537,"name":"Скидутка","t":1794564646683,"sale":230.47,"ref":269.88,"profit":12.42,"roi":5.39,"bo":34,"so":43,"buy":230,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":571,"name":"Генезис","t":1794566443091,"sale":101.68,"ref":134.69,"profit":19.54,"roi":19.22,"bo":6,"so":4,"buy":99.52,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
