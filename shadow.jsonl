@@ -1356,3 +1356,4 @@
 {"id":289,"name":"Дробитель","t":1794580842227,"sale":360,"ref":411.99,"profit":10.79,"roi":3,"bo":15,"so":22,"buy":340,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1794582642460,"sale":190,"ref":230,"profit":17,"roi":8.95,"bo":17,"so":55,"buy":187.03,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1794582642460,"sale":103.38,"ref":131.09,"profit":14.6,"roi":14.12,"bo":3,"so":20,"buy":103.03,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":112,"name":"Рвач","t":1794583248234,"sale":112.18,"ref":147.93,"profit":20.96,"roi":18.68,"bo":12,"so":4,"buy":110.1,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
