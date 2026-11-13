@@ -1372,3 +1372,5 @@
 {"id":3778,"name":"Морриган (заготовка)","t":1794591067660,"sale":3000,"ref":3350,"profit":15,"roi":0.5,"bo":0,"so":15,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":301,"name":"Спектр-2","t":1794591648913,"sale":271,"ref":321.4,"profit":18.26,"roi":6.74,"bo":12,"so":15,"buy":257.05,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1390,"name":"Материал: Змей","t":1794591648913,"sale":129.12,"ref":159.8,"profit":14.7,"roi":11.38,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":289,"name":"Дробитель","t":1794592881650,"sale":345,"ref":399.98,"profit":14.98,"roi":4.34,"bo":8,"so":27,"buy":338,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":635,"name":"Колесо багги (пов.)","t":1794592881650,"sale":160.03,"ref":192.96,"profit":13.63,"roi":8.52,"bo":7,"so":74,"buy":160.02,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
