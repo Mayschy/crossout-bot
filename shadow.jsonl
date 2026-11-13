@@ -1400,3 +1400,5 @@
 {"id":24,"name":"Инферно","t":1794610879772,"sale":993.03,"ref":1125.96,"profit":20.33,"roi":2.05,"bo":18,"so":16,"buy":993.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":320,"name":"ПУ13 Уравнитель","t":1794610879772,"sale":277.52,"ref":329,"profit":18.58,"roi":6.7,"bo":16,"so":31,"buy":277.51,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1467,"name":"АП64 Джоуль (тюн.) (заготовка)","t":1794611438513,"sale":197.5,"ref":244.48,"profit":22.53,"roi":11.41,"bo":15,"so":10,"buy":197,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":317,"name":"Дамка","t":1794613240837,"sale":1199,"ref":1349.99,"profit":15.99,"roi":1.33,"bo":6,"so":7,"buy":1153.01,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":676,"name":"Зубодробитель","t":1794613240837,"sale":69.56,"ref":88.62,"profit":10.2,"roi":14.66,"bo":20,"so":47,"buy":69.13,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
