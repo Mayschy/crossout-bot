@@ -1328,3 +1328,4 @@
 {"id":348,"name":"Гремлин","t":1794528642533,"sale":79.82,"ref":102.98,"profit":12.86,"roi":16.11,"bo":48,"so":76,"buy":79.81,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":272,"name":"Нагваль","t":1794529860976,"sale":400,"ref":469.83,"profit":22.85,"roi":5.71,"bo":18,"so":30,"buy":391.16,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1794531679190,"sale":114.42,"ref":149.98,"profit":20.56,"roi":17.97,"bo":4,"so":46,"buy":114.41,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":701,"name":"Комплект снаряжения С2","t":1794532852414,"sale":80,"ref":100,"profit":10,"roi":12.5,"bo":1,"so":5,"buy":75.19,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
