@@ -1455,3 +1455,7 @@
 {"id":51,"name":"Нетопырь","t":1794665448296,"sale":100,"ref":125.81,"profit":13.23,"roi":13.23,"bo":19,"so":7,"buy":93.95,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1365,"name":"Пурпурная тыква","t":1794666663654,"sale":58.01,"ref":82.11,"profit":15.89,"roi":27.39,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":93,"name":"Онгаку","t":1794667240361,"sale":190.01,"ref":233,"profit":19.69,"roi":10.36,"bo":6,"so":7,"buy":175,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":40,"name":"Пилигрим","t":1794669040030,"sale":90.89,"ref":121.55,"profit":18.5,"roi":20.36,"bo":3,"so":2,"buy":90.77,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":563,"name":"Синхронизатор","t":1794669040030,"sale":250.01,"ref":297.9,"profit":18.1,"roi":7.24,"bo":2,"so":41,"buy":250,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":372,"name":"Прометей V","t":1794669040030,"sale":339.09,"ref":395,"profit":16.41,"roi":4.84,"bo":1,"so":42,"buy":336,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":357,"name":"Молотобой","t":1794669040030,"sale":921.17,"ref":1035,"profit":10.33,"roi":1.12,"bo":16,"so":21,"buy":921.16,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
