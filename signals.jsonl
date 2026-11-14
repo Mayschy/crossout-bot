@@ -896,3 +896,5 @@
 {"id":375,"name":"Аврора","t":1794623464852,"sale":142.84,"ref":189.43,"profit":27.65,"roi":19.36,"bo":7,"so":25,"buy":139.03,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1464,"name":"Икар I","t":1794624643809,"sale":473.71,"ref":586.47,"profit":54.11,"roi":11.42,"bo":25,"so":7,"buy":444.85,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":585,"name":"Файер «Фингал»","t":1794627643553,"sale":340.42,"ref":472.97,"profit":85.25,"roi":25.04,"bo":0,"so":6,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1464,"name":"Икар I","t":1794629437791,"sale":488,"ref":573.18,"profit":27.86,"roi":5.71,"bo":27,"so":11,"buy":468.85,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":375,"name":"Аврора","t":1794629439194,"sale":145.28,"ref":189.42,"profit":25.2,"roi":17.34,"bo":7,"so":28,"buy":139.03,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
