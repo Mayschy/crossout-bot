@@ -1411,3 +1411,4 @@
 {"id":287,"name":"АГС-55 Импульс","t":1794621678757,"sale":152,"ref":187.76,"profit":16.98,"roi":11.17,"bo":17,"so":13,"buy":151.59,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":484,"name":"ЭУ-1 Заряд","t":1794621678757,"sale":90.01,"ref":114.05,"profit":12.63,"roi":14.04,"bo":14,"so":7,"buy":87.05,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1794625839437,"sale":155.19,"ref":192.91,"profit":18.43,"roi":11.88,"bo":3,"so":55,"buy":153.9,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":295,"name":"АП64 Джоуль","t":1794626445408,"sale":916.08,"ref":1033.34,"profit":13.93,"roi":1.52,"bo":33,"so":33,"buy":916.07,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
