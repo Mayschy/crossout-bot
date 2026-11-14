@@ -1442,3 +1442,6 @@
 {"id":251,"name":"Райдзин","t":1794654077710,"sale":733.5,"ref":842.22,"profit":24.5,"roi":3.34,"bo":4,"so":21,"buy":690,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":300,"name":"П-26 Заградитель","t":1794655240164,"sale":276.32,"ref":320,"profit":11.68,"roi":4.23,"bo":1,"so":17,"buy":270,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":531,"name":"Осветитель","t":1794657675027,"sale":57.28,"ref":75.75,"profit":10.89,"roi":19.02,"bo":1,"so":4,"buy":54.49,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":577,"name":"Гусеница бронированная","t":1794659459988,"sale":341.02,"ref":399.98,"profit":18.96,"roi":5.56,"bo":8,"so":37,"buy":341,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":181,"name":"Гепард","t":1794659459988,"sale":130,"ref":159.76,"profit":13.78,"roi":10.6,"bo":10,"so":68,"buy":129.98,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":254,"name":"ЗИС-33 Верзила","t":1794659459988,"sale":71.1,"ref":91.97,"profit":11.67,"roi":16.42,"bo":16,"so":26,"buy":70,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
