@@ -1425,3 +1425,4 @@
 {"id":24,"name":"Инферно","t":1794640240217,"sale":992,"ref":1125.92,"profit":21.33,"roi":2.15,"bo":10,"so":13,"buy":970,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":149,"name":"Вакидатэ","t":1794645059574,"sale":169.28,"ref":208.91,"profit":18.74,"roi":11.07,"bo":7,"so":10,"buy":167.44,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":313,"name":"Буря","t":1794646242260,"sale":133.56,"ref":170,"profit":19.44,"roi":14.56,"bo":6,"so":18,"buy":132.51,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":254,"name":"ЗИС-33 Верзила","t":1794647438014,"sale":69.93,"ref":92.4,"profit":13.23,"roi":18.92,"bo":9,"so":23,"buy":69.55,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
