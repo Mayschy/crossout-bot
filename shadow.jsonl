@@ -1490,3 +1490,4 @@
 {"id":690,"name":"Контейнер «Легенда»","t":1794691240536,"sale":161.34,"ref":199.99,"profit":18.65,"roi":11.56,"bo":0,"so":61,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":293,"name":"Шкуродер","t":1794694237470,"sale":244.45,"ref":286.12,"profit":13.06,"roi":5.34,"bo":2,"so":25,"buy":217,"act":7,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":65,"name":"Сверчок","t":1794696042560,"sale":362,"ref":428.79,"profit":23.91,"roi":6.61,"bo":19,"so":29,"buy":361.22,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":485,"name":"Бутстрэп","t":1794696641852,"sale":611,"ref":705.55,"profit":24,"roi":3.93,"bo":3,"so":16,"buy":610,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
