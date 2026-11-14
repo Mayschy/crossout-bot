@@ -898,3 +898,4 @@
 {"id":585,"name":"Файер «Фингал»","t":1794627643553,"sale":340.42,"ref":472.97,"profit":85.25,"roi":25.04,"bo":0,"so":6,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1464,"name":"Икар I","t":1794629437791,"sale":488,"ref":573.18,"profit":27.86,"roi":5.71,"bo":27,"so":11,"buy":468.85,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":375,"name":"Аврора","t":1794629439194,"sale":145.28,"ref":189.42,"profit":25.2,"roi":17.34,"bo":7,"so":28,"buy":139.03,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":261,"name":"Б12 Голубка","t":1794631842014,"sale":1182.02,"ref":1415,"profit":91.48,"roi":7.74,"bo":3,"so":7,"buy":1181.2,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
