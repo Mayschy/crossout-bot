@@ -1479,3 +1479,4 @@
 {"id":619,"name":"Омни","t":1794679843257,"sale":181.74,"ref":216.98,"profit":13.54,"roi":7.45,"bo":29,"so":52,"buy":181.73,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":65,"name":"Сверчок","t":1794682241895,"sale":370,"ref":424.98,"profit":12.48,"roi":3.37,"bo":29,"so":37,"buy":364.31,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":685,"name":"Комплект снаряжения У1","t":1794682241895,"sale":250,"ref":290.99,"profit":11.89,"roi":4.76,"bo":0,"so":35,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":485,"name":"Бутстрэп","t":1794683442608,"sale":610,"ref":692.45,"profit":13.21,"roi":2.16,"bo":0,"so":20,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
