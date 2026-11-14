@@ -1407,3 +1407,6 @@
 {"id":419,"name":"Пламя","t":1794617444204,"sale":340,"ref":389,"profit":10.1,"roi":2.97,"bo":14,"so":53,"buy":330,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":419,"name":"Пламя","t":1794620443054,"sale":325,"ref":388,"profit":24.2,"roi":7.45,"bo":13,"so":55,"buy":322,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":295,"name":"АП64 Джоуль","t":1794620443054,"sale":916.08,"ref":1033.25,"profit":13.85,"roi":1.51,"bo":35,"so":34,"buy":916.07,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1794621678757,"sale":190,"ref":230.99,"profit":17.89,"roi":9.42,"bo":19,"so":42,"buy":189,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":287,"name":"АГС-55 Импульс","t":1794621678757,"sale":152,"ref":187.76,"profit":16.98,"roi":11.17,"bo":17,"so":13,"buy":151.59,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":484,"name":"ЭУ-1 Заряд","t":1794621678757,"sale":90.01,"ref":114.05,"profit":12.63,"roi":14.04,"bo":14,"so":7,"buy":87.05,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
