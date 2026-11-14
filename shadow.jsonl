@@ -1465,3 +1465,4 @@
 {"id":189,"name":"Четкий","t":1794672076365,"sale":166.4,"ref":199,"profit":12.7,"roi":7.63,"bo":19,"so":7,"buy":160.02,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":537,"name":"Скидутка","t":1794673239311,"sale":182.3,"ref":220.85,"profit":16.46,"roi":9.03,"bo":8,"so":51,"buy":175.45,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":171,"name":"Крянштейн","t":1794673239311,"sale":167.1,"ref":198.77,"profit":11.79,"roi":7.06,"bo":12,"so":31,"buy":167.06,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":605,"name":"Титан","t":1794673860120,"sale":111,"ref":135,"profit":10.5,"roi":9.46,"bo":9,"so":5,"buy":109.42,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
