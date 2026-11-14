@@ -920,3 +920,4 @@
 {"id":290,"name":"Тошнитель","t":1794675046292,"sale":1710,"ref":1928,"profit":25.2,"roi":1.47,"bo":24,"so":9,"buy":1651,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":367,"name":"Харон","t":1794676243518,"sale":3800,"ref":4399,"profit":159.1,"roi":4.19,"bo":11,"so":16,"buy":3650.12,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":625,"name":"Затворник (пов.)","t":1794676245051,"sale":175.02,"ref":229.9,"profit":31.89,"roi":18.22,"bo":23,"so":17,"buy":175.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":536,"name":"Мясорубка","t":1794678040136,"sale":272,"ref":332,"profit":26.8,"roi":9.85,"bo":12,"so":22,"buy":265.95,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
