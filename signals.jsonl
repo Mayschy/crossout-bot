@@ -924,3 +924,4 @@
 {"id":572,"name":"Нейтрино","t":1794678644391,"sale":309.02,"ref":398.17,"profit":49.33,"roi":15.96,"bo":17,"so":5,"buy":309.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":438,"name":"РН-М Дино","t":1794679844047,"sale":1021.01,"ref":1198.98,"profit":58.07,"roi":5.69,"bo":9,"so":36,"buy":1021,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":487,"name":"Газген","t":1794682242819,"sale":320.13,"ref":399.99,"profit":39.86,"roi":12.45,"bo":0,"so":35,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":328,"name":"Люцифер","t":1794682876000,"sale":2612,"ref":2999,"profit":87.1,"roi":3.33,"bo":15,"so":17,"buy":2611,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
