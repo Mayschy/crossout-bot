@@ -12006,3 +12006,11 @@
 {"id":531,"t":1794685242876,"h":60,"at":1794688800000,"s":51.69,"b":0,"so":7,"bo":0,"ask":-5.17,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":51.69,"late":false}
 {"id":566,"t":1794687042930,"h":30,"at":1794688800000,"s":319.59,"b":280.59,"so":40,"bo":6,"ask":21.13,"instant":-13.97,"taken":true,"shadow":true,"roi":7.93,"capital":266.5,"late":false}
 {"id":495,"t":1794688261218,"h":10,"at":1794688800000,"s":112.5,"b":90,"so":6,"bo":9,"ask":10.26,"instant":-9.99,"taken":true,"shadow":true,"roi":11.28,"capital":90.99,"late":false}
+{"id":487,"t":1794682242819,"h":120,"at":1794689400000,"s":395.88,"b":312.05,"so":40,"bo":5,"ask":36.16,"instant":-39.28,"taken":true,"shadow":false,"roi":11.3,"capital":320.13,"late":false}
+{"id":328,"t":1794682876000,"h":120,"at":1794690000000,"s":2970,"b":2611.01,"so":17,"bo":16,"ask":61,"instant":-262.09,"taken":true,"shadow":false,"roi":2.34,"capital":2612,"late":false}
+{"id":48,"t":1794689440821,"h":10,"at":1794690000000,"s":806.74,"b":799.19,"so":3,"bo":1,"ask":-80.67,"instant":-87.47,"taken":false,"shadow":false,"roi":-10,"capital":806.74,"late":false}
+{"id":65,"t":1794682241895,"h":120,"at":1794689400000,"s":424.97,"b":361.21,"so":30,"bo":19,"ask":12.47,"instant":-44.91,"taken":true,"shadow":true,"roi":3.37,"capital":370,"late":false}
+{"id":685,"t":1794682241895,"h":120,"at":1794689400000,"s":291,"b":265,"so":32,"bo":1,"ask":11.9,"instant":-11.5,"taken":true,"shadow":true,"roi":4.76,"capital":250,"late":false}
+{"id":495,"t":1794688261218,"h":20,"at":1794689400000,"s":112.35,"b":90,"so":7,"bo":9,"ask":10.13,"instant":-9.99,"taken":true,"shadow":true,"roi":11.13,"capital":90.99,"late":false}
+{"id":495,"t":1794688261218,"h":30,"at":1794690000000,"s":112.35,"b":90,"so":8,"bo":9,"ask":10.13,"instant":-9.99,"taken":true,"shadow":true,"roi":11.13,"capital":90.99,"late":false}
+{"id":229,"t":1794689439316,"h":10,"at":1794690000000,"s":225.76,"b":0,"so":7,"bo":0,"ask":-22.58,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":225.76,"late":false}

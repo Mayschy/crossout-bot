@@ -1485,3 +1485,5 @@
 {"id":566,"name":"Хамелеон Mk2","t":1794687042930,"sale":266.5,"ref":319.83,"profit":21.35,"roi":8.01,"bo":2,"so":39,"buy":260.51,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1794688261218,"sale":90.99,"ref":113.88,"profit":11.5,"roi":12.64,"bo":10,"so":7,"buy":90.9,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":229,"name":"Надувной Голиаф правый","t":1794689439316,"sale":225.76,"ref":276.22,"profit":22.84,"roi":10.12,"bo":0,"so":7,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":675,"name":"Горбун","t":1794690079820,"sale":378,"ref":439.7,"profit":17.73,"roi":4.69,"bo":6,"so":10,"buy":356,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1794690079820,"sale":182,"ref":219.99,"profit":15.99,"roi":8.79,"bo":6,"so":66,"buy":180.05,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
