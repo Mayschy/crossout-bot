@@ -1450,3 +1450,4 @@
 {"id":3743,"name":"Паломник","t":1794661839414,"sale":750,"ref":856.97,"profit":21.27,"roi":2.84,"bo":2,"so":16,"buy":701,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":330,"name":"Аргумент","t":1794662446130,"sale":314.96,"ref":366,"profit":14.44,"roi":4.58,"bo":14,"so":18,"buy":303.36,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":279,"name":"Иглобрюх","t":1794662446130,"sale":706.02,"ref":800,"profit":13.98,"roi":1.98,"bo":20,"so":119,"buy":706.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":563,"name":"Синхронизатор","t":1794663640686,"sale":245.72,"ref":299,"profit":23.38,"roi":9.51,"bo":1,"so":40,"buy":245.1,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
