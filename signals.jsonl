@@ -930,3 +930,4 @@
 {"id":1449,"name":"Гиена","t":1794685243687,"sale":840,"ref":964.79,"profit":28.31,"roi":3.37,"bo":10,"so":8,"buy":808,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":463,"name":"Отшельник","t":1794685839301,"sale":629.97,"ref":758.87,"profit":53.01,"roi":8.42,"bo":22,"so":28,"buy":628.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":48,"name":"Хот-род","t":1794689440821,"sale":806.74,"ref":937.61,"profit":37.11,"roi":4.6,"bo":1,"so":3,"buy":799.19,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":337,"name":"Акари","t":1794693675625,"sale":2111.12,"ref":2383.13,"profit":33.7,"roi":1.6,"bo":4,"so":3,"buy":1905.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
