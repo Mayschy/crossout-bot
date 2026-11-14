@@ -906,3 +906,5 @@
 {"id":394,"name":"Комбайн","t":1794649838415,"sale":1678,"ref":1947.9,"profit":75.11,"roi":4.48,"bo":10,"so":23,"buy":1661,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":253,"name":"ЗИС-46 Мамонт","t":1794652262651,"sale":1600.99,"ref":1947.88,"profit":152.1,"roi":9.5,"bo":13,"so":12,"buy":1555,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1060,"name":"Шаблон: Опасность!","t":1794654644498,"sale":220,"ref":275.9,"profit":28.31,"roi":12.87,"bo":1,"so":2,"buy":208.74,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":17,"name":"Мастер","t":1794661840149,"sale":3200,"ref":3617.17,"profit":55.45,"roi":1.73,"bo":6,"so":11,"buy":2955.54,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":386,"name":"Рок","t":1794661841499,"sale":820,"ref":940,"profit":26,"roi":3.17,"bo":10,"so":12,"buy":755.13,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
