@@ -1438,3 +1438,4 @@
 {"id":465,"name":"Счетчик урона","t":1794651037230,"sale":215.16,"ref":263.23,"profit":21.75,"roi":10.11,"bo":12,"so":6,"buy":215.15,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":93,"name":"Онгаку","t":1794651037230,"sale":190.04,"ref":234.51,"profit":21.02,"roi":11.06,"bo":6,"so":6,"buy":175,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":313,"name":"Буря","t":1794652261824,"sale":133.61,"ref":169.96,"profit":19.35,"roi":14.49,"bo":11,"so":18,"buy":133.56,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":254,"name":"ЗИС-33 Верзила","t":1794652842520,"sale":69.79,"ref":91.99,"profit":13,"roi":18.63,"bo":8,"so":25,"buy":69.55,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
