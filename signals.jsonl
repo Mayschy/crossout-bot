@@ -911,3 +911,4 @@
 {"id":294,"name":"Морта","t":1794664242839,"sale":2102.01,"ref":2444.44,"profit":97.99,"roi":4.66,"bo":4,"so":12,"buy":2102,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":498,"name":"Импеллер","t":1794665449235,"sale":991.91,"ref":1228.89,"profit":114.09,"roi":11.5,"bo":10,"so":13,"buy":990.73,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":332,"name":"Тирс I","t":1794665450792,"sale":1890,"ref":2199.77,"profit":89.79,"roi":4.75,"bo":8,"so":8,"buy":1867.99,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":575,"name":"Гусеница танковая","t":1794666039186,"sale":743,"ref":891.12,"profit":59.01,"roi":7.94,"bo":13,"so":8,"buy":742,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
