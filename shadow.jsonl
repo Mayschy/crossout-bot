@@ -1431,3 +1431,7 @@
 {"id":481,"name":"Темпура","t":1794649241155,"sale":68.74,"ref":87.7,"profit":10.19,"roi":14.82,"bo":2,"so":4,"buy":65.27,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":289,"name":"Дробитель","t":1794649837743,"sale":333.4,"ref":389.95,"profit":17.56,"roi":5.27,"bo":4,"so":30,"buy":326.57,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":612,"name":"Колесо двойное (пов.)","t":1794649837743,"sale":51.92,"ref":70.2,"profit":11.26,"roi":21.69,"bo":16,"so":9,"buy":51.06,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":487,"name":"Газген","t":1794650472873,"sale":340.75,"ref":404,"profit":22.85,"roi":6.71,"bo":12,"so":30,"buy":340.71,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":24,"name":"Инферно","t":1794650472873,"sale":970.05,"ref":1100,"profit":19.95,"roi":2.06,"bo":11,"so":18,"buy":970,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1207,"name":"Измельчитель","t":1794650472873,"sale":18.24,"ref":41.01,"profit":18.67,"roi":102.35,"bo":1,"so":4,"buy":18.23,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":148,"name":"Фукигаеси","t":1794650472873,"sale":72,"ref":98.86,"profit":16.97,"roi":23.58,"bo":0,"so":5,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
