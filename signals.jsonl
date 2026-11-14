@@ -905,3 +905,4 @@
 {"id":1300,"name":"Матовый ультрафиолет","t":1794649242025,"sale":326.25,"ref":398.98,"profit":32.83,"roi":10.06,"bo":3,"so":4,"buy":215.63,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":394,"name":"Комбайн","t":1794649838415,"sale":1678,"ref":1947.9,"profit":75.11,"roi":4.48,"bo":10,"so":23,"buy":1661,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":253,"name":"ЗИС-46 Мамонт","t":1794652262651,"sale":1600.99,"ref":1947.88,"profit":152.1,"roi":9.5,"bo":13,"so":12,"buy":1555,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1060,"name":"Шаблон: Опасность!","t":1794654644498,"sale":220,"ref":275.9,"profit":28.31,"roi":12.87,"bo":1,"so":2,"buy":208.74,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
