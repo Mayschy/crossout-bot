@@ -899,3 +899,4 @@
 {"id":1464,"name":"Икар I","t":1794629437791,"sale":488,"ref":573.18,"profit":27.86,"roi":5.71,"bo":27,"so":11,"buy":468.85,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":375,"name":"Аврора","t":1794629439194,"sale":145.28,"ref":189.42,"profit":25.2,"roi":17.34,"bo":7,"so":28,"buy":139.03,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":261,"name":"Б12 Голубка","t":1794631842014,"sale":1182.02,"ref":1415,"profit":91.48,"roi":7.74,"bo":3,"so":7,"buy":1181.2,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":277,"name":"Кайдзю","t":1794642041177,"sale":1231,"ref":1399.87,"profit":28.88,"roi":2.35,"bo":18,"so":10,"buy":1132,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
