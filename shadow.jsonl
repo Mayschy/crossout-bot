@@ -1405,3 +1405,5 @@
 {"id":358,"name":"Булава","t":1794615651040,"sale":87.48,"ref":111.54,"profit":12.91,"roi":14.75,"bo":11,"so":12,"buy":87,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":481,"name":"Темпура","t":1794616263390,"sale":66.64,"ref":87.7,"profit":12.29,"roi":18.44,"bo":3,"so":3,"buy":65.3,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":419,"name":"Пламя","t":1794617444204,"sale":340,"ref":389,"profit":10.1,"roi":2.97,"bo":14,"so":53,"buy":330,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":419,"name":"Пламя","t":1794620443054,"sale":325,"ref":388,"profit":24.2,"roi":7.45,"bo":13,"so":55,"buy":322,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":295,"name":"АП64 Джоуль","t":1794620443054,"sale":916.08,"ref":1033.25,"profit":13.85,"roi":1.51,"bo":35,"so":34,"buy":916.07,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
