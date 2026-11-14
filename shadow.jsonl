@@ -1440,3 +1440,4 @@
 {"id":313,"name":"Буря","t":1794652261824,"sale":133.61,"ref":169.96,"profit":19.35,"roi":14.49,"bo":11,"so":18,"buy":133.56,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":254,"name":"ЗИС-33 Верзила","t":1794652842520,"sale":69.79,"ref":91.99,"profit":13,"roi":18.63,"bo":8,"so":25,"buy":69.55,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":251,"name":"Райдзин","t":1794654077710,"sale":733.5,"ref":842.22,"profit":24.5,"roi":3.34,"bo":4,"so":21,"buy":690,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":300,"name":"П-26 Заградитель","t":1794655240164,"sale":276.32,"ref":320,"profit":11.68,"roi":4.23,"bo":1,"so":17,"buy":270,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
