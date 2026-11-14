@@ -1415,3 +1415,5 @@
 {"id":178,"name":"Горячка","t":1794630042361,"sale":34,"ref":57.98,"profit":18.18,"roi":53.48,"bo":0,"so":16,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":463,"name":"Отшельник","t":1794630661487,"sale":680.01,"ref":769.87,"profit":12.87,"roi":1.89,"bo":19,"so":35,"buy":671,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1212,"name":"Плазменное кольцо","t":1794630661487,"sale":43.98,"ref":59.98,"profit":10,"roi":22.74,"bo":0,"so":4,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":436,"name":"LED «Джек»","t":1794631241378,"sale":170.18,"ref":207.75,"profit":16.79,"roi":9.87,"bo":1,"so":7,"buy":166.76,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":56,"name":"Омнибокс","t":1794631241378,"sale":360,"ref":415,"profit":13.5,"roi":3.75,"bo":12,"so":25,"buy":350,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
