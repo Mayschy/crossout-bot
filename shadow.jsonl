@@ -1429,3 +1429,5 @@
 {"id":143,"name":"Длинная голубая лампа","t":1794649241155,"sale":162.38,"ref":198.62,"profit":16.38,"roi":10.09,"bo":3,"so":5,"buy":160,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":326,"name":"Вальс","t":1794649241155,"sale":1605.55,"ref":1798.98,"profit":13.53,"roi":0.84,"bo":6,"so":10,"buy":1560,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":481,"name":"Темпура","t":1794649241155,"sale":68.74,"ref":87.7,"profit":10.19,"roi":14.82,"bo":2,"so":4,"buy":65.27,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":289,"name":"Дробитель","t":1794649837743,"sale":333.4,"ref":389.95,"profit":17.56,"roi":5.27,"bo":4,"so":30,"buy":326.57,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":612,"name":"Колесо двойное (пов.)","t":1794649837743,"sale":51.92,"ref":70.2,"profit":11.26,"roi":21.69,"bo":16,"so":9,"buy":51.06,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
