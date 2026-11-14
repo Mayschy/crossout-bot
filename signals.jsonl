@@ -918,3 +918,5 @@
 {"id":93,"name":"Онгаку","t":1794675043201,"sale":179.06,"ref":232.45,"profit":30.14,"roi":16.84,"bo":6,"so":8,"buy":175,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":317,"name":"Дамка","t":1794675044610,"sale":1250,"ref":1421.97,"profit":29.77,"roi":2.38,"bo":8,"so":8,"buy":1157.97,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":290,"name":"Тошнитель","t":1794675046292,"sale":1710,"ref":1928,"profit":25.2,"roi":1.47,"bo":24,"so":9,"buy":1651,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":367,"name":"Харон","t":1794676243518,"sale":3800,"ref":4399,"profit":159.1,"roi":4.19,"bo":11,"so":16,"buy":3650.12,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":625,"name":"Затворник (пов.)","t":1794676245051,"sale":175.02,"ref":229.9,"profit":31.89,"roi":18.22,"bo":23,"so":17,"buy":175.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

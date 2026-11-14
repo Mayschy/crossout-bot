@@ -1471,3 +1471,5 @@
 {"id":51,"name":"Нетопырь","t":1794675041688,"sale":94.14,"ref":117,"profit":11.16,"roi":11.85,"bo":13,"so":14,"buy":91.53,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":623,"name":"Виджет (пов.)","t":1794675041688,"sale":435,"ref":495,"profit":10.5,"roi":2.41,"bo":14,"so":58,"buy":434.61,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":593,"name":"ТР Анаконда","t":1794675679720,"sale":154.62,"ref":194.89,"profit":20.78,"roi":13.44,"bo":5,"so":18,"buy":153.01,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":462,"name":"Шабаш","t":1794676242543,"sale":269.06,"ref":319.12,"profit":18.15,"roi":6.74,"bo":20,"so":7,"buy":245,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":855,"name":"Призрак пламени","t":1794676242543,"sale":50.77,"ref":68.55,"profit":10.92,"roi":21.52,"bo":0,"so":18,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
