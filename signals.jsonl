@@ -891,3 +891,5 @@
 {"id":1464,"name":"Икар I","t":1794613839792,"sale":460.72,"ref":563.1,"profit":46.07,"roi":10,"bo":25,"so":13,"buy":444.85,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":340,"name":"Афина","t":1794615039518,"sale":2600,"ref":3000,"profit":100,"roi":3.85,"bo":2,"so":9,"buy":2521.22,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1464,"name":"Икар I","t":1794617445107,"sale":473.71,"ref":586.48,"profit":54.12,"roi":11.43,"bo":25,"so":4,"buy":444.85,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":319,"name":"Капкан","t":1794622237685,"sale":777.78,"ref":928.39,"profit":57.77,"roi":7.43,"bo":9,"so":40,"buy":774,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":240,"name":"Забойщик","t":1794622239384,"sale":1500,"ref":1700,"profit":30,"roi":2,"bo":10,"so":10,"buy":1417,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
