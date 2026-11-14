@@ -1413,3 +1413,5 @@
 {"id":635,"name":"Колесо багги (пов.)","t":1794625839437,"sale":155.19,"ref":192.91,"profit":18.43,"roi":11.88,"bo":3,"so":55,"buy":153.9,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":295,"name":"АП64 Джоуль","t":1794626445408,"sale":916.08,"ref":1033.34,"profit":13.93,"roi":1.52,"bo":33,"so":33,"buy":916.07,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":178,"name":"Горячка","t":1794630042361,"sale":34,"ref":57.98,"profit":18.18,"roi":53.48,"bo":0,"so":16,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":463,"name":"Отшельник","t":1794630661487,"sale":680.01,"ref":769.87,"profit":12.87,"roi":1.89,"bo":19,"so":35,"buy":671,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1212,"name":"Плазменное кольцо","t":1794630661487,"sale":43.98,"ref":59.98,"profit":10,"roi":22.74,"bo":0,"so":4,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
