@@ -1404,3 +1404,4 @@
 {"id":676,"name":"Зубодробитель","t":1794613240837,"sale":69.56,"ref":88.62,"profit":10.2,"roi":14.66,"bo":20,"so":47,"buy":69.13,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":358,"name":"Булава","t":1794615651040,"sale":87.48,"ref":111.54,"profit":12.91,"roi":14.75,"bo":11,"so":12,"buy":87,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":481,"name":"Темпура","t":1794616263390,"sale":66.64,"ref":87.7,"profit":12.29,"roi":18.44,"bo":3,"so":3,"buy":65.3,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":419,"name":"Пламя","t":1794617444204,"sale":340,"ref":389,"profit":10.1,"roi":2.97,"bo":14,"so":53,"buy":330,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
