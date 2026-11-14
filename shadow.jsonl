@@ -1418,3 +1418,4 @@
 {"id":436,"name":"LED «Джек»","t":1794631241378,"sale":170.18,"ref":207.75,"profit":16.79,"roi":9.87,"bo":1,"so":7,"buy":166.76,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":56,"name":"Омнибокс","t":1794631241378,"sale":360,"ref":415,"profit":13.5,"roi":3.75,"bo":12,"so":25,"buy":350,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":146,"name":"Длинная синяя лампа","t":1794632478082,"sale":82.28,"ref":113.68,"profit":20.03,"roi":24.35,"bo":0,"so":5,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1794633639980,"sale":180.11,"ref":222.87,"profit":20.47,"roi":11.37,"bo":11,"so":20,"buy":180.1,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
