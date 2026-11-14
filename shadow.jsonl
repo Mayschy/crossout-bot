@@ -1422,3 +1422,4 @@
 {"id":146,"name":"Длинная синяя лампа","t":1794636642418,"sale":82.27,"ref":113.68,"profit":20.04,"roi":24.36,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":576,"name":"Гусеница малая","t":1794637239347,"sale":164,"ref":208.78,"profit":23.9,"roi":14.57,"bo":4,"so":23,"buy":159.8,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":432,"name":"Антикрыло Мулета ","t":1794638440039,"sale":166.01,"ref":199.12,"profit":13.2,"roi":7.95,"bo":3,"so":9,"buy":166,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":24,"name":"Инферно","t":1794640240217,"sale":992,"ref":1125.92,"profit":21.33,"roi":2.15,"bo":10,"so":13,"buy":970,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
