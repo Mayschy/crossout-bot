@@ -1459,3 +1459,5 @@
 {"id":563,"name":"Синхронизатор","t":1794669040030,"sale":250.01,"ref":297.9,"profit":18.1,"roi":7.24,"bo":2,"so":41,"buy":250,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":372,"name":"Прометей V","t":1794669040030,"sale":339.09,"ref":395,"profit":16.41,"roi":4.84,"bo":1,"so":42,"buy":336,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":357,"name":"Молотобой","t":1794669040030,"sale":921.17,"ref":1035,"profit":10.33,"roi":1.12,"bo":16,"so":21,"buy":921.16,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":379,"name":"Гравастар","t":1794669639344,"sale":330.99,"ref":393.89,"profit":23.51,"roi":7.1,"bo":19,"so":18,"buy":322,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1794669639344,"sale":120.05,"ref":149.91,"profit":14.87,"roi":12.39,"bo":24,"so":26,"buy":119,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
