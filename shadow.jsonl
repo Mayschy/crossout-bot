@@ -1466,3 +1466,7 @@
 {"id":537,"name":"Скидутка","t":1794673239311,"sale":182.3,"ref":220.85,"profit":16.46,"roi":9.03,"bo":8,"so":51,"buy":175.45,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":171,"name":"Крянштейн","t":1794673239311,"sale":167.1,"ref":198.77,"profit":11.79,"roi":7.06,"bo":12,"so":31,"buy":167.06,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":605,"name":"Титан","t":1794673860120,"sale":111,"ref":135,"profit":10.5,"roi":9.46,"bo":9,"so":5,"buy":109.42,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":284,"name":"Панацея","t":1794675041688,"sale":300,"ref":354.97,"profit":19.47,"roi":6.49,"bo":19,"so":17,"buy":288.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1794675041688,"sale":190,"ref":229.9,"profit":16.91,"roi":8.9,"bo":24,"so":21,"buy":180,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":51,"name":"Нетопырь","t":1794675041688,"sale":94.14,"ref":117,"profit":11.16,"roi":11.85,"bo":13,"so":14,"buy":91.53,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":623,"name":"Виджет (пов.)","t":1794675041688,"sale":435,"ref":495,"profit":10.5,"roi":2.41,"bo":14,"so":58,"buy":434.61,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

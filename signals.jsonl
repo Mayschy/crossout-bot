@@ -915,3 +915,6 @@
 {"id":57,"name":"Фаворит","t":1794669040677,"sale":981,"ref":1149.99,"profit":53.99,"roi":5.5,"bo":4,"so":34,"buy":941,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3743,"name":"Паломник","t":1794670270951,"sale":673.57,"ref":856.97,"profit":97.7,"roi":14.51,"bo":0,"so":20,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":592,"name":"Панджи","t":1794673240164,"sale":613,"ref":714.98,"profit":30.48,"roi":4.97,"bo":5,"so":27,"buy":612.02,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":93,"name":"Онгаку","t":1794675043201,"sale":179.06,"ref":232.45,"profit":30.14,"roi":16.84,"bo":6,"so":8,"buy":175,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":317,"name":"Дамка","t":1794675044610,"sale":1250,"ref":1421.97,"profit":29.77,"roi":2.38,"bo":8,"so":8,"buy":1157.97,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":290,"name":"Тошнитель","t":1794675046292,"sale":1710,"ref":1928,"profit":25.2,"roi":1.47,"bo":24,"so":9,"buy":1651,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
