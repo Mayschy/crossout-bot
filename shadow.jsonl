@@ -1445,3 +1445,5 @@
 {"id":577,"name":"Гусеница бронированная","t":1794659459988,"sale":341.02,"ref":399.98,"profit":18.96,"roi":5.56,"bo":8,"so":37,"buy":341,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1794659459988,"sale":130,"ref":159.76,"profit":13.78,"roi":10.6,"bo":10,"so":68,"buy":129.98,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":254,"name":"ЗИС-33 Верзила","t":1794659459988,"sale":71.1,"ref":91.97,"profit":11.67,"roi":16.42,"bo":16,"so":26,"buy":70,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":606,"name":"Титан (пов.)","t":1794660041555,"sale":158.17,"ref":201.95,"profit":23.59,"roi":14.91,"bo":22,"so":21,"buy":157.14,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":354,"name":"Фафнир","t":1794660041555,"sale":133.44,"ref":160.63,"profit":11.13,"roi":8.34,"bo":6,"so":24,"buy":133,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
