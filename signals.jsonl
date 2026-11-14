@@ -904,3 +904,4 @@
 {"id":564,"name":"Парис","t":1794648661437,"sale":604.88,"ref":727.9,"profit":50.23,"roi":8.3,"bo":8,"so":20,"buy":603.1,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1300,"name":"Матовый ультрафиолет","t":1794649242025,"sale":326.25,"ref":398.98,"profit":32.83,"roi":10.06,"bo":3,"so":4,"buy":215.63,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":394,"name":"Комбайн","t":1794649838415,"sale":1678,"ref":1947.9,"profit":75.11,"roi":4.48,"bo":10,"so":23,"buy":1661,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":253,"name":"ЗИС-46 Мамонт","t":1794652262651,"sale":1600.99,"ref":1947.88,"profit":152.1,"roi":9.5,"bo":13,"so":12,"buy":1555,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
