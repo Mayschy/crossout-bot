@@ -932,3 +932,4 @@
 {"id":48,"name":"Хот-род","t":1794689440821,"sale":806.74,"ref":937.61,"profit":37.11,"roi":4.6,"bo":1,"so":3,"buy":799.19,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":337,"name":"Акари","t":1794693675625,"sale":2111.12,"ref":2383.13,"profit":33.7,"roi":1.6,"bo":4,"so":3,"buy":1905.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1448,"name":"Инквизитор","t":1794694238029,"sale":1552,"ref":1790,"profit":59,"roi":3.8,"bo":5,"so":10,"buy":1551,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":419,"name":"Пламя","t":1794694842696,"sale":295.38,"ref":369.99,"profit":37.61,"roi":12.73,"bo":17,"so":73,"buy":289.73,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
