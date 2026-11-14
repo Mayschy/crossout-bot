@@ -901,3 +901,4 @@
 {"id":261,"name":"Б12 Голубка","t":1794631842014,"sale":1182.02,"ref":1415,"profit":91.48,"roi":7.74,"bo":3,"so":7,"buy":1181.2,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":277,"name":"Кайдзю","t":1794642041177,"sale":1231,"ref":1399.87,"profit":28.88,"roi":2.35,"bo":18,"so":10,"buy":1132,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1307,"name":"Кристалл льда","t":1794647438689,"sale":254,"ref":336,"profit":48.4,"roi":19.06,"bo":0,"so":8,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":564,"name":"Парис","t":1794648661437,"sale":604.88,"ref":727.9,"profit":50.23,"roi":8.3,"bo":8,"so":20,"buy":603.1,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
