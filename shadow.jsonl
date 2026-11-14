@@ -1473,3 +1473,4 @@
 {"id":593,"name":"ТР Анаконда","t":1794675679720,"sale":154.62,"ref":194.89,"profit":20.78,"roi":13.44,"bo":5,"so":18,"buy":153.01,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":462,"name":"Шабаш","t":1794676242543,"sale":269.06,"ref":319.12,"profit":18.15,"roi":6.74,"bo":20,"so":7,"buy":245,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":855,"name":"Призрак пламени","t":1794676242543,"sale":50.77,"ref":68.55,"profit":10.92,"roi":21.52,"bo":0,"so":18,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":485,"name":"Бутстрэп","t":1794678643574,"sale":611,"ref":692.5,"profit":12.25,"roi":2,"bo":2,"so":27,"buy":600.85,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
