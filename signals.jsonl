@@ -894,3 +894,4 @@
 {"id":319,"name":"Капкан","t":1794622237685,"sale":777.78,"ref":928.39,"profit":57.77,"roi":7.43,"bo":9,"so":40,"buy":774,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":240,"name":"Забойщик","t":1794622239384,"sale":1500,"ref":1700,"profit":30,"roi":2,"bo":10,"so":10,"buy":1417,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":375,"name":"Аврора","t":1794623464852,"sale":142.84,"ref":189.43,"profit":27.65,"roi":19.36,"bo":7,"so":25,"buy":139.03,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1464,"name":"Икар I","t":1794624643809,"sale":473.71,"ref":586.47,"profit":54.11,"roi":11.42,"bo":25,"so":7,"buy":444.85,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
