@@ -1475,3 +1475,5 @@
 {"id":855,"name":"Призрак пламени","t":1794676242543,"sale":50.77,"ref":68.55,"profit":10.92,"roi":21.52,"bo":0,"so":18,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":485,"name":"Бутстрэп","t":1794678643574,"sale":611,"ref":692.5,"profit":12.25,"roi":2,"bo":2,"so":27,"buy":600.85,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":372,"name":"Прометей V","t":1794679273929,"sale":340,"ref":390,"profit":11,"roi":3.24,"bo":7,"so":41,"buy":332.07,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":260,"name":"Феникс","t":1794679843257,"sale":322,"ref":373.59,"profit":14.23,"roi":4.42,"bo":7,"so":10,"buy":321.05,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":619,"name":"Омни","t":1794679843257,"sale":181.74,"ref":216.98,"profit":13.54,"roi":7.45,"bo":29,"so":52,"buy":181.73,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
