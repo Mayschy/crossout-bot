@@ -1481,3 +1481,4 @@
 {"id":685,"name":"Комплект снаряжения У1","t":1794682241895,"sale":250,"ref":290.99,"profit":11.89,"roi":4.76,"bo":0,"so":35,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":485,"name":"Бутстрэп","t":1794683442608,"sale":610,"ref":692.45,"profit":13.21,"roi":2.16,"bo":0,"so":20,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":295,"name":"АП64 Джоуль","t":1794684045411,"sale":915,"ref":1029.99,"profit":11.99,"roi":1.31,"bo":21,"so":25,"buy":912,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":531,"name":"Осветитель","t":1794685242876,"sale":51.69,"ref":75.44,"profit":16.21,"roi":31.35,"bo":0,"so":9,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

@@ -927,3 +927,4 @@
 {"id":328,"name":"Люцифер","t":1794682876000,"sale":2612,"ref":2999,"profit":87.1,"roi":3.33,"bo":15,"so":17,"buy":2611,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":327,"name":"Ёкай","t":1794684046330,"sale":700.01,"ref":848.66,"profit":63.78,"roi":9.11,"bo":7,"so":6,"buy":700,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":536,"name":"Мясорубка","t":1794684047714,"sale":266.98,"ref":333.33,"profit":33.02,"roi":12.37,"bo":12,"so":18,"buy":265.95,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1449,"name":"Гиена","t":1794685243687,"sale":840,"ref":964.79,"profit":28.31,"roi":3.37,"bo":10,"so":8,"buy":808,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
