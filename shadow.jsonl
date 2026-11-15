@@ -1497,3 +1497,4 @@
 {"id":506,"name":"Максвелл","t":1794703244191,"sale":81.2,"ref":103.79,"profit":12.21,"roi":15.04,"bo":11,"so":14,"buy":81.15,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":257,"name":"Слон","t":1794705643277,"sale":1800,"ref":2019.99,"profit":17.99,"roi":1,"bo":15,"so":21,"buy":1738.14,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1157,"name":"Двойная рампа 6×12×6","t":1794708639825,"sale":20,"ref":40,"profit":16,"roi":80,"bo":1,"so":34,"buy":4.56,"act":6,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":561,"name":"Гармонизатор","t":1794709237954,"sale":655.35,"ref":749.99,"profit":19.64,"roi":3,"bo":17,"so":32,"buy":655.34,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
