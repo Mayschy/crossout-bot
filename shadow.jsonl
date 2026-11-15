@@ -1545,3 +1545,4 @@
 {"id":486,"name":"Ампер","t":1794753641484,"sale":83.34,"ref":104.86,"profit":11.03,"roi":13.24,"bo":23,"so":12,"buy":82.15,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3769,"name":"Смог-15","t":1794754876950,"sale":173,"ref":205,"profit":11.5,"roi":6.65,"bo":14,"so":9,"buy":171.76,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":289,"name":"Дробитель","t":1794755443718,"sale":320.23,"ref":379.95,"profit":21.72,"roi":6.78,"bo":14,"so":29,"buy":312.23,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":310,"name":"Вектор","t":1794756041753,"sale":23.12,"ref":37,"profit":10.18,"roi":44.03,"bo":0,"so":33,"buy":0,"act":11,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
