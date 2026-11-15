@@ -1573,3 +1573,4 @@
 {"id":625,"name":"Затворник (пов.)","t":1794778262715,"sale":200,"ref":233.95,"profit":10.56,"roi":5.28,"bo":30,"so":37,"buy":188,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1794779438891,"sale":189,"ref":233.95,"profit":21.56,"roi":11.4,"bo":30,"so":39,"buy":188,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":605,"name":"Титан","t":1794779438891,"sale":115.54,"ref":139.79,"profit":10.27,"roi":8.89,"bo":4,"so":12,"buy":100.08,"act":4,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":275,"name":"Штырь-1","t":1794781241672,"sale":580,"ref":660,"profit":14,"roi":2.41,"bo":4,"so":32,"buy":560,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
