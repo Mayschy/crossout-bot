@@ -1543,3 +1543,4 @@
 {"id":1212,"name":"Плазменное кольцо","t":1794753641484,"sale":44.63,"ref":72.43,"profit":20.56,"roi":46.06,"bo":1,"so":3,"buy":43.04,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":16,"name":"Оборотень","t":1794753641484,"sale":200,"ref":238.95,"profit":15.06,"roi":7.53,"bo":8,"so":17,"buy":198.76,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":486,"name":"Ампер","t":1794753641484,"sale":83.34,"ref":104.86,"profit":11.03,"roi":13.24,"bo":23,"so":12,"buy":82.15,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3769,"name":"Смог-15","t":1794754876950,"sale":173,"ref":205,"profit":11.5,"roi":6.65,"bo":14,"so":9,"buy":171.76,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
