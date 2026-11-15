@@ -1533,3 +1533,4 @@
 {"id":269,"name":"Медиана","t":1794747039536,"sale":115.47,"ref":140,"profit":10.53,"roi":9.12,"bo":5,"so":12,"buy":107.19,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":112,"name":"Рвач","t":1794748240649,"sale":128.97,"ref":166.08,"profit":20.5,"roi":15.9,"bo":10,"so":4,"buy":128.03,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":484,"name":"ЭУ-1 Заряд","t":1794748240649,"sale":94.56,"ref":126.94,"profit":19.69,"roi":20.82,"bo":15,"so":5,"buy":94.53,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":312,"name":"Эмили","t":1794749462075,"sale":100.61,"ref":124.99,"profit":11.88,"roi":11.81,"bo":8,"so":3,"buy":99.75,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
