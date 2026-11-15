@@ -1565,3 +1565,4 @@
 {"id":511,"name":"РС Нерпа","t":1794768038805,"sale":350,"ref":403.43,"profit":13.09,"roi":3.74,"bo":16,"so":23,"buy":325.11,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":561,"name":"Гармонизатор","t":1794769278092,"sale":667,"ref":754.99,"profit":12.49,"roi":1.87,"bo":35,"so":48,"buy":666,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":605,"name":"Титан","t":1794769844821,"sale":115.54,"ref":139.79,"profit":10.27,"roi":8.89,"bo":4,"so":12,"buy":100.08,"act":4,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":84,"name":"Гермес","t":1794771060871,"sale":350.05,"ref":401,"profit":10.85,"roi":3.1,"bo":3,"so":22,"buy":345.22,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

@@ -975,3 +975,4 @@
 {"id":1307,"name":"Кристалл льда","t":1794767463031,"sale":265.48,"ref":336,"profit":36.92,"roi":13.91,"bo":1,"so":7,"buy":252.01,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":445,"name":"Геррида I","t":1794768039286,"sale":720,"ref":837.67,"profit":33.9,"roi":4.71,"bo":59,"so":45,"buy":690.02,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":564,"name":"Парис","t":1794769845599,"sale":607.01,"ref":728.77,"profit":48.88,"roi":8.05,"bo":9,"so":12,"buy":607,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":315,"name":"Парсер","t":1794771061489,"sale":956,"ref":1130.45,"profit":61.41,"roi":6.42,"bo":6,"so":21,"buy":955.05,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
