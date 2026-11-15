@@ -1540,3 +1540,6 @@
 {"id":487,"name":"Газген","t":1794751839394,"sale":320.9,"ref":368.9,"profit":11.11,"roi":3.46,"bo":11,"so":50,"buy":307.02,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1794752439710,"sale":150,"ref":182.79,"profit":14.51,"roi":9.67,"bo":50,"so":36,"buy":146.18,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":33,"name":"Маяк 11","t":1794753061250,"sale":416.84,"ref":490,"profit":24.16,"roi":5.8,"bo":0,"so":15,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1212,"name":"Плазменное кольцо","t":1794753641484,"sale":44.63,"ref":72.43,"profit":20.56,"roi":46.06,"bo":1,"so":3,"buy":43.04,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":16,"name":"Оборотень","t":1794753641484,"sale":200,"ref":238.95,"profit":15.06,"roi":7.53,"bo":8,"so":17,"buy":198.76,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":486,"name":"Ампер","t":1794753641484,"sale":83.34,"ref":104.86,"profit":11.03,"roi":13.24,"bo":23,"so":12,"buy":82.15,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
