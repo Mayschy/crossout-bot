@@ -1528,3 +1528,5 @@
 {"id":58,"name":"МВП Торпеда","t":1794740477221,"sale":802.01,"ref":908.88,"profit":15.98,"roi":1.99,"bo":7,"so":40,"buy":802,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":295,"name":"АП64 Джоуль","t":1794743440567,"sale":901.23,"ref":1028,"profit":23.97,"roi":2.66,"bo":16,"so":29,"buy":901.22,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":619,"name":"Омни","t":1794745241334,"sale":185.7,"ref":222.96,"profit":14.96,"roi":8.06,"bo":19,"so":47,"buy":185,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":309,"name":"Синус-0","t":1794746442339,"sale":83.86,"ref":108.66,"profit":13.93,"roi":16.62,"bo":11,"so":18,"buy":82.51,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":81,"name":"Дамоклов меч","t":1794746442339,"sale":68.05,"ref":88.99,"profit":12.04,"roi":17.69,"bo":0,"so":3,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
