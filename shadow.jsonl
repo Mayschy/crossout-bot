@@ -1577,3 +1577,5 @@
 {"id":646,"name":"Атом","t":1794781865281,"sale":190.05,"ref":228.5,"profit":15.6,"roi":8.21,"bo":57,"so":24,"buy":190,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":309,"name":"Синус-0","t":1794781865281,"sale":83.71,"ref":108.49,"profit":13.93,"roi":16.64,"bo":13,"so":22,"buy":81.72,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1794783038250,"sale":150.48,"ref":191.95,"profit":22.28,"roi":14.8,"bo":3,"so":22,"buy":136.87,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":494,"name":"НВ-2 Клён","t":1794783690103,"sale":539.9,"ref":615.92,"profit":14.43,"roi":2.67,"bo":5,"so":9,"buy":502,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":40,"name":"Пилигрим","t":1794783690103,"sale":93.33,"ref":118.39,"profit":13.22,"roi":14.17,"bo":11,"so":6,"buy":92.8,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
