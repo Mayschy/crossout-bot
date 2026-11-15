@@ -1511,3 +1511,4 @@
 {"id":185,"name":"Жесткач","t":1794723040436,"sale":97.15,"ref":129.96,"profit":19.81,"roi":20.4,"bo":3,"so":9,"buy":97.02,"act":10,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":310,"name":"Вектор","t":1794724259710,"sale":22.66,"ref":37.27,"profit":10.88,"roi":48.03,"bo":0,"so":32,"buy":0,"act":11,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":511,"name":"РС Нерпа","t":1794726074424,"sale":330,"ref":379.94,"profit":11.95,"roi":3.62,"bo":20,"so":29,"buy":328,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":514,"name":"Ядро","t":1794730242576,"sale":171.74,"ref":216.97,"profit":23.53,"roi":13.7,"bo":9,"so":5,"buy":171.73,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
