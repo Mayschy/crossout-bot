@@ -12345,3 +12345,4 @@
 {"id":187,"t":1794739237429,"h":120,"at":1794746400000,"s":105.89,"b":82.19,"so":17,"bo":9,"ask":12.29,"instant":-9.04,"taken":true,"shadow":true,"roi":14.81,"capital":83.01,"late":false}
 {"id":484,"t":1794739237429,"h":120,"at":1794746400000,"s":126.98,"b":94.53,"so":2,"bo":15,"ask":17.77,"instant":-11.43,"taken":true,"shadow":true,"roi":18.41,"capital":96.51,"late":false}
 {"id":619,"t":1794745241334,"h":20,"at":1794746400000,"s":220.98,"b":186,"so":48,"bo":22,"ask":13.18,"instant":-18.3,"taken":true,"shadow":true,"roi":7.1,"capital":185.7,"late":false}
+{"id":277,"t":1794745861973,"h":10,"at":1794746400000,"s":1300,"b":1140.14,"so":5,"bo":20,"ask":-130,"instant":-273.87,"taken":false,"shadow":false,"roi":-10,"capital":1300,"late":false}

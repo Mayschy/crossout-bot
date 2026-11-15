@@ -1530,3 +1530,4 @@
 {"id":619,"name":"Омни","t":1794745241334,"sale":185.7,"ref":222.96,"profit":14.96,"roi":8.06,"bo":19,"so":47,"buy":185,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":309,"name":"Синус-0","t":1794746442339,"sale":83.86,"ref":108.66,"profit":13.93,"roi":16.62,"bo":11,"so":18,"buy":82.51,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":81,"name":"Дамоклов меч","t":1794746442339,"sale":68.05,"ref":88.99,"profit":12.04,"roi":17.69,"bo":0,"so":3,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":269,"name":"Медиана","t":1794747039536,"sale":115.47,"ref":140,"profit":10.53,"roi":9.12,"bo":5,"so":12,"buy":107.19,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
