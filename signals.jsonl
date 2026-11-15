@@ -984,3 +984,4 @@
 {"id":380,"name":"Искра III","t":1794779439574,"sale":1620,"ref":1869.96,"profit":62.96,"roi":3.89,"bo":8,"so":14,"buy":1582.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3743,"name":"Паломник","t":1794779441077,"sale":712.01,"ref":850,"profit":52.99,"roi":7.44,"bo":4,"so":21,"buy":697.31,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":112,"name":"Рвач","t":1794781242746,"sale":128.5,"ref":173.9,"profit":28.01,"roi":21.8,"bo":7,"so":6,"buy":127,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":494,"name":"НВ-2 Клён","t":1794781866084,"sale":502.01,"ref":615.95,"profit":52.35,"roi":10.43,"bo":6,"so":8,"buy":502,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
