@@ -1527,3 +1527,4 @@
 {"id":496,"name":"СВ-2 Буревестник","t":1794740477221,"sale":336.67,"ref":395.88,"profit":19.62,"roi":5.83,"bo":6,"so":14,"buy":315.01,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":58,"name":"МВП Торпеда","t":1794740477221,"sale":802.01,"ref":908.88,"profit":15.98,"roi":1.99,"bo":7,"so":40,"buy":802,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":295,"name":"АП64 Джоуль","t":1794743440567,"sale":901.23,"ref":1028,"profit":23.97,"roi":2.66,"bo":16,"so":29,"buy":901.22,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":619,"name":"Омни","t":1794745241334,"sale":185.7,"ref":222.96,"profit":14.96,"roi":8.06,"bo":19,"so":47,"buy":185,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
