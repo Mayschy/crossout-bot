@@ -938,3 +938,4 @@
 {"id":480,"name":"Тати","t":1794705643997,"sale":352.01,"ref":439.05,"profit":43.14,"roi":12.25,"bo":2,"so":11,"buy":352,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":58,"name":"МВП Торпеда","t":1794708640580,"sale":802.06,"ref":939.97,"profit":43.91,"roi":5.48,"bo":8,"so":39,"buy":801.99,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":361,"name":"Шредер","t":1794721240154,"sale":2651.02,"ref":2999.83,"profit":48.83,"roi":1.84,"bo":9,"so":22,"buy":2621,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":276,"name":"Циклон","t":1794723040918,"sale":332,"ref":397.93,"profit":26.14,"roi":7.87,"bo":8,"so":15,"buy":330.5,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
