@@ -1569,3 +1569,5 @@
 {"id":565,"name":"Хамелеон","t":1794771641803,"sale":71.1,"ref":93.48,"profit":13.03,"roi":18.33,"bo":34,"so":9,"buy":70.9,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":455,"name":"Боеукладка","t":1794774669628,"sale":126.01,"ref":157.24,"profit":15.51,"roi":12.31,"bo":12,"so":64,"buy":126,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":505,"name":"Доплер","t":1794775841757,"sale":317.07,"ref":365,"profit":11.43,"roi":3.6,"bo":14,"so":8,"buy":284.85,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":309,"name":"Синус-0","t":1794778262715,"sale":84.56,"ref":108.66,"profit":13.23,"roi":15.65,"bo":14,"so":17,"buy":83.09,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1794778262715,"sale":200,"ref":233.95,"profit":10.56,"roi":5.28,"bo":30,"so":37,"buy":188,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
