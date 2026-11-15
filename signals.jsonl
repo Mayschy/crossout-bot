@@ -947,3 +947,4 @@
 {"id":557,"name":"Снежинка","t":1794735062739,"sale":263.27,"ref":352.98,"profit":54.41,"roi":20.67,"bo":1,"so":9,"buy":262.82,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1377,"name":"Отблеск севера","t":1794736240762,"sale":1000.01,"ref":1194.75,"profit":75.27,"roi":7.53,"bo":1,"so":7,"buy":886.02,"act":5,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":362,"name":"Кавказ","t":1794737438967,"sale":220,"ref":275.97,"profit":28.37,"roi":12.9,"bo":9,"so":22,"buy":217,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":260,"name":"Феникс","t":1794738661995,"sale":300,"ref":364.9,"profit":28.41,"roi":9.47,"bo":8,"so":17,"buy":298.09,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

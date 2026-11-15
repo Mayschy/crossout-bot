@@ -1519,3 +1519,4 @@
 {"id":296,"name":"АП62 Терм","t":1794736240119,"sale":186.05,"ref":218.32,"profit":10.44,"roi":5.61,"bo":28,"so":57,"buy":186.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":376,"name":"Квазар","t":1794738039669,"sale":167,"ref":197.98,"profit":11.18,"roi":6.7,"bo":17,"so":11,"buy":163.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1794738039669,"sale":200,"ref":233.99,"profit":10.59,"roi":5.3,"bo":14,"so":43,"buy":191.02,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":457,"name":"Снабжение","t":1794738661151,"sale":69.69,"ref":91.12,"profit":12.32,"roi":17.68,"bo":8,"so":7,"buy":69,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
