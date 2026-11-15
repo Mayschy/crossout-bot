@@ -1534,3 +1534,5 @@
 {"id":112,"name":"Рвач","t":1794748240649,"sale":128.97,"ref":166.08,"profit":20.5,"roi":15.9,"bo":10,"so":4,"buy":128.03,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":484,"name":"ЭУ-1 Заряд","t":1794748240649,"sale":94.56,"ref":126.94,"profit":19.69,"roi":20.82,"bo":15,"so":5,"buy":94.53,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":312,"name":"Эмили","t":1794749462075,"sale":100.61,"ref":124.99,"profit":11.88,"roi":11.81,"bo":8,"so":3,"buy":99.75,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":247,"name":"КП-17 Цунами","t":1794750043233,"sale":2225.45,"ref":2499.44,"profit":24.05,"roi":1.08,"bo":3,"so":17,"buy":2180.02,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1794750043233,"sale":185.55,"ref":220.94,"profit":13.3,"roi":7.17,"bo":42,"so":36,"buy":182.22,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

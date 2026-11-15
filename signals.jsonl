@@ -954,3 +954,4 @@
 {"id":361,"name":"Шредер","t":1794744075919,"sale":2650,"ref":2998.88,"profit":48.99,"roi":1.85,"bo":9,"so":32,"buy":2620,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":277,"name":"Кайдзю","t":1794745861973,"sale":1300,"ref":1474,"profit":26.6,"roi":2.05,"bo":20,"so":10,"buy":1140.14,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":60,"name":"РУН-1А","t":1794748841694,"sale":732,"ref":881.07,"profit":60.96,"roi":8.33,"bo":13,"so":12,"buy":731.07,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":575,"name":"Гусеница танковая","t":1794750043926,"sale":756,"ref":956.52,"profit":104.87,"roi":13.87,"bo":16,"so":1,"buy":753.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
