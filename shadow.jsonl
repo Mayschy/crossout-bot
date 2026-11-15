@@ -1507,3 +1507,4 @@
 {"id":316,"name":"Дикобраз","t":1794717641220,"sale":22342.5,"ref":24847.67,"profit":20.4,"roi":0.09,"bo":8,"so":11,"buy":22022.3,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":371,"name":"Синтез","t":1794717641220,"sale":101.33,"ref":124.65,"profit":10.86,"roi":10.71,"bo":5,"so":36,"buy":101.18,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":371,"name":"Синтез","t":1794720660334,"sale":97.1,"ref":124.65,"profit":15.09,"roi":15.54,"bo":0,"so":38,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":612,"name":"Колесо двойное (пов.)","t":1794722474101,"sale":43.73,"ref":59.97,"profit":10.24,"roi":23.42,"bo":0,"so":13,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
