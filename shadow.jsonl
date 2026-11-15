@@ -1504,3 +1504,5 @@
 {"id":563,"name":"Синхронизатор","t":1794711041918,"sale":231.04,"ref":269.93,"profit":11.9,"roi":5.15,"bo":0,"so":40,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":581,"name":"Катушка Атипуса","t":1794713465300,"sale":170.01,"ref":201,"profit":10.89,"roi":6.41,"bo":2,"so":6,"buy":170,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":506,"name":"Максвелл","t":1794717059291,"sale":82.74,"ref":103.79,"profit":10.67,"roi":12.9,"bo":13,"so":14,"buy":81.89,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":316,"name":"Дикобраз","t":1794717641220,"sale":22342.5,"ref":24847.67,"profit":20.4,"roi":0.09,"bo":8,"so":11,"buy":22022.3,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":371,"name":"Синтез","t":1794717641220,"sale":101.33,"ref":124.65,"profit":10.86,"roi":10.71,"bo":5,"so":36,"buy":101.18,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
