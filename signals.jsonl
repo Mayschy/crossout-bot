@@ -970,3 +970,5 @@
 {"id":29,"name":"Торреро","t":1794763245451,"sale":1441.05,"ref":1662,"profit":54.75,"roi":3.8,"bo":9,"so":5,"buy":1411.1,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":277,"name":"Кайдзю","t":1794765041533,"sale":1260,"ref":1472.57,"profit":65.31,"roi":5.18,"bo":17,"so":13,"buy":1141.21,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1057,"name":"Северное сияние","t":1794765681498,"sale":70.39,"ref":128,"profit":44.81,"roi":63.66,"bo":0,"so":5,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3777,"name":"Морриган","t":1794766847669,"sale":4000,"ref":4555.49,"profit":99.94,"roi":2.5,"bo":4,"so":12,"buy":3850,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":420,"name":"Гнездо","t":1794766849173,"sale":308.21,"ref":376,"profit":30.19,"roi":9.8,"bo":45,"so":16,"buy":308.09,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
