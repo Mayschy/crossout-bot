@@ -12212,3 +12212,11 @@
 {"id":284,"t":1794729042199,"h":20,"at":1794730200000,"s":368.95,"b":303,"so":10,"bo":18,"ask":29.03,"instant":-30.33,"taken":true,"shadow":false,"roi":9.58,"capital":303.03,"late":false}
 {"id":185,"t":1794723040436,"h":120,"at":1794730200000,"s":128,"b":101.04,"so":13,"bo":8,"ask":18.05,"instant":-6.21,"taken":true,"shadow":true,"roi":18.58,"capital":97.15,"late":false}
 {"id":536,"t":1794729675166,"h":10,"at":1794730200000,"s":319.91,"b":262.05,"so":26,"bo":28,"ask":25.88,"instant":-26.19,"taken":true,"shadow":false,"roi":9.88,"capital":262.04,"late":false}
+{"id":563,"t":1794727241652,"h":60,"at":1794730800000,"s":269.49,"b":212.15,"so":37,"bo":12,"ask":30.55,"instant":-21.06,"taken":true,"shadow":false,"roi":14.41,"capital":211.99,"late":false}
+{"id":284,"t":1794729042199,"h":30,"at":1794730800000,"s":368.95,"b":303,"so":10,"bo":18,"ask":29.03,"instant":-30.33,"taken":true,"shadow":false,"roi":9.58,"capital":303.03,"late":false}
+{"id":536,"t":1794729675166,"h":20,"at":1794730800000,"s":319.91,"b":262.05,"so":26,"bo":28,"ask":25.88,"instant":-26.19,"taken":true,"shadow":false,"roi":9.88,"capital":262.04,"late":false}
+{"id":258,"t":1794730243277,"h":10,"at":1794730800000,"s":3222.23,"b":3000,"so":6,"bo":10,"ask":-322.22,"instant":-522.23,"taken":false,"shadow":false,"roi":-10,"capital":3222.23,"late":false}
+{"id":258,"t":1794730243277,"h":20,"at":1794731400000,"s":3222.23,"b":3000,"so":6,"bo":10,"ask":-322.22,"instant":-522.23,"taken":false,"shadow":false,"roi":-10,"capital":3222.23,"late":false}
+{"id":310,"t":1794724259710,"h":120,"at":1794731400000,"s":35.26,"b":25.02,"so":33,"bo":6,"ask":9.07,"instant":-0.14,"taken":true,"shadow":true,"roi":40.04,"capital":22.66,"late":false}
+{"id":514,"t":1794730242576,"h":10,"at":1794730800000,"s":216.97,"b":171.73,"so":4,"bo":9,"ask":23.53,"instant":-17.18,"taken":true,"shadow":true,"roi":13.7,"capital":171.74,"late":false}
+{"id":514,"t":1794730242576,"h":20,"at":1794731400000,"s":216.97,"b":171.73,"so":4,"bo":9,"ask":23.53,"instant":-17.18,"taken":true,"shadow":true,"roi":13.7,"capital":171.74,"late":false}
