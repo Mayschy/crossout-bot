@@ -1510,3 +1510,4 @@
 {"id":612,"name":"Колесо двойное (пов.)","t":1794722474101,"sale":43.73,"ref":59.97,"profit":10.24,"roi":23.42,"bo":0,"so":13,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":185,"name":"Жесткач","t":1794723040436,"sale":97.15,"ref":129.96,"profit":19.81,"roi":20.4,"bo":3,"so":9,"buy":97.02,"act":10,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":310,"name":"Вектор","t":1794724259710,"sale":22.66,"ref":37.27,"profit":10.88,"roi":48.03,"bo":0,"so":32,"buy":0,"act":11,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":511,"name":"РС Нерпа","t":1794726074424,"sale":330,"ref":379.94,"profit":11.95,"roi":3.62,"bo":20,"so":29,"buy":328,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
