@@ -978,3 +978,5 @@
 {"id":315,"name":"Парсер","t":1794771061489,"sale":956,"ref":1130.45,"profit":61.41,"roi":6.42,"bo":6,"so":21,"buy":955.05,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":261,"name":"Б12 Голубка","t":1794772877382,"sale":1200.58,"ref":1414.45,"profit":72.43,"roi":6.03,"bo":6,"so":9,"buy":1181.26,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1443,"name":"Гравированные гильзы x1000","t":1794772878801,"sale":400,"ref":490.05,"profit":41.05,"roi":10.26,"bo":70,"so":71,"buy":303.75,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":30,"name":"Кронос","t":1794773442292,"sale":2200,"ref":2500,"profit":50,"roi":2.27,"bo":12,"so":4,"buy":2031,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1300,"name":"Матовый ультрафиолет","t":1794773443633,"sale":326.3,"ref":398.98,"profit":32.78,"roi":10.05,"bo":0,"so":4,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
