@@ -943,3 +943,4 @@
 {"id":284,"name":"Панацея","t":1794729042199,"sale":303.03,"ref":368.95,"profit":29.03,"roi":9.58,"bo":20,"so":10,"buy":303.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":536,"name":"Мясорубка","t":1794729675166,"sale":262.04,"ref":319.95,"profit":25.91,"roi":9.89,"bo":26,"so":26,"buy":262.03,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":258,"name":"Слон (тюн.) (заготовка)","t":1794730243277,"sale":3222.23,"ref":3610,"profit":26.77,"roi":0.83,"bo":10,"so":6,"buy":3000,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":324,"name":"Буран","t":1794732039738,"sale":1022.02,"ref":1199.99,"profit":57.97,"roi":5.67,"bo":8,"so":15,"buy":1022,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}

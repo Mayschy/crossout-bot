@@ -1512,3 +1512,5 @@
 {"id":310,"name":"Вектор","t":1794724259710,"sale":22.66,"ref":37.27,"profit":10.88,"roi":48.03,"bo":0,"so":32,"buy":0,"act":11,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":511,"name":"РС Нерпа","t":1794726074424,"sale":330,"ref":379.94,"profit":11.95,"roi":3.62,"bo":20,"so":29,"buy":328,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":514,"name":"Ядро","t":1794730242576,"sale":171.74,"ref":216.97,"profit":23.53,"roi":13.7,"bo":9,"so":5,"buy":171.73,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":347,"name":"Гром","t":1794732038792,"sale":152.89,"ref":192,"profit":19.91,"roi":13.02,"bo":6,"so":19,"buy":152.1,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":312,"name":"Эмили","t":1794732038792,"sale":101.58,"ref":128.44,"profit":14.02,"roi":13.8,"bo":15,"so":3,"buy":99.75,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
