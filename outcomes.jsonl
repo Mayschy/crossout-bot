@@ -12083,3 +12083,11 @@
 {"id":575,"t":1794697845570,"h":60,"at":1794701400000,"s":891,"b":750.01,"so":12,"bo":17,"ask":51.89,"instant":-75,"taken":true,"shadow":false,"roi":6.92,"capital":750.01,"late":false}
 {"id":293,"t":1794694237470,"h":120,"at":1794701400000,"s":260,"b":217,"so":23,"bo":1,"ask":-10.45,"instant":-49.15,"taken":true,"shadow":true,"roi":-4.27,"capital":244.45,"late":false}
 {"id":625,"t":1794697844947,"h":60,"at":1794701400000,"s":180.01,"b":178.01,"so":28,"bo":24,"ask":-18,"instant":-19.8,"taken":false,"shadow":true,"roi":-10,"capital":180.01,"late":false}
+{"id":419,"t":1794694842696,"h":120,"at":1794702000000,"s":346.46,"b":290.85,"so":74,"bo":20,"ask":16.43,"instant":-33.61,"taken":true,"shadow":false,"roi":5.56,"capital":295.38,"late":false}
+{"id":65,"t":1794696042560,"h":120,"at":1794703200000,"s":419,"b":361.21,"so":31,"bo":18,"ask":15.1,"instant":-36.91,"taken":true,"shadow":true,"roi":4.17,"capital":362,"late":false}
+{"id":117,"t":1794700880129,"h":10,"at":1794701400000,"s":190.01,"b":190,"so":39,"bo":16,"ask":-19,"instant":-19.01,"taken":false,"shadow":true,"roi":-10,"capital":190.01,"late":false}
+{"id":117,"t":1794700880129,"h":20,"at":1794702000000,"s":190.01,"b":181.62,"so":39,"bo":15,"ask":-19,"instant":-26.55,"taken":false,"shadow":true,"roi":-10,"capital":190.01,"late":false}
+{"id":117,"t":1794700880129,"h":30,"at":1794702600000,"s":190,"b":181.62,"so":40,"bo":15,"ask":-19.01,"instant":-26.55,"taken":false,"shadow":true,"roi":-10,"capital":190.01,"late":false}
+{"id":631,"t":1794700880129,"h":10,"at":1794701400000,"s":183.58,"b":181.21,"so":18,"bo":24,"ask":-18.36,"instant":-20.49,"taken":false,"shadow":true,"roi":-10,"capital":183.58,"late":false}
+{"id":631,"t":1794700880129,"h":20,"at":1794702000000,"s":183.58,"b":181.21,"so":18,"bo":24,"ask":-18.36,"instant":-20.49,"taken":false,"shadow":true,"roi":-10,"capital":183.58,"late":false}
+{"id":631,"t":1794700880129,"h":30,"at":1794702600000,"s":200,"b":181.21,"so":16,"bo":24,"ask":-3.58,"instant":-20.49,"taken":true,"shadow":true,"roi":-1.95,"capital":183.58,"late":false}
