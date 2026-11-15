@@ -1553,3 +1553,5 @@
 {"id":622,"name":"Виджет","t":1794757841835,"sale":250,"ref":293.6,"profit":14.24,"roi":5.7,"bo":4,"so":4,"buy":232,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":576,"name":"Гусеница малая","t":1794761442663,"sale":162.49,"ref":205.97,"profit":22.88,"roi":14.08,"bo":14,"so":24,"buy":160.11,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":484,"name":"ЭУ-1 Заряд","t":1794761442663,"sale":99.33,"ref":129.04,"profit":16.81,"roi":16.92,"bo":13,"so":7,"buy":98.91,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1794763863290,"sale":200,"ref":239.81,"profit":15.83,"roi":7.91,"bo":28,"so":32,"buy":195,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":111,"name":"Зов духов","t":1794763863290,"sale":202.48,"ref":236.2,"profit":10.1,"roi":4.99,"bo":0,"so":6,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
