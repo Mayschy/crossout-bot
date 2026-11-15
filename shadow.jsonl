@@ -1495,3 +1495,4 @@
 {"id":117,"name":"КА-2 Маховик","t":1794700880129,"sale":190.01,"ref":232.91,"profit":19.61,"roi":10.32,"bo":16,"so":39,"buy":190,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":631,"name":"Бигфут (пов.)","t":1794700880129,"sale":183.58,"ref":222.69,"profit":16.84,"roi":9.17,"bo":24,"so":14,"buy":181.21,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":506,"name":"Максвелл","t":1794703244191,"sale":81.2,"ref":103.79,"profit":12.21,"roi":15.04,"bo":11,"so":14,"buy":81.15,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":257,"name":"Слон","t":1794705643277,"sale":1800,"ref":2019.99,"profit":17.99,"roi":1,"bo":15,"so":21,"buy":1738.14,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
