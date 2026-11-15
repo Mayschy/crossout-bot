@@ -1498,3 +1498,5 @@
 {"id":257,"name":"Слон","t":1794705643277,"sale":1800,"ref":2019.99,"profit":17.99,"roi":1,"bo":15,"so":21,"buy":1738.14,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1157,"name":"Двойная рампа 6×12×6","t":1794708639825,"sale":20,"ref":40,"profit":16,"roi":80,"bo":1,"so":34,"buy":4.56,"act":6,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":561,"name":"Гармонизатор","t":1794709237954,"sale":655.35,"ref":749.99,"profit":19.64,"roi":3,"bo":17,"so":32,"buy":655.34,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":236,"name":"Блок питания","t":1794710180316,"sale":155,"ref":192.99,"profit":18.69,"roi":12.06,"bo":5,"so":15,"buy":154.72,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":464,"name":"Коготь","t":1794710180316,"sale":65.38,"ref":87.12,"profit":13.03,"roi":19.93,"bo":0,"so":57,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
