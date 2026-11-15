@@ -1526,3 +1526,4 @@
 {"id":484,"name":"ЭУ-1 Заряд","t":1794739237429,"sale":96.51,"ref":119.14,"profit":10.72,"roi":11.1,"bo":15,"so":6,"buy":92.81,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":496,"name":"СВ-2 Буревестник","t":1794740477221,"sale":336.67,"ref":395.88,"profit":19.62,"roi":5.83,"bo":6,"so":14,"buy":315.01,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":58,"name":"МВП Торпеда","t":1794740477221,"sale":802.01,"ref":908.88,"profit":15.98,"roi":1.99,"bo":7,"so":40,"buy":802,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":295,"name":"АП64 Джоуль","t":1794743440567,"sale":901.23,"ref":1028,"profit":23.97,"roi":2.66,"bo":16,"so":29,"buy":901.22,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
