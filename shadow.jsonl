@@ -1520,3 +1520,7 @@
 {"id":376,"name":"Квазар","t":1794738039669,"sale":167,"ref":197.98,"profit":11.18,"roi":6.7,"bo":17,"so":11,"buy":163.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1794738039669,"sale":200,"ref":233.99,"profit":10.59,"roi":5.3,"bo":14,"so":43,"buy":191.02,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":457,"name":"Снабжение","t":1794738661151,"sale":69.69,"ref":91.12,"profit":12.32,"roi":17.68,"bo":8,"so":7,"buy":69,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1794739237429,"sale":119.04,"ref":156.66,"profit":21.95,"roi":18.44,"bo":17,"so":15,"buy":119.03,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":42,"name":"Спаситель","t":1794739237429,"sale":474.01,"ref":545,"profit":16.49,"roi":3.48,"bo":5,"so":11,"buy":474,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":187,"name":"Работяга","t":1794739237429,"sale":83.01,"ref":108,"profit":14.19,"roi":17.09,"bo":4,"so":19,"buy":83,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":484,"name":"ЭУ-1 Заряд","t":1794739237429,"sale":96.51,"ref":119.14,"profit":10.72,"roi":11.1,"bo":15,"so":6,"buy":92.81,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
