@@ -976,3 +976,5 @@
 {"id":445,"name":"Геррида I","t":1794768039286,"sale":720,"ref":837.67,"profit":33.9,"roi":4.71,"bo":59,"so":45,"buy":690.02,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":564,"name":"Парис","t":1794769845599,"sale":607.01,"ref":728.77,"profit":48.88,"roi":8.05,"bo":9,"so":12,"buy":607,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":315,"name":"Парсер","t":1794771061489,"sale":956,"ref":1130.45,"profit":61.41,"roi":6.42,"bo":6,"so":21,"buy":955.05,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":261,"name":"Б12 Голубка","t":1794772877382,"sale":1200.58,"ref":1414.45,"profit":72.43,"roi":6.03,"bo":6,"so":9,"buy":1181.26,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1443,"name":"Гравированные гильзы x1000","t":1794772878801,"sale":400,"ref":490.05,"profit":41.05,"roi":10.26,"bo":70,"so":71,"buy":303.75,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
