@@ -1568,3 +1568,4 @@
 {"id":84,"name":"Гермес","t":1794771060871,"sale":350.05,"ref":401,"profit":10.85,"roi":3.1,"bo":3,"so":22,"buy":345.22,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":565,"name":"Хамелеон","t":1794771641803,"sale":71.1,"ref":93.48,"profit":13.03,"roi":18.33,"bo":34,"so":9,"buy":70.9,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":455,"name":"Боеукладка","t":1794774669628,"sale":126.01,"ref":157.24,"profit":15.51,"roi":12.31,"bo":12,"so":64,"buy":126,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":505,"name":"Доплер","t":1794775841757,"sale":317.07,"ref":365,"profit":11.43,"roi":3.6,"bo":14,"so":8,"buy":284.85,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
