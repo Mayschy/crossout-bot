@@ -1538,3 +1538,4 @@
 {"id":646,"name":"Атом","t":1794750043233,"sale":185.55,"ref":220.94,"profit":13.3,"roi":7.17,"bo":42,"so":36,"buy":182.22,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":563,"name":"Синхронизатор","t":1794750641916,"sale":225.25,"ref":269,"profit":16.85,"roi":7.48,"bo":20,"so":37,"buy":225,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":487,"name":"Газген","t":1794751839394,"sale":320.9,"ref":368.9,"profit":11.11,"roi":3.46,"bo":11,"so":50,"buy":307.02,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":704,"name":"Хранилище чертежей","t":1794752439710,"sale":150,"ref":182.79,"profit":14.51,"roi":9.67,"bo":50,"so":36,"buy":146.18,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
