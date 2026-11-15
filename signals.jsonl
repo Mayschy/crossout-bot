@@ -951,3 +951,4 @@
 {"id":380,"name":"Искра III","t":1794739844235,"sale":1571.14,"ref":1798.97,"profit":47.93,"roi":3.05,"bo":8,"so":22,"buy":1570,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":563,"name":"Синхронизатор","t":1794740477747,"sale":215.06,"ref":269.3,"profit":27.31,"roi":12.7,"bo":16,"so":42,"buy":215,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":324,"name":"Буран","t":1794743441152,"sale":940.5,"ref":1079.99,"profit":31.49,"roi":3.35,"bo":1,"so":27,"buy":900.1,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":361,"name":"Шредер","t":1794744075919,"sale":2650,"ref":2998.88,"profit":48.99,"roi":1.85,"bo":9,"so":32,"buy":2620,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
