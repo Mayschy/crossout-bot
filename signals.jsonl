@@ -941,3 +941,4 @@
 {"id":276,"name":"Циклон","t":1794723040918,"sale":332,"ref":397.93,"profit":26.14,"roi":7.87,"bo":8,"so":15,"buy":330.5,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":563,"name":"Синхронизатор","t":1794727241652,"sale":211.99,"ref":269.53,"profit":30.59,"roi":14.43,"bo":9,"so":39,"buy":211.96,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":284,"name":"Панацея","t":1794729042199,"sale":303.03,"ref":368.95,"profit":29.03,"roi":9.58,"bo":20,"so":10,"buy":303.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":536,"name":"Мясорубка","t":1794729675166,"sale":262.04,"ref":319.95,"profit":25.91,"roi":9.89,"bo":26,"so":26,"buy":262.03,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
