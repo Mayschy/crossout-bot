@@ -1571,3 +1571,5 @@
 {"id":505,"name":"Доплер","t":1794775841757,"sale":317.07,"ref":365,"profit":11.43,"roi":3.6,"bo":14,"so":8,"buy":284.85,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":309,"name":"Синус-0","t":1794778262715,"sale":84.56,"ref":108.66,"profit":13.23,"roi":15.65,"bo":14,"so":17,"buy":83.09,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1794778262715,"sale":200,"ref":233.95,"profit":10.56,"roi":5.28,"bo":30,"so":37,"buy":188,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1794779438891,"sale":189,"ref":233.95,"profit":21.56,"roi":11.4,"bo":30,"so":39,"buy":188,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":605,"name":"Титан","t":1794779438891,"sale":115.54,"ref":139.79,"profit":10.27,"roi":8.89,"bo":4,"so":12,"buy":100.08,"act":4,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
