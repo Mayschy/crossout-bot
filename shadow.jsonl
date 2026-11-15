@@ -1524,3 +1524,5 @@
 {"id":42,"name":"Спаситель","t":1794739237429,"sale":474.01,"ref":545,"profit":16.49,"roi":3.48,"bo":5,"so":11,"buy":474,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":187,"name":"Работяга","t":1794739237429,"sale":83.01,"ref":108,"profit":14.19,"roi":17.09,"bo":4,"so":19,"buy":83,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":484,"name":"ЭУ-1 Заряд","t":1794739237429,"sale":96.51,"ref":119.14,"profit":10.72,"roi":11.1,"bo":15,"so":6,"buy":92.81,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":496,"name":"СВ-2 Буревестник","t":1794740477221,"sale":336.67,"ref":395.88,"profit":19.62,"roi":5.83,"bo":6,"so":14,"buy":315.01,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":58,"name":"МВП Торпеда","t":1794740477221,"sale":802.01,"ref":908.88,"profit":15.98,"roi":1.99,"bo":7,"so":40,"buy":802,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
