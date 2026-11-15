@@ -1500,3 +1500,5 @@
 {"id":561,"name":"Гармонизатор","t":1794709237954,"sale":655.35,"ref":749.99,"profit":19.64,"roi":3,"bo":17,"so":32,"buy":655.34,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":236,"name":"Блок питания","t":1794710180316,"sale":155,"ref":192.99,"profit":18.69,"roi":12.06,"bo":5,"so":15,"buy":154.72,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":464,"name":"Коготь","t":1794710180316,"sale":65.38,"ref":87.12,"profit":13.03,"roi":19.93,"bo":0,"so":57,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":295,"name":"АП64 Джоуль","t":1794711041918,"sale":906.53,"ref":1029,"profit":19.57,"roi":2.16,"bo":19,"so":28,"buy":906.5,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":563,"name":"Синхронизатор","t":1794711041918,"sale":231.04,"ref":269.93,"profit":11.9,"roi":5.15,"bo":0,"so":40,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
