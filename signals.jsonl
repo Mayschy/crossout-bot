@@ -972,3 +972,4 @@
 {"id":1057,"name":"Северное сияние","t":1794765681498,"sale":70.39,"ref":128,"profit":44.81,"roi":63.66,"bo":0,"so":5,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3777,"name":"Морриган","t":1794766847669,"sale":4000,"ref":4555.49,"profit":99.94,"roi":2.5,"bo":4,"so":12,"buy":3850,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":420,"name":"Гнездо","t":1794766849173,"sale":308.21,"ref":376,"profit":30.19,"roi":9.8,"bo":45,"so":16,"buy":308.09,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1307,"name":"Кристалл льда","t":1794767463031,"sale":265.48,"ref":336,"profit":36.92,"roi":13.91,"bo":1,"so":7,"buy":252.01,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
