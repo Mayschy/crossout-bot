@@ -957,3 +957,4 @@
 {"id":575,"name":"Гусеница танковая","t":1794750043926,"sale":756,"ref":956.52,"profit":104.87,"roi":13.87,"bo":16,"so":1,"buy":753.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":247,"name":"КП-17 Цунами","t":1794750642622,"sale":2180.02,"ref":2499.44,"profit":69.48,"roi":3.19,"bo":2,"so":16,"buy":2180,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":273,"name":"В-37-39 Адаптер","t":1794750644088,"sale":444,"ref":529.99,"profit":32.99,"roi":7.43,"bo":5,"so":7,"buy":438.17,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":324,"name":"Буран","t":1794751273258,"sale":931.09,"ref":1078.89,"profit":39.91,"roi":4.29,"bo":1,"so":33,"buy":900.1,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
