@@ -1551,3 +1551,5 @@
 {"id":485,"name":"Бутстрэп","t":1794757242601,"sale":630,"ref":712.94,"profit":11.65,"roi":1.85,"bo":8,"so":10,"buy":615,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":339,"name":"Корво","t":1794757841835,"sale":250,"ref":299,"profit":19.1,"roi":7.64,"bo":3,"so":38,"buy":240.03,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":622,"name":"Виджет","t":1794757841835,"sale":250,"ref":293.6,"profit":14.24,"roi":5.7,"bo":4,"so":4,"buy":232,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":576,"name":"Гусеница малая","t":1794761442663,"sale":162.49,"ref":205.97,"profit":22.88,"roi":14.08,"bo":14,"so":24,"buy":160.11,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":484,"name":"ЭУ-1 Заряд","t":1794761442663,"sale":99.33,"ref":129.04,"profit":16.81,"roi":16.92,"bo":13,"so":7,"buy":98.91,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
