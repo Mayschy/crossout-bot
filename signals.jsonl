@@ -965,3 +965,5 @@
 {"id":444,"name":"МН-Л 200","t":1794756042529,"sale":360.22,"ref":439.91,"profit":35.7,"roi":9.91,"bo":16,"so":58,"buy":360.01,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":283,"name":"Горыныч","t":1794756044024,"sale":1250,"ref":1417.5,"profit":25.75,"roi":2.06,"bo":3,"so":6,"buy":1162,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":324,"name":"Буран","t":1794759640708,"sale":915.02,"ref":1078.7,"profit":55.81,"roi":6.1,"bo":1,"so":38,"buy":900.1,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":579,"name":"Голиаф","t":1794760262563,"sale":1930,"ref":2200.94,"profit":50.85,"roi":2.63,"bo":22,"so":6,"buy":1875,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1053,"name":"Фиалковый глянец","t":1794760264022,"sale":367.33,"ref":450,"profit":37.67,"roi":10.26,"bo":0,"so":4,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
