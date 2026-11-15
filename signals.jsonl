@@ -945,3 +945,4 @@
 {"id":258,"name":"Слон (тюн.) (заготовка)","t":1794730243277,"sale":3222.23,"ref":3610,"profit":26.77,"roi":0.83,"bo":10,"so":6,"buy":3000,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":324,"name":"Буран","t":1794732039738,"sale":1022.02,"ref":1199.99,"profit":57.97,"roi":5.67,"bo":8,"so":15,"buy":1022,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":557,"name":"Снежинка","t":1794735062739,"sale":263.27,"ref":352.98,"profit":54.41,"roi":20.67,"bo":1,"so":9,"buy":262.82,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1377,"name":"Отблеск севера","t":1794736240762,"sale":1000.01,"ref":1194.75,"profit":75.27,"roi":7.53,"bo":1,"so":7,"buy":886.02,"act":5,"liq":35,"med":null,"below":null,"gone":null,"dem":null}

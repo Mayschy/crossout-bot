@@ -1516,3 +1516,4 @@
 {"id":312,"name":"Эмили","t":1794732038792,"sale":101.58,"ref":128.44,"profit":14.02,"roi":13.8,"bo":15,"so":3,"buy":99.75,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":701,"name":"Комплект снаряжения С2","t":1794733841854,"sale":77.55,"ref":99.5,"profit":12,"roi":15.47,"bo":4,"so":5,"buy":76.34,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":276,"name":"Циклон","t":1794735061852,"sale":330.22,"ref":392,"profit":22.58,"roi":6.84,"bo":4,"so":19,"buy":330.2,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":296,"name":"АП62 Терм","t":1794736240119,"sale":186.05,"ref":218.32,"profit":10.44,"roi":5.61,"bo":28,"so":57,"buy":186.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
