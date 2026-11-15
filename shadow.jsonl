@@ -1562,3 +1562,4 @@
 {"id":1272,"name":"Неоновый глянец","t":1794766246670,"sale":43.66,"ref":64.86,"profit":14.71,"roi":33.7,"bo":0,"so":4,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":181,"name":"Гепард","t":1794766840722,"sale":122.13,"ref":162.99,"profit":24.56,"roi":20.11,"bo":1,"so":29,"buy":121.87,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":568,"name":"Верификатор","t":1794766840722,"sale":117.06,"ref":148.96,"profit":17,"roi":14.53,"bo":5,"so":7,"buy":116.2,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":511,"name":"РС Нерпа","t":1794768038805,"sale":350,"ref":403.43,"profit":13.09,"roi":3.74,"bo":16,"so":23,"buy":325.11,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
