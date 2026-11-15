@@ -1547,3 +1547,5 @@
 {"id":289,"name":"Дробитель","t":1794755443718,"sale":320.23,"ref":379.95,"profit":21.72,"roi":6.78,"bo":14,"so":29,"buy":312.23,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":310,"name":"Вектор","t":1794756041753,"sale":23.12,"ref":37,"profit":10.18,"roi":44.03,"bo":0,"so":33,"buy":0,"act":11,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1794756661139,"sale":114.76,"ref":141.99,"profit":13.03,"roi":11.36,"bo":6,"so":16,"buy":114.75,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":536,"name":"Мясорубка","t":1794757242601,"sale":280,"ref":330,"profit":17,"roi":6.07,"bo":19,"so":15,"buy":278.03,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":485,"name":"Бутстрэп","t":1794757242601,"sale":630,"ref":712.94,"profit":11.65,"roi":1.85,"bo":8,"so":10,"buy":615,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
