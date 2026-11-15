@@ -1556,3 +1556,4 @@
 {"id":625,"name":"Затворник (пов.)","t":1794763863290,"sale":200,"ref":239.81,"profit":15.83,"roi":7.91,"bo":28,"so":32,"buy":195,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":111,"name":"Зов духов","t":1794763863290,"sale":202.48,"ref":236.2,"profit":10.1,"roi":4.99,"bo":0,"so":6,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1794764443448,"sale":190,"ref":229.98,"profit":16.98,"roi":8.94,"bo":8,"so":38,"buy":188,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1090,"name":"Холодное пламя","t":1794765679885,"sale":75.54,"ref":102.56,"profit":16.76,"roi":22.19,"bo":0,"so":3,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
