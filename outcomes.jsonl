@@ -12456,3 +12456,11 @@
 {"id":60,"t":1794748841694,"h":120,"at":1794756000000,"s":880.4,"b":730.06,"so":14,"bo":12,"ask":60.36,"instant":-74.95,"taken":true,"shadow":false,"roi":8.25,"capital":732,"late":false}
 {"id":704,"t":1794752439710,"h":60,"at":1794756000000,"s":183.87,"b":146.21,"so":48,"bo":55,"ask":15.48,"instant":-18.41,"taken":true,"shadow":true,"roi":10.32,"capital":150,"late":false}
 {"id":3769,"t":1794754876950,"h":10,"at":1794755400000,"s":190,"b":171.76,"so":9,"bo":13,"ask":-2,"instant":-18.42,"taken":true,"shadow":true,"roi":-1.16,"capital":173,"late":false}
+{"id":324,"t":1794755444500,"h":10,"at":1794756000000,"s":931.09,"b":900.1,"so":34,"bo":1,"ask":-93.11,"instant":-121,"taken":false,"shadow":false,"roi":-10,"capital":931.09,"late":false}
+{"id":324,"t":1794755444500,"h":20,"at":1794756600000,"s":1078.7,"b":900.1,"so":32,"bo":1,"ask":39.74,"instant":-121,"taken":true,"shadow":false,"roi":4.27,"capital":931.09,"late":false}
+{"id":444,"t":1794756042529,"h":10,"at":1794756600000,"s":439.87,"b":360.3,"so":59,"bo":22,"ask":35.66,"instant":-35.95,"taken":true,"shadow":false,"roi":9.9,"capital":360.22,"late":false}
+{"id":283,"t":1794756044024,"h":10,"at":1794756600000,"s":1400,"b":1162,"so":8,"bo":3,"ask":10,"instant":-204.2,"taken":true,"shadow":false,"roi":0.8,"capital":1250,"late":false}
+{"id":3769,"t":1794754876950,"h":20,"at":1794756000000,"s":190,"b":171.76,"so":9,"bo":13,"ask":-2,"instant":-18.42,"taken":true,"shadow":true,"roi":-1.16,"capital":173,"late":false}
+{"id":289,"t":1794755443718,"h":10,"at":1794756000000,"s":379,"b":320.23,"so":27,"bo":15,"ask":20.87,"instant":-32.02,"taken":true,"shadow":true,"roi":6.52,"capital":320.23,"late":false}
+{"id":289,"t":1794755443718,"h":20,"at":1794756600000,"s":360,"b":312.22,"so":30,"bo":13,"ask":3.77,"instant":-39.23,"taken":true,"shadow":true,"roi":1.18,"capital":320.23,"late":false}
+{"id":310,"t":1794756041753,"h":10,"at":1794756600000,"s":37,"b":28,"so":28,"bo":4,"ask":10.18,"instant":2.08,"taken":true,"shadow":true,"roi":44.03,"capital":23.12,"late":false}
