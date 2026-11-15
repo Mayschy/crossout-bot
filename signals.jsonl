@@ -961,3 +961,4 @@
 {"id":297,"name":"Ассемблер","t":1794751839978,"sale":1500,"ref":1699.98,"profit":29.98,"roi":2,"bo":2,"so":6,"buy":1321.6,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":439,"name":"Драйвер","t":1794753642095,"sale":909.63,"ref":1142.62,"profit":118.73,"roi":13.05,"bo":17,"so":10,"buy":909.62,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":497,"name":"Колибри","t":1794753643530,"sale":321.69,"ref":399,"profit":37.41,"roi":11.63,"bo":11,"so":8,"buy":321.68,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":324,"name":"Буран","t":1794755444500,"sale":931.09,"ref":1078.8,"profit":39.83,"roi":4.28,"bo":1,"so":32,"buy":900.1,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
