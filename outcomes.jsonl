@@ -12758,3 +12758,11 @@
 {"id":40,"t":1794783690103,"h":20,"at":1794784800000,"s":93.33,"b":92.8,"so":6,"bo":11,"ask":-9.33,"instant":-9.81,"taken":false,"shadow":true,"roi":-10,"capital":93.33,"late":false}
 {"id":482,"t":1794784238070,"h":10,"at":1794784800000,"s":205.08,"b":198.53,"so":7,"bo":1,"ask":-20.51,"instant":-26.4,"taken":false,"shadow":true,"roi":-10,"capital":205.08,"late":false}
 {"id":482,"t":1794784238070,"h":20,"at":1794785400000,"s":205.08,"b":198.53,"so":7,"bo":1,"ask":-20.51,"instant":-26.4,"taken":false,"shadow":true,"roi":-10,"capital":205.08,"late":false}
+{"id":494,"t":1794781866084,"h":60,"at":1794785400000,"s":539.9,"b":502,"so":9,"bo":5,"ask":-16.1,"instant":-50.21,"taken":true,"shadow":false,"roi":-3.21,"capital":502.01,"late":false}
+{"id":309,"t":1794778262715,"h":120,"at":1794785400000,"s":106.08,"b":81.72,"so":21,"bo":13,"ask":10.91,"instant":-11.01,"taken":true,"shadow":true,"roi":12.9,"capital":84.56,"late":false}
+{"id":625,"t":1794778262715,"h":120,"at":1794785400000,"s":221.05,"b":188,"so":38,"bo":26,"ask":-1.05,"instant":-30.8,"taken":true,"shadow":true,"roi":-0.53,"capital":200,"late":false}
+{"id":646,"t":1794781865281,"h":60,"at":1794785400000,"s":229.98,"b":190.01,"so":24,"bo":61,"ask":16.93,"instant":-19.04,"taken":true,"shadow":true,"roi":8.91,"capital":190.05,"late":false}
+{"id":309,"t":1794781865281,"h":60,"at":1794785400000,"s":106.08,"b":81.72,"so":21,"bo":13,"ask":11.76,"instant":-10.16,"taken":true,"shadow":true,"roi":14.05,"capital":83.71,"late":false}
+{"id":494,"t":1794783690103,"h":30,"at":1794785400000,"s":539.9,"b":502,"so":9,"bo":5,"ask":-53.99,"instant":-88.1,"taken":false,"shadow":true,"roi":-10,"capital":539.9,"late":false}
+{"id":40,"t":1794783690103,"h":30,"at":1794785400000,"s":93.33,"b":92.8,"so":6,"bo":11,"ask":-9.33,"instant":-9.81,"taken":false,"shadow":true,"roi":-10,"capital":93.33,"late":false}
+{"id":482,"t":1794784238070,"h":30,"at":1794786000000,"s":205.08,"b":198.53,"so":7,"bo":1,"ask":-20.51,"instant":-26.4,"taken":false,"shadow":true,"roi":-10,"capital":205.08,"late":false}
