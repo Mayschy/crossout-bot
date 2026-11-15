@@ -936,3 +936,4 @@
 {"id":575,"name":"Гусеница танковая","t":1794697845570,"sale":750.01,"ref":891.03,"profit":51.92,"roi":6.92,"bo":16,"so":12,"buy":750,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1157,"name":"Двойная рампа 6×12×6","t":1794703841093,"sale":40,"ref":90,"profit":41,"roi":102.5,"bo":1,"so":5,"buy":4.56,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":480,"name":"Тати","t":1794705643997,"sale":352.01,"ref":439.05,"profit":43.14,"roi":12.25,"bo":2,"so":11,"buy":352,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":58,"name":"МВП Торпеда","t":1794708640580,"sale":802.06,"ref":939.97,"profit":43.91,"roi":5.48,"bo":8,"so":39,"buy":801.99,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
