@@ -952,3 +952,4 @@
 {"id":563,"name":"Синхронизатор","t":1794740477747,"sale":215.06,"ref":269.3,"profit":27.31,"roi":12.7,"bo":16,"so":42,"buy":215,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":324,"name":"Буран","t":1794743441152,"sale":940.5,"ref":1079.99,"profit":31.49,"roi":3.35,"bo":1,"so":27,"buy":900.1,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":361,"name":"Шредер","t":1794744075919,"sale":2650,"ref":2998.88,"profit":48.99,"roi":1.85,"bo":9,"so":32,"buy":2620,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":277,"name":"Кайдзю","t":1794745861973,"sale":1300,"ref":1474,"profit":26.6,"roi":2.05,"bo":20,"so":10,"buy":1140.14,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
