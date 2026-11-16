@@ -1616,3 +1616,4 @@
 {"id":509,"name":"РЛС-1 Слухач","t":1794835242985,"sale":29.21,"ref":44.94,"profit":11.24,"roi":38.47,"bo":16,"so":7,"buy":28.8,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":376,"name":"Квазар","t":1794838248454,"sale":186.12,"ref":218.88,"profit":10.87,"roi":5.84,"bo":23,"so":10,"buy":185.9,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1794838856071,"sale":126.02,"ref":163.64,"profit":21.26,"roi":16.87,"bo":31,"so":6,"buy":126,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":571,"name":"Генезис","t":1794841282232,"sale":91.84,"ref":118,"profit":14.36,"roi":15.64,"bo":0,"so":28,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
