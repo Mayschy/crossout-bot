@@ -1606,3 +1606,6 @@
 {"id":347,"name":"Гром","t":1794826882615,"sale":155.49,"ref":191.94,"profit":17.26,"roi":11.1,"bo":4,"so":21,"buy":152.06,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":652,"name":"Жутка","t":1794828662534,"sale":74.48,"ref":94.78,"profit":10.82,"roi":14.53,"bo":36,"so":13,"buy":74.47,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":65,"name":"Сверчок","t":1794829841526,"sale":322.38,"ref":382,"profit":21.42,"roi":6.64,"bo":7,"so":30,"buy":320.2,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1794831048771,"sale":180.05,"ref":226.85,"profit":24.11,"roi":13.39,"bo":9,"so":33,"buy":180.02,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1153,"name":"Квадратная платформа 12×12×6","t":1794831048771,"sale":75,"ref":100,"profit":15,"roi":20,"bo":0,"so":77,"buy":0,"act":11,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":116,"name":"«Че такой серьезный?»","t":1794831048771,"sale":55.32,"ref":72.74,"profit":10.15,"roi":18.34,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
