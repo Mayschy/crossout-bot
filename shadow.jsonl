@@ -1634,3 +1634,4 @@
 {"id":1210,"name":"Огненное кольцо","t":1794850267468,"sale":36.83,"ref":58.7,"profit":16,"roi":43.44,"bo":7,"so":14,"buy":32.48,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":425,"name":"Икар IV","t":1794851444479,"sale":770.01,"ref":878,"profit":20.19,"roi":2.62,"bo":12,"so":25,"buy":765.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":331,"name":"Сумматор","t":1794851444479,"sale":100,"ref":126,"profit":13.4,"roi":13.4,"bo":5,"so":15,"buy":94.08,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":313,"name":"Буря","t":1794852082873,"sale":140,"ref":170.38,"profit":13.34,"roi":9.53,"bo":22,"so":14,"buy":139.1,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
