@@ -997,3 +997,4 @@
 {"id":445,"name":"Геррида I","t":1794808898204,"sale":711,"ref":819.97,"profit":26.97,"roi":3.79,"bo":53,"so":41,"buy":700,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":300,"name":"П-26 Заградитель","t":1794814845196,"sale":263.19,"ref":344.61,"profit":46.96,"roi":17.84,"bo":10,"so":31,"buy":263.18,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":561,"name":"Гармонизатор","t":1794818444380,"sale":675.01,"ref":780,"profit":26.99,"roi":4,"bo":40,"so":30,"buy":675,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":465,"name":"Счетчик урона","t":1794822040658,"sale":249.33,"ref":324.52,"profit":42.74,"roi":17.14,"bo":15,"so":3,"buy":227.15,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
