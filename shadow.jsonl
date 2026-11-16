@@ -1581,3 +1581,4 @@
 {"id":40,"name":"Пилигрим","t":1794783690103,"sale":93.33,"ref":118.39,"profit":13.22,"roi":14.17,"bo":11,"so":6,"buy":92.8,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":482,"name":"Мигалка","t":1794784238070,"sale":205.08,"ref":250,"profit":19.92,"roi":9.71,"bo":1,"so":7,"buy":198.53,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":236,"name":"Блок питания","t":1794789060755,"sale":150,"ref":179.45,"profit":11.5,"roi":7.67,"bo":23,"so":20,"buy":146,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1794789640984,"sale":181.47,"ref":227,"profit":22.83,"roi":12.58,"bo":6,"so":31,"buy":180,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
