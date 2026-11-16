@@ -1005,3 +1005,5 @@
 {"id":3743,"name":"Паломник","t":1794833443739,"sale":765,"ref":929.95,"profit":71.96,"roi":9.41,"bo":11,"so":25,"buy":708.22,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":263,"name":"ЗА-4 Звездопад","t":1794835867051,"sale":2700,"ref":3044.5,"profit":40.05,"roi":1.48,"bo":9,"so":18,"buy":2600,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1464,"name":"Икар I","t":1794838249398,"sale":399.76,"ref":510,"profit":59.24,"roi":14.82,"bo":1,"so":77,"buy":395.46,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1462,"name":"Гоплит","t":1794838858367,"sale":1656,"ref":1894.85,"profit":49.37,"roi":2.98,"bo":6,"so":43,"buy":1601,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":117,"name":"КА-2 Маховик","t":1794838860013,"sale":179.08,"ref":226.8,"profit":25.04,"roi":13.98,"bo":7,"so":36,"buy":179.06,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
