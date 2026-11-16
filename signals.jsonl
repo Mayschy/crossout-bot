@@ -990,3 +990,5 @@
 {"id":1377,"name":"Отблеск севера","t":1794788442250,"sale":764.01,"ref":1000,"profit":135.99,"roi":17.8,"bo":3,"so":6,"buy":764,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":367,"name":"Харон","t":1794789061323,"sale":3855.12,"ref":4627,"profit":309.18,"roi":8.02,"bo":14,"so":7,"buy":3855.11,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":300,"name":"П-26 Заградитель","t":1794797444485,"sale":263.16,"ref":345.05,"profit":47.38,"roi":18.01,"bo":8,"so":29,"buy":262.03,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":273,"name":"В-37-39 Адаптер","t":1794801039320,"sale":435.5,"ref":518.92,"profit":31.53,"roi":7.24,"bo":1,"so":16,"buy":407,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1467,"name":"АП64 Джоуль (тюн.) (заготовка)","t":1794801040697,"sale":207.02,"ref":262.94,"profit":29.63,"roi":14.31,"bo":20,"so":20,"buy":205.99,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
