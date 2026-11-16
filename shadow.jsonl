@@ -1605,3 +1605,4 @@
 {"id":301,"name":"Спектр-2","t":1794826241051,"sale":260,"ref":305.89,"profit":15.3,"roi":5.88,"bo":19,"so":28,"buy":257.15,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1794826882615,"sale":155.49,"ref":191.94,"profit":17.26,"roi":11.1,"bo":4,"so":21,"buy":152.06,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":652,"name":"Жутка","t":1794828662534,"sale":74.48,"ref":94.78,"profit":10.82,"roi":14.53,"bo":36,"so":13,"buy":74.47,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":65,"name":"Сверчок","t":1794829841526,"sale":322.38,"ref":382,"profit":21.42,"roi":6.64,"bo":7,"so":30,"buy":320.2,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
