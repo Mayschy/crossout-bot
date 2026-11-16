@@ -1023,3 +1023,4 @@
 {"id":339,"name":"Корво","t":1794858043324,"sale":245.14,"ref":307.96,"profit":32.02,"roi":13.06,"bo":6,"so":28,"buy":240.03,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1450,"name":"Тяга","t":1794862243378,"sale":2420.01,"ref":2878,"profit":170.19,"roi":7.03,"bo":8,"so":14,"buy":2420,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":286,"name":"Скади","t":1794862883488,"sale":1729.31,"ref":2000,"profit":70.69,"roi":4.09,"bo":9,"so":10,"buy":1729.3,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":380,"name":"Искра III","t":1794867642200,"sale":1601.14,"ref":1869,"profit":80.96,"roi":5.06,"bo":8,"so":15,"buy":1600,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
