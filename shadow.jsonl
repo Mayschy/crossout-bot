@@ -1598,3 +1598,5 @@
 {"id":301,"name":"Спектр-2","t":1794813041050,"sale":270.99,"ref":314.99,"profit":12.5,"roi":4.61,"bo":12,"so":21,"buy":257.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":457,"name":"Снабжение","t":1794814844303,"sale":71.27,"ref":92.86,"profit":12.3,"roi":17.26,"bo":5,"so":5,"buy":66.54,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":379,"name":"Гравастар","t":1794817866333,"sale":305,"ref":355.85,"profit":15.27,"roi":5,"bo":23,"so":27,"buy":300.3,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":269,"name":"Медиана","t":1794819685322,"sale":109,"ref":136,"profit":13.4,"roi":12.29,"bo":4,"so":16,"buy":107.19,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1151,"name":"Бетонная балка 6×30×6","t":1794819685322,"sale":28,"ref":44,"profit":11.6,"roi":41.43,"bo":0,"so":4,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
