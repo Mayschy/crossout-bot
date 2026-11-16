@@ -1640,3 +1640,5 @@
 {"id":140,"name":"Синяя лампа","t":1794854445398,"sale":46.69,"ref":63.79,"profit":10.72,"roi":22.96,"bo":0,"so":6,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":606,"name":"Титан (пов.)","t":1794855039098,"sale":161,"ref":194.22,"profit":13.8,"roi":8.57,"bo":4,"so":29,"buy":157.54,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":306,"name":"Гунгнир","t":1794855039098,"sale":323.94,"ref":373.94,"profit":12.61,"roi":3.89,"bo":13,"so":13,"buy":310,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":321,"name":"Мельник","t":1794855681094,"sale":430.04,"ref":500,"profit":19.96,"roi":4.64,"bo":21,"so":34,"buy":430,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1210,"name":"Огненное кольцо","t":1794855681094,"sale":36.83,"ref":58.7,"profit":16,"roi":43.44,"bo":7,"so":15,"buy":32.48,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

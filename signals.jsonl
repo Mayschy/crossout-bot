@@ -1016,3 +1016,4 @@
 {"id":100,"name":"«Ре минор»","t":1794853265118,"sale":50,"ref":90.15,"profit":31.14,"roi":62.27,"bo":0,"so":4,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":47,"name":"Нокс","t":1794854447405,"sale":4800,"ref":5554.19,"profit":198.77,"roi":4.14,"bo":9,"so":9,"buy":4721.5,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3747,"name":"Экстремум","t":1794854448901,"sale":2305,"ref":2595,"profit":30.5,"roi":1.32,"bo":3,"so":17,"buy":2300,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":482,"name":"Мигалка","t":1794855681867,"sale":188.33,"ref":249,"profit":35.77,"roi":18.99,"bo":2,"so":6,"buy":188.25,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
