@@ -1584,3 +1584,4 @@
 {"id":117,"name":"КА-2 Маховик","t":1794789640984,"sale":181.47,"ref":227,"profit":22.83,"roi":12.58,"bo":6,"so":31,"buy":180,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1794793241424,"sale":152.05,"ref":189.99,"profit":18.94,"roi":12.46,"bo":2,"so":23,"buy":149.95,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":455,"name":"Боеукладка","t":1794793241424,"sale":124.2,"ref":157.3,"profit":17.37,"roi":13.99,"bo":6,"so":56,"buy":124.08,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":7,"name":"Бастион","t":1794794476219,"sale":240,"ref":277.94,"profit":10.15,"roi":4.23,"bo":7,"so":30,"buy":233.16,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
