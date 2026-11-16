@@ -1595,3 +1595,4 @@
 {"id":445,"name":"Геррида I","t":1794810665730,"sale":711,"ref":810,"profit":18,"roi":2.53,"bo":53,"so":41,"buy":700,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1794810665730,"sale":108.27,"ref":136,"profit":14.13,"roi":13.05,"bo":4,"so":14,"buy":107.19,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":185,"name":"Жесткач","t":1794810665730,"sale":99.02,"ref":124.79,"profit":13.29,"roi":13.42,"bo":2,"so":23,"buy":98.03,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":301,"name":"Спектр-2","t":1794813041050,"sale":270.99,"ref":314.99,"profit":12.5,"roi":4.61,"bo":12,"so":21,"buy":257.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
