@@ -1655,3 +1655,5 @@
 {"id":93,"name":"Онгаку","t":1794866476623,"sale":192.58,"ref":234.51,"profit":18.48,"roi":9.6,"bo":2,"so":5,"buy":163.2,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":536,"name":"Мясорубка","t":1794869453032,"sale":301,"ref":355.97,"profit":19.37,"roi":6.44,"bo":24,"so":51,"buy":292,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1461,"name":"«Эхо далёких миров»","t":1794869453032,"sale":60.25,"ref":87.74,"profit":18.72,"roi":31.06,"bo":0,"so":4,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":156,"name":"Декоративная решетка 2","t":1794871860254,"sale":49.28,"ref":69.83,"profit":13.57,"roi":27.53,"bo":0,"so":3,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":139,"name":"Красная лампа","t":1794871860254,"sale":41.63,"ref":61.31,"profit":13.55,"roi":32.55,"bo":2,"so":8,"buy":38.21,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
