@@ -1648,3 +1648,6 @@
 {"id":270,"name":"АП50 Шторм","t":1794858042667,"sale":72.91,"ref":94.44,"profit":12.09,"roi":16.58,"bo":12,"so":40,"buy":72.9,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":112,"name":"Рвач","t":1794859843752,"sale":141.7,"ref":173.8,"profit":14.72,"roi":10.39,"bo":7,"so":11,"buy":130.9,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":376,"name":"Квазар","t":1794860441000,"sale":173.3,"ref":218.88,"profit":23.69,"roi":13.67,"bo":17,"so":8,"buy":171.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1794862881748,"sale":188,"ref":221.99,"profit":11.79,"roi":6.27,"bo":13,"so":34,"buy":186.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1462,"name":"Гоплит","t":1794862881748,"sale":1510,"ref":1690,"profit":11,"roi":0.73,"bo":1,"so":40,"buy":1502.49,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":605,"name":"Титан","t":1794862881748,"sale":110.57,"ref":134.57,"profit":10.54,"roi":9.54,"bo":5,"so":9,"buy":107.27,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
