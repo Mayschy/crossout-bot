@@ -993,3 +993,4 @@
 {"id":273,"name":"В-37-39 Адаптер","t":1794801039320,"sale":435.5,"ref":518.92,"profit":31.53,"roi":7.24,"bo":1,"so":16,"buy":407,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1467,"name":"АП64 Джоуль (тюн.) (заготовка)","t":1794801040697,"sale":207.02,"ref":262.94,"profit":29.63,"roi":14.31,"bo":20,"so":20,"buy":205.99,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":579,"name":"Голиаф","t":1794806475985,"sale":1902.05,"ref":2199.94,"profit":77.9,"roi":4.1,"bo":14,"so":15,"buy":1900,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1377,"name":"Отблеск севера","t":1794807645179,"sale":800.01,"ref":979.55,"profit":81.59,"roi":10.2,"bo":4,"so":7,"buy":800,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
