@@ -986,3 +986,4 @@
 {"id":112,"name":"Рвач","t":1794781242746,"sale":128.5,"ref":173.9,"profit":28.01,"roi":21.8,"bo":7,"so":6,"buy":127,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":494,"name":"НВ-2 Клён","t":1794781866084,"sale":502.01,"ref":615.95,"profit":52.35,"roi":10.43,"bo":6,"so":8,"buy":502,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":324,"name":"Буран","t":1794787278494,"sale":869.71,"ref":1020,"profit":48.29,"roi":5.55,"bo":1,"so":29,"buy":864.35,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":308,"name":"Аспект","t":1794787846499,"sale":2300,"ref":2649,"profit":84.1,"roi":3.66,"bo":24,"so":37,"buy":2126,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
