@@ -1009,3 +1009,4 @@
 {"id":117,"name":"КА-2 Маховик","t":1794838860013,"sale":179.08,"ref":226.8,"profit":25.04,"roi":13.98,"bo":7,"so":36,"buy":179.06,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":262,"name":"Фукибари","t":1794844881490,"sale":2350,"ref":2747.82,"profit":123.04,"roi":5.24,"bo":19,"so":22,"buy":2183,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":276,"name":"Циклон","t":1794847841693,"sale":292.01,"ref":360.95,"profit":32.85,"roi":11.25,"bo":6,"so":26,"buy":290.03,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":180,"name":"Беркут","t":1794850843256,"sale":1620,"ref":1888.99,"profit":80.09,"roi":4.94,"bo":15,"so":12,"buy":1613.05,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
