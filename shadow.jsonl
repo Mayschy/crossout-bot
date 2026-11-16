@@ -1646,3 +1646,4 @@
 {"id":464,"name":"Коготь","t":1794856841327,"sale":80,"ref":106.05,"profit":15.44,"roi":19.31,"bo":26,"so":22,"buy":77.06,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":394,"name":"Комбайн","t":1794858042667,"sale":1650,"ref":1850,"profit":15,"roi":0.91,"bo":9,"so":19,"buy":1600,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":270,"name":"АП50 Шторм","t":1794858042667,"sale":72.91,"ref":94.44,"profit":12.09,"roi":16.58,"bo":12,"so":40,"buy":72.9,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":112,"name":"Рвач","t":1794859843752,"sale":141.7,"ref":173.8,"profit":14.72,"roi":10.39,"bo":7,"so":11,"buy":130.9,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
