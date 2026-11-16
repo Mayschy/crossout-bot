@@ -1624,3 +1624,5 @@
 {"id":619,"name":"Омни","t":1794844245609,"sale":197,"ref":230,"profit":10,"roi":5.08,"bo":7,"so":21,"buy":188.94,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":248,"name":"Обвинитель 76мм","t":1794844880067,"sale":79.65,"ref":103.9,"profit":13.86,"roi":17.4,"bo":13,"so":10,"buy":74.59,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":605,"name":"Титан","t":1794845446712,"sale":112,"ref":139.9,"profit":13.91,"roi":12.42,"bo":2,"so":10,"buy":111.97,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1153,"name":"Квадратная платформа 12×12×6","t":1794847841130,"sale":35.66,"ref":58,"profit":16.54,"roi":46.38,"bo":0,"so":103,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":485,"name":"Бутстрэп","t":1794847841130,"sale":631,"ref":712.89,"profit":10.6,"roi":1.68,"bo":11,"so":6,"buy":581,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
