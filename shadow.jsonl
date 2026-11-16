@@ -1612,3 +1612,4 @@
 {"id":1461,"name":"«Эхо далёких миров»","t":1794831647101,"sale":65.53,"ref":89.1,"profit":14.66,"roi":22.37,"bo":0,"so":2,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":147,"name":"Длинная фиолетовая лампа","t":1794831647101,"sale":67.01,"ref":90,"profit":13.99,"roi":20.88,"bo":5,"so":6,"buy":67,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":623,"name":"Виджет (пов.)","t":1794833443218,"sale":427.54,"ref":499.97,"profit":22.43,"roi":5.25,"bo":15,"so":55,"buy":385.03,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":112,"name":"Рвач","t":1794834647215,"sale":140.1,"ref":173.9,"profit":16.41,"roi":11.71,"bo":7,"so":5,"buy":130.9,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
