@@ -1620,3 +1620,5 @@
 {"id":484,"name":"ЭУ-1 Заряд","t":1794841844311,"sale":88.48,"ref":111.11,"profit":11.52,"roi":13.02,"bo":6,"so":16,"buy":87.6,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":284,"name":"Панацея","t":1794843645181,"sale":300.99,"ref":360.37,"profit":23.34,"roi":7.76,"bo":13,"so":10,"buy":300.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":490,"name":"Генка","t":1794843645181,"sale":24.05,"ref":37.86,"profit":10.02,"roi":41.68,"bo":0,"so":19,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":112,"name":"Рвач","t":1794844245609,"sale":142.14,"ref":173.9,"profit":14.37,"roi":10.11,"bo":7,"so":7,"buy":130.9,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":619,"name":"Омни","t":1794844245609,"sale":197,"ref":230,"profit":10,"roi":5.08,"bo":7,"so":21,"buy":188.94,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
