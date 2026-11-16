@@ -1018,3 +1018,5 @@
 {"id":3747,"name":"Экстремум","t":1794854448901,"sale":2305,"ref":2595,"profit":30.5,"roi":1.32,"bo":3,"so":17,"buy":2300,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":482,"name":"Мигалка","t":1794855681867,"sale":188.33,"ref":249,"profit":35.77,"roi":18.99,"bo":2,"so":6,"buy":188.25,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":335,"name":"Триггер","t":1794856841987,"sale":188,"ref":245,"profit":32.5,"roi":17.29,"bo":2,"so":6,"buy":185.56,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1464,"name":"Икар I","t":1794857477372,"sale":406,"ref":498.45,"profit":42.61,"roi":10.49,"bo":15,"so":90,"buy":383,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":420,"name":"Гнездо","t":1794857479004,"sale":315,"ref":379.65,"profit":26.69,"roi":8.47,"bo":41,"so":17,"buy":310.14,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
