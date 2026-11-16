@@ -1020,3 +1020,4 @@
 {"id":335,"name":"Триггер","t":1794856841987,"sale":188,"ref":245,"profit":32.5,"roi":17.29,"bo":2,"so":6,"buy":185.56,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1464,"name":"Икар I","t":1794857477372,"sale":406,"ref":498.45,"profit":42.61,"roi":10.49,"bo":15,"so":90,"buy":383,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":420,"name":"Гнездо","t":1794857479004,"sale":315,"ref":379.65,"profit":26.69,"roi":8.47,"bo":41,"so":17,"buy":310.14,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":339,"name":"Корво","t":1794858043324,"sale":245.14,"ref":307.96,"profit":32.02,"roi":13.06,"bo":6,"so":28,"buy":240.03,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
