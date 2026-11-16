@@ -995,3 +995,4 @@
 {"id":579,"name":"Голиаф","t":1794806475985,"sale":1902.05,"ref":2199.94,"profit":77.9,"roi":4.1,"bo":14,"so":15,"buy":1900,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1377,"name":"Отблеск севера","t":1794807645179,"sale":800.01,"ref":979.55,"profit":81.59,"roi":10.2,"bo":4,"so":7,"buy":800,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":445,"name":"Геррида I","t":1794808898204,"sale":711,"ref":819.97,"profit":26.97,"roi":3.79,"bo":53,"so":41,"buy":700,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":300,"name":"П-26 Заградитель","t":1794814845196,"sale":263.19,"ref":344.61,"profit":46.96,"roi":17.84,"bo":10,"so":31,"buy":263.18,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
