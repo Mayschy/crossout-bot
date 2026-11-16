@@ -1602,3 +1602,4 @@
 {"id":1151,"name":"Бетонная балка 6×30×6","t":1794819685322,"sale":28,"ref":44,"profit":11.6,"roi":41.43,"bo":0,"so":4,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":555,"name":"Бум","t":1794822040083,"sale":90.17,"ref":116.05,"profit":14.27,"roi":15.83,"bo":13,"so":33,"buy":87.31,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":297,"name":"Ассемблер","t":1794824438167,"sale":1603.69,"ref":1800,"profit":16.31,"roi":1.02,"bo":7,"so":7,"buy":1351.04,"act":5,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":301,"name":"Спектр-2","t":1794826241051,"sale":260,"ref":305.89,"profit":15.3,"roi":5.88,"bo":19,"so":28,"buy":257.15,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
