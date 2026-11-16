@@ -1000,3 +1000,5 @@
 {"id":465,"name":"Счетчик урона","t":1794822040658,"sale":249.33,"ref":324.52,"profit":42.74,"roi":17.14,"bo":15,"so":3,"buy":227.15,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":304,"name":"П-32 Поборник","t":1794822646438,"sale":1351,"ref":1571,"profit":62.9,"roi":4.66,"bo":5,"so":5,"buy":1350.01,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":445,"name":"Геррида I","t":1794827439945,"sale":700.6,"ref":809.97,"profit":28.37,"roi":4.05,"bo":41,"so":43,"buy":700.5,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":383,"name":"Коракс","t":1794828663200,"sale":3525,"ref":3989.97,"profit":65.97,"roi":1.87,"bo":5,"so":22,"buy":3371.75,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":97,"name":"«Шаолинь»","t":1794828664738,"sale":218.65,"ref":301.88,"profit":53.04,"roi":24.26,"bo":1,"so":4,"buy":212.98,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
