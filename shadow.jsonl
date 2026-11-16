@@ -1629,3 +1629,4 @@
 {"id":1212,"name":"Плазменное кольцо","t":1794849048050,"sale":45.15,"ref":72.41,"profit":20.02,"roi":44.34,"bo":2,"so":5,"buy":45.12,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":354,"name":"Фафнир","t":1794849048050,"sale":142.5,"ref":178.25,"profit":17.93,"roi":12.58,"bo":2,"so":7,"buy":135,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1464,"name":"Икар I","t":1794849048050,"sale":444.44,"ref":505.79,"profit":10.77,"roi":2.42,"bo":4,"so":81,"buy":400,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":487,"name":"Газген","t":1794849645963,"sale":325.99,"ref":374.23,"profit":10.82,"roi":3.32,"bo":11,"so":53,"buy":315,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
