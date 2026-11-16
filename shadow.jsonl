@@ -1592,3 +1592,6 @@
 {"id":484,"name":"ЭУ-1 Заряд","t":1794807644466,"sale":101.37,"ref":136.65,"profit":21.62,"roi":21.32,"bo":10,"so":4,"buy":100.44,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3769,"name":"Смог-15","t":1794809442596,"sale":172.07,"ref":204.02,"profit":11.55,"roi":6.71,"bo":13,"so":13,"buy":172.06,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":309,"name":"Синус-0","t":1794810039410,"sale":82.93,"ref":108.49,"profit":14.71,"roi":17.74,"bo":15,"so":20,"buy":81.75,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":445,"name":"Геррида I","t":1794810665730,"sale":711,"ref":810,"profit":18,"roi":2.53,"bo":53,"so":41,"buy":700,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":269,"name":"Медиана","t":1794810665730,"sale":108.27,"ref":136,"profit":14.13,"roi":13.05,"bo":4,"so":14,"buy":107.19,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":185,"name":"Жесткач","t":1794810665730,"sale":99.02,"ref":124.79,"profit":13.29,"roi":13.42,"bo":2,"so":23,"buy":98.03,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
