@@ -996,3 +996,4 @@
 {"id":1377,"name":"Отблеск севера","t":1794807645179,"sale":800.01,"ref":979.55,"profit":81.59,"roi":10.2,"bo":4,"so":7,"buy":800,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":445,"name":"Геррида I","t":1794808898204,"sale":711,"ref":819.97,"profit":26.97,"roi":3.79,"bo":53,"so":41,"buy":700,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":300,"name":"П-26 Заградитель","t":1794814845196,"sale":263.19,"ref":344.61,"profit":46.96,"roi":17.84,"bo":10,"so":31,"buy":263.18,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":561,"name":"Гармонизатор","t":1794818444380,"sale":675.01,"ref":780,"profit":26.99,"roi":4,"bo":40,"so":30,"buy":675,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
