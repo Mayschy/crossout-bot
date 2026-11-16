@@ -1588,3 +1588,4 @@
 {"id":313,"name":"Буря","t":1794795039026,"sale":138.99,"ref":180.44,"profit":23.41,"roi":16.84,"bo":42,"so":10,"buy":138.72,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1794797443656,"sale":192,"ref":226.99,"profit":12.29,"roi":6.4,"bo":38,"so":14,"buy":186.69,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":565,"name":"Хамелеон","t":1794801676203,"sale":72.82,"ref":93.77,"profit":11.57,"roi":15.89,"bo":34,"so":5,"buy":72,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1794803462985,"sale":188,"ref":220.94,"profit":10.85,"roi":5.77,"bo":21,"so":50,"buy":170,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
