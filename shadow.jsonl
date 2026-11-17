@@ -1679,3 +1679,4 @@
 {"id":496,"name":"СВ-2 Буревестник","t":1794903043558,"sale":359.1,"ref":416.05,"profit":15.34,"roi":4.27,"bo":8,"so":30,"buy":319.05,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1461,"name":"«Эхо далёких миров»","t":1794903643644,"sale":57.18,"ref":77,"profit":12.12,"roi":21.2,"bo":0,"so":5,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1794904266860,"sale":102.89,"ref":134.63,"profit":18.28,"roi":17.76,"bo":3,"so":27,"buy":101.25,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":40,"name":"Пилигрим","t":1794905440736,"sale":87.04,"ref":108.49,"profit":10.6,"roi":12.18,"bo":0,"so":21,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
