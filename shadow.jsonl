@@ -1712,3 +1712,4 @@
 {"id":420,"name":"Гнездо","t":1794936044293,"sale":311.11,"ref":360,"profit":12.89,"roi":4.14,"bo":43,"so":31,"buy":311,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1794938484334,"sale":83.1,"ref":104.99,"profit":11.39,"roi":13.71,"bo":0,"so":17,"buy":0,"act":10,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":586,"name":"Слейпнир","t":1794940842160,"sale":329,"ref":392,"profit":23.8,"roi":7.23,"bo":44,"so":29,"buy":328.4,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":120,"name":"Озноб","t":1794942080677,"sale":340,"ref":394.98,"profit":15.48,"roi":4.55,"bo":8,"so":26,"buy":331.31,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
