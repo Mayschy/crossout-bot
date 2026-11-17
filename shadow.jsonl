@@ -1707,3 +1707,5 @@
 {"id":464,"name":"Коготь","t":1794933070981,"sale":80,"ref":100,"profit":10,"roi":12.5,"bo":21,"so":33,"buy":78.62,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":289,"name":"Дробитель","t":1794933646903,"sale":356.99,"ref":415.3,"profit":16.78,"roi":4.7,"bo":24,"so":10,"buy":326.86,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":281,"name":"СД-15 Гриф","t":1794933646903,"sale":1950,"ref":2181.96,"profit":13.76,"roi":0.71,"bo":6,"so":11,"buy":1885.01,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":569,"name":"Окулус VI","t":1794935448498,"sale":77.9,"ref":99.64,"profit":11.78,"roi":15.12,"bo":0,"so":35,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":605,"name":"Титан","t":1794935448498,"sale":103.47,"ref":126.45,"profit":10.34,"roi":9.99,"bo":4,"so":16,"buy":101.37,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
