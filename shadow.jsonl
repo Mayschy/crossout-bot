@@ -1693,3 +1693,4 @@
 {"id":339,"name":"Корво","t":1794921042290,"sale":245.14,"ref":299.59,"profit":24.49,"roi":9.99,"bo":10,"so":18,"buy":242.46,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":226,"name":"Надувной Аполлон","t":1794921042290,"sale":269.32,"ref":318.13,"profit":17,"roi":6.31,"bo":1,"so":6,"buy":250.82,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":331,"name":"Сумматор","t":1794921042290,"sale":100,"ref":125.96,"profit":13.36,"roi":13.36,"bo":5,"so":11,"buy":90.46,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":569,"name":"Окулус VI","t":1794922269048,"sale":82.17,"ref":109.35,"profit":16.24,"roi":19.77,"bo":0,"so":31,"buy":0,"act":10,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
