@@ -1672,3 +1672,4 @@
 {"id":354,"name":"Фафнир","t":1794888073207,"sale":135.28,"ref":168,"profit":15.92,"roi":11.77,"bo":1,"so":4,"buy":133.5,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":353,"name":"Самопал","t":1794890442206,"sale":67.12,"ref":88.89,"profit":12.88,"roi":19.19,"bo":3,"so":8,"buy":67.11,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":111,"name":"Зов духов","t":1794893464428,"sale":200,"ref":236.19,"profit":12.57,"roi":6.29,"bo":1,"so":4,"buy":184.91,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":184,"name":"Исполин","t":1794894640882,"sale":136.71,"ref":177,"profit":22.59,"roi":16.52,"bo":10,"so":43,"buy":136,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
