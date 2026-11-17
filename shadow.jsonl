@@ -1717,3 +1717,5 @@
 {"id":289,"name":"Дробитель","t":1794944442156,"sale":350,"ref":412.94,"profit":21.65,"roi":6.18,"bo":30,"so":21,"buy":327.29,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":462,"name":"Шабаш","t":1794944442156,"sale":263,"ref":313.46,"profit":19.11,"roi":7.27,"bo":28,"so":22,"buy":262,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":254,"name":"ЗИС-33 Верзила","t":1794946244773,"sale":68.88,"ref":88.47,"profit":10.74,"roi":15.6,"bo":3,"so":26,"buy":67.68,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":276,"name":"Циклон","t":1794946847613,"sale":269.12,"ref":323.89,"profit":22.38,"roi":8.32,"bo":0,"so":32,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":56,"name":"Омнибокс","t":1794946847613,"sale":340.99,"ref":398.99,"profit":18.1,"roi":5.31,"bo":7,"so":17,"buy":340,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
