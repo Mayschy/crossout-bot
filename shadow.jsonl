@@ -1677,3 +1677,4 @@
 {"id":184,"name":"Исполин","t":1794900662339,"sale":136.72,"ref":176.57,"profit":22.19,"roi":16.23,"bo":11,"so":46,"buy":136.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":562,"name":"Гироскоп","t":1794900662339,"sale":370,"ref":423.98,"profit":11.58,"roi":3.13,"bo":12,"so":2,"buy":335.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":496,"name":"СВ-2 Буревестник","t":1794903043558,"sale":359.1,"ref":416.05,"profit":15.34,"roi":4.27,"bo":8,"so":30,"buy":319.05,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1461,"name":"«Эхо далёких миров»","t":1794903643644,"sale":57.18,"ref":77,"profit":12.12,"roi":21.2,"bo":0,"so":5,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
