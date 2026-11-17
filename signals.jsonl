@@ -1050,3 +1050,4 @@
 {"id":114,"name":"Стартер","t":1794933071952,"sale":1050,"ref":1220.98,"profit":48.88,"roi":4.66,"bo":8,"so":8,"buy":984,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":289,"name":"Дробитель","t":1794933073531,"sale":340,"ref":415.3,"profit":33.77,"roi":9.93,"bo":22,"so":7,"buy":326.83,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":489,"name":"Аполлон IV","t":1794933075577,"sale":2160,"ref":2429.98,"profit":26.98,"roi":1.25,"bo":8,"so":48,"buy":2150,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":268,"name":"Жнец","t":1794934245900,"sale":1960,"ref":2244.99,"profit":60.49,"roi":3.09,"bo":9,"so":38,"buy":1950,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
