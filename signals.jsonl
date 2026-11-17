@@ -1058,3 +1058,5 @@
 {"id":84,"name":"Гермес","t":1794940842704,"sale":320.42,"ref":399.91,"profit":39.5,"roi":12.33,"bo":25,"so":18,"buy":320.32,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":646,"name":"Атом","t":1794942081249,"sale":200.18,"ref":252.88,"profit":27.41,"roi":13.69,"bo":44,"so":41,"buy":196,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3770,"name":"Когда не ждут","t":1794942643165,"sale":6.31,"ref":195.89,"profit":169.99,"roi":2693.99,"bo":0,"so":8,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":297,"name":"Ассемблер","t":1794943243690,"sale":1432.94,"ref":1799.94,"profit":187.01,"roi":13.05,"bo":5,"so":6,"buy":1413.05,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":289,"name":"Дробитель","t":1794943245016,"sale":342,"ref":413,"profit":29.7,"roi":8.68,"bo":30,"so":14,"buy":327.27,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
