@@ -1036,3 +1036,4 @@
 {"id":106,"name":"«Титаник»","t":1794903045149,"sale":165,"ref":219,"profit":32.1,"roi":19.45,"bo":2,"so":5,"buy":164.01,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":369,"name":"Просветление","t":1794903645355,"sale":257.14,"ref":340,"profit":48.86,"roi":19,"bo":1,"so":6,"buy":254.9,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":257,"name":"Слон","t":1794907241046,"sale":1836.02,"ref":2190.6,"profit":135.52,"roi":7.38,"bo":12,"so":8,"buy":1836.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":321,"name":"Мельник","t":1794910246006,"sale":420.7,"ref":499.97,"profit":29.27,"roi":6.96,"bo":15,"so":25,"buy":420.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
