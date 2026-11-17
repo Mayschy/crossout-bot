@@ -1723,3 +1723,4 @@
 {"id":421,"name":"Тромбон","t":1794948644450,"sale":591.05,"ref":675,"profit":16.45,"roi":2.78,"bo":18,"so":22,"buy":591.04,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":634,"name":"Колесо багги","t":1794949841916,"sale":53,"ref":70.58,"profit":10.52,"roi":19.85,"bo":2,"so":14,"buy":51.59,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":463,"name":"Отшельник","t":1794950448505,"sale":670,"ref":759.97,"profit":13.97,"roi":2.09,"bo":22,"so":38,"buy":655.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":710,"name":"Расширение склада","t":1794951063990,"sale":219.99,"ref":259.97,"profit":13.98,"roi":6.36,"bo":9,"so":54,"buy":215,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
