@@ -1038,3 +1038,4 @@
 {"id":257,"name":"Слон","t":1794907241046,"sale":1836.02,"ref":2190.6,"profit":135.52,"roi":7.38,"bo":12,"so":8,"buy":1836.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":321,"name":"Мельник","t":1794910246006,"sale":420.7,"ref":499.97,"profit":29.27,"roi":6.96,"bo":15,"so":25,"buy":420.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":273,"name":"В-37-39 Адаптер","t":1794912045028,"sale":423.98,"ref":514.98,"profit":39.5,"roi":9.32,"bo":13,"so":14,"buy":422.17,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":57,"name":"Фаворит","t":1794913286411,"sale":930,"ref":1099,"profit":59.1,"roi":6.35,"bo":7,"so":17,"buy":925.05,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
