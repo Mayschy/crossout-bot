@@ -1670,3 +1670,4 @@
 {"id":112,"name":"Рвач","t":1794885043969,"sale":142.5,"ref":170,"profit":10.5,"roi":7.37,"bo":5,"so":12,"buy":127,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":571,"name":"Генезис","t":1794887175746,"sale":94.8,"ref":119.99,"profit":13.19,"roi":13.91,"bo":6,"so":37,"buy":94.13,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":354,"name":"Фафнир","t":1794888073207,"sale":135.28,"ref":168,"profit":15.92,"roi":11.77,"bo":1,"so":4,"buy":133.5,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":353,"name":"Самопал","t":1794890442206,"sale":67.12,"ref":88.89,"profit":12.88,"roi":19.19,"bo":3,"so":8,"buy":67.11,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
