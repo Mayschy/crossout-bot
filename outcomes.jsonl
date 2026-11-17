@@ -13910,3 +13910,11 @@
 {"id":3747,"t":1794955842670,"h":20,"at":1794957000000,"s":2499.99,"b":2166,"so":15,"bo":22,"ask":79.99,"instant":-220.6,"taken":true,"shadow":false,"roi":3.69,"capital":2170,"late":false}
 {"id":634,"t":1794949841916,"h":120,"at":1794957000000,"s":67.76,"b":51.59,"so":16,"bo":2,"ask":7.98,"instant":-6.57,"taken":true,"shadow":true,"roi":15.06,"capital":53,"late":false}
 {"id":3747,"t":1794955842670,"h":30,"at":1794957600000,"s":2499.99,"b":2166,"so":17,"bo":22,"ask":79.99,"instant":-220.6,"taken":true,"shadow":false,"roi":3.69,"capital":2170,"late":false}
+{"id":463,"t":1794950448505,"h":120,"at":1794957600000,"s":750,"b":660,"so":43,"bo":24,"ask":5,"instant":-76,"taken":true,"shadow":true,"roi":0.75,"capital":670,"late":false}
+{"id":710,"t":1794951063990,"h":120,"at":1794958200000,"s":237.06,"b":194.07,"so":55,"bo":46,"ask":-6.64,"instant":-45.33,"taken":true,"shadow":true,"roi":-3.02,"capital":219.99,"late":false}
+{"id":578,"t":1794954046046,"h":60,"at":1794957600000,"s":185,"b":145,"so":39,"bo":31,"ask":19.99,"instant":-16.01,"taken":true,"shadow":true,"roi":13.64,"capital":146.51,"late":false}
+{"id":1293,"t":1794957044404,"h":10,"at":1794957600000,"s":62.78,"b":0,"so":8,"bo":0,"ask":-6.28,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":62.78,"late":false}
+{"id":1293,"t":1794957044404,"h":20,"at":1794958200000,"s":62.78,"b":0,"so":8,"bo":0,"ask":-6.28,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":62.78,"late":false}
+{"id":260,"t":1794957044404,"h":10,"at":1794957600000,"s":308,"b":288.14,"so":22,"bo":2,"ask":-30.8,"instant":-48.67,"taken":false,"shadow":true,"roi":-10,"capital":308,"late":false}
+{"id":260,"t":1794957044404,"h":20,"at":1794958200000,"s":308,"b":288.14,"so":22,"bo":2,"ask":-30.8,"instant":-48.67,"taken":false,"shadow":true,"roi":-10,"capital":308,"late":false}
+{"id":116,"t":1794957644189,"h":10,"at":1794958200000,"s":55.32,"b":55.31,"so":3,"bo":1,"ask":-5.53,"instant":-5.54,"taken":false,"shadow":true,"roi":-10,"capital":55.32,"late":false}
