@@ -1714,3 +1714,5 @@
 {"id":586,"name":"Слейпнир","t":1794940842160,"sale":329,"ref":392,"profit":23.8,"roi":7.23,"bo":44,"so":29,"buy":328.4,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":120,"name":"Озноб","t":1794942080677,"sale":340,"ref":394.98,"profit":15.48,"roi":4.55,"bo":8,"so":26,"buy":331.31,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1056,"name":"Материал: Хром","t":1794942642583,"sale":600,"ref":681.64,"profit":13.48,"roi":2.25,"bo":2,"so":3,"buy":528.79,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":289,"name":"Дробитель","t":1794944442156,"sale":350,"ref":412.94,"profit":21.65,"roi":6.18,"bo":30,"so":21,"buy":327.29,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":462,"name":"Шабаш","t":1794944442156,"sale":263,"ref":313.46,"profit":19.11,"roi":7.27,"bo":28,"so":22,"buy":262,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
