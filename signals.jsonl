@@ -1047,3 +1047,6 @@
 {"id":337,"name":"Акари","t":1794929468579,"sale":1962,"ref":2249.9,"profit":62.91,"roi":3.21,"bo":4,"so":29,"buy":1961.1,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":583,"name":"Файер «Энергия Ци»","t":1794929470176,"sale":196.36,"ref":263.19,"profit":40.51,"roi":20.63,"bo":3,"so":8,"buy":195.42,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":646,"name":"Атом","t":1794930644613,"sale":203.45,"ref":259.99,"profit":30.54,"roi":15.01,"bo":58,"so":18,"buy":201.21,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":114,"name":"Стартер","t":1794933071952,"sale":1050,"ref":1220.98,"profit":48.88,"roi":4.66,"bo":8,"so":8,"buy":984,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":289,"name":"Дробитель","t":1794933073531,"sale":340,"ref":415.3,"profit":33.77,"roi":9.93,"bo":22,"so":7,"buy":326.83,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":489,"name":"Аполлон IV","t":1794933075577,"sale":2160,"ref":2429.98,"profit":26.98,"roi":1.25,"bo":8,"so":48,"buy":2150,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

@@ -1704,3 +1704,4 @@
 {"id":569,"name":"Окулус VI","t":1794930042538,"sale":79.35,"ref":99.75,"profit":10.43,"roi":13.14,"bo":0,"so":36,"buy":0,"act":8,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":314,"name":"Аротрон","t":1794930643865,"sale":311.06,"ref":365,"profit":17.44,"roi":5.61,"bo":4,"so":20,"buy":309.21,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":268,"name":"Жнец","t":1794932449216,"sale":2000,"ref":2249,"profit":24.1,"roi":1.21,"bo":11,"so":38,"buy":1960,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":464,"name":"Коготь","t":1794933070981,"sale":80,"ref":100,"profit":10,"roi":12.5,"bo":21,"so":33,"buy":78.62,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
