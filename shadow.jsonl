@@ -1726,3 +1726,5 @@
 {"id":710,"name":"Расширение склада","t":1794951063990,"sale":219.99,"ref":259.97,"profit":13.98,"roi":6.36,"bo":9,"so":54,"buy":215,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1794951641234,"sale":99.18,"ref":123.95,"profit":12.38,"roi":12.48,"bo":2,"so":29,"buy":99.17,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":578,"name":"Гусеница укрепленная","t":1794954046046,"sale":146.51,"ref":185.93,"profit":20.83,"roi":14.22,"bo":31,"so":41,"buy":145,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1293,"name":"Розовая пантера","t":1794957044404,"sale":62.78,"ref":93.38,"profit":21.26,"roi":33.87,"bo":0,"so":8,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":260,"name":"Феникс","t":1794957044404,"sale":308,"ref":360,"profit":16,"roi":5.19,"bo":2,"so":22,"buy":288.14,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
