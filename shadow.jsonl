@@ -1660,3 +1660,4 @@
 {"id":457,"name":"Снабжение","t":1794873682097,"sale":73.6,"ref":95.18,"profit":12.06,"roi":16.39,"bo":25,"so":6,"buy":73.03,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":113,"name":"Терзатель","t":1794874241559,"sale":148.44,"ref":176.5,"profit":10.41,"roi":7.01,"bo":1,"so":31,"buy":148.43,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":156,"name":"Декоративная решетка 2","t":1794875461782,"sale":49.27,"ref":69.83,"profit":13.58,"roi":27.56,"bo":0,"so":3,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":689,"name":"Контейнер разведчика","t":1794876041985,"sale":342,"ref":399.88,"profit":17.89,"roi":5.23,"bo":41,"so":178,"buy":341,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

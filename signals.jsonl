@@ -1026,3 +1026,4 @@
 {"id":380,"name":"Искра III","t":1794867642200,"sale":1601.14,"ref":1869,"profit":80.96,"roi":5.06,"bo":8,"so":15,"buy":1600,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3743,"name":"Паломник","t":1794871860790,"sale":712.9,"ref":899,"profit":96.2,"roi":13.49,"bo":17,"so":34,"buy":712.89,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":504,"name":"Аннигилятор","t":1794873682941,"sale":1002.53,"ref":1199,"profit":76.57,"roi":7.64,"bo":11,"so":12,"buy":966.19,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":50,"name":"Нова","t":1794876043850,"sale":1873.86,"ref":2223,"profit":126.84,"roi":6.77,"bo":3,"so":14,"buy":1800.01,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
