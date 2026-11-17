@@ -1669,3 +1669,4 @@
 {"id":331,"name":"Сумматор","t":1794883245520,"sale":100,"ref":125.96,"profit":13.36,"roi":13.36,"bo":11,"so":11,"buy":90.5,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":112,"name":"Рвач","t":1794885043969,"sale":142.5,"ref":170,"profit":10.5,"roi":7.37,"bo":5,"so":12,"buy":127,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":571,"name":"Генезис","t":1794887175746,"sale":94.8,"ref":119.99,"profit":13.19,"roi":13.91,"bo":6,"so":37,"buy":94.13,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":354,"name":"Фафнир","t":1794888073207,"sale":135.28,"ref":168,"profit":15.92,"roi":11.77,"bo":1,"so":4,"buy":133.5,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
