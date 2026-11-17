@@ -1062,3 +1062,4 @@
 {"id":289,"name":"Дробитель","t":1794943245016,"sale":342,"ref":413,"profit":29.7,"roi":8.68,"bo":30,"so":14,"buy":327.27,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":24,"name":"Инферно","t":1794944442957,"sale":900,"ref":1056,"profit":50.4,"roi":5.6,"bo":18,"so":9,"buy":890.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":556,"name":"Фатум","t":1794944444606,"sale":378.1,"ref":449.88,"profit":26.79,"roi":7.09,"bo":4,"so":29,"buy":370.09,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":575,"name":"Гусеница танковая","t":1794945681164,"sale":850,"ref":991.98,"profit":42.78,"roi":5.03,"bo":21,"so":12,"buy":787,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
