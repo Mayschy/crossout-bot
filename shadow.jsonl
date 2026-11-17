@@ -1699,3 +1699,6 @@
 {"id":1388,"name":"Северная сказка","t":1794926446158,"sale":120.7,"ref":151.4,"profit":15.56,"roi":12.89,"bo":0,"so":4,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":605,"name":"Титан","t":1794928844455,"sale":102.88,"ref":135.16,"profit":18.76,"roi":18.24,"bo":0,"so":4,"buy":0,"act":8,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":387,"name":"Хвостовой плавник","t":1794929467694,"sale":170.22,"ref":207.67,"profit":16.68,"roi":9.8,"bo":5,"so":7,"buy":167.04,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":464,"name":"Коготь","t":1794930042538,"sale":82.6,"ref":109.92,"profit":16.33,"roi":19.77,"bo":25,"so":22,"buy":80,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":40,"name":"Пилигрим","t":1794930042538,"sale":84.03,"ref":105.72,"profit":11.12,"roi":13.23,"bo":2,"so":27,"buy":83.61,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":569,"name":"Окулус VI","t":1794930042538,"sale":79.35,"ref":99.75,"profit":10.43,"roi":13.14,"bo":0,"so":36,"buy":0,"act":8,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
