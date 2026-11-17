@@ -1728,3 +1728,4 @@
 {"id":578,"name":"Гусеница укрепленная","t":1794954046046,"sale":146.51,"ref":185.93,"profit":20.83,"roi":14.22,"bo":31,"so":41,"buy":145,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1293,"name":"Розовая пантера","t":1794957044404,"sale":62.78,"ref":93.38,"profit":21.26,"roi":33.87,"bo":0,"so":8,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":260,"name":"Феникс","t":1794957044404,"sale":308,"ref":360,"profit":16,"roi":5.19,"bo":2,"so":22,"buy":288.14,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":116,"name":"«Че такой серьезный?»","t":1794957644189,"sale":55.32,"ref":74.58,"profit":11.8,"roi":21.33,"bo":1,"so":2,"buy":55.31,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
