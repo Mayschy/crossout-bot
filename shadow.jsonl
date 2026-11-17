@@ -1697,3 +1697,4 @@
 {"id":704,"name":"Хранилище чертежей","t":1794924110056,"sale":137.17,"ref":164.99,"profit":11.32,"roi":8.25,"bo":12,"so":65,"buy":135.07,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":297,"name":"Ассемблер","t":1794926446158,"sale":1601,"ref":1799.98,"profit":18.98,"roi":1.19,"bo":7,"so":9,"buy":1600,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1388,"name":"Северная сказка","t":1794926446158,"sale":120.7,"ref":151.4,"profit":15.56,"roi":12.89,"bo":0,"so":4,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":605,"name":"Титан","t":1794928844455,"sale":102.88,"ref":135.16,"profit":18.76,"roi":18.24,"bo":0,"so":4,"buy":0,"act":8,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
