@@ -1042,3 +1042,4 @@
 {"id":1163,"name":"Рампа с платформой 12×12×3","t":1794916881225,"sale":35.33,"ref":69,"profit":26.77,"roi":75.77,"bo":0,"so":66,"buy":0,"act":11,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":321,"name":"Мельник","t":1794918665984,"sale":410,"ref":509.89,"profit":48.9,"roi":11.93,"bo":11,"so":20,"buy":402.38,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":289,"name":"Дробитель","t":1794918667437,"sale":326.5,"ref":392.97,"profit":27.17,"roi":8.32,"bo":17,"so":22,"buy":326.47,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":424,"name":"Икар VII","t":1794920484222,"sale":340.02,"ref":415,"profit":33.48,"roi":9.85,"bo":2,"so":52,"buy":340.01,"act":11,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
