@@ -1683,3 +1683,4 @@
 {"id":51,"name":"Нетопырь","t":1794906642424,"sale":87.2,"ref":110,"profit":11.8,"roi":13.53,"bo":0,"so":33,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":184,"name":"Исполин","t":1794909045421,"sale":136.23,"ref":168,"profit":14.97,"roi":10.99,"bo":15,"so":48,"buy":136.2,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":420,"name":"Гнездо","t":1794910245101,"sale":320,"ref":376.97,"profit":19.27,"roi":6.02,"bo":38,"so":24,"buy":310.22,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":464,"name":"Коготь","t":1794910843179,"sale":76.18,"ref":98.84,"profit":12.78,"roi":16.77,"bo":16,"so":10,"buy":69.03,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
