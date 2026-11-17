@@ -1688,3 +1688,4 @@
 {"id":1464,"name":"Икар I","t":1794915063187,"sale":389,"ref":452,"profit":17.8,"roi":4.58,"bo":27,"so":89,"buy":388,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":289,"name":"Дробитель","t":1794916242972,"sale":330,"ref":392.99,"profit":23.69,"roi":7.18,"bo":19,"so":18,"buy":326.5,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":100,"name":"«Ре минор»","t":1794916242972,"sale":59.36,"ref":90.19,"profit":21.81,"roi":36.74,"bo":1,"so":4,"buy":47,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":536,"name":"Мясорубка","t":1794916880584,"sale":300,"ref":355,"profit":19.5,"roi":6.5,"bo":9,"so":40,"buy":286.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
