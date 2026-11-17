@@ -1709,3 +1709,4 @@
 {"id":281,"name":"СД-15 Гриф","t":1794933646903,"sale":1950,"ref":2181.96,"profit":13.76,"roi":0.71,"bo":6,"so":11,"buy":1885.01,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":569,"name":"Окулус VI","t":1794935448498,"sale":77.9,"ref":99.64,"profit":11.78,"roi":15.12,"bo":0,"so":35,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":605,"name":"Титан","t":1794935448498,"sale":103.47,"ref":126.45,"profit":10.34,"roi":9.99,"bo":4,"so":16,"buy":101.37,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":420,"name":"Гнездо","t":1794936044293,"sale":311.11,"ref":360,"profit":12.89,"roi":4.14,"bo":43,"so":31,"buy":311,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
