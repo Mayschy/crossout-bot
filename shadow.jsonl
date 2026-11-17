@@ -1685,3 +1685,4 @@
 {"id":420,"name":"Гнездо","t":1794910245101,"sale":320,"ref":376.97,"profit":19.27,"roi":6.02,"bo":38,"so":24,"buy":310.22,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":464,"name":"Коготь","t":1794910843179,"sale":76.18,"ref":98.84,"profit":12.78,"roi":16.77,"bo":16,"so":10,"buy":69.03,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":182,"name":"Крылья надежды","t":1794912044291,"sale":123.3,"ref":151.56,"profit":13.1,"roi":10.63,"bo":0,"so":2,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1464,"name":"Икар I","t":1794915063187,"sale":389,"ref":452,"profit":17.8,"roi":4.58,"bo":27,"so":89,"buy":388,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
