@@ -1044,3 +1044,5 @@
 {"id":289,"name":"Дробитель","t":1794918667437,"sale":326.5,"ref":392.97,"profit":27.17,"roi":8.32,"bo":17,"so":22,"buy":326.47,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":424,"name":"Икар VII","t":1794920484222,"sale":340.02,"ref":415,"profit":33.48,"roi":9.85,"bo":2,"so":52,"buy":340.01,"act":11,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1307,"name":"Кристалл льда","t":1794926446642,"sale":249,"ref":320,"profit":39,"roi":15.66,"bo":2,"so":4,"buy":242.65,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":337,"name":"Акари","t":1794929468579,"sale":1962,"ref":2249.9,"profit":62.91,"roi":3.21,"bo":4,"so":29,"buy":1961.1,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":583,"name":"Файер «Энергия Ци»","t":1794929470176,"sale":196.36,"ref":263.19,"profit":40.51,"roi":20.63,"bo":3,"so":8,"buy":195.42,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
