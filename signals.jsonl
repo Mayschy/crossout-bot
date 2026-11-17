@@ -1053,3 +1053,5 @@
 {"id":268,"name":"Жнец","t":1794934245900,"sale":1960,"ref":2244.99,"profit":60.49,"roi":3.09,"bo":9,"so":38,"buy":1950,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":482,"name":"Мигалка","t":1794935449390,"sale":192.08,"ref":249,"profit":32.02,"roi":16.67,"bo":2,"so":2,"buy":188.22,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":326,"name":"Вальс","t":1794936045127,"sale":1642.16,"ref":1913.67,"profit":80.14,"roi":4.88,"bo":14,"so":16,"buy":1542.16,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3779,"name":"Талисман","t":1794936682987,"sale":2668.23,"ref":3200.98,"profit":212.65,"roi":7.97,"bo":22,"so":9,"buy":2668.22,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":583,"name":"Файер «Энергия Ци»","t":1794936684410,"sale":195.42,"ref":263.19,"profit":41.45,"roi":21.21,"bo":2,"so":7,"buy":180.91,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
