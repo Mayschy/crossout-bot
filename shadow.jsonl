@@ -1666,3 +1666,4 @@
 {"id":350,"name":"Гоблин","t":1794880873520,"sale":82.62,"ref":104.83,"profit":11.73,"roi":14.19,"bo":13,"so":13,"buy":81.55,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":571,"name":"Генезис","t":1794881443436,"sale":95,"ref":120.99,"profit":13.89,"roi":14.62,"bo":6,"so":35,"buy":94.13,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1794882044965,"sale":145.08,"ref":176,"profit":13.32,"roi":9.18,"bo":25,"so":31,"buy":145.07,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":331,"name":"Сумматор","t":1794883245520,"sale":100,"ref":125.96,"profit":13.36,"roi":13.36,"bo":11,"so":11,"buy":90.5,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
