@@ -1782,3 +1782,4 @@
 {"id":347,"name":"Гром","t":1795026668142,"sale":150.56,"ref":189.73,"profit":20.2,"roi":13.41,"bo":3,"so":11,"buy":144.81,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":56,"name":"Омнибокс","t":1795027251158,"sale":344.45,"ref":404.95,"profit":20,"roi":5.81,"bo":15,"so":20,"buy":316.3,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":100,"name":"«Ре минор»","t":1795027251158,"sale":57.8,"ref":78.54,"profit":12.89,"roi":22.29,"bo":1,"so":5,"buy":47,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":581,"name":"Катушка Атипуса","t":1795028477613,"sale":165.14,"ref":197.99,"profit":13.05,"roi":7.9,"bo":11,"so":21,"buy":165.13,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
