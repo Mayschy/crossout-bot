@@ -1121,3 +1121,5 @@
 {"id":710,"name":"Расширение склада","t":1795034443265,"sale":223.24,"ref":278.06,"profit":27.01,"roi":12.1,"bo":128,"so":20,"buy":223.12,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3742,"name":"Ковчег","t":1795035047659,"sale":2500,"ref":2856,"profit":70.4,"roi":2.82,"bo":4,"so":10,"buy":2390,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":625,"name":"Затворник (пов.)","t":1795035049221,"sale":203.63,"ref":260.74,"profit":31.04,"roi":15.24,"bo":7,"so":19,"buy":201.5,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":610,"name":"Увабаки (пов.)","t":1795036243037,"sale":206.14,"ref":270.19,"profit":37.03,"roi":17.96,"bo":8,"so":15,"buy":190.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":428,"name":"Перехватчик","t":1795036245001,"sale":278.57,"ref":349.97,"profit":36.4,"roi":13.07,"bo":1,"so":16,"buy":269,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
