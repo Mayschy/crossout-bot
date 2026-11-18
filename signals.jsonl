@@ -1068,3 +1068,5 @@
 {"id":3747,"name":"Экстремум","t":1794955842670,"sale":2170,"ref":2499.99,"profit":79.99,"roi":3.69,"bo":22,"so":16,"buy":2166,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":289,"name":"Дробитель","t":1794960647384,"sale":330.02,"ref":396,"profit":26.38,"roi":7.99,"bo":27,"so":24,"buy":330.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":57,"name":"Фаворит","t":1794963676848,"sale":935.05,"ref":1130,"profit":81.95,"roi":8.76,"bo":19,"so":10,"buy":935.02,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":535,"name":"Эгида-Прайм","t":1794966638340,"sale":2000,"ref":2265.98,"profit":39.38,"roi":1.97,"bo":4,"so":21,"buy":1907.92,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":120,"name":"Озноб","t":1794966639806,"sale":332,"ref":399.86,"profit":27.87,"roi":8.4,"bo":12,"so":25,"buy":331.72,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
