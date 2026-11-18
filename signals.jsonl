@@ -1067,3 +1067,4 @@
 {"id":52,"name":"Грифон","t":1794951641947,"sale":1662,"ref":1996.97,"profit":135.27,"roi":8.14,"bo":2,"so":14,"buy":1622.7,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3747,"name":"Экстремум","t":1794955842670,"sale":2170,"ref":2499.99,"profit":79.99,"roi":3.69,"bo":22,"so":16,"buy":2166,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":289,"name":"Дробитель","t":1794960647384,"sale":330.02,"ref":396,"profit":26.38,"roi":7.99,"bo":27,"so":24,"buy":330.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":57,"name":"Фаворит","t":1794963676848,"sale":935.05,"ref":1130,"profit":81.95,"roi":8.76,"bo":19,"so":10,"buy":935.02,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
