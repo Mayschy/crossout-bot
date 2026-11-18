@@ -1105,3 +1105,5 @@
 {"id":322,"name":"ПУ14 Арбитр","t":1795021288632,"sale":2000,"ref":2250,"profit":25,"roi":1.25,"bo":11,"so":24,"buy":1860,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":342,"name":"РА-1 Вереск","t":1795023067992,"sale":1783.53,"ref":2187.42,"profit":185.15,"roi":10.38,"bo":1,"so":11,"buy":1736.46,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":610,"name":"Увабаки (пов.)","t":1795023642770,"sale":194.79,"ref":246.97,"profit":27.48,"roi":14.11,"bo":9,"so":23,"buy":190.04,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":575,"name":"Гусеница танковая","t":1795024243131,"sale":816,"ref":969.97,"profit":56.97,"roi":6.98,"bo":16,"so":20,"buy":810,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":562,"name":"Гироскоп","t":1795024244987,"sale":353.65,"ref":449.38,"profit":50.79,"roi":14.36,"bo":16,"so":2,"buy":351.65,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
