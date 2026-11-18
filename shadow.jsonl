@@ -1751,3 +1751,4 @@
 {"id":3757,"name":"УК-4 Гранит","t":1794992482423,"sale":1105,"ref":1240,"profit":11,"roi":1,"bo":8,"so":11,"buy":1020.02,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1794993646450,"sale":135.51,"ref":162.98,"profit":11.17,"roi":8.24,"bo":14,"so":12,"buy":135.5,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":463,"name":"Отшельник","t":1794995443624,"sale":660,"ref":747.99,"profit":13.19,"roi":2,"bo":18,"so":47,"buy":655.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":335,"name":"Триггер","t":1794996076879,"sale":200.51,"ref":234.99,"profit":10.98,"roi":5.48,"bo":10,"so":14,"buy":185.1,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
