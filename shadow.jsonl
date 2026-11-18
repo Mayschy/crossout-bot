@@ -1766,3 +1766,7 @@
 {"id":497,"name":"Колибри","t":1795020050973,"sale":330,"ref":380.5,"profit":12.45,"roi":3.77,"bo":13,"so":26,"buy":325.52,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":619,"name":"Омни","t":1795020642215,"sale":207.48,"ref":247.99,"profit":15.71,"roi":7.57,"bo":10,"so":37,"buy":205,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":453,"name":"Мириада","t":1795021847316,"sale":481.01,"ref":548.56,"profit":12.69,"roi":2.64,"bo":7,"so":24,"buy":481,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":427,"name":"ПТУР-Л Флейта","t":1795022452469,"sale":337.38,"ref":399.99,"profit":22.61,"roi":6.7,"bo":0,"so":60,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":189,"name":"Четкий","t":1795022452469,"sale":152.03,"ref":189.97,"profit":18.94,"roi":12.46,"bo":9,"so":26,"buy":152,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":578,"name":"Гусеница укрепленная","t":1795022452469,"sale":145.47,"ref":182,"profit":18.33,"roi":12.6,"bo":16,"so":60,"buy":145.14,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":659,"name":"Проблесковый маячок","t":1795022452469,"sale":174.5,"ref":205.09,"profit":10.08,"roi":5.78,"bo":2,"so":17,"buy":162.77,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
