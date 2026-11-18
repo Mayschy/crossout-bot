@@ -1123,3 +1123,5 @@
 {"id":625,"name":"Затворник (пов.)","t":1795035049221,"sale":203.63,"ref":260.74,"profit":31.04,"roi":15.24,"bo":7,"so":19,"buy":201.5,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":610,"name":"Увабаки (пов.)","t":1795036243037,"sale":206.14,"ref":270.19,"profit":37.03,"roi":17.96,"bo":8,"so":15,"buy":190.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":428,"name":"Перехватчик","t":1795036245001,"sale":278.57,"ref":349.97,"profit":36.4,"roi":13.07,"bo":1,"so":16,"buy":269,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":111,"name":"Зов духов","t":1795037463227,"sale":180,"ref":236.18,"profit":32.56,"roi":18.09,"bo":1,"so":4,"buy":168.09,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":290,"name":"Тошнитель","t":1795037464793,"sale":1601,"ref":1809,"profit":27.1,"roi":1.69,"bo":15,"so":22,"buy":1600,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
