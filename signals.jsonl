@@ -1130,3 +1130,5 @@
 {"id":246,"name":"Палач 88мм","t":1795039845931,"sale":297.51,"ref":370.92,"profit":36.32,"roi":12.21,"bo":1,"so":28,"buy":292.79,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":635,"name":"Колесо багги (пов.)","t":1795039847411,"sale":191.94,"ref":253,"profit":35.76,"roi":18.63,"bo":1,"so":15,"buy":169,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":625,"name":"Затворник (пов.)","t":1795039848896,"sale":203.65,"ref":259.98,"profit":30.33,"roi":14.89,"bo":6,"so":17,"buy":201.5,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":575,"name":"Гусеница танковая","t":1795040445232,"sale":788.05,"ref":935,"profit":53.45,"roi":6.78,"bo":10,"so":22,"buy":787,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":320,"name":"ПУ13 Уравнитель","t":1795040447350,"sale":284,"ref":344.98,"profit":26.48,"roi":9.32,"bo":14,"so":37,"buy":283.16,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
