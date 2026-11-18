@@ -1759,3 +1759,4 @@
 {"id":117,"name":"КА-2 Маховик","t":1795014081988,"sale":186.01,"ref":220,"profit":11.99,"roi":6.45,"bo":17,"so":20,"buy":186,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":179,"name":"Саврас","t":1795014641730,"sale":75.85,"ref":95.48,"profit":10.08,"roi":13.29,"bo":21,"so":29,"buy":75.83,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":568,"name":"Верификатор","t":1795015254498,"sale":120,"ref":147.89,"profit":13.1,"roi":10.92,"bo":18,"so":7,"buy":111.11,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":610,"name":"Увабаки (пов.)","t":1795017047459,"sale":210,"ref":247.23,"profit":12.51,"roi":5.96,"bo":15,"so":28,"buy":203.21,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

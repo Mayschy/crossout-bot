@@ -1093,3 +1093,4 @@
 {"id":33,"name":"Маяк 11","t":1795014642443,"sale":450,"ref":529.46,"profit":26.51,"roi":5.89,"bo":5,"so":8,"buy":401.01,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":528,"name":"Харибда","t":1795015873901,"sale":1750,"ref":2033.33,"profit":80,"roi":4.57,"bo":9,"so":7,"buy":1717.31,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":304,"name":"П-32 Поборник","t":1795016448679,"sale":1400,"ref":1588,"profit":29.2,"roi":2.09,"bo":1,"so":9,"buy":1350.5,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":630,"name":"Бигфут","t":1795017048287,"sale":133.15,"ref":178,"profit":27.05,"roi":20.32,"bo":2,"so":11,"buy":126,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
