@@ -1073,3 +1073,4 @@
 {"id":330,"name":"Аргумент","t":1794969652527,"sale":282.05,"ref":349.71,"profit":32.69,"roi":11.59,"bo":6,"so":25,"buy":281.09,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":240,"name":"Забойщик","t":1794972666387,"sale":1600,"ref":1899.91,"profit":109.92,"roi":6.87,"bo":13,"so":10,"buy":1466.21,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":438,"name":"РН-М Дино","t":1794972667791,"sale":1100,"ref":1307.62,"profit":76.86,"roi":6.99,"bo":9,"so":10,"buy":1051.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":268,"name":"Жнец","t":1794974475269,"sale":1850,"ref":2100,"profit":40,"roi":2.16,"bo":10,"so":36,"buy":1803.76,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
