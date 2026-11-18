@@ -1765,3 +1765,4 @@
 {"id":301,"name":"Спектр-2","t":1795020050973,"sale":252,"ref":296.8,"profit":15.12,"roi":6,"bo":26,"so":22,"buy":250.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":497,"name":"Колибри","t":1795020050973,"sale":330,"ref":380.5,"profit":12.45,"roi":3.77,"bo":13,"so":26,"buy":325.52,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":619,"name":"Омни","t":1795020642215,"sale":207.48,"ref":247.99,"profit":15.71,"roi":7.57,"bo":10,"so":37,"buy":205,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":453,"name":"Мириада","t":1795021847316,"sale":481.01,"ref":548.56,"profit":12.69,"roi":2.64,"bo":7,"so":24,"buy":481,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
