@@ -1753,3 +1753,5 @@
 {"id":463,"name":"Отшельник","t":1794995443624,"sale":660,"ref":747.99,"profit":13.19,"roi":2,"bo":18,"so":47,"buy":655.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":335,"name":"Триггер","t":1794996076879,"sale":200.51,"ref":234.99,"profit":10.98,"roi":5.48,"bo":10,"so":14,"buy":185.1,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":287,"name":"АГС-55 Импульс","t":1794998440786,"sale":153,"ref":186.98,"profit":15.28,"roi":9.99,"bo":21,"so":13,"buy":151.22,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1159,"name":"Большая рампа 6×12×6","t":1795013447489,"sale":9.03,"ref":26.39,"profit":14.72,"roi":163.02,"bo":0,"so":5,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1388,"name":"Северная сказка","t":1795013447489,"sale":121.65,"ref":151.43,"profit":14.64,"roi":12.03,"bo":0,"so":2,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
