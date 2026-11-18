@@ -1755,3 +1755,5 @@
 {"id":287,"name":"АГС-55 Импульс","t":1794998440786,"sale":153,"ref":186.98,"profit":15.28,"roi":9.99,"bo":21,"so":13,"buy":151.22,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1159,"name":"Большая рампа 6×12×6","t":1795013447489,"sale":9.03,"ref":26.39,"profit":14.72,"roi":163.02,"bo":0,"so":5,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1388,"name":"Северная сказка","t":1795013447489,"sale":121.65,"ref":151.43,"profit":14.64,"roi":12.03,"bo":0,"so":2,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":284,"name":"Панацея","t":1795014081988,"sale":312.12,"ref":369.95,"profit":20.83,"roi":6.68,"bo":12,"so":31,"buy":312.04,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1795014081988,"sale":186.01,"ref":220,"profit":11.99,"roi":6.45,"bo":17,"so":20,"buy":186,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
