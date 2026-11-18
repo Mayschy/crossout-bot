@@ -1082,3 +1082,4 @@
 {"id":21,"name":"Сумрак","t":1794988884031,"sale":600.13,"ref":738.28,"profit":64.32,"roi":10.72,"bo":11,"so":6,"buy":569,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1206,"name":"Стальной мяч","t":1794988885491,"sale":222.22,"ref":288,"profit":36.98,"roi":16.64,"bo":11,"so":10,"buy":182,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":556,"name":"Фатум","t":1794990045769,"sale":370.09,"ref":439.8,"profit":25.73,"roi":6.95,"bo":6,"so":28,"buy":362.49,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":575,"name":"Гусеница танковая","t":1794991844199,"sale":800,"ref":978.99,"profit":81.09,"roi":10.14,"bo":21,"so":22,"buy":788.05,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
