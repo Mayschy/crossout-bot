@@ -1795,3 +1795,5 @@
 {"id":320,"name":"ПУ13 Уравнитель","t":1795036840269,"sale":291,"ref":345,"profit":19.5,"roi":6.7,"bo":15,"so":33,"buy":283.15,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":690,"name":"Контейнер «Легенда»","t":1795038052316,"sale":150,"ref":179.85,"profit":11.87,"roi":7.91,"bo":0,"so":49,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":676,"name":"Зубодробитель","t":1795039845240,"sale":58.71,"ref":76.8,"profit":10.41,"roi":17.73,"bo":17,"so":35,"buy":58.14,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":24,"name":"Инферно","t":1795041074135,"sale":991,"ref":1125.34,"profit":21.81,"roi":2.2,"bo":17,"so":6,"buy":917.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":458,"name":"Резерв","t":1795041074135,"sale":28.55,"ref":47.18,"profit":13.91,"roi":48.73,"bo":12,"so":8,"buy":27.57,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
