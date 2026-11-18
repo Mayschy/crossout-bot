@@ -1090,3 +1090,4 @@
 {"id":324,"name":"Буран","t":1795011652857,"sale":1200,"ref":1369.99,"profit":32.99,"roi":2.75,"bo":23,"so":6,"buy":1112.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":278,"name":"Артемида","t":1795013448205,"sale":1350,"ref":1559.9,"profit":53.91,"roi":3.99,"bo":11,"so":13,"buy":1255,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":575,"name":"Гусеница танковая","t":1795014082565,"sale":810,"ref":978.97,"profit":71.07,"roi":8.77,"bo":17,"so":22,"buy":800,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":33,"name":"Маяк 11","t":1795014642443,"sale":450,"ref":529.46,"profit":26.51,"roi":5.89,"bo":5,"so":8,"buy":401.01,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
