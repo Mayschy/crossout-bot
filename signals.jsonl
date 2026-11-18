@@ -1075,3 +1075,4 @@
 {"id":438,"name":"РН-М Дино","t":1794972667791,"sale":1100,"ref":1307.62,"profit":76.86,"roi":6.99,"bo":9,"so":10,"buy":1051.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":268,"name":"Жнец","t":1794974475269,"sale":1850,"ref":2100,"profit":40,"roi":2.16,"bo":10,"so":36,"buy":1803.76,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":485,"name":"Бутстрэп","t":1794978644016,"sale":611.3,"ref":709.99,"profit":27.69,"roi":4.53,"bo":7,"so":13,"buy":576.04,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1448,"name":"Инквизитор","t":1794984041243,"sale":1502.11,"ref":1775,"profit":95.39,"roi":6.35,"bo":5,"so":31,"buy":1475.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
