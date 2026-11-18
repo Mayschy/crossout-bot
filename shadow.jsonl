@@ -1764,3 +1764,4 @@
 {"id":1105,"name":"Белое солнце","t":1795019467533,"sale":118.83,"ref":146.67,"profit":13.17,"roi":11.09,"bo":0,"so":3,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":301,"name":"Спектр-2","t":1795020050973,"sale":252,"ref":296.8,"profit":15.12,"roi":6,"bo":26,"so":22,"buy":250.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":497,"name":"Колибри","t":1795020050973,"sale":330,"ref":380.5,"profit":12.45,"roi":3.77,"bo":13,"so":26,"buy":325.52,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":619,"name":"Омни","t":1795020642215,"sale":207.48,"ref":247.99,"profit":15.71,"roi":7.57,"bo":10,"so":37,"buy":205,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

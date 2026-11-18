@@ -1099,3 +1099,4 @@
 {"id":498,"name":"Импеллер","t":1795018245938,"sale":923.94,"ref":1150,"profit":111.06,"roi":12.02,"bo":3,"so":13,"buy":921.01,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":319,"name":"Капкан","t":1795018247514,"sale":765,"ref":885.8,"profit":32.22,"roi":4.21,"bo":13,"so":9,"buy":755,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":58,"name":"МВП Торпеда","t":1795019468248,"sale":850.01,"ref":1041.93,"profit":87.73,"roi":10.32,"bo":8,"so":15,"buy":850,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3745,"name":"Вендетта","t":1795020642974,"sale":2400,"ref":2699.99,"profit":29.99,"roi":1.25,"bo":2,"so":14,"buy":2399,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
