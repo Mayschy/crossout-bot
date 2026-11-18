@@ -1103,3 +1103,4 @@
 {"id":561,"name":"Гармонизатор","t":1795021285145,"sale":730,"ref":868.3,"profit":51.47,"roi":7.05,"bo":21,"so":14,"buy":720,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":540,"name":"Диего","t":1795021286960,"sale":19.97,"ref":70,"profit":43.03,"roi":215.47,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":322,"name":"ПУ14 Арбитр","t":1795021288632,"sale":2000,"ref":2250,"profit":25,"roi":1.25,"bo":11,"so":24,"buy":1860,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":342,"name":"РА-1 Вереск","t":1795023067992,"sale":1783.53,"ref":2187.42,"profit":185.15,"roi":10.38,"bo":1,"so":11,"buy":1736.46,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}

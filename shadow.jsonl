@@ -1770,3 +1770,5 @@
 {"id":189,"name":"Четкий","t":1795022452469,"sale":152.03,"ref":189.97,"profit":18.94,"roi":12.46,"bo":9,"so":26,"buy":152,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":578,"name":"Гусеница укрепленная","t":1795022452469,"sale":145.47,"ref":182,"profit":18.33,"roi":12.6,"bo":16,"so":60,"buy":145.14,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":659,"name":"Проблесковый маячок","t":1795022452469,"sale":174.5,"ref":205.09,"profit":10.08,"roi":5.78,"bo":2,"so":17,"buy":162.77,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":180,"name":"Беркут","t":1795023066901,"sale":1705,"ref":1919.99,"profit":22.99,"roi":1.35,"bo":5,"so":14,"buy":1672,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1156,"name":"Двойная рампа 6×18×3","t":1795023066901,"sale":8.86,"ref":26.57,"profit":15.05,"roi":169.9,"bo":28,"so":6,"buy":3.7,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
