@@ -1738,3 +1738,4 @@
 {"id":485,"name":"Бутстрэп","t":1794967278185,"sale":620.97,"ref":709.99,"profit":18.02,"roi":2.9,"bo":7,"so":14,"buy":576.04,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":631,"name":"Бигфут (пов.)","t":1794968441457,"sale":180,"ref":216.4,"profit":14.76,"roi":8.2,"bo":1,"so":37,"buy":171.43,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":453,"name":"Мириада","t":1794969650991,"sale":482.04,"ref":548.69,"profit":11.78,"roi":2.44,"bo":21,"so":25,"buy":482,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":561,"name":"Гармонизатор","t":1794977439105,"sale":670,"ref":761,"profit":14.9,"roi":2.22,"bo":26,"so":37,"buy":665.07,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
