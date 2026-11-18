@@ -1775,3 +1775,6 @@
 {"id":148,"name":"Фукигаеси","t":1795023642047,"sale":79,"ref":103.24,"profit":13.92,"roi":17.62,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1795023642047,"sale":99.17,"ref":123.02,"profit":11.55,"roi":11.64,"bo":1,"so":56,"buy":93.47,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":619,"name":"Омни","t":1795024242444,"sale":207,"ref":247.77,"profit":15.99,"roi":7.73,"bo":6,"so":51,"buy":198.01,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":330,"name":"Аргумент","t":1795024877031,"sale":291,"ref":349.99,"profit":23.99,"roi":8.24,"bo":7,"so":20,"buy":290.99,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":93,"name":"Онгаку","t":1795024877031,"sale":190.07,"ref":230.29,"profit":17.19,"roi":9.04,"bo":1,"so":14,"buy":163.2,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":146,"name":"Длинная синяя лампа","t":1795024877031,"sale":87.4,"ref":113.68,"profit":14.91,"roi":17.06,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
