@@ -1108,3 +1108,5 @@
 {"id":575,"name":"Гусеница танковая","t":1795024243131,"sale":816,"ref":969.97,"profit":56.97,"roi":6.98,"bo":16,"so":20,"buy":810,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":562,"name":"Гироскоп","t":1795024244987,"sale":353.65,"ref":449.38,"profit":50.79,"roi":14.36,"bo":16,"so":2,"buy":351.65,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":385,"name":"Фортуна","t":1795024877759,"sale":1802,"ref":2080,"profit":70,"roi":3.88,"bo":4,"so":6,"buy":1660,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":556,"name":"Фатум","t":1795026668919,"sale":370.02,"ref":449.38,"profit":34.42,"roi":9.3,"bo":6,"so":30,"buy":370.01,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":321,"name":"Мельник","t":1795026670443,"sale":420,"ref":498,"profit":28.2,"roi":6.71,"bo":21,"so":24,"buy":415,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
