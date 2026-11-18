@@ -1793,3 +1793,4 @@
 {"id":710,"name":"Расширение склада","t":1795035679670,"sale":223.24,"ref":266.98,"profit":17.04,"roi":7.63,"bo":127,"so":20,"buy":223.12,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":379,"name":"Гравастар","t":1795036840269,"sale":340,"ref":399.98,"profit":19.98,"roi":5.88,"bo":32,"so":11,"buy":333.41,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":320,"name":"ПУ13 Уравнитель","t":1795036840269,"sale":291,"ref":345,"profit":19.5,"roi":6.7,"bo":15,"so":33,"buy":283.15,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":690,"name":"Контейнер «Легенда»","t":1795038052316,"sale":150,"ref":179.85,"profit":11.87,"roi":7.91,"bo":0,"so":49,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
