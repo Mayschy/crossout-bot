@@ -1800,3 +1800,4 @@
 {"id":631,"name":"Бигфут (пов.)","t":1795044043451,"sale":157.27,"ref":199.99,"profit":22.72,"roi":14.45,"bo":0,"so":60,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1795045240011,"sale":204.08,"ref":252.18,"profit":22.88,"roi":11.21,"bo":4,"so":21,"buy":189.07,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":568,"name":"Верификатор","t":1795045240011,"sale":115.87,"ref":148.82,"profit":18.07,"roi":15.59,"bo":19,"so":8,"buy":111.5,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":562,"name":"Гироскоп","t":1795045843102,"sale":401,"ref":458.37,"profit":11.53,"roi":2.88,"bo":20,"so":2,"buy":355.49,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
