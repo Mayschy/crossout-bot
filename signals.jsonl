@@ -1115,3 +1115,4 @@
 {"id":575,"name":"Гусеница танковая","t":1795030845545,"sale":810,"ref":940,"profit":36,"roi":4.44,"bo":13,"so":23,"buy":805,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3745,"name":"Вендетта","t":1795030847058,"sale":2399,"ref":2699,"profit":30.1,"roi":1.25,"bo":2,"so":10,"buy":2242.35,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":437,"name":"Тэнгу","t":1795031443733,"sale":700,"ref":814.93,"profit":33.44,"roi":4.78,"bo":3,"so":82,"buy":664.3,"act":11,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":379,"name":"Гравастар","t":1795032082695,"sale":330,"ref":400,"profit":30,"roi":9.09,"bo":27,"so":8,"buy":323.03,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
