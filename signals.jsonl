@@ -1076,3 +1076,6 @@
 {"id":268,"name":"Жнец","t":1794974475269,"sale":1850,"ref":2100,"profit":40,"roi":2.16,"bo":10,"so":36,"buy":1803.76,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":485,"name":"Бутстрэп","t":1794978644016,"sale":611.3,"ref":709.99,"profit":27.69,"roi":4.53,"bo":7,"so":13,"buy":576.04,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1448,"name":"Инквизитор","t":1794984041243,"sale":1502.11,"ref":1775,"profit":95.39,"roi":6.35,"bo":5,"so":31,"buy":1475.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":41,"name":"Аякс","t":1794986446500,"sale":2600,"ref":3000,"profit":100,"roi":3.85,"bo":4,"so":13,"buy":2550,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":283,"name":"Горыныч","t":1794986448091,"sale":1300,"ref":1494.21,"profit":44.79,"roi":3.45,"bo":4,"so":5,"buy":1280,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":497,"name":"Колибри","t":1794986449474,"sale":330.34,"ref":399.99,"profit":29.65,"roi":8.98,"bo":10,"so":26,"buy":330.29,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
