@@ -1787,3 +1787,4 @@
 {"id":51,"name":"Нетопырь","t":1795029043053,"sale":90,"ref":112.95,"profit":11.66,"roi":12.95,"bo":13,"so":17,"buy":87.3,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":251,"name":"Райдзин","t":1795031442957,"sale":709,"ref":807.91,"profit":18.12,"roi":2.56,"bo":4,"so":28,"buy":700,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1795032081742,"sale":185,"ref":222.2,"profit":14.98,"roi":8.1,"bo":14,"so":13,"buy":182,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1157,"name":"Двойная рампа 6×12×6","t":1795032646337,"sale":5.89,"ref":24.25,"profit":15.93,"roi":270.54,"bo":0,"so":12,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
