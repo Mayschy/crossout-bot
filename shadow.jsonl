@@ -1772,3 +1772,5 @@
 {"id":659,"name":"Проблесковый маячок","t":1795022452469,"sale":174.5,"ref":205.09,"profit":10.08,"roi":5.78,"bo":2,"so":17,"buy":162.77,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":180,"name":"Беркут","t":1795023066901,"sale":1705,"ref":1919.99,"profit":22.99,"roi":1.35,"bo":5,"so":14,"buy":1672,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1156,"name":"Двойная рампа 6×18×3","t":1795023066901,"sale":8.86,"ref":26.57,"profit":15.05,"roi":169.9,"bo":28,"so":6,"buy":3.7,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":148,"name":"Фукигаеси","t":1795023642047,"sale":79,"ref":103.24,"profit":13.92,"roi":17.62,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":269,"name":"Медиана","t":1795023642047,"sale":99.17,"ref":123.02,"profit":11.55,"roi":11.64,"bo":1,"so":56,"buy":93.47,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
