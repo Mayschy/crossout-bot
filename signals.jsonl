@@ -1127,3 +1127,6 @@
 {"id":290,"name":"Тошнитель","t":1795037464793,"sale":1601,"ref":1809,"profit":27.1,"roi":1.69,"bo":15,"so":22,"buy":1600,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":570,"name":"Фонарный столб","t":1795038652383,"sale":166.84,"ref":232.65,"profit":42.55,"roi":25.5,"bo":2,"so":2,"buy":166.66,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":576,"name":"Гусеница малая","t":1795039276034,"sale":167.85,"ref":218.5,"profit":28.8,"roi":17.16,"bo":8,"so":11,"buy":166,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":246,"name":"Палач 88мм","t":1795039845931,"sale":297.51,"ref":370.92,"profit":36.32,"roi":12.21,"bo":1,"so":28,"buy":292.79,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":635,"name":"Колесо багги (пов.)","t":1795039847411,"sale":191.94,"ref":253,"profit":35.76,"roi":18.63,"bo":1,"so":15,"buy":169,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":625,"name":"Затворник (пов.)","t":1795039848896,"sale":203.65,"ref":259.98,"profit":30.33,"roi":14.89,"bo":6,"so":17,"buy":201.5,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
