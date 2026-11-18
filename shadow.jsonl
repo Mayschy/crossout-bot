@@ -1790,3 +1790,4 @@
 {"id":1157,"name":"Двойная рампа 6×12×6","t":1795032646337,"sale":5.89,"ref":24.25,"profit":15.93,"roi":270.54,"bo":0,"so":12,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":464,"name":"Коготь","t":1795034442615,"sale":91,"ref":120.32,"profit":17.29,"roi":19,"bo":39,"so":9,"buy":89.17,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":56,"name":"Омнибокс","t":1795034442615,"sale":350.6,"ref":404.95,"profit":13.85,"roi":3.95,"bo":22,"so":22,"buy":318.41,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":710,"name":"Расширение склада","t":1795035679670,"sale":223.24,"ref":266.98,"profit":17.04,"roi":7.63,"bo":127,"so":20,"buy":223.12,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
