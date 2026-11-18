@@ -1110,3 +1110,4 @@
 {"id":385,"name":"Фортуна","t":1795024877759,"sale":1802,"ref":2080,"profit":70,"roi":3.88,"bo":4,"so":6,"buy":1660,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":556,"name":"Фатум","t":1795026668919,"sale":370.02,"ref":449.38,"profit":34.42,"roi":9.3,"bo":6,"so":30,"buy":370.01,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":321,"name":"Мельник","t":1795026670443,"sale":420,"ref":498,"profit":28.2,"roi":6.71,"bo":21,"so":24,"buy":415,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":347,"name":"Гром","t":1795027252792,"sale":145.56,"ref":189.73,"profit":25.2,"roi":17.31,"bo":3,"so":13,"buy":144.81,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null}

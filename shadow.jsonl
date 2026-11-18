@@ -1780,3 +1780,5 @@
 {"id":146,"name":"Длинная синяя лампа","t":1795024877031,"sale":87.4,"ref":113.68,"profit":14.91,"roi":17.06,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1795025450470,"sale":197.45,"ref":245.98,"profit":23.93,"roi":12.12,"bo":8,"so":25,"buy":190.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1795026668142,"sale":150.56,"ref":189.73,"profit":20.2,"roi":13.41,"bo":3,"so":11,"buy":144.81,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":56,"name":"Омнибокс","t":1795027251158,"sale":344.45,"ref":404.95,"profit":20,"roi":5.81,"bo":15,"so":20,"buy":316.3,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":100,"name":"«Ре минор»","t":1795027251158,"sale":57.8,"ref":78.54,"profit":12.89,"roi":22.29,"bo":1,"so":5,"buy":47,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
