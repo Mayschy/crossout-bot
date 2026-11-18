@@ -1798,3 +1798,5 @@
 {"id":24,"name":"Инферно","t":1795041074135,"sale":991,"ref":1125.34,"profit":21.81,"roi":2.2,"bo":17,"so":6,"buy":917.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":458,"name":"Резерв","t":1795041074135,"sale":28.55,"ref":47.18,"profit":13.91,"roi":48.73,"bo":12,"so":8,"buy":27.57,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":631,"name":"Бигфут (пов.)","t":1795044043451,"sale":157.27,"ref":199.99,"profit":22.72,"roi":14.45,"bo":0,"so":60,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":610,"name":"Увабаки (пов.)","t":1795045240011,"sale":204.08,"ref":252.18,"profit":22.88,"roi":11.21,"bo":4,"so":21,"buy":189.07,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":568,"name":"Верификатор","t":1795045240011,"sale":115.87,"ref":148.82,"profit":18.07,"roi":15.59,"bo":19,"so":8,"buy":111.5,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
