@@ -1125,3 +1125,4 @@
 {"id":428,"name":"Перехватчик","t":1795036245001,"sale":278.57,"ref":349.97,"profit":36.4,"roi":13.07,"bo":1,"so":16,"buy":269,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":111,"name":"Зов духов","t":1795037463227,"sale":180,"ref":236.18,"profit":32.56,"roi":18.09,"bo":1,"so":4,"buy":168.09,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":290,"name":"Тошнитель","t":1795037464793,"sale":1601,"ref":1809,"profit":27.1,"roi":1.69,"bo":15,"so":22,"buy":1600,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":570,"name":"Фонарный столб","t":1795038652383,"sale":166.84,"ref":232.65,"profit":42.55,"roi":25.5,"bo":2,"so":2,"buy":166.66,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
