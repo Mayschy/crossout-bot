@@ -1118,3 +1118,4 @@
 {"id":379,"name":"Гравастар","t":1795032082695,"sale":330,"ref":400,"profit":30,"roi":9.09,"bo":27,"so":8,"buy":323.03,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":384,"name":"Дзюбокко","t":1795033241288,"sale":1120.06,"ref":1299.99,"profit":49.93,"roi":4.46,"bo":8,"so":16,"buy":1120.05,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":247,"name":"КП-17 Цунами","t":1795033242664,"sale":2347.55,"ref":2653.99,"profit":41.04,"roi":1.75,"bo":20,"so":7,"buy":2091.04,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":710,"name":"Расширение склада","t":1795034443265,"sale":223.24,"ref":278.06,"profit":27.01,"roi":12.1,"bo":128,"so":20,"buy":223.12,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
