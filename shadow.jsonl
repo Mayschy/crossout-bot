@@ -1731,3 +1731,4 @@
 {"id":116,"name":"«Че такой серьезный?»","t":1794957644189,"sale":55.32,"ref":74.58,"profit":11.8,"roi":21.33,"bo":1,"so":2,"buy":55.31,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":309,"name":"Синус-0","t":1794958837416,"sale":77.45,"ref":98.77,"profit":11.44,"roi":14.77,"bo":1,"so":19,"buy":75.58,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":363,"name":"П-37 Шило","t":1794960646819,"sale":108.04,"ref":141.94,"profit":19.71,"roi":18.24,"bo":11,"so":68,"buy":105.84,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":276,"name":"Циклон","t":1794961250973,"sale":302,"ref":346.8,"profit":10.12,"roi":3.35,"bo":12,"so":26,"buy":266.66,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
