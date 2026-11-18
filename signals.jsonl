@@ -1070,3 +1070,4 @@
 {"id":57,"name":"Фаворит","t":1794963676848,"sale":935.05,"ref":1130,"profit":81.95,"roi":8.76,"bo":19,"so":10,"buy":935.02,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":535,"name":"Эгида-Прайм","t":1794966638340,"sale":2000,"ref":2265.98,"profit":39.38,"roi":1.97,"bo":4,"so":21,"buy":1907.92,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":120,"name":"Озноб","t":1794966639806,"sale":332,"ref":399.86,"profit":27.87,"roi":8.4,"bo":12,"so":25,"buy":331.72,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":330,"name":"Аргумент","t":1794969652527,"sale":282.05,"ref":349.71,"profit":32.69,"roi":11.59,"bo":6,"so":25,"buy":281.09,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
