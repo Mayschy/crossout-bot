@@ -1086,3 +1086,4 @@
 {"id":610,"name":"Увабаки (пов.)","t":1794993647286,"sale":200.44,"ref":268.34,"profit":41.07,"roi":20.49,"bo":19,"so":3,"buy":190.04,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":497,"name":"Колибри","t":1794996646405,"sale":330.29,"ref":399.99,"profit":29.7,"roi":8.99,"bo":9,"so":27,"buy":325.51,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":367,"name":"Харон","t":1794999046746,"sale":4100.1,"ref":4599.98,"profit":39.88,"roi":0.97,"bo":14,"so":21,"buy":4100,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":324,"name":"Буран","t":1794999683626,"sale":1150,"ref":1362.95,"profit":76.65,"roi":6.67,"bo":17,"so":2,"buy":1056.39,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
