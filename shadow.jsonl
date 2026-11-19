@@ -1851,3 +1851,4 @@
 {"id":420,"name":"Гнездо","t":1795101056620,"sale":310.32,"ref":357.3,"profit":11.25,"roi":3.63,"bo":19,"so":25,"buy":310.18,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":433,"name":"Ланселот","t":1795101644528,"sale":300,"ref":344.98,"profit":10.48,"roi":3.49,"bo":14,"so":21,"buy":295.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":461,"name":"Зубья","t":1795104644840,"sale":194.38,"ref":230.74,"profit":13.29,"roi":6.84,"bo":2,"so":4,"buy":160,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":568,"name":"Верификатор","t":1795105247405,"sale":117,"ref":142.45,"profit":11.2,"roi":9.58,"bo":15,"so":9,"buy":111.5,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
