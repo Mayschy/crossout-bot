@@ -1881,3 +1881,4 @@
 {"id":1048,"name":"Сажа","t":1795121439142,"sale":93.09,"ref":125.03,"profit":19.44,"roi":20.88,"bo":6,"so":2,"buy":47,"act":3,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1292,"name":"Камуфляж: Болото","t":1795121439142,"sale":53.75,"ref":75.8,"profit":14.47,"roi":26.92,"bo":0,"so":3,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1073,"name":"Ожог","t":1795122085295,"sale":57.16,"ref":75.9,"profit":11.15,"roi":19.51,"bo":1,"so":9,"buy":6.86,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":612,"name":"Колесо двойное (пов.)","t":1795122644837,"sale":47.21,"ref":63.63,"profit":10.06,"roi":21.3,"bo":9,"so":3,"buy":46.5,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
