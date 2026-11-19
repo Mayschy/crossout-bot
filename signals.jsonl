@@ -1183,3 +1183,4 @@
 {"id":92,"name":"«Олифант»","t":1795114244355,"sale":250,"ref":312.79,"profit":31.51,"roi":12.6,"bo":4,"so":1,"buy":156.99,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
 {"id":456,"name":"Пандора","t":1795114884219,"sale":2300,"ref":2599.8,"profit":39.82,"roi":1.73,"bo":7,"so":7,"buy":2245.01,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3778,"name":"Морриган (заготовка)","t":1795120276993,"sale":4969.89,"ref":5999,"profit":429.21,"roi":8.64,"bo":10,"so":7,"buy":3700,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":537,"name":"Скидутка","t":1795122086211,"sale":333.25,"ref":400,"profit":26.75,"roi":8.03,"bo":35,"so":3,"buy":320,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
