@@ -1177,3 +1177,4 @@
 {"id":114,"name":"Стартер","t":1795102845679,"sale":1000,"ref":1140.01,"profit":26.01,"roi":2.6,"bo":46,"so":35,"buy":850.02,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":268,"name":"Жнец","t":1795104645476,"sale":1843.15,"ref":2149.86,"profit":91.72,"roi":4.98,"bo":18,"so":37,"buy":1843.14,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":321,"name":"Мельник","t":1795105248255,"sale":421.85,"ref":500,"profit":28.15,"roi":6.67,"bo":25,"so":47,"buy":421.4,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":333,"name":"Юпитер","t":1795108244565,"sale":4045,"ref":4643.86,"profit":134.47,"roi":3.32,"bo":4,"so":23,"buy":4037,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
