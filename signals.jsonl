@@ -1153,3 +1153,5 @@
 {"id":268,"name":"Жнец","t":1795076441811,"sale":1843.01,"ref":2188.96,"profit":127.05,"roi":6.89,"bo":21,"so":31,"buy":1843,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":537,"name":"Скидутка","t":1795076443527,"sale":199,"ref":254.17,"profit":29.75,"roi":14.95,"bo":5,"so":35,"buy":189,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3778,"name":"Морриган (заготовка)","t":1795077072346,"sale":6999,"ref":7915.22,"profit":124.7,"roi":1.78,"bo":13,"so":2,"buy":3530,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":370,"name":"Имуги","t":1795078244575,"sale":1825,"ref":2230,"profit":182,"roi":9.97,"bo":9,"so":5,"buy":1824.14,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":303,"name":"П-29 Заступник","t":1795078246202,"sale":221.26,"ref":275,"profit":26.24,"roi":11.86,"bo":4,"so":32,"buy":220.52,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
