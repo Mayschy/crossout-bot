@@ -1868,3 +1868,6 @@
 {"id":495,"name":"Фалко","t":1795114242640,"sale":86.82,"ref":112.01,"profit":13.99,"roi":16.11,"bo":6,"so":3,"buy":86.29,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1795114242640,"sale":189.07,"ref":222.49,"profit":11.17,"roi":5.91,"bo":4,"so":22,"buy":176,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1795114882909,"sale":132.93,"ref":171.53,"profit":21.45,"roi":16.13,"bo":0,"so":14,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1795117242592,"sale":200.93,"ref":245,"profit":19.57,"roi":9.74,"bo":6,"so":29,"buy":191.83,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":634,"name":"Колесо багги","t":1795117242592,"sale":55.79,"ref":73.82,"profit":10.65,"roi":19.09,"bo":12,"so":4,"buy":54.61,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1161,"name":"Большая рампа 6×30×15","t":1795117242592,"sale":34.48,"ref":49.99,"profit":10.51,"roi":30.48,"bo":5,"so":21,"buy":33.13,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
