@@ -1155,3 +1155,6 @@
 {"id":3778,"name":"Морриган (заготовка)","t":1795077072346,"sale":6999,"ref":7915.22,"profit":124.7,"roi":1.78,"bo":13,"so":2,"buy":3530,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":370,"name":"Имуги","t":1795078244575,"sale":1825,"ref":2230,"profit":182,"roi":9.97,"bo":9,"so":5,"buy":1824.14,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":303,"name":"П-29 Заступник","t":1795078246202,"sale":221.26,"ref":275,"profit":26.24,"roi":11.86,"bo":4,"so":32,"buy":220.52,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":498,"name":"Импеллер","t":1795079443168,"sale":858.64,"ref":1148.99,"profit":175.45,"roi":20.43,"bo":0,"so":12,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":504,"name":"Аннигилятор","t":1795079444801,"sale":1080,"ref":1249.92,"profit":44.93,"roi":4.16,"bo":15,"so":7,"buy":1000,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":335,"name":"Триггер","t":1795079446163,"sale":186.03,"ref":235.8,"profit":26.19,"roi":14.08,"bo":16,"so":18,"buy":186.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
