@@ -1852,3 +1852,6 @@
 {"id":433,"name":"Ланселот","t":1795101644528,"sale":300,"ref":344.98,"profit":10.48,"roi":3.49,"bo":14,"so":21,"buy":295.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":461,"name":"Зубья","t":1795104644840,"sale":194.38,"ref":230.74,"profit":13.29,"roi":6.84,"bo":2,"so":4,"buy":160,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":568,"name":"Верификатор","t":1795105247405,"sale":117,"ref":142.45,"profit":11.2,"roi":9.58,"bo":15,"so":9,"buy":111.5,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1050,"name":"Проклевка","t":1795105864222,"sale":1.91,"ref":21.08,"profit":17.06,"roi":893.3,"bo":0,"so":4,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":269,"name":"Медиана","t":1795105864222,"sale":100.09,"ref":125.5,"profit":12.86,"roi":12.85,"bo":3,"so":29,"buy":91.57,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1292,"name":"Камуфляж: Болото","t":1795105864222,"sale":58.15,"ref":75.8,"profit":10.07,"roi":17.32,"bo":1,"so":3,"buy":30.01,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
