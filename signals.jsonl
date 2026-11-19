@@ -1140,3 +1140,5 @@
 {"id":1163,"name":"Рампа с платформой 12×12×3","t":1795051247964,"sale":32.02,"ref":77.76,"profit":37.96,"roi":118.56,"bo":0,"so":149,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":622,"name":"Виджет","t":1795055462977,"sale":235.02,"ref":297.83,"profit":33.03,"roi":14.05,"bo":11,"so":21,"buy":235.01,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":418,"name":"Ураган","t":1795056041933,"sale":2356.99,"ref":2765.6,"profit":132.05,"roi":5.6,"bo":19,"so":18,"buy":2354,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":35,"name":"Призрак","t":1795057279100,"sale":585,"ref":694.39,"profit":39.95,"roi":6.83,"bo":3,"so":5,"buy":584.18,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":284,"name":"Панацея","t":1795057280503,"sale":296.18,"ref":359.7,"profit":27.55,"roi":9.3,"bo":1,"so":24,"buy":290.02,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
