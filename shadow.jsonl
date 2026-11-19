@@ -1837,3 +1837,6 @@
 {"id":11,"name":"Мертвец","t":1795092042521,"sale":1139,"ref":1280,"profit":13,"roi":1.14,"bo":1,"so":13,"buy":1100,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":140,"name":"Синяя лампа","t":1795092042521,"sale":44.05,"ref":61.7,"profit":11.48,"roi":26.06,"bo":3,"so":5,"buy":5.07,"act":5,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1305,"name":"Небесная синева","t":1795092642887,"sale":30,"ref":44.94,"profit":10.45,"roi":34.82,"bo":2,"so":3,"buy":3.9,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":437,"name":"Тэнгу","t":1795092914449,"sale":702.05,"ref":798.5,"profit":16.6,"roi":2.36,"bo":51,"so":72,"buy":702,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1378,"name":"Конфетка","t":1795092914449,"sale":40,"ref":56.66,"profit":10.99,"roi":27.48,"bo":2,"so":7,"buy":5.03,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1093,"name":"Грубый песок","t":1795092914449,"sale":1.07,"ref":13.12,"profit":10.74,"roi":1003.55,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
