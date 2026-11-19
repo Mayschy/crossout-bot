@@ -1810,3 +1810,4 @@
 {"id":605,"name":"Титан","t":1795050644315,"sale":102.99,"ref":126.4,"profit":10.77,"roi":10.46,"bo":11,"so":24,"buy":102.76,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":485,"name":"Бутстрэп","t":1795051244625,"sale":633.44,"ref":724.95,"profit":19.01,"roi":3,"bo":11,"so":13,"buy":600,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":433,"name":"Ланселот","t":1795054839626,"sale":281.04,"ref":330,"profit":15.96,"roi":5.68,"bo":10,"so":15,"buy":281.03,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":565,"name":"Хамелеон","t":1795057844166,"sale":63.34,"ref":82.7,"profit":11.09,"roi":17.51,"bo":0,"so":35,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
