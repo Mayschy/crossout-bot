@@ -1825,3 +1825,9 @@
 {"id":368,"name":"Астрей","t":1795080041603,"sale":365.26,"ref":430,"profit":21.74,"roi":5.95,"bo":24,"so":15,"buy":365.25,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":184,"name":"Исполин","t":1795080041603,"sale":142.04,"ref":173.35,"profit":13.97,"roi":9.84,"bo":5,"so":56,"buy":142.03,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1464,"name":"Икар I","t":1795081841340,"sale":411.12,"ref":468.97,"profit":10.95,"roi":2.66,"bo":18,"so":37,"buy":373.02,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":577,"name":"Гусеница бронированная","t":1795085444790,"sale":356.17,"ref":418.99,"profit":20.92,"roi":5.87,"bo":15,"so":38,"buy":356.16,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":299,"name":"Гибрид","t":1795085444790,"sale":2500,"ref":2799.94,"profit":19.95,"roi":0.8,"bo":2,"so":10,"buy":2365,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":576,"name":"Гусеница малая","t":1795085444790,"sale":170,"ref":208.5,"profit":17.65,"roi":10.38,"bo":18,"so":43,"buy":167,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":444,"name":"МН-Л 200","t":1795085444790,"sale":371.01,"ref":427.77,"profit":13.98,"roi":3.77,"bo":13,"so":68,"buy":370,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1325,"name":"Руна севера","t":1795085444790,"sale":1.76,"ref":15.66,"profit":12.33,"roi":700.8,"bo":0,"so":5,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1795085444790,"sale":141.01,"ref":170,"profit":11.99,"roi":8.5,"bo":12,"so":47,"buy":141,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
