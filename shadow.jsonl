@@ -1836,3 +1836,4 @@
 {"id":1284,"name":"Кровавый почерк","t":1795092042521,"sale":40,"ref":69.44,"profit":22.5,"roi":56.24,"bo":0,"so":2,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":11,"name":"Мертвец","t":1795092042521,"sale":1139,"ref":1280,"profit":13,"roi":1.14,"bo":1,"so":13,"buy":1100,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":140,"name":"Синяя лампа","t":1795092042521,"sale":44.05,"ref":61.7,"profit":11.48,"roi":26.06,"bo":3,"so":5,"buy":5.07,"act":5,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1305,"name":"Небесная синева","t":1795092642887,"sale":30,"ref":44.94,"profit":10.45,"roi":34.82,"bo":2,"so":3,"buy":3.9,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
