@@ -1161,3 +1161,4 @@
 {"id":497,"name":"Колибри","t":1795080042267,"sale":302.59,"ref":368.25,"profit":28.84,"roi":9.53,"bo":4,"so":33,"buy":302.58,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":561,"name":"Гармонизатор","t":1795080667238,"sale":684.01,"ref":797,"profit":33.29,"roi":4.87,"bo":12,"so":56,"buy":684,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":453,"name":"Мириада","t":1795081247185,"sale":440.02,"ref":533.99,"profit":40.57,"roi":9.22,"bo":7,"so":36,"buy":440.01,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":114,"name":"Стартер","t":1795087871955,"sale":950,"ref":1096,"profit":36.4,"roi":3.83,"bo":0,"so":31,"buy":0,"act":10,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
