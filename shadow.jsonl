@@ -1824,3 +1824,4 @@
 {"id":458,"name":"Резерв","t":1795077065071,"sale":30.48,"ref":45.94,"profit":10.87,"roi":35.65,"bo":35,"so":34,"buy":28.48,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":368,"name":"Астрей","t":1795080041603,"sale":365.26,"ref":430,"profit":21.74,"roi":5.95,"bo":24,"so":15,"buy":365.25,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":184,"name":"Исполин","t":1795080041603,"sale":142.04,"ref":173.35,"profit":13.97,"roi":9.84,"bo":5,"so":56,"buy":142.03,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1464,"name":"Икар I","t":1795081841340,"sale":411.12,"ref":468.97,"profit":10.95,"roi":2.66,"bo":18,"so":37,"buy":373.02,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
