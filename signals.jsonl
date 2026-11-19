@@ -1145,3 +1145,4 @@
 {"id":498,"name":"Импеллер","t":1795057844970,"sale":884.52,"ref":1149,"profit":149.58,"roi":16.91,"bo":0,"so":13,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":625,"name":"Затворник (пов.)","t":1795060241017,"sale":201.5,"ref":257.99,"profit":30.69,"roi":15.23,"bo":5,"so":19,"buy":200,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":319,"name":"Капкан","t":1795061445253,"sale":716.02,"ref":845.21,"profit":44.67,"roi":6.24,"bo":0,"so":15,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":329,"name":"Мандрагора","t":1795064480072,"sale":1980,"ref":2229,"profit":26.1,"roi":1.32,"bo":5,"so":11,"buy":1960,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
