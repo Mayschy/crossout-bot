@@ -1831,3 +1831,5 @@
 {"id":444,"name":"МН-Л 200","t":1795085444790,"sale":371.01,"ref":427.77,"profit":13.98,"roi":3.77,"bo":13,"so":68,"buy":370,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1325,"name":"Руна севера","t":1795085444790,"sale":1.76,"ref":15.66,"profit":12.33,"roi":700.8,"bo":0,"so":5,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1795085444790,"sale":141.01,"ref":170,"profit":11.99,"roi":8.5,"bo":12,"so":47,"buy":141,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":457,"name":"Снабжение","t":1795088441320,"sale":75,"ref":97.95,"profit":13.16,"roi":17.54,"bo":8,"so":6,"buy":73.53,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":269,"name":"Медиана","t":1795088441320,"sale":99.39,"ref":122.98,"profit":11.29,"roi":11.36,"bo":6,"so":49,"buy":93.5,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
