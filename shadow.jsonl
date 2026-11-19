@@ -1871,3 +1871,6 @@
 {"id":625,"name":"Затворник (пов.)","t":1795117242592,"sale":200.93,"ref":245,"profit":19.57,"roi":9.74,"bo":6,"so":29,"buy":191.83,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":634,"name":"Колесо багги","t":1795117242592,"sale":55.79,"ref":73.82,"profit":10.65,"roi":19.09,"bo":12,"so":4,"buy":54.61,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1161,"name":"Большая рампа 6×30×15","t":1795117242592,"sale":34.48,"ref":49.99,"profit":10.51,"roi":30.48,"bo":5,"so":21,"buy":33.13,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":279,"name":"Иглобрюх","t":1795118478554,"sale":865.07,"ref":988,"profit":24.13,"roi":2.79,"bo":16,"so":85,"buy":830,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":182,"name":"Крылья надежды","t":1795118478554,"sale":120,"ref":159.66,"profit":23.69,"roi":19.74,"bo":1,"so":3,"buy":60,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":568,"name":"Верификатор","t":1795118478554,"sale":115.87,"ref":142.44,"profit":12.33,"roi":10.64,"bo":15,"so":8,"buy":111.5,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
