@@ -1819,3 +1819,4 @@
 {"id":246,"name":"Палач 88мм","t":1795074042123,"sale":310,"ref":369.97,"profit":22.97,"roi":7.41,"bo":4,"so":27,"buy":298.05,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":537,"name":"Скидутка","t":1795074042123,"sale":203.45,"ref":240,"profit":12.55,"roi":6.17,"bo":4,"so":35,"buy":188.85,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":297,"name":"Ассемблер","t":1795075282928,"sale":1418.38,"ref":1590,"profit":12.62,"roi":0.89,"bo":5,"so":12,"buy":1418.37,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":331,"name":"Сумматор","t":1795075840614,"sale":86.9,"ref":110.81,"profit":12.83,"roi":14.76,"bo":3,"so":11,"buy":83.33,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
