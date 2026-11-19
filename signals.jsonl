@@ -1139,3 +1139,4 @@
 {"id":1442,"name":"Гравированные гильзы x100","t":1795051246588,"sale":38,"ref":90.12,"profit":43.11,"roi":113.44,"bo":142,"so":9,"buy":27.05,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1163,"name":"Рампа с платформой 12×12×3","t":1795051247964,"sale":32.02,"ref":77.76,"profit":37.96,"roi":118.56,"bo":0,"so":149,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":622,"name":"Виджет","t":1795055462977,"sale":235.02,"ref":297.83,"profit":33.03,"roi":14.05,"bo":11,"so":21,"buy":235.01,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":418,"name":"Ураган","t":1795056041933,"sale":2356.99,"ref":2765.6,"profit":132.05,"roi":5.6,"bo":19,"so":18,"buy":2354,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
