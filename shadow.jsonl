@@ -1801,3 +1801,6 @@
 {"id":610,"name":"Увабаки (пов.)","t":1795045240011,"sale":204.08,"ref":252.18,"profit":22.88,"roi":11.21,"bo":4,"so":21,"buy":189.07,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":568,"name":"Верификатор","t":1795045240011,"sale":115.87,"ref":148.82,"profit":18.07,"roi":15.59,"bo":19,"so":8,"buy":111.5,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":562,"name":"Гироскоп","t":1795045843102,"sale":401,"ref":458.37,"profit":11.53,"roi":2.88,"bo":20,"so":2,"buy":355.49,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1442,"name":"Гравированные гильзы x100","t":1795048266292,"sale":59.07,"ref":90,"profit":21.93,"roi":37.13,"bo":162,"so":43,"buy":27.19,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":537,"name":"Скидутка","t":1795048266292,"sale":216.77,"ref":259.99,"profit":17.22,"roi":7.94,"bo":34,"so":42,"buy":212.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":453,"name":"Мириада","t":1795048266292,"sale":480,"ref":544.93,"profit":10.44,"roi":2.17,"bo":5,"so":33,"buy":467,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
