@@ -1888,3 +1888,4 @@
 {"id":335,"name":"Триггер","t":1795125048759,"sale":189.06,"ref":225,"profit":13.44,"roi":7.11,"bo":24,"so":13,"buy":189.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":421,"name":"Тромбон","t":1795131063164,"sale":596,"ref":689.99,"profit":24.99,"roi":4.19,"bo":15,"so":26,"buy":593,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":270,"name":"АП50 Шторм","t":1795131063164,"sale":69.66,"ref":90,"profit":11.34,"roi":16.28,"bo":13,"so":17,"buy":69.3,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1795131640601,"sale":200.23,"ref":244.99,"profit":20.26,"roi":10.12,"bo":0,"so":29,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
