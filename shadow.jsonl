@@ -1867,3 +1867,4 @@
 {"id":537,"name":"Скидутка","t":1795113652011,"sale":306.3,"ref":360,"profit":17.7,"roi":5.78,"bo":23,"so":13,"buy":300.01,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1795114242640,"sale":86.82,"ref":112.01,"profit":13.99,"roi":16.11,"bo":6,"so":3,"buy":86.29,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1795114242640,"sale":189.07,"ref":222.49,"profit":11.17,"roi":5.91,"bo":4,"so":22,"buy":176,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":347,"name":"Гром","t":1795114882909,"sale":132.93,"ref":171.53,"profit":21.45,"roi":16.13,"bo":0,"so":14,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
