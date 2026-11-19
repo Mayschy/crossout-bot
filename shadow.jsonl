@@ -1864,3 +1864,4 @@
 {"id":511,"name":"РС Нерпа","t":1795109469507,"sale":307.09,"ref":357.86,"profit":14.98,"roi":4.88,"bo":15,"so":47,"buy":287.77,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1795112441998,"sale":101.15,"ref":124.92,"profit":11.28,"roi":11.15,"bo":3,"so":33,"buy":91.57,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":140,"name":"Синяя лампа","t":1795113069157,"sale":43.39,"ref":61.1,"profit":11.6,"roi":26.73,"bo":3,"so":4,"buy":5.07,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":537,"name":"Скидутка","t":1795113652011,"sale":306.3,"ref":360,"profit":17.7,"roi":5.78,"bo":23,"so":13,"buy":300.01,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
