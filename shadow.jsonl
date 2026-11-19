@@ -1806,3 +1806,5 @@
 {"id":453,"name":"Мириада","t":1795048266292,"sale":480,"ref":544.93,"profit":10.44,"roi":2.17,"bo":5,"so":33,"buy":467,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1442,"name":"Гравированные гильзы x100","t":1795048840514,"sale":57.24,"ref":90,"profit":23.76,"roi":41.51,"bo":162,"so":37,"buy":27.19,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":196,"name":"Двойной выхлоп","t":1795050077648,"sale":166.13,"ref":197.98,"profit":12.05,"roi":7.25,"bo":5,"so":31,"buy":166,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1795050644315,"sale":137.18,"ref":175.37,"profit":20.65,"roi":15.06,"bo":7,"so":13,"buy":135.77,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":605,"name":"Титан","t":1795050644315,"sale":102.99,"ref":126.4,"profit":10.77,"roi":10.46,"bo":11,"so":24,"buy":102.76,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
