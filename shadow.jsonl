@@ -1874,3 +1874,4 @@
 {"id":279,"name":"Иглобрюх","t":1795118478554,"sale":865.07,"ref":988,"profit":24.13,"roi":2.79,"bo":16,"so":85,"buy":830,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":182,"name":"Крылья надежды","t":1795118478554,"sale":120,"ref":159.66,"profit":23.69,"roi":19.74,"bo":1,"so":3,"buy":60,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":568,"name":"Верификатор","t":1795118478554,"sale":115.87,"ref":142.44,"profit":12.33,"roi":10.64,"bo":15,"so":8,"buy":111.5,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":495,"name":"Фалко","t":1795119641617,"sale":87,"ref":109,"profit":11.1,"roi":12.76,"bo":7,"so":7,"buy":86.82,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
