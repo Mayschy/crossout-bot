@@ -1136,3 +1136,5 @@
 {"id":1053,"name":"Фиалковый глянец","t":1795046482219,"sale":347.01,"ref":444.09,"profit":52.67,"roi":15.18,"bo":1,"so":2,"buy":346.21,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":118,"name":"Циклоп","t":1795047643103,"sale":3699.63,"ref":4219.99,"profit":98.36,"roi":2.66,"bo":3,"so":33,"buy":3650.01,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":319,"name":"Капкан","t":1795048266872,"sale":716.16,"ref":844.95,"profit":44.3,"roi":6.19,"bo":4,"so":18,"buy":716.02,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1442,"name":"Гравированные гильзы x100","t":1795051246588,"sale":38,"ref":90.12,"profit":43.11,"roi":113.44,"bo":142,"so":9,"buy":27.05,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1163,"name":"Рампа с платформой 12×12×3","t":1795051247964,"sale":32.02,"ref":77.76,"profit":37.96,"roi":118.56,"bo":0,"so":149,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
