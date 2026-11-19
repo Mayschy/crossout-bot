@@ -1822,3 +1822,5 @@
 {"id":331,"name":"Сумматор","t":1795075840614,"sale":86.9,"ref":110.81,"profit":12.83,"roi":14.76,"bo":3,"so":11,"buy":83.33,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":646,"name":"Атом","t":1795077065071,"sale":191,"ref":228.98,"profit":15.08,"roi":7.9,"bo":23,"so":103,"buy":190.02,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":458,"name":"Резерв","t":1795077065071,"sale":30.48,"ref":45.94,"profit":10.87,"roi":35.65,"bo":35,"so":34,"buy":28.48,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":368,"name":"Астрей","t":1795080041603,"sale":365.26,"ref":430,"profit":21.74,"roi":5.95,"bo":24,"so":15,"buy":365.25,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":184,"name":"Исполин","t":1795080041603,"sale":142.04,"ref":173.35,"profit":13.97,"roi":9.84,"bo":5,"so":56,"buy":142.03,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
