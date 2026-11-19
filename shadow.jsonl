@@ -1841,3 +1841,4 @@
 {"id":1378,"name":"Конфетка","t":1795092914449,"sale":40,"ref":56.66,"profit":10.99,"roi":27.48,"bo":2,"so":7,"buy":5.03,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1093,"name":"Грубый песок","t":1795092914449,"sale":1.07,"ref":13.12,"profit":10.74,"roi":1003.55,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":419,"name":"Пламя","t":1795093841801,"sale":300,"ref":346.91,"profit":12.22,"roi":4.07,"bo":4,"so":84,"buy":298.59,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":21,"name":"Сумрак","t":1795094441623,"sale":575.07,"ref":666,"profit":24.33,"roi":4.23,"bo":9,"so":9,"buy":575.04,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
