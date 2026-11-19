@@ -1862,3 +1862,4 @@
 {"id":1284,"name":"Кровавый почерк","t":1795108243882,"sale":54.47,"ref":72.9,"profit":11.14,"roi":20.45,"bo":0,"so":2,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":565,"name":"Хамелеон","t":1795108844322,"sale":63.09,"ref":81.49,"profit":10.25,"roi":16.25,"bo":10,"so":36,"buy":62.8,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":511,"name":"РС Нерпа","t":1795109469507,"sale":307.09,"ref":357.86,"profit":14.98,"roi":4.88,"bo":15,"so":47,"buy":287.77,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":269,"name":"Медиана","t":1795112441998,"sale":101.15,"ref":124.92,"profit":11.28,"roi":11.15,"bo":3,"so":33,"buy":91.57,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
