@@ -1857,3 +1857,4 @@
 {"id":1292,"name":"Камуфляж: Болото","t":1795105864222,"sale":58.15,"ref":75.8,"profit":10.07,"roi":17.32,"bo":1,"so":3,"buy":30.01,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":646,"name":"Атом","t":1795106444300,"sale":198.5,"ref":244.33,"profit":21.4,"roi":10.78,"bo":61,"so":63,"buy":198.01,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1294,"name":"Камуфляжный пиксель","t":1795106444300,"sale":1.14,"ref":12.45,"profit":10.06,"roi":882.89,"bo":0,"so":8,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1259,"name":"Оперение","t":1795107682060,"sale":5,"ref":25.08,"profit":17.57,"roi":351.44,"bo":0,"so":9,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
