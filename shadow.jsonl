@@ -1884,3 +1884,5 @@
 {"id":612,"name":"Колесо двойное (пов.)","t":1795122644837,"sale":47.21,"ref":63.63,"profit":10.06,"roi":21.3,"bo":9,"so":3,"buy":46.5,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1795123592142,"sale":191.52,"ref":240,"profit":24.48,"roi":12.78,"bo":0,"so":31,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":139,"name":"Красная лампа","t":1795123592142,"sale":38.5,"ref":58.94,"profit":14.55,"roi":37.78,"bo":0,"so":4,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":578,"name":"Гусеница укрепленная","t":1795125048759,"sale":140.52,"ref":178.99,"profit":20.57,"roi":14.64,"bo":6,"so":58,"buy":137.43,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":335,"name":"Триггер","t":1795125048759,"sale":189.06,"ref":225,"profit":13.44,"roi":7.11,"bo":24,"so":13,"buy":189.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
