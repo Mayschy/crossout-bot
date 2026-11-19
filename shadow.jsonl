@@ -1850,3 +1850,4 @@
 {"id":24,"name":"Инферно","t":1795101056620,"sale":999,"ref":1125.34,"profit":13.81,"roi":1.38,"bo":13,"so":6,"buy":930.09,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":420,"name":"Гнездо","t":1795101056620,"sale":310.32,"ref":357.3,"profit":11.25,"roi":3.63,"bo":19,"so":25,"buy":310.18,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":433,"name":"Ланселот","t":1795101644528,"sale":300,"ref":344.98,"profit":10.48,"roi":3.49,"bo":14,"so":21,"buy":295.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":461,"name":"Зубья","t":1795104644840,"sale":194.38,"ref":230.74,"profit":13.29,"roi":6.84,"bo":2,"so":4,"buy":160,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

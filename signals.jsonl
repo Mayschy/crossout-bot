@@ -1175,3 +1175,4 @@
 {"id":1462,"name":"Гоплит","t":1795101058144,"sale":1479.77,"ref":1681.98,"profit":34.01,"roi":2.3,"bo":6,"so":21,"buy":1318.49,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":197,"name":"Симбионт (левый)","t":1795102844251,"sale":182.65,"ref":236.07,"profit":29.81,"roi":16.32,"bo":3,"so":8,"buy":162,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":114,"name":"Стартер","t":1795102845679,"sale":1000,"ref":1140.01,"profit":26.01,"roi":2.6,"bo":46,"so":35,"buy":850.02,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":268,"name":"Жнец","t":1795104645476,"sale":1843.15,"ref":2149.86,"profit":91.72,"roi":4.98,"bo":18,"so":37,"buy":1843.14,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
