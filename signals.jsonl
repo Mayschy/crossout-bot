@@ -1143,3 +1143,4 @@
 {"id":35,"name":"Призрак","t":1795057279100,"sale":585,"ref":694.39,"profit":39.95,"roi":6.83,"bo":3,"so":5,"buy":584.18,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":284,"name":"Панацея","t":1795057280503,"sale":296.18,"ref":359.7,"profit":27.55,"roi":9.3,"bo":1,"so":24,"buy":290.02,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":498,"name":"Импеллер","t":1795057844970,"sale":884.52,"ref":1149,"profit":149.58,"roi":16.91,"bo":0,"so":13,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":625,"name":"Затворник (пов.)","t":1795060241017,"sale":201.5,"ref":257.99,"profit":30.69,"roi":15.23,"bo":5,"so":19,"buy":200,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
