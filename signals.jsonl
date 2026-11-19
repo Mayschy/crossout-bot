@@ -1134,3 +1134,4 @@
 {"id":320,"name":"ПУ13 Уравнитель","t":1795040447350,"sale":284,"ref":344.98,"profit":26.48,"roi":9.32,"bo":14,"so":37,"buy":283.16,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1300,"name":"Матовый ультрафиолет","t":1795041074896,"sale":326.03,"ref":428.07,"profit":59.23,"roi":18.17,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1053,"name":"Фиалковый глянец","t":1795046482219,"sale":347.01,"ref":444.09,"profit":52.67,"roi":15.18,"bo":1,"so":2,"buy":346.21,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":118,"name":"Циклоп","t":1795047643103,"sale":3699.63,"ref":4219.99,"profit":98.36,"roi":2.66,"bo":3,"so":33,"buy":3650.01,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
