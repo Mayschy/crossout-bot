@@ -1195,3 +1195,5 @@
 {"id":610,"name":"Увабаки (пов.)","t":1795143677667,"sale":174.48,"ref":221.79,"profit":25.13,"roi":14.4,"bo":5,"so":18,"buy":172.04,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":421,"name":"Тромбон","t":1795144245407,"sale":592.02,"ref":689.99,"profit":28.97,"roi":4.89,"bo":11,"so":25,"buy":592.01,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":537,"name":"Скидутка","t":1795147277042,"sale":280.95,"ref":366.65,"profit":49.04,"roi":17.45,"bo":29,"so":11,"buy":279.89,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":536,"name":"Мясорубка","t":1795148439595,"sale":269.01,"ref":341.98,"profit":38.77,"roi":14.41,"bo":28,"so":30,"buy":269,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":375,"name":"Аврора","t":1795148440960,"sale":145.26,"ref":191.36,"profit":26.96,"roi":18.56,"bo":23,"so":10,"buy":145,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
