@@ -1950,3 +1950,6 @@
 {"id":276,"name":"Циклон","t":1795191661925,"sale":320,"ref":367.64,"profit":10.88,"roi":3.4,"bo":29,"so":17,"buy":300.32,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":146,"name":"Длинная синяя лампа","t":1795194088792,"sale":62.37,"ref":85,"profit":14.13,"roi":22.66,"bo":0,"so":9,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":646,"name":"Атом","t":1795194088792,"sale":189.93,"ref":225,"profit":12.57,"roi":6.62,"bo":15,"so":53,"buy":189.92,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":273,"name":"В-37-39 Адаптер","t":1795194650044,"sale":432,"ref":494.41,"profit":12.97,"roi":3,"bo":5,"so":21,"buy":430.03,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":321,"name":"Мельник","t":1795194650044,"sale":420,"ref":478.96,"profit":11.06,"roi":2.63,"bo":9,"so":56,"buy":415,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":9,"name":"Джаннаби","t":1795194650044,"sale":304.2,"ref":349.87,"profit":10.68,"roi":3.51,"bo":7,"so":14,"buy":300,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
