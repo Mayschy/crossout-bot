@@ -1943,3 +1943,6 @@
 {"id":495,"name":"Фалко","t":1795187451757,"sale":85.43,"ref":112.02,"profit":15.39,"roi":18.01,"bo":6,"so":3,"buy":85.32,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":321,"name":"Мельник","t":1795188670156,"sale":415,"ref":478.99,"profit":16.09,"roi":3.88,"bo":8,"so":58,"buy":414,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":475,"name":"Противотуманные фары","t":1795188670156,"sale":43.55,"ref":61.48,"profit":11.78,"roi":27.05,"bo":1,"so":17,"buy":25,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1795189848708,"sale":205.11,"ref":249.88,"profit":19.78,"roi":9.64,"bo":12,"so":41,"buy":205.1,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1105,"name":"Белое солнце","t":1795189848708,"sale":120.58,"ref":146.57,"profit":11.33,"roi":9.4,"bo":3,"so":4,"buy":13,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1209,"name":"Чертово колесо","t":1795189848708,"sale":28.92,"ref":43.41,"profit":10.15,"roi":35.09,"bo":1,"so":7,"buy":27.84,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
