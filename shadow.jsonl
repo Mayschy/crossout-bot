@@ -1912,3 +1912,4 @@
 {"id":444,"name":"МН-Л 200","t":1795155640519,"sale":385,"ref":445.98,"profit":16.38,"roi":4.26,"bo":30,"so":48,"buy":380,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":149,"name":"Вакидатэ","t":1795156841855,"sale":183.63,"ref":229.99,"profit":23.36,"roi":12.72,"bo":8,"so":14,"buy":171,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":689,"name":"Контейнер разведчика","t":1795158080778,"sale":344,"ref":396.34,"profit":12.71,"roi":3.69,"bo":39,"so":188,"buy":342.03,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1449,"name":"Гиена","t":1795158639322,"sale":862.08,"ref":975,"profit":15.42,"roi":1.79,"bo":7,"so":54,"buy":862.06,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
