@@ -1946,3 +1946,4 @@
 {"id":646,"name":"Атом","t":1795189848708,"sale":205.11,"ref":249.88,"profit":19.78,"roi":9.64,"bo":12,"so":41,"buy":205.1,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1105,"name":"Белое солнце","t":1795189848708,"sale":120.58,"ref":146.57,"profit":11.33,"roi":9.4,"bo":3,"so":4,"buy":13,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1209,"name":"Чертово колесо","t":1795189848708,"sale":28.92,"ref":43.41,"profit":10.15,"roi":35.09,"bo":1,"so":7,"buy":27.84,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":280,"name":"Яогуай","t":1795191047813,"sale":350.09,"ref":409,"profit":18.01,"roi":5.14,"bo":10,"so":11,"buy":350,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
