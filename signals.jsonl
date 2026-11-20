@@ -1221,3 +1221,4 @@
 {"id":1054,"name":"Шаблон: Шахматы","t":1795184449562,"sale":15926.67,"ref":18999.99,"profit":1173.32,"roi":7.37,"bo":1,"so":5,"buy":12000,"act":5,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":418,"name":"Ураган","t":1795184451894,"sale":2400.6,"ref":2717.69,"profit":45.32,"roi":1.89,"bo":20,"so":34,"buy":2400,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":11,"name":"Мертвец","t":1795184453345,"sale":1100,"ref":1251.39,"profit":26.25,"roi":2.39,"bo":9,"so":23,"buy":1025.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":114,"name":"Стартер","t":1795187452493,"sale":1111,"ref":1275,"profit":36.5,"roi":3.29,"bo":35,"so":23,"buy":986.15,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
