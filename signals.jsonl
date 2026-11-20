@@ -1228,3 +1228,4 @@
 {"id":268,"name":"Жнец","t":1795197050644,"sale":1850.11,"ref":2100,"profit":39.89,"roi":2.16,"bo":16,"so":48,"buy":1850.1,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":635,"name":"Колесо багги (пов.)","t":1795197682006,"sale":199.09,"ref":249.76,"profit":25.69,"roi":12.91,"bo":0,"so":32,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":587,"name":"Светофор","t":1795200659074,"sale":175.08,"ref":226.24,"profit":28.54,"roi":16.3,"bo":51,"so":3,"buy":175.05,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":324,"name":"Буран","t":1795201281494,"sale":1400,"ref":1605.17,"profit":44.65,"roi":3.19,"bo":8,"so":5,"buy":1264.02,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
