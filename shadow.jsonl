@@ -1970,3 +1970,4 @@
 {"id":537,"name":"Скидутка","t":1795204246763,"sale":341.2,"ref":405,"profit":23.3,"roi":6.83,"bo":28,"so":9,"buy":341.04,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":444,"name":"МН-Л 200","t":1795204891660,"sale":360,"ref":418,"profit":16.2,"roi":4.5,"bo":22,"so":68,"buy":339,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":494,"name":"НВ-2 Клён","t":1795205451704,"sale":541.01,"ref":615,"profit":12.49,"roi":2.31,"bo":3,"so":13,"buy":530.07,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1795206054191,"sale":137.4,"ref":174,"profit":19.2,"roi":13.97,"bo":3,"so":36,"buy":133.01,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
