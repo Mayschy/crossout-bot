@@ -1902,3 +1902,5 @@
 {"id":270,"name":"АП50 Шторм","t":1795148439033,"sale":69.66,"ref":88.9,"profit":10.35,"roi":14.86,"bo":13,"so":22,"buy":69.3,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":348,"name":"Гремлин","t":1795149060210,"sale":91.58,"ref":122.58,"profit":18.74,"roi":20.47,"bo":34,"so":7,"buy":91.57,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":568,"name":"Верификатор","t":1795149060210,"sale":117.27,"ref":142,"profit":10.53,"roi":8.98,"bo":13,"so":6,"buy":111.5,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":419,"name":"Пламя","t":1795152041276,"sale":310.49,"ref":359.55,"profit":13.11,"roi":4.22,"bo":15,"so":71,"buy":300.38,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":569,"name":"Окулус VI","t":1795152041276,"sale":79.73,"ref":102.68,"profit":12.68,"roi":15.91,"bo":5,"so":11,"buy":79.6,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
