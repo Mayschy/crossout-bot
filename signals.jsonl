@@ -1210,3 +1210,4 @@
 {"id":9,"name":"Джаннаби","t":1795169455980,"sale":286.03,"ref":349.96,"profit":28.93,"roi":10.12,"bo":11,"so":16,"buy":286.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1400,"name":"Маска смерти","t":1795170049976,"sale":130.19,"ref":196.25,"profit":46.44,"roi":35.67,"bo":1,"so":4,"buy":100,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":24,"name":"Инферно","t":1795175448391,"sale":915.01,"ref":1048.89,"profit":28.99,"roi":3.17,"bo":13,"so":12,"buy":915,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":114,"name":"Стартер","t":1795176657864,"sale":1000,"ref":1148.97,"profit":34.07,"roi":3.41,"bo":41,"so":31,"buy":985.2,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
