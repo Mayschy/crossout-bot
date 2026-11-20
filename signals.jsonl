@@ -1237,3 +1237,5 @@
 {"id":180,"name":"Беркут","t":1795208486308,"sale":1500,"ref":1696.93,"profit":27.24,"roi":1.82,"bo":3,"so":27,"buy":1424.02,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":342,"name":"РА-1 Вереск","t":1795209652352,"sale":1831.15,"ref":2356,"profit":289.25,"roi":15.8,"bo":8,"so":17,"buy":1831.14,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":557,"name":"Снежинка","t":1795213869588,"sale":281.25,"ref":350.98,"profit":34.63,"roi":12.31,"bo":1,"so":6,"buy":259.97,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3778,"name":"Морриган (заготовка)","t":1795215691087,"sale":3701.02,"ref":4999.98,"profit":798.96,"roi":21.59,"bo":11,"so":12,"buy":3701.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":223,"name":"Надувной Мамонт","t":1795215692477,"sale":950.57,"ref":1198.84,"profit":128.39,"roi":13.51,"bo":13,"so":7,"buy":652,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}

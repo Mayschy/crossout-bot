@@ -1975,3 +1975,4 @@
 {"id":1060,"name":"Шаблон: Опасность!","t":1795210269649,"sale":200.75,"ref":248.8,"profit":23.17,"roi":11.54,"bo":1,"so":5,"buy":184.74,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":379,"name":"Гравастар","t":1795211449643,"sale":405.01,"ref":469.98,"profit":17.97,"roi":4.44,"bo":55,"so":14,"buy":375.02,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":634,"name":"Колесо багги","t":1795212654064,"sale":60.33,"ref":80.33,"profit":11.97,"roi":19.84,"bo":10,"so":5,"buy":60.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":555,"name":"Бум","t":1795215683911,"sale":84,"ref":107.69,"profit":12.92,"roi":15.38,"bo":1,"so":34,"buy":81.86,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
