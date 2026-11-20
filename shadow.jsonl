@@ -1907,3 +1907,5 @@
 {"id":330,"name":"Аргумент","t":1795153842959,"sale":280,"ref":331.89,"profit":18.7,"roi":6.68,"bo":11,"so":20,"buy":275.03,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":561,"name":"Гармонизатор","t":1795154478010,"sale":606.32,"ref":689,"profit":13.78,"roi":2.27,"bo":13,"so":89,"buy":606.31,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":448,"name":"Парная фара","t":1795154478010,"sale":36.65,"ref":52,"profit":10.15,"roi":27.69,"bo":0,"so":8,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":284,"name":"Панацея","t":1795155044331,"sale":295.01,"ref":350.99,"profit":20.88,"roi":7.08,"bo":22,"so":35,"buy":295,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":348,"name":"Гремлин","t":1795155044331,"sale":91.57,"ref":122.23,"profit":18.44,"roi":20.13,"bo":33,"so":11,"buy":89.58,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
