@@ -1919,3 +1919,5 @@
 {"id":106,"name":"«Титаник»","t":1795167651315,"sale":190,"ref":230,"profit":17,"roi":8.95,"bo":4,"so":5,"buy":157,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":382,"name":"Варун","t":1795168885432,"sale":500,"ref":580,"profit":22,"roi":4.4,"bo":6,"so":11,"buy":490,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":49,"name":"Квант","t":1795170048996,"sale":299.99,"ref":344.9,"profit":10.42,"roi":3.47,"bo":12,"so":17,"buy":281.9,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":583,"name":"Файер «Энергия Ци»","t":1795171254136,"sale":194.77,"ref":242.53,"profit":23.51,"roi":12.07,"bo":3,"so":8,"buy":181.55,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":569,"name":"Окулус VI","t":1795171254136,"sale":79.9,"ref":102.52,"profit":12.37,"roi":15.48,"bo":5,"so":14,"buy":79.6,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
