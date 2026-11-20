@@ -1231,3 +1231,4 @@
 {"id":324,"name":"Буран","t":1795201281494,"sale":1400,"ref":1605.17,"profit":44.65,"roi":3.19,"bo":8,"so":5,"buy":1264.02,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":57,"name":"Фаворит","t":1795203651897,"sale":875.61,"ref":1065.96,"profit":83.75,"roi":9.57,"bo":11,"so":8,"buy":875.6,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":383,"name":"Коракс","t":1795204247232,"sale":2599.64,"ref":2928.66,"profit":36.15,"roi":1.39,"bo":0,"so":21,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":336,"name":"Деструктор","t":1795204892467,"sale":1166,"ref":1339.9,"profit":39.91,"roi":3.42,"bo":15,"so":11,"buy":1111.2,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
