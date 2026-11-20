@@ -1939,3 +1939,4 @@
 {"id":132,"name":"Короткая желтая лампа","t":1795184448205,"sale":54.45,"ref":73.59,"profit":11.78,"roi":21.64,"bo":2,"so":5,"buy":42.46,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1795185653004,"sale":208.01,"ref":250,"profit":16.99,"roi":8.17,"bo":2,"so":32,"buy":207.47,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1292,"name":"Камуфляж: Болото","t":1795186253954,"sale":51.21,"ref":70.14,"profit":11.92,"roi":23.27,"bo":1,"so":2,"buy":48.44,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":112,"name":"Рвач","t":1795186887096,"sale":125,"ref":153.89,"profit":13.5,"roi":10.8,"bo":2,"so":22,"buy":119,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
