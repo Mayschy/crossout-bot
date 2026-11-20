@@ -1235,3 +1235,4 @@
 {"id":326,"name":"Вальс","t":1795205452473,"sale":1570,"ref":1777.78,"profit":30,"roi":1.91,"bo":6,"so":19,"buy":1557.3,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":290,"name":"Тошнитель","t":1795208484908,"sale":1620,"ref":1880,"profit":72,"roi":4.44,"bo":18,"so":17,"buy":1605.02,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":180,"name":"Беркут","t":1795208486308,"sale":1500,"ref":1696.93,"profit":27.24,"roi":1.82,"bo":3,"so":27,"buy":1424.02,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":342,"name":"РА-1 Вереск","t":1795209652352,"sale":1831.15,"ref":2356,"profit":289.25,"roi":15.8,"bo":8,"so":17,"buy":1831.14,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
