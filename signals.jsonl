@@ -1191,3 +1191,4 @@
 {"id":333,"name":"Юпитер","t":1795138264334,"sale":4000,"ref":4642.25,"profit":178.03,"roi":4.45,"bo":4,"so":21,"buy":3701.01,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1163,"name":"Рампа с платформой 12×12×3","t":1795139440735,"sale":30.7,"ref":73.99,"profit":35.89,"roi":116.91,"bo":34,"so":179,"buy":7.01,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":635,"name":"Колесо багги (пов.)","t":1795139442094,"sale":209.67,"ref":265.57,"profit":29.34,"roi":13.99,"bo":9,"so":17,"buy":207.47,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":537,"name":"Скидутка","t":1795141863180,"sale":294.9,"ref":366.65,"profit":35.09,"roi":11.9,"bo":29,"so":11,"buy":279.89,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
