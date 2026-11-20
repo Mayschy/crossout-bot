@@ -1186,3 +1186,4 @@
 {"id":537,"name":"Скидутка","t":1795122086211,"sale":333.25,"ref":400,"profit":26.75,"roi":8.03,"bo":35,"so":3,"buy":320,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":635,"name":"Колесо багги (пов.)","t":1795123861816,"sale":209.67,"ref":265.57,"profit":29.34,"roi":13.99,"bo":9,"so":6,"buy":207.47,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":114,"name":"Стартер","t":1795132880650,"sale":946.91,"ref":1199.99,"profit":133.08,"roi":14.05,"bo":33,"so":35,"buy":825.51,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":610,"name":"Увабаки (пов.)","t":1795135851040,"sale":174.48,"ref":221.79,"profit":25.13,"roi":14.4,"bo":5,"so":18,"buy":172.04,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
