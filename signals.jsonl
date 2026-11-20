@@ -1230,3 +1230,4 @@
 {"id":587,"name":"Светофор","t":1795200659074,"sale":175.08,"ref":226.24,"profit":28.54,"roi":16.3,"bo":51,"so":3,"buy":175.05,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":324,"name":"Буран","t":1795201281494,"sale":1400,"ref":1605.17,"profit":44.65,"roi":3.19,"bo":8,"so":5,"buy":1264.02,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":57,"name":"Фаворит","t":1795203651897,"sale":875.61,"ref":1065.96,"profit":83.75,"roi":9.57,"bo":11,"so":8,"buy":875.6,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":383,"name":"Коракс","t":1795204247232,"sale":2599.64,"ref":2928.66,"profit":36.15,"roi":1.39,"bo":0,"so":21,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null}

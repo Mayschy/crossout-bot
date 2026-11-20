@@ -1967,3 +1967,4 @@
 {"id":149,"name":"Вакидатэ","t":1795202456964,"sale":190,"ref":225.47,"profit":12.92,"roi":6.8,"bo":4,"so":17,"buy":164.7,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":482,"name":"Мигалка","t":1795202456964,"sale":190,"ref":223.23,"profit":10.91,"roi":5.74,"bo":1,"so":4,"buy":180,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":59,"name":"Мигалка скорой","t":1795203072455,"sale":175,"ref":208,"profit":12.2,"roi":6.97,"bo":5,"so":4,"buy":168,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":537,"name":"Скидутка","t":1795204246763,"sale":341.2,"ref":405,"profit":23.3,"roi":6.83,"bo":28,"so":9,"buy":341.04,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
