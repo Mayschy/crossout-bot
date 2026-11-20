@@ -1925,3 +1925,4 @@
 {"id":420,"name":"Гнездо","t":1795174845938,"sale":310,"ref":359.88,"profit":13.89,"roi":4.48,"bo":20,"so":15,"buy":300.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":484,"name":"ЭУ-1 Заряд","t":1795174845938,"sale":81.25,"ref":103.63,"profit":12.02,"roi":14.79,"bo":14,"so":15,"buy":81.03,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1157,"name":"Двойная рампа 6×12×6","t":1795177251507,"sale":11.41,"ref":24.25,"profit":10.41,"roi":91.28,"bo":7,"so":13,"buy":1.81,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1795178449045,"sale":201.89,"ref":241.11,"profit":15.11,"roi":7.48,"bo":5,"so":24,"buy":200,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
