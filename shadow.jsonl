@@ -1921,3 +1921,6 @@
 {"id":49,"name":"Квант","t":1795170048996,"sale":299.99,"ref":344.9,"profit":10.42,"roi":3.47,"bo":12,"so":17,"buy":281.9,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":583,"name":"Файер «Энергия Ци»","t":1795171254136,"sale":194.77,"ref":242.53,"profit":23.51,"roi":12.07,"bo":3,"so":8,"buy":181.55,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":569,"name":"Окулус VI","t":1795171254136,"sale":79.9,"ref":102.52,"profit":12.37,"roi":15.48,"bo":5,"so":14,"buy":79.6,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":251,"name":"Райдзин","t":1795174845938,"sale":700,"ref":796,"profit":16.4,"roi":2.34,"bo":8,"so":13,"buy":653.03,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":420,"name":"Гнездо","t":1795174845938,"sale":310,"ref":359.88,"profit":13.89,"roi":4.48,"bo":20,"so":15,"buy":300.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":484,"name":"ЭУ-1 Заряд","t":1795174845938,"sale":81.25,"ref":103.63,"profit":12.02,"roi":14.79,"bo":14,"so":15,"buy":81.03,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
