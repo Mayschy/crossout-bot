@@ -1214,3 +1214,5 @@
 {"id":557,"name":"Снежинка","t":1795177873699,"sale":260.07,"ref":351.1,"profit":55.92,"roi":21.5,"bo":1,"so":5,"buy":259.97,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":307,"name":"Нотунг","t":1795179048331,"sale":2366.05,"ref":2780.26,"profit":136.18,"roi":5.76,"bo":4,"so":27,"buy":2366,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":197,"name":"Симбионт (левый)","t":1795179049672,"sale":169.84,"ref":223.33,"profit":31.16,"roi":18.34,"bo":3,"so":8,"buy":162,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":338,"name":"ДР-27 Морган","t":1795179684265,"sale":1681.08,"ref":1990,"profit":109.92,"roi":6.54,"bo":9,"so":16,"buy":1681.07,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1449,"name":"Гиена","t":1795179685821,"sale":800,"ref":974.98,"profit":77.48,"roi":9.69,"bo":4,"so":49,"buy":794.38,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}

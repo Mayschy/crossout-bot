@@ -1926,3 +1926,6 @@
 {"id":484,"name":"ЭУ-1 Заряд","t":1795174845938,"sale":81.25,"ref":103.63,"profit":12.02,"roi":14.79,"bo":14,"so":15,"buy":81.03,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1157,"name":"Двойная рампа 6×12×6","t":1795177251507,"sale":11.41,"ref":24.25,"profit":10.41,"roi":91.28,"bo":7,"so":13,"buy":1.81,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1795178449045,"sale":201.89,"ref":241.11,"profit":15.11,"roi":7.48,"bo":5,"so":24,"buy":200,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":149,"name":"Вакидатэ","t":1795179683524,"sale":183.59,"ref":225.47,"profit":19.33,"roi":10.53,"bo":6,"so":17,"buy":171,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":503,"name":"Аргус","t":1795179683524,"sale":346.32,"ref":400,"profit":13.68,"roi":3.95,"bo":0,"so":5,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":198,"name":"Симбионт (правый)","t":1795179683524,"sale":158,"ref":189.29,"profit":12.36,"roi":7.82,"bo":4,"so":6,"buy":156.99,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
