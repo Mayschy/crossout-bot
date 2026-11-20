@@ -1953,3 +1953,5 @@
 {"id":273,"name":"В-37-39 Адаптер","t":1795194650044,"sale":432,"ref":494.41,"profit":12.97,"roi":3,"bo":5,"so":21,"buy":430.03,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":321,"name":"Мельник","t":1795194650044,"sale":420,"ref":478.96,"profit":11.06,"roi":2.63,"bo":9,"so":56,"buy":415,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":9,"name":"Джаннаби","t":1795194650044,"sale":304.2,"ref":349.87,"profit":10.68,"roi":3.51,"bo":7,"so":14,"buy":300,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":568,"name":"Верификатор","t":1795195870972,"sale":114.75,"ref":144.99,"profit":15.74,"roi":13.72,"bo":12,"so":5,"buy":111.5,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":484,"name":"ЭУ-1 Заряд","t":1795195870972,"sale":82.01,"ref":104,"profit":11.59,"roi":14.13,"bo":21,"so":17,"buy":82,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
