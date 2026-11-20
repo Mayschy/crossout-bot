@@ -1929,3 +1929,4 @@
 {"id":149,"name":"Вакидатэ","t":1795179683524,"sale":183.59,"ref":225.47,"profit":19.33,"roi":10.53,"bo":6,"so":17,"buy":171,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":503,"name":"Аргус","t":1795179683524,"sale":346.32,"ref":400,"profit":13.68,"roi":3.95,"bo":0,"so":5,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":198,"name":"Симбионт (правый)","t":1795179683524,"sale":158,"ref":189.29,"profit":12.36,"roi":7.82,"bo":4,"so":6,"buy":156.99,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":610,"name":"Увабаки (пов.)","t":1795181470329,"sale":190,"ref":222.49,"profit":10.24,"roi":5.39,"bo":17,"so":14,"buy":185.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
