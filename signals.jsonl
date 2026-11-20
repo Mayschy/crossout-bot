@@ -1198,3 +1198,6 @@
 {"id":536,"name":"Мясорубка","t":1795148439595,"sale":269.01,"ref":341.98,"profit":38.77,"roi":14.41,"bo":28,"so":30,"buy":269,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":375,"name":"Аврора","t":1795148440960,"sale":145.26,"ref":191.36,"profit":26.96,"roi":18.56,"bo":23,"so":10,"buy":145,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":380,"name":"Искра III","t":1795152664506,"sale":1630.03,"ref":1855.53,"profit":39.95,"roi":2.45,"bo":19,"so":21,"buy":1630.01,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":438,"name":"РН-М Дино","t":1795154478724,"sale":1081.87,"ref":1290,"profit":79.13,"roi":7.31,"bo":10,"so":53,"buy":1080.1,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":94,"name":"Зов свободы","t":1795154480157,"sale":181.16,"ref":233.37,"profit":28.87,"roi":15.94,"bo":1,"so":4,"buy":160,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":461,"name":"Зубья","t":1795154481716,"sale":180.95,"ref":230.74,"profit":26.72,"roi":14.76,"bo":1,"so":4,"buy":21.43,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
