@@ -1948,3 +1948,5 @@
 {"id":1209,"name":"Чертово колесо","t":1795189848708,"sale":28.92,"ref":43.41,"profit":10.15,"roi":35.09,"bo":1,"so":7,"buy":27.84,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":280,"name":"Яогуай","t":1795191047813,"sale":350.09,"ref":409,"profit":18.01,"roi":5.14,"bo":10,"so":11,"buy":350,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":276,"name":"Циклон","t":1795191661925,"sale":320,"ref":367.64,"profit":10.88,"roi":3.4,"bo":29,"so":17,"buy":300.32,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":146,"name":"Длинная синяя лампа","t":1795194088792,"sale":62.37,"ref":85,"profit":14.13,"roi":22.66,"bo":0,"so":9,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1795194088792,"sale":189.93,"ref":225,"profit":12.57,"roi":6.62,"bo":15,"so":53,"buy":189.92,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
