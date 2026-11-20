@@ -1917,3 +1917,4 @@
 {"id":635,"name":"Колесо багги (пов.)","t":1795162843986,"sale":208,"ref":255.97,"profit":22.37,"roi":10.76,"bo":8,"so":34,"buy":207.47,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":421,"name":"Тромбон","t":1795162843986,"sale":592.01,"ref":680,"profit":19.99,"roi":3.38,"bo":8,"so":28,"buy":591.04,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":106,"name":"«Титаник»","t":1795167651315,"sale":190,"ref":230,"profit":17,"roi":8.95,"bo":4,"so":5,"buy":157,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":382,"name":"Варун","t":1795168885432,"sale":500,"ref":580,"profit":22,"roi":4.4,"bo":6,"so":11,"buy":490,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
