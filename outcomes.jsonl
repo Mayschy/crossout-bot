@@ -15820,3 +15820,11 @@
 {"id":1209,"t":1795189848708,"h":120,"at":1795197000000,"s":28.92,"b":27.84,"so":6,"bo":1,"ask":-2.89,"instant":-3.86,"taken":false,"shadow":true,"roi":-10,"capital":28.92,"late":false}
 {"id":568,"t":1795195870972,"h":10,"at":1795196400000,"s":140,"b":114.75,"so":4,"bo":13,"ask":11.25,"instant":-11.47,"taken":true,"shadow":true,"roi":9.8,"capital":114.75,"late":false}
 {"id":484,"t":1795195870972,"h":10,"at":1795196400000,"s":101,"b":82,"so":16,"bo":21,"ask":8.89,"instant":-8.21,"taken":true,"shadow":true,"roi":10.84,"capital":82.01,"late":false}
+{"id":625,"t":1795195253605,"h":30,"at":1795197000000,"s":259.65,"b":199.23,"so":14,"bo":3,"ask":25.16,"instant":-29.21,"taken":true,"shadow":false,"roi":12.07,"capital":208.52,"late":false}
+{"id":268,"t":1795197050644,"h":10,"at":1795197600000,"s":2095,"b":1850.1,"so":48,"bo":16,"ask":35.39,"instant":-185.02,"taken":true,"shadow":false,"roi":1.91,"capital":1850.11,"late":false}
+{"id":568,"t":1795195870972,"h":20,"at":1795197000000,"s":139,"b":114.75,"so":5,"bo":13,"ask":10.35,"instant":-11.47,"taken":true,"shadow":true,"roi":9.02,"capital":114.75,"late":false}
+{"id":568,"t":1795195870972,"h":30,"at":1795197600000,"s":139,"b":111.5,"so":5,"bo":12,"ask":10.35,"instant":-14.4,"taken":true,"shadow":true,"roi":9.02,"capital":114.75,"late":false}
+{"id":484,"t":1795195870972,"h":20,"at":1795197000000,"s":104,"b":85,"so":15,"bo":22,"ask":11.59,"instant":-5.51,"taken":true,"shadow":true,"roi":14.13,"capital":82.01,"late":false}
+{"id":484,"t":1795195870972,"h":30,"at":1795197600000,"s":85,"b":81.31,"so":16,"bo":20,"ask":-5.51,"instant":-8.83,"taken":true,"shadow":true,"roi":-6.72,"capital":82.01,"late":false}
+{"id":269,"t":1795196450460,"h":10,"at":1795197000000,"s":101.54,"b":100.35,"so":41,"bo":1,"ask":-10.15,"instant":-11.23,"taken":false,"shadow":true,"roi":-10,"capital":101.54,"late":false}
+{"id":269,"t":1795196450460,"h":20,"at":1795197600000,"s":123,"b":100.35,"so":41,"bo":1,"ask":9.16,"instant":-11.23,"taken":true,"shadow":true,"roi":9.02,"capital":101.54,"late":false}

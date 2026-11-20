@@ -1956,3 +1956,5 @@
 {"id":568,"name":"Верификатор","t":1795195870972,"sale":114.75,"ref":144.99,"profit":15.74,"roi":13.72,"bo":12,"so":5,"buy":111.5,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":484,"name":"ЭУ-1 Заряд","t":1795195870972,"sale":82.01,"ref":104,"profit":11.59,"roi":14.13,"bo":21,"so":17,"buy":82,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1795196450460,"sale":101.54,"ref":125.37,"profit":11.29,"roi":11.12,"bo":3,"so":42,"buy":101,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":462,"name":"Шабаш","t":1795197681488,"sale":253.72,"ref":307.98,"profit":23.46,"roi":9.25,"bo":14,"so":44,"buy":253.71,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":455,"name":"Боеукладка","t":1795197681488,"sale":130.01,"ref":159.94,"profit":13.94,"roi":10.72,"bo":7,"so":38,"buy":130,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
