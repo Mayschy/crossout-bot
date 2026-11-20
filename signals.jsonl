@@ -1207,3 +1207,4 @@
 {"id":115,"name":"«Из лесу, вестимо»","t":1795162846643,"sale":254.62,"ref":319.42,"profit":32.86,"roi":12.9,"bo":1,"so":6,"buy":239.97,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1233,"name":"Шаблон: Блуждающий огонь","t":1795163465868,"sale":359.62,"ref":439.9,"profit":36.29,"roi":10.09,"bo":1,"so":6,"buy":342.5,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":333,"name":"Юпитер","t":1795164040671,"sale":4140,"ref":4637,"profit":33.3,"roi":0.8,"bo":7,"so":23,"buy":3706.02,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":9,"name":"Джаннаби","t":1795169455980,"sale":286.03,"ref":349.96,"profit":28.93,"roi":10.12,"bo":11,"so":16,"buy":286.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
