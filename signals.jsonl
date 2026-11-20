@@ -1224,3 +1224,4 @@
 {"id":114,"name":"Стартер","t":1795187452493,"sale":1111,"ref":1275,"profit":36.5,"roi":3.29,"bo":35,"so":23,"buy":986.15,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1,"name":"Кэнсэй","t":1795189849447,"sale":1200,"ref":1397.68,"profit":57.91,"roi":4.83,"bo":9,"so":16,"buy":1111.11,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":94,"name":"Зов свободы","t":1795192854481,"sale":190.93,"ref":248.86,"profit":33.04,"roi":17.31,"bo":1,"so":2,"buy":160,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":625,"name":"Затворник (пов.)","t":1795195253605,"sale":208.52,"ref":260.68,"profit":26.09,"roi":12.51,"bo":3,"so":11,"buy":199.23,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}

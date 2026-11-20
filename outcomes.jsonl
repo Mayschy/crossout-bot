@@ -15790,3 +15790,11 @@
 {"id":112,"t":1795186887096,"h":120,"at":1795194000000,"s":153.85,"b":119.06,"so":20,"bo":6,"ask":13.47,"instant":-17.85,"taken":true,"shadow":true,"roi":10.77,"capital":125,"late":false}
 {"id":276,"t":1795191661925,"h":30,"at":1795193400000,"s":367.5,"b":301,"so":16,"bo":32,"ask":10.75,"instant":-49.1,"taken":true,"shadow":true,"roi":3.36,"capital":320,"late":false}
 {"id":280,"t":1795191047813,"h":60,"at":1795194600000,"s":348,"b":330.01,"so":12,"bo":9,"ask":-36.89,"instant":-53.08,"taken":false,"shadow":true,"roi":-10.54,"capital":350.09,"late":false}
+{"id":114,"t":1795187452493,"h":120,"at":1795194600000,"s":1100,"b":1000,"so":23,"bo":36,"ask":-121,"instant":-211,"taken":false,"shadow":false,"roi":-10.89,"capital":1111,"late":false}
+{"id":94,"t":1795192854481,"h":30,"at":1795194600000,"s":190.93,"b":160,"so":3,"bo":1,"ask":-19.09,"instant":-46.93,"taken":false,"shadow":false,"roi":-10,"capital":190.93,"late":false}
+{"id":495,"t":1795187451757,"h":120,"at":1795194600000,"s":112.02,"b":85.32,"so":2,"bo":6,"ask":15.39,"instant":-8.64,"taken":true,"shadow":true,"roi":18.01,"capital":85.43,"late":false}
+{"id":146,"t":1795194088792,"h":10,"at":1795194600000,"s":62.37,"b":0,"so":9,"bo":0,"ask":-6.24,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":62.37,"late":false}
+{"id":646,"t":1795194088792,"h":10,"at":1795194600000,"s":223.99,"b":190.1,"so":46,"bo":17,"ask":11.66,"instant":-18.84,"taken":true,"shadow":true,"roi":6.14,"capital":189.93,"late":false}
+{"id":273,"t":1795194650044,"h":10,"at":1795195200000,"s":494.41,"b":430.03,"so":19,"bo":5,"ask":12.97,"instant":-44.97,"taken":true,"shadow":true,"roi":3,"capital":432,"late":false}
+{"id":321,"t":1795194650044,"h":10,"at":1795195200000,"s":420,"b":415,"so":54,"bo":9,"ask":-42,"instant":-46.5,"taken":false,"shadow":true,"roi":-10,"capital":420,"late":false}
+{"id":9,"t":1795194650044,"h":10,"at":1795195200000,"s":304.2,"b":300,"so":15,"bo":6,"ask":-30.42,"instant":-34.2,"taken":false,"shadow":true,"roi":-10,"capital":304.2,"late":false}
