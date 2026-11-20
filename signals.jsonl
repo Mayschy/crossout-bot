@@ -1205,3 +1205,4 @@
 {"id":496,"name":"СВ-2 Буревестник","t":1795157440838,"sale":330.91,"ref":399,"profit":28.19,"roi":8.52,"bo":7,"so":15,"buy":325.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":241,"name":"Шквал","t":1795162844880,"sale":3074.26,"ref":3500,"profit":75.74,"roi":2.46,"bo":4,"so":30,"buy":3074.16,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":115,"name":"«Из лесу, вестимо»","t":1795162846643,"sale":254.62,"ref":319.42,"profit":32.86,"roi":12.9,"bo":1,"so":6,"buy":239.97,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1233,"name":"Шаблон: Блуждающий огонь","t":1795163465868,"sale":359.62,"ref":439.9,"profit":36.29,"roi":10.09,"bo":1,"so":6,"buy":342.5,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
