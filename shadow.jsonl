@@ -1973,3 +1973,4 @@
 {"id":630,"name":"Бигфут","t":1795206054191,"sale":137.4,"ref":174,"profit":19.2,"roi":13.97,"bo":3,"so":36,"buy":133.01,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":619,"name":"Омни","t":1795209651644,"sale":207.27,"ref":253,"profit":20.43,"roi":9.86,"bo":27,"so":11,"buy":207.25,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1060,"name":"Шаблон: Опасность!","t":1795210269649,"sale":200.75,"ref":248.8,"profit":23.17,"roi":11.54,"bo":1,"so":5,"buy":184.74,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":379,"name":"Гравастар","t":1795211449643,"sale":405.01,"ref":469.98,"profit":17.97,"roi":4.44,"bo":55,"so":14,"buy":375.02,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
