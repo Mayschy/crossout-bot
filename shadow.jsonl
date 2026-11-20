@@ -1934,3 +1934,5 @@
 {"id":1405,"name":"Тевтонский орел","t":1795182047458,"sale":37.85,"ref":55.26,"profit":11.88,"roi":31.4,"bo":1,"so":2,"buy":27.53,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":65,"name":"Сверчок","t":1795182654253,"sale":355.9,"ref":409.98,"profit":13.08,"roi":3.68,"bo":33,"so":32,"buy":338.77,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1443,"name":"Гравированные гильзы x1000","t":1795182654253,"sale":410,"ref":469.94,"profit":12.95,"roi":3.16,"bo":43,"so":88,"buy":305,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1795183283785,"sale":201.89,"ref":241.11,"profit":15.11,"roi":7.48,"bo":5,"so":24,"buy":200,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":506,"name":"Максвелл","t":1795183283785,"sale":82.22,"ref":105.05,"profit":12.33,"roi":14.99,"bo":4,"so":12,"buy":82,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
