@@ -1212,3 +1212,5 @@
 {"id":24,"name":"Инферно","t":1795175448391,"sale":915.01,"ref":1048.89,"profit":28.99,"roi":3.17,"bo":13,"so":12,"buy":915,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":114,"name":"Стартер","t":1795176657864,"sale":1000,"ref":1148.97,"profit":34.07,"roi":3.41,"bo":41,"so":31,"buy":985.2,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":557,"name":"Снежинка","t":1795177873699,"sale":260.07,"ref":351.1,"profit":55.92,"roi":21.5,"bo":1,"so":5,"buy":259.97,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":307,"name":"Нотунг","t":1795179048331,"sale":2366.05,"ref":2780.26,"profit":136.18,"roi":5.76,"bo":4,"so":27,"buy":2366,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":197,"name":"Симбионт (левый)","t":1795179049672,"sale":169.84,"ref":223.33,"profit":31.16,"roi":18.34,"bo":3,"so":8,"buy":162,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
