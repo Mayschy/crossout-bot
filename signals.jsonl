@@ -1218,3 +1218,6 @@
 {"id":1449,"name":"Гиена","t":1795179685821,"sale":800,"ref":974.98,"profit":77.48,"roi":9.69,"bo":4,"so":49,"buy":794.38,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":575,"name":"Гусеница танковая","t":1795180250413,"sale":755,"ref":909.99,"profit":63.99,"roi":8.48,"bo":3,"so":21,"buy":750,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1446,"name":"Мясник","t":1795180861532,"sale":1850.4,"ref":2183.98,"profit":115.18,"roi":6.22,"bo":10,"so":30,"buy":1772.07,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1054,"name":"Шаблон: Шахматы","t":1795184449562,"sale":15926.67,"ref":18999.99,"profit":1173.32,"roi":7.37,"bo":1,"so":5,"buy":12000,"act":5,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":418,"name":"Ураган","t":1795184451894,"sale":2400.6,"ref":2717.69,"profit":45.32,"roi":1.89,"bo":20,"so":34,"buy":2400,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":11,"name":"Мертвец","t":1795184453345,"sale":1100,"ref":1251.39,"profit":26.25,"roi":2.39,"bo":9,"so":23,"buy":1025.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

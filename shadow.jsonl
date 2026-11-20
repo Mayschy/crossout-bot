@@ -1936,3 +1936,4 @@
 {"id":1443,"name":"Гравированные гильзы x1000","t":1795182654253,"sale":410,"ref":469.94,"profit":12.95,"roi":3.16,"bo":43,"so":88,"buy":305,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1795183283785,"sale":201.89,"ref":241.11,"profit":15.11,"roi":7.48,"bo":5,"so":24,"buy":200,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":506,"name":"Максвелл","t":1795183283785,"sale":82.22,"ref":105.05,"profit":12.33,"roi":14.99,"bo":4,"so":12,"buy":82,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":132,"name":"Короткая желтая лампа","t":1795184448205,"sale":54.45,"ref":73.59,"profit":11.78,"roi":21.64,"bo":2,"so":5,"buy":42.46,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
