@@ -2050,3 +2050,4 @@
 {"id":1209,"name":"Чертово колесо","t":1795290645799,"sale":28.29,"ref":43.3,"profit":10.68,"roi":37.75,"bo":1,"so":7,"buy":27.84,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1795291274365,"sale":180,"ref":218.25,"profit":16.43,"roi":9.13,"bo":12,"so":49,"buy":175,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":577,"name":"Гусеница бронированная","t":1795291846404,"sale":342.01,"ref":399.96,"profit":17.95,"roi":5.25,"bo":8,"so":28,"buy":342,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":65,"name":"Сверчок","t":1795293066260,"sale":332,"ref":389.9,"profit":18.91,"roi":5.7,"bo":4,"so":84,"buy":312.3,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
