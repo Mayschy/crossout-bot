@@ -1247,3 +1247,5 @@
 {"id":321,"name":"Мельник","t":1795233686695,"sale":420.02,"ref":499,"profit":29.08,"roi":6.92,"bo":11,"so":31,"buy":420.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":24,"name":"Инферно","t":1795237852069,"sale":818.88,"ref":1042.96,"profit":119.78,"roi":14.63,"bo":0,"so":14,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":332,"name":"Тирс I","t":1795243248681,"sale":1899,"ref":2252.6,"profit":128.34,"roi":6.76,"bo":4,"so":6,"buy":1859.01,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":34,"name":"КБШ Воин","t":1795244485870,"sale":1681.34,"ref":2094.2,"profit":203.44,"roi":12.1,"bo":8,"so":11,"buy":1681.04,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":534,"name":"Мучитель","t":1795244487469,"sale":335,"ref":410.14,"profit":34.13,"roi":10.19,"bo":6,"so":6,"buy":311,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
