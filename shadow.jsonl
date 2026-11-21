@@ -2029,3 +2029,5 @@
 {"id":117,"name":"КА-2 Маховик","t":1795278666206,"sale":185.98,"ref":217.98,"profit":10.2,"roi":5.49,"bo":6,"so":23,"buy":185,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":646,"name":"Атом","t":1795279849684,"sale":202,"ref":238.95,"profit":13.06,"roi":6.46,"bo":19,"so":37,"buy":200.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1467,"name":"АП64 Джоуль (тюн.) (заготовка)","t":1795279849684,"sale":200,"ref":234.99,"profit":11.49,"roi":5.75,"bo":4,"so":31,"buy":196,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":610,"name":"Увабаки (пов.)","t":1795281046531,"sale":191.07,"ref":230.69,"profit":16.55,"roi":8.66,"bo":23,"so":32,"buy":191.04,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":453,"name":"Мириада","t":1795281046531,"sale":455.01,"ref":518.08,"profit":11.26,"roi":2.48,"bo":13,"so":40,"buy":455,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
