@@ -2019,3 +2019,4 @@
 {"id":576,"name":"Гусеница малая","t":1795267246962,"sale":170,"ref":205.48,"profit":14.93,"roi":8.78,"bo":11,"so":33,"buy":167,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":44,"name":"Агрессор","t":1795267866709,"sale":360,"ref":421.9,"profit":19.71,"roi":5.47,"bo":12,"so":7,"buy":331,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":823,"name":"Куро","t":1795269676053,"sale":59.9,"ref":79.26,"profit":11.43,"roi":19.09,"bo":1,"so":15,"buy":15.01,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":634,"name":"Колесо багги","t":1795270850368,"sale":58.5,"ref":78.8,"profit":12.42,"roi":21.23,"bo":4,"so":25,"buy":56,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
