@@ -2001,3 +2001,5 @@
 {"id":610,"name":"Увабаки (пов.)","t":1795251684139,"sale":179.33,"ref":224.44,"profit":22.67,"roi":12.64,"bo":14,"so":14,"buy":177.12,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1795254033768,"sale":140.62,"ref":174,"profit":15.98,"roi":11.36,"bo":18,"so":19,"buy":138.38,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":287,"name":"АГС-55 Импульс","t":1795254647528,"sale":153.28,"ref":183.99,"profit":12.31,"roi":8.03,"bo":7,"so":34,"buy":153.25,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":313,"name":"Буря","t":1795255280257,"sale":127.09,"ref":159.64,"profit":16.59,"roi":13.05,"bo":24,"so":22,"buy":127.07,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":218,"name":"Выхлопная труба грузовика","t":1795255280257,"sale":171.77,"ref":208,"profit":15.43,"roi":8.98,"bo":16,"so":13,"buy":171.75,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
