@@ -1280,3 +1280,4 @@
 {"id":582,"name":"Файер «Синяк»","t":1795284648236,"sale":305.96,"ref":383.06,"profit":38.79,"roi":12.68,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":384,"name":"Дзюбокко","t":1795286445979,"sale":1095.87,"ref":1299.98,"profit":74.11,"roi":6.76,"bo":14,"so":14,"buy":1095.67,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":438,"name":"РН-М Дино","t":1795286447375,"sale":1111,"ref":1302.99,"profit":61.69,"roi":5.55,"bo":10,"so":17,"buy":1110,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":11,"name":"Мертвец","t":1795288855177,"sale":1111.12,"ref":1299.73,"profit":58.64,"roi":5.28,"bo":15,"so":20,"buy":1100,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
