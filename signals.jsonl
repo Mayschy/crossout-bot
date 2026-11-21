@@ -1290,3 +1290,4 @@
 {"id":52,"name":"Грифон","t":1795296671189,"sale":1700,"ref":1943.99,"profit":49.59,"roi":2.92,"bo":9,"so":9,"buy":1653,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1060,"name":"Шаблон: Опасность!","t":1795296672688,"sale":193.8,"ref":245.6,"profit":27.24,"roi":14.06,"bo":0,"so":4,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":322,"name":"ПУ14 Арбитр","t":1795300854031,"sale":1900,"ref":2175.99,"profit":58.39,"roi":3.07,"bo":12,"so":30,"buy":1800.04,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":28,"name":"Гиппогриф","t":1795303864638,"sale":2250.05,"ref":2529.97,"profit":26.92,"roi":1.2,"bo":4,"so":6,"buy":2050.07,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
