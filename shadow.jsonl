@@ -2057,3 +2057,4 @@
 {"id":117,"name":"КА-2 Маховик","t":1795296051628,"sale":175.67,"ref":215,"profit":17.83,"roi":10.15,"bo":6,"so":41,"buy":175.31,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":568,"name":"Верификатор","t":1795300264819,"sale":108.93,"ref":137.18,"profit":14.53,"roi":13.34,"bo":7,"so":7,"buy":107.84,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":555,"name":"Бум","t":1795300853136,"sale":83.13,"ref":105.64,"profit":11.95,"roi":14.37,"bo":8,"so":30,"buy":81,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":498,"name":"Импеллер","t":1795303253085,"sale":864.29,"ref":972,"profit":10.51,"roi":1.22,"bo":12,"so":18,"buy":864.28,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
