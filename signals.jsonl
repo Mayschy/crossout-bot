@@ -1257,3 +1257,5 @@
 {"id":439,"name":"Драйвер","t":1795257068810,"sale":905.55,"ref":1108.57,"profit":92.16,"roi":10.18,"bo":4,"so":27,"buy":900.06,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":27,"name":"Машинист","t":1795258878823,"sale":2700,"ref":3071.97,"profit":64.77,"roi":2.4,"bo":4,"so":6,"buy":2474.43,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":180,"name":"Беркут","t":1795258880296,"sale":1500,"ref":1695.97,"profit":26.37,"roi":1.76,"bo":6,"so":22,"buy":1450,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1464,"name":"Икар I","t":1795261248569,"sale":420,"ref":510.48,"profit":39.43,"roi":9.39,"bo":23,"so":37,"buy":416.66,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":664,"name":"Код «‎Оранжевый»","t":1795261250033,"sale":190.33,"ref":242.81,"profit":28.2,"roi":14.82,"bo":2,"so":2,"buy":168.89,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
