@@ -2012,3 +2012,4 @@
 {"id":29,"name":"Торреро","t":1795258878165,"sale":1602.11,"ref":1800,"profit":17.89,"roi":1.12,"bo":4,"so":15,"buy":1602.1,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":59,"name":"Мигалка скорой","t":1795258878165,"sale":170.51,"ref":208,"profit":16.69,"roi":9.79,"bo":5,"so":3,"buy":167,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":360,"name":"Крушитель","t":1795260669697,"sale":19500,"ref":21687.97,"profit":19.17,"roi":0.1,"bo":8,"so":12,"buy":18136.14,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":289,"name":"Дробитель","t":1795261848770,"sale":310.01,"ref":360,"profit":13.99,"roi":4.51,"bo":11,"so":10,"buy":310,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
