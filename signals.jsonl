@@ -1287,3 +1287,5 @@
 {"id":497,"name":"Колибри","t":1795293066932,"sale":318.87,"ref":409.98,"profit":50.11,"roi":15.72,"bo":22,"so":14,"buy":317.77,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":575,"name":"Гусеница танковая","t":1795293068322,"sale":721,"ref":838,"profit":33.2,"roi":4.6,"bo":10,"so":29,"buy":720.25,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":382,"name":"Варун","t":1795294244533,"sale":454.06,"ref":585.89,"profit":73.24,"roi":16.13,"bo":11,"so":10,"buy":454.05,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":52,"name":"Грифон","t":1795296671189,"sale":1700,"ref":1943.99,"profit":49.59,"roi":2.92,"bo":9,"so":9,"buy":1653,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1060,"name":"Шаблон: Опасность!","t":1795296672688,"sale":193.8,"ref":245.6,"profit":27.24,"roi":14.06,"bo":0,"so":4,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
