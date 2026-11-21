@@ -1243,3 +1243,4 @@
 {"id":24,"name":"Инферно","t":1795223447698,"sale":903,"ref":1042.96,"profit":35.66,"roi":3.95,"bo":4,"so":15,"buy":900,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":582,"name":"Файер «Синяк»","t":1795226485323,"sale":306.93,"ref":383,"profit":37.77,"roi":12.31,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":610,"name":"Увабаки (пов.)","t":1795227054839,"sale":183.64,"ref":258.7,"profit":49.19,"roi":26.79,"bo":12,"so":12,"buy":175,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3778,"name":"Морриган (заготовка)","t":1795228274750,"sale":3700.06,"ref":4850,"profit":664.94,"roi":17.97,"bo":8,"so":11,"buy":3700,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
