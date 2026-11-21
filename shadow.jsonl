@@ -2046,3 +2046,5 @@
 {"id":184,"name":"Исполин","t":1795289468306,"sale":146.11,"ref":179.88,"profit":15.78,"roi":10.8,"bo":11,"so":17,"buy":146.09,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":11,"name":"Мертвец","t":1795289468306,"sale":1111.1,"ref":1250.73,"profit":14.56,"roi":1.31,"bo":15,"so":21,"buy":1100,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1795290046063,"sale":178.1,"ref":216.99,"profit":17.19,"roi":9.65,"bo":5,"so":24,"buy":175.14,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":94,"name":"Зов свободы","t":1795290645799,"sale":188.45,"ref":230,"profit":18.55,"roi":9.84,"bo":1,"so":3,"buy":160,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1209,"name":"Чертово колесо","t":1795290645799,"sale":28.29,"ref":43.3,"profit":10.68,"roi":37.75,"bo":1,"so":7,"buy":27.84,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
