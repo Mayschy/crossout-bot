@@ -1270,3 +1270,4 @@
 {"id":418,"name":"Ураган","t":1795275650196,"sale":2400.01,"ref":2720,"profit":47.99,"roi":2,"bo":17,"so":12,"buy":2400,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":283,"name":"Горыныч","t":1795278667012,"sale":1307,"ref":1499,"profit":42.1,"roi":3.22,"bo":9,"so":9,"buy":1306.02,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":452,"name":"Заряжающий","t":1795278668652,"sale":170,"ref":220,"profit":28,"roi":16.47,"bo":1,"so":3,"buy":168.38,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3743,"name":"Паломник","t":1795279249967,"sale":800,"ref":940.99,"profit":46.89,"roi":5.86,"bo":26,"so":26,"buy":767.04,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
