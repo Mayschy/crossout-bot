@@ -1979,3 +1979,5 @@
 {"id":600,"name":"Ступор","t":1795219281952,"sale":180,"ref":219.96,"profit":17.96,"roi":9.98,"bo":3,"so":3,"buy":166,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":440,"name":"Фламинго","t":1795222243238,"sale":99.01,"ref":123.97,"profit":12.56,"roi":12.69,"bo":8,"so":74,"buy":99,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":556,"name":"Фатум","t":1795222243238,"sale":366.66,"ref":419.98,"profit":11.32,"roi":3.09,"bo":11,"so":46,"buy":360.18,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":487,"name":"Газген","t":1795223446790,"sale":289.28,"ref":337.65,"profit":14.61,"roi":5.05,"bo":22,"so":18,"buy":289.27,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":457,"name":"Снабжение","t":1795223446790,"sale":75.03,"ref":95.23,"profit":10.68,"roi":14.23,"bo":9,"so":14,"buy":75.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

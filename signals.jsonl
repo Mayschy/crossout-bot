@@ -1240,3 +1240,4 @@
 {"id":3778,"name":"Морриган (заготовка)","t":1795215691087,"sale":3701.02,"ref":4999.98,"profit":798.96,"roi":21.59,"bo":11,"so":12,"buy":3701.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":223,"name":"Надувной Мамонт","t":1795215692477,"sale":950.57,"ref":1198.84,"profit":128.39,"roi":13.51,"bo":13,"so":7,"buy":652,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":645,"name":"Низкий просвет","t":1795219283238,"sale":335.9,"ref":489.94,"profit":105.05,"roi":31.27,"bo":14,"so":8,"buy":332,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":24,"name":"Инферно","t":1795223447698,"sale":903,"ref":1042.96,"profit":35.66,"roi":3.95,"bo":4,"so":15,"buy":900,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
