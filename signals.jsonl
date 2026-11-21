@@ -1255,3 +1255,5 @@
 {"id":247,"name":"КП-17 Цунами","t":1795253465695,"sale":2128.01,"ref":2550,"profit":166.99,"roi":7.85,"bo":8,"so":8,"buy":2128,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":280,"name":"Яогуай","t":1795255281359,"sale":332.13,"ref":405,"profit":32.37,"roi":9.75,"bo":3,"so":7,"buy":332.11,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":439,"name":"Драйвер","t":1795257068810,"sale":905.55,"ref":1108.57,"profit":92.16,"roi":10.18,"bo":4,"so":27,"buy":900.06,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":27,"name":"Машинист","t":1795258878823,"sale":2700,"ref":3071.97,"profit":64.77,"roi":2.4,"bo":4,"so":6,"buy":2474.43,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":180,"name":"Беркут","t":1795258880296,"sale":1500,"ref":1695.97,"profit":26.37,"roi":1.76,"bo":6,"so":22,"buy":1450,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
