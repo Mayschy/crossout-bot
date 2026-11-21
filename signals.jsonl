@@ -1275,3 +1275,4 @@
 {"id":534,"name":"Мучитель","t":1795281646636,"sale":332.1,"ref":406.31,"profit":33.58,"roi":10.11,"bo":8,"so":32,"buy":332.09,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":437,"name":"Тэнгу","t":1795282269428,"sale":720,"ref":834.99,"profit":31.49,"roi":4.37,"bo":30,"so":26,"buy":708.03,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":494,"name":"НВ-2 Клён","t":1795282850625,"sale":493.24,"ref":578.97,"profit":27.83,"roi":5.64,"bo":1,"so":17,"buy":473.74,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":625,"name":"Затворник (пов.)","t":1795283446289,"sale":189.36,"ref":243.94,"profit":30.19,"roi":15.94,"bo":4,"so":48,"buy":188,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
