@@ -2000,3 +2000,4 @@
 {"id":855,"name":"Призрак пламени","t":1795249869172,"sale":48.07,"ref":70.46,"profit":15.34,"roi":31.92,"bo":1,"so":3,"buy":5.45,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1795251684139,"sale":179.33,"ref":224.44,"profit":22.67,"roi":12.64,"bo":14,"so":14,"buy":177.12,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1795254033768,"sale":140.62,"ref":174,"profit":15.98,"roi":11.36,"bo":18,"so":19,"buy":138.38,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":287,"name":"АГС-55 Импульс","t":1795254647528,"sale":153.28,"ref":183.99,"profit":12.31,"roi":8.03,"bo":7,"so":34,"buy":153.25,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
