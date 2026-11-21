@@ -2014,3 +2014,5 @@
 {"id":360,"name":"Крушитель","t":1795260669697,"sale":19500,"ref":21687.97,"profit":19.17,"roi":0.1,"bo":8,"so":12,"buy":18136.14,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":289,"name":"Дробитель","t":1795261848770,"sale":310.01,"ref":360,"profit":13.99,"roi":4.51,"bo":11,"so":10,"buy":310,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1051,"name":"Материал: Карбон","t":1795264850764,"sale":218.43,"ref":269.19,"profit":23.84,"roi":10.91,"bo":8,"so":3,"buy":127,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":515,"name":"Вак1дАТ3","t":1795266646678,"sale":44.48,"ref":65.55,"profit":14.52,"roi":32.63,"bo":1,"so":4,"buy":5.31,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":610,"name":"Увабаки (пов.)","t":1795266646678,"sale":222.23,"ref":258.7,"profit":10.6,"roi":4.77,"bo":24,"so":13,"buy":193.14,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
