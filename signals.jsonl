@@ -1268,3 +1268,5 @@
 {"id":355,"name":"Нидхёгг","t":1795270850981,"sale":1816.01,"ref":2099,"profit":73.09,"roi":4.02,"bo":16,"so":7,"buy":1816,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":360,"name":"Крушитель","t":1795275068420,"sale":19485,"ref":21687,"profit":33.3,"roi":0.17,"bo":7,"so":13,"buy":18124.1,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":418,"name":"Ураган","t":1795275650196,"sale":2400.01,"ref":2720,"profit":47.99,"roi":2,"bo":17,"so":12,"buy":2400,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":283,"name":"Горыныч","t":1795278667012,"sale":1307,"ref":1499,"profit":42.1,"roi":3.22,"bo":9,"so":9,"buy":1306.02,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":452,"name":"Заряжающий","t":1795278668652,"sale":170,"ref":220,"profit":28,"roi":16.47,"bo":1,"so":3,"buy":168.38,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
