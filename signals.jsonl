@@ -1266,3 +1266,4 @@
 {"id":422,"name":"Рой","t":1795268455212,"sale":3589.01,"ref":4175,"profit":168.49,"roi":4.69,"bo":1,"so":26,"buy":3500,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3742,"name":"Ковчег","t":1795269676843,"sale":2500,"ref":2828.96,"profit":46.06,"roi":1.84,"bo":3,"so":12,"buy":2390.11,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":355,"name":"Нидхёгг","t":1795270850981,"sale":1816.01,"ref":2099,"profit":73.09,"roi":4.02,"bo":16,"so":7,"buy":1816,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":360,"name":"Крушитель","t":1795275068420,"sale":19485,"ref":21687,"profit":33.3,"roi":0.17,"bo":7,"so":13,"buy":18124.1,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
