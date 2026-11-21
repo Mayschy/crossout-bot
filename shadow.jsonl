@@ -2027,3 +2027,5 @@
 {"id":619,"name":"Омни","t":1795276245309,"sale":196,"ref":230.01,"profit":11.01,"roi":5.62,"bo":5,"so":27,"buy":185,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":252,"name":"ЗИС-34 Толстяк","t":1795278666206,"sale":200.07,"ref":233.79,"profit":10.34,"roi":5.17,"bo":24,"so":65,"buy":191.21,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1795278666206,"sale":185.98,"ref":217.98,"profit":10.2,"roi":5.49,"bo":6,"so":23,"buy":185,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1795279849684,"sale":202,"ref":238.95,"profit":13.06,"roi":6.46,"bo":19,"so":37,"buy":200.01,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1467,"name":"АП64 Джоуль (тюн.) (заготовка)","t":1795279849684,"sale":200,"ref":234.99,"profit":11.49,"roi":5.75,"bo":4,"so":31,"buy":196,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
