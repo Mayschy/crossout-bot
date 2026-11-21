@@ -2042,3 +2042,6 @@
 {"id":625,"name":"Затворник (пов.)","t":1795287047079,"sale":189.36,"ref":230,"profit":17.64,"roi":9.32,"bo":4,"so":38,"buy":188,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":494,"name":"НВ-2 Клён","t":1795287677444,"sale":500,"ref":578.98,"profit":21.08,"roi":4.22,"bo":4,"so":15,"buy":481,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1210,"name":"Огненное кольцо","t":1795287677444,"sale":27.94,"ref":43.94,"profit":11.61,"roi":41.54,"bo":4,"so":13,"buy":4.9,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3769,"name":"Смог-15","t":1795289468306,"sale":172.42,"ref":211.53,"profit":17.96,"roi":10.41,"bo":17,"so":11,"buy":172.06,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":184,"name":"Исполин","t":1795289468306,"sale":146.11,"ref":179.88,"profit":15.78,"roi":10.8,"bo":11,"so":17,"buy":146.09,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":11,"name":"Мертвец","t":1795289468306,"sale":1111.1,"ref":1250.73,"profit":14.56,"roi":1.31,"bo":15,"so":21,"buy":1100,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
