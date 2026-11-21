@@ -2039,3 +2039,4 @@
 {"id":606,"name":"Титан (пов.)","t":1795284079309,"sale":169.83,"ref":200,"profit":10.17,"roi":5.99,"bo":5,"so":35,"buy":169.81,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":149,"name":"Вакидатэ","t":1795284647505,"sale":183.65,"ref":224.4,"profit":18.31,"roi":9.97,"bo":4,"so":17,"buy":164.7,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":619,"name":"Омни","t":1795284647505,"sale":211.48,"ref":249.45,"profit":13.03,"roi":6.16,"bo":15,"so":40,"buy":208,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1795287047079,"sale":189.36,"ref":230,"profit":17.64,"roi":9.32,"bo":4,"so":38,"buy":188,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
