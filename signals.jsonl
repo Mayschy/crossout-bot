@@ -1273,3 +1273,4 @@
 {"id":3743,"name":"Паломник","t":1795279249967,"sale":800,"ref":940.99,"profit":46.89,"roi":5.86,"bo":26,"so":26,"buy":767.04,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":420,"name":"Гнездо","t":1795281047399,"sale":343,"ref":408.99,"profit":25.09,"roi":7.32,"bo":35,"so":5,"buy":312.16,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":534,"name":"Мучитель","t":1795281646636,"sale":332.1,"ref":406.31,"profit":33.58,"roi":10.11,"bo":8,"so":32,"buy":332.09,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":437,"name":"Тэнгу","t":1795282269428,"sale":720,"ref":834.99,"profit":31.49,"roi":4.37,"bo":30,"so":26,"buy":708.03,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
