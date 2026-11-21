@@ -1261,3 +1261,4 @@
 {"id":664,"name":"Код «‎Оранжевый»","t":1795261250033,"sale":190.33,"ref":242.81,"profit":28.2,"roi":14.82,"bo":2,"so":2,"buy":168.89,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":518,"name":"Оберег","t":1795264851584,"sale":470.7,"ref":574,"profit":45.9,"roi":9.75,"bo":0,"so":19,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":610,"name":"Увабаки (пов.)","t":1795264853104,"sale":193.16,"ref":258.7,"profit":39.67,"roi":20.54,"bo":27,"so":11,"buy":193.13,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":120,"name":"Озноб","t":1795265449406,"sale":315.83,"ref":385,"profit":30.67,"roi":9.71,"bo":0,"so":30,"buy":0,"act":8,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
