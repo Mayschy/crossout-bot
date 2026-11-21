@@ -2016,3 +2016,4 @@
 {"id":1051,"name":"Материал: Карбон","t":1795264850764,"sale":218.43,"ref":269.19,"profit":23.84,"roi":10.91,"bo":8,"so":3,"buy":127,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":515,"name":"Вак1дАТ3","t":1795266646678,"sale":44.48,"ref":65.55,"profit":14.52,"roi":32.63,"bo":1,"so":4,"buy":5.31,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1795266646678,"sale":222.23,"ref":258.7,"profit":10.6,"roi":4.77,"bo":24,"so":13,"buy":193.14,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":576,"name":"Гусеница малая","t":1795267246962,"sale":170,"ref":205.48,"profit":14.93,"roi":8.78,"bo":11,"so":33,"buy":167,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
