@@ -1988,3 +1988,5 @@
 {"id":610,"name":"Увабаки (пов.)","t":1795234244218,"sale":180.49,"ref":224.44,"profit":21.51,"roi":11.92,"bo":12,"so":14,"buy":175,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1288,"name":"Обжигающий хитин","t":1795234244218,"sale":92.93,"ref":114.99,"profit":10.56,"roi":11.36,"bo":3,"so":7,"buy":11.02,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":568,"name":"Верификатор","t":1795236647106,"sale":115.1,"ref":148.1,"profit":18.19,"roi":15.8,"bo":7,"so":4,"buy":115,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":511,"name":"РС Нерпа","t":1795237851174,"sale":300,"ref":350,"profit":15,"roi":5,"bo":18,"so":31,"buy":282.3,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":335,"name":"Триггер","t":1795237851174,"sale":200,"ref":233.9,"profit":10.51,"roi":5.26,"bo":18,"so":7,"buy":190.2,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

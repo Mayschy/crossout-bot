@@ -1245,3 +1245,4 @@
 {"id":610,"name":"Увабаки (пов.)","t":1795227054839,"sale":183.64,"ref":258.7,"profit":49.19,"roi":26.79,"bo":12,"so":12,"buy":175,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3778,"name":"Морриган (заготовка)","t":1795228274750,"sale":3700.06,"ref":4850,"profit":664.94,"roi":17.97,"bo":8,"so":11,"buy":3700,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":321,"name":"Мельник","t":1795233686695,"sale":420.02,"ref":499,"profit":29.08,"roi":6.92,"bo":11,"so":31,"buy":420.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":24,"name":"Инферно","t":1795237852069,"sale":818.88,"ref":1042.96,"profit":119.78,"roi":14.63,"bo":0,"so":14,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
