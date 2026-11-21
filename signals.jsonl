@@ -1276,3 +1276,4 @@
 {"id":437,"name":"Тэнгу","t":1795282269428,"sale":720,"ref":834.99,"profit":31.49,"roi":4.37,"bo":30,"so":26,"buy":708.03,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":494,"name":"НВ-2 Клён","t":1795282850625,"sale":493.24,"ref":578.97,"profit":27.83,"roi":5.64,"bo":1,"so":17,"buy":473.74,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":625,"name":"Затворник (пов.)","t":1795283446289,"sale":189.36,"ref":243.94,"profit":30.19,"roi":15.94,"bo":4,"so":48,"buy":188,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":346,"name":"Разрыватель","t":1795284081313,"sale":188.01,"ref":237,"profit":25.29,"roi":13.45,"bo":27,"so":6,"buy":183.93,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
