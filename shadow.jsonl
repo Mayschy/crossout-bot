@@ -2021,3 +2021,4 @@
 {"id":823,"name":"Куро","t":1795269676053,"sale":59.9,"ref":79.26,"profit":11.43,"roi":19.09,"bo":1,"so":15,"buy":15.01,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":634,"name":"Колесо багги","t":1795270850368,"sale":58.5,"ref":78.8,"profit":12.42,"roi":21.23,"bo":4,"so":25,"buy":56,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":453,"name":"Мириада","t":1795271467463,"sale":456,"ref":519,"profit":11.1,"roi":2.43,"bo":14,"so":27,"buy":455,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":41,"name":"Аякс","t":1795273846487,"sale":1710,"ref":1920,"profit":18,"roi":1.05,"bo":12,"so":15,"buy":1701.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
