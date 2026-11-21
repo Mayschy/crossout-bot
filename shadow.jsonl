@@ -2052,3 +2052,5 @@
 {"id":577,"name":"Гусеница бронированная","t":1795291846404,"sale":342.01,"ref":399.96,"profit":17.95,"roi":5.25,"bo":8,"so":28,"buy":342,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":65,"name":"Сверчок","t":1795293066260,"sale":332,"ref":389.9,"profit":18.91,"roi":5.7,"bo":4,"so":84,"buy":312.3,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1795293648499,"sale":150,"ref":184.39,"profit":15.95,"roi":10.63,"bo":33,"so":19,"buy":147.07,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3763,"name":"МВП Флагман","t":1795294877635,"sale":437.3,"ref":497.78,"profit":10.7,"roi":2.45,"bo":47,"so":72,"buy":437.26,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":226,"name":"Надувной Аполлон","t":1795294877635,"sale":300,"ref":345,"profit":10.5,"roi":3.5,"bo":1,"so":5,"buy":263.3,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
