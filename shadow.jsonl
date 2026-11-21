@@ -1994,3 +1994,4 @@
 {"id":600,"name":"Ступор","t":1795242667418,"sale":178.83,"ref":221.18,"profit":20.23,"roi":11.31,"bo":4,"so":2,"buy":178.33,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":358,"name":"Булава","t":1795242667418,"sale":95.15,"ref":120,"profit":12.85,"roi":13.5,"bo":10,"so":18,"buy":94.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":533,"name":"Исследователь","t":1795242667418,"sale":175,"ref":206.1,"profit":10.49,"roi":5.99,"bo":2,"so":2,"buy":158.01,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":54,"name":"Гарпия","t":1795245045388,"sale":295.01,"ref":348,"profit":18.19,"roi":6.17,"bo":16,"so":19,"buy":292.06,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
