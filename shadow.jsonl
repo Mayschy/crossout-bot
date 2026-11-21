@@ -1985,3 +1985,5 @@
 {"id":80,"name":"Индикатор","t":1795228267641,"sale":42.78,"ref":58.87,"profit":10.2,"roi":23.85,"bo":3,"so":2,"buy":40.62,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":634,"name":"Колесо багги","t":1795233046872,"sale":63,"ref":85.64,"profit":14.08,"roi":22.34,"bo":12,"so":3,"buy":60.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1090,"name":"Холодное пламя","t":1795233685913,"sale":67.82,"ref":88.6,"profit":11.92,"roi":17.58,"bo":0,"so":4,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":610,"name":"Увабаки (пов.)","t":1795234244218,"sale":180.49,"ref":224.44,"profit":21.51,"roi":11.92,"bo":12,"so":14,"buy":175,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1288,"name":"Обжигающий хитин","t":1795234244218,"sale":92.93,"ref":114.99,"profit":10.56,"roi":11.36,"bo":3,"so":7,"buy":11.02,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
