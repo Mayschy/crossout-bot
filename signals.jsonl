@@ -1283,3 +1283,4 @@
 {"id":11,"name":"Мертвец","t":1795288855177,"sale":1111.12,"ref":1299.73,"profit":58.64,"roi":5.28,"bo":15,"so":20,"buy":1100,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":360,"name":"Крушитель","t":1795290046793,"sale":19485,"ref":21686.96,"profit":33.26,"roi":0.17,"bo":9,"so":13,"buy":18126.14,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":365,"name":"П-39 Черт","t":1795290646582,"sale":2100,"ref":2394.99,"profit":55.49,"roi":2.64,"bo":8,"so":22,"buy":2055.55,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":295,"name":"АП64 Джоуль","t":1795291847098,"sale":866,"ref":1060,"profit":88,"roi":10.16,"bo":5,"so":21,"buy":864.52,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
