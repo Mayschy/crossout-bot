@@ -2003,3 +2003,4 @@
 {"id":287,"name":"АГС-55 Импульс","t":1795254647528,"sale":153.28,"ref":183.99,"profit":12.31,"roi":8.03,"bo":7,"so":34,"buy":153.25,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":313,"name":"Буря","t":1795255280257,"sale":127.09,"ref":159.64,"profit":16.59,"roi":13.05,"bo":24,"so":22,"buy":127.07,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":218,"name":"Выхлопная труба грузовика","t":1795255280257,"sale":171.77,"ref":208,"profit":15.43,"roi":8.98,"bo":16,"so":13,"buy":171.75,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":531,"name":"Осветитель","t":1795256445773,"sale":76.82,"ref":96.48,"profit":10.01,"roi":13.03,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
