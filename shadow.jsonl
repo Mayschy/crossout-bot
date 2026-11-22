@@ -2132,3 +2132,4 @@
 {"id":453,"name":"Мириада","t":1795373447940,"sale":425.01,"ref":489.88,"profit":15.88,"roi":3.74,"bo":20,"so":30,"buy":425,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":600,"name":"Ступор","t":1795374643268,"sale":200,"ref":238.14,"profit":14.33,"roi":7.16,"bo":3,"so":2,"buy":183.26,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":157,"name":"Большая декоративная решетка 1","t":1795374643268,"sale":102.51,"ref":125.42,"profit":10.37,"roi":10.11,"bo":3,"so":5,"buy":90.89,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1210,"name":"Огненное кольцо","t":1795375247797,"sale":28,"ref":43.17,"profit":10.85,"roi":38.76,"bo":4,"so":13,"buy":4.9,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
