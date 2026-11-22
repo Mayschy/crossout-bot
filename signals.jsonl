@@ -1319,3 +1319,4 @@
 {"id":282,"name":"ЛТЦ-3 Стая","t":1795352484930,"sale":7350.99,"ref":8350.99,"profit":164.9,"roi":2.24,"bo":6,"so":6,"buy":7000.33,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":349,"name":"Тритон","t":1795353047994,"sale":1921,"ref":2280,"profit":131,"roi":6.82,"bo":7,"so":13,"buy":1920,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":340,"name":"Афина","t":1795353049489,"sale":2355.55,"ref":2755.98,"profit":124.83,"roi":5.3,"bo":5,"so":8,"buy":2333.4,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":420,"name":"Гнездо","t":1795353645989,"sale":355.01,"ref":449.75,"profit":49.77,"roi":14.02,"bo":29,"so":8,"buy":340,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

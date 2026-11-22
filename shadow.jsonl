@@ -2107,3 +2107,7 @@
 {"id":568,"name":"Верификатор","t":1795348880835,"sale":111.08,"ref":139.93,"profit":14.86,"roi":13.38,"bo":21,"so":3,"buy":111.03,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":537,"name":"Скидутка","t":1795349443173,"sale":344,"ref":397,"profit":13.3,"roi":3.87,"bo":13,"so":26,"buy":343.33,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":518,"name":"Оберег","t":1795352483901,"sale":500,"ref":576.97,"profit":19.27,"roi":3.85,"bo":13,"so":20,"buy":465.7,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":182,"name":"Крылья надежды","t":1795353645425,"sale":120.68,"ref":159.2,"profit":22.6,"roi":18.73,"bo":0,"so":7,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":536,"name":"Мясорубка","t":1795353645425,"sale":300.31,"ref":350.93,"profit":15.53,"roi":5.17,"bo":10,"so":39,"buy":300,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":269,"name":"Медиана","t":1795353645425,"sale":103.05,"ref":130.66,"profit":14.54,"roi":14.11,"bo":14,"so":4,"buy":101.45,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1211,"name":"Прыжковая площадка","t":1795353645425,"sale":29.02,"ref":44.43,"profit":10.97,"roi":37.79,"bo":41,"so":29,"buy":28,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
