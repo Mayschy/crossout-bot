@@ -2071,3 +2071,4 @@
 {"id":606,"name":"Титан (пов.)","t":1795314664668,"sale":160.18,"ref":197.96,"profit":17.98,"roi":11.23,"bo":0,"so":47,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1795317646005,"sale":194.94,"ref":243.98,"profit":24.64,"roi":12.64,"bo":10,"so":32,"buy":192.25,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":667,"name":"Зеница","t":1795317646005,"sale":84.84,"ref":105.8,"profit":10.38,"roi":12.23,"bo":5,"so":3,"buy":75.02,"act":4,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":704,"name":"Хранилище чертежей","t":1795320080522,"sale":150,"ref":182,"profit":13.8,"roi":9.2,"bo":35,"so":14,"buy":149.07,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
