@@ -2075,3 +2075,4 @@
 {"id":1212,"name":"Плазменное кольцо","t":1795323682526,"sale":46.34,"ref":71.96,"profit":18.42,"roi":39.76,"bo":1,"so":6,"buy":46.02,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":284,"name":"Панацея","t":1795323682526,"sale":340,"ref":388.99,"profit":10.09,"roi":2.97,"bo":25,"so":21,"buy":331,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":578,"name":"Гусеница укрепленная","t":1795326647954,"sale":140,"ref":169.81,"profit":12.83,"roi":9.16,"bo":4,"so":40,"buy":137.43,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":120,"name":"Озноб","t":1795329650355,"sale":340,"ref":396,"profit":16.4,"roi":4.82,"bo":18,"so":24,"buy":311.18,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
