@@ -2061,3 +2061,5 @@
 {"id":453,"name":"Мириада","t":1795305051245,"sale":444.01,"ref":508.97,"profit":14.06,"roi":3.17,"bo":6,"so":30,"buy":444,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795305681420,"sale":145.01,"ref":174.16,"profit":11.73,"roi":8.09,"bo":45,"so":314,"buy":145,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":457,"name":"Снабжение","t":1795306853440,"sale":79,"ref":99.59,"profit":10.63,"roi":13.46,"bo":13,"so":13,"buy":78.94,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":465,"name":"Счетчик урона","t":1795308645620,"sale":245.33,"ref":297.14,"profit":22.1,"roi":9.01,"bo":6,"so":9,"buy":245,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":379,"name":"Гравастар","t":1795308645620,"sale":404,"ref":465,"profit":14.5,"roi":3.59,"bo":24,"so":17,"buy":401,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
