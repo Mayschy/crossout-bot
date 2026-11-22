@@ -2103,3 +2103,5 @@
 {"id":536,"name":"Мясорубка","t":1795345843308,"sale":310,"ref":359.98,"profit":13.98,"roi":4.51,"bo":26,"so":40,"buy":301,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1210,"name":"Огненное кольцо","t":1795347065281,"sale":28,"ref":43.43,"profit":11.09,"roi":39.6,"bo":4,"so":14,"buy":4.9,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":606,"name":"Титан (пов.)","t":1795348246906,"sale":156.98,"ref":198,"profit":21.22,"roi":13.52,"bo":1,"so":41,"buy":156,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1051,"name":"Материал: Карбон","t":1795348880835,"sale":217.33,"ref":269.19,"profit":24.94,"roi":11.48,"bo":5,"so":4,"buy":126,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":568,"name":"Верификатор","t":1795348880835,"sale":111.08,"ref":139.93,"profit":14.86,"roi":13.38,"bo":21,"so":3,"buy":111.03,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
