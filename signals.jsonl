@@ -1323,3 +1323,4 @@
 {"id":1233,"name":"Шаблон: Блуждающий огонь","t":1795355442701,"sale":325.95,"ref":443.91,"profit":73.57,"roi":22.57,"bo":0,"so":4,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":261,"name":"Б12 Голубка","t":1795355444129,"sale":1111.12,"ref":1300,"profit":58.88,"roi":5.3,"bo":14,"so":11,"buy":1093.14,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":56,"name":"Омнибокс","t":1795355445822,"sale":353.5,"ref":454.68,"profit":55.71,"roi":15.76,"bo":14,"so":12,"buy":353.04,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":342,"name":"РА-1 Вереск","t":1795358450685,"sale":1900.99,"ref":2244.99,"profit":119.5,"roi":6.29,"bo":4,"so":18,"buy":1805.01,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
