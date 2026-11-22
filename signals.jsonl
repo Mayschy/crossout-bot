@@ -1330,3 +1330,4 @@
 {"id":420,"name":"Гнездо","t":1795362651151,"sale":360,"ref":438.5,"profit":34.65,"roi":9.63,"bo":28,"so":23,"buy":357.08,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":418,"name":"Ураган","t":1795366246479,"sale":2320,"ref":2693.99,"profit":104.59,"roi":4.51,"bo":12,"so":19,"buy":2301,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":268,"name":"Жнец","t":1795369243625,"sale":1822,"ref":2098,"profit":66.2,"roi":3.63,"bo":12,"so":39,"buy":1821.19,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":518,"name":"Оберег","t":1795371645090,"sale":479.4,"ref":576.88,"profit":39.79,"roi":8.3,"bo":7,"so":14,"buy":465,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
