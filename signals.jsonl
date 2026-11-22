@@ -1299,3 +1299,4 @@
 {"id":445,"name":"Геррида I","t":1795324247855,"sale":810,"ref":929.93,"profit":26.94,"roi":3.33,"bo":28,"so":24,"buy":777,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":295,"name":"АП64 Джоуль","t":1795327282299,"sale":900,"ref":1074.93,"profit":67.44,"roi":7.49,"bo":18,"so":17,"buy":887,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":504,"name":"Аннигилятор","t":1795327850470,"sale":1015.14,"ref":1248.99,"profit":108.95,"roi":10.73,"bo":7,"so":17,"buy":1014.02,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":283,"name":"Горыныч","t":1795328448302,"sale":1306,"ref":1497.97,"profit":42.17,"roi":3.23,"bo":2,"so":15,"buy":1302.03,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
