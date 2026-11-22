@@ -2116,3 +2116,4 @@
 {"id":382,"name":"Варун","t":1795355442007,"sale":485,"ref":552.55,"profit":12.29,"roi":2.54,"bo":10,"so":13,"buy":454.95,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":677,"name":"Панцирь","t":1795355442007,"sale":286.29,"ref":330.07,"profit":10.77,"roi":3.76,"bo":0,"so":3,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1795356078557,"sale":88.41,"ref":113.15,"profit":13.43,"roi":15.18,"bo":8,"so":6,"buy":88.02,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":518,"name":"Оберег","t":1795357247284,"sale":465.7,"ref":530,"profit":11.3,"roi":2.43,"bo":10,"so":22,"buy":465,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
