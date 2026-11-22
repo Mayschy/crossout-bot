@@ -1316,3 +1316,4 @@
 {"id":240,"name":"Забойщик","t":1795347646122,"sale":1412.99,"ref":1699.97,"profit":116.98,"roi":8.28,"bo":2,"so":16,"buy":1412.82,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":485,"name":"Бутстрэп","t":1795350673087,"sale":570,"ref":670,"profit":33,"roi":5.79,"bo":5,"so":19,"buy":562.22,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":23,"name":"Маниту","t":1795350674660,"sale":504,"ref":594,"profit":30.6,"roi":6.07,"bo":10,"so":9,"buy":472.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":282,"name":"ЛТЦ-3 Стая","t":1795352484930,"sale":7350.99,"ref":8350.99,"profit":164.9,"roi":2.24,"bo":6,"so":6,"buy":7000.33,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
