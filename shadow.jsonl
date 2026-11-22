@@ -2141,3 +2141,4 @@
 {"id":637,"name":"Заточка (пов.)","t":1795380053611,"sale":48.3,"ref":64.93,"profit":10.14,"roi":20.99,"bo":9,"so":5,"buy":47.81,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":667,"name":"Зеница","t":1795381843868,"sale":76.93,"ref":97.94,"profit":11.22,"roi":14.58,"bo":1,"so":55,"buy":75.02,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":455,"name":"Боеукладка","t":1795384880977,"sale":127.01,"ref":159.98,"profit":16.97,"roi":13.36,"bo":3,"so":13,"buy":127,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1212,"name":"Плазменное кольцо","t":1795386046167,"sale":46.36,"ref":71.92,"profit":18.37,"roi":39.62,"bo":1,"so":8,"buy":46.02,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
