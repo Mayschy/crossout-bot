@@ -2094,3 +2094,4 @@
 {"id":574,"name":"Тако","t":1795341679245,"sale":200,"ref":247.99,"profit":23.19,"roi":11.6,"bo":1,"so":4,"buy":23.39,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":290,"name":"Тошнитель","t":1795342248808,"sale":1680,"ref":1883.88,"profit":15.49,"roi":0.92,"bo":18,"so":33,"buy":1616.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795342248808,"sale":125,"ref":150,"profit":10,"roi":8,"bo":2,"so":272,"buy":121.63,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":58,"name":"МВП Торпеда","t":1795342851692,"sale":876.6,"ref":999.7,"profit":23.13,"roi":2.64,"bo":17,"so":33,"buy":850,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
