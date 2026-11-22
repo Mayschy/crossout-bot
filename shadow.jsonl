@@ -2098,3 +2098,6 @@
 {"id":228,"name":"Надувной Голиаф левый","t":1795343466279,"sale":273.55,"ref":320,"profit":14.45,"roi":5.28,"bo":3,"so":4,"buy":252.88,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1161,"name":"Большая рампа 6×30×15","t":1795344653340,"sale":33.07,"ref":53.21,"profit":14.82,"roi":44.81,"bo":5,"so":6,"buy":32.63,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":350,"name":"Гоблин","t":1795345283538,"sale":76.23,"ref":96.63,"profit":10.74,"roi":14.09,"bo":14,"so":7,"buy":76.06,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":26,"name":"Цербер","t":1795345843308,"sale":700,"ref":799.99,"profit":19.99,"roi":2.86,"bo":6,"so":10,"buy":681,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":420,"name":"Гнездо","t":1795345843308,"sale":369,"ref":425.99,"profit":14.39,"roi":3.9,"bo":32,"so":23,"buy":338.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":536,"name":"Мясорубка","t":1795345843308,"sale":310,"ref":359.98,"profit":13.98,"roi":4.51,"bo":26,"so":40,"buy":301,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

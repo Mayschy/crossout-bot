@@ -1312,3 +1312,4 @@
 {"id":1054,"name":"Шаблон: Шахматы","t":1795342249581,"sale":15926.67,"ref":18998.99,"profit":1172.42,"roi":7.36,"bo":0,"so":3,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":93,"name":"Онгаку","t":1795342251273,"sale":200,"ref":254.99,"profit":29.49,"roi":14.75,"bo":0,"so":5,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":11,"name":"Мертвец","t":1795345284461,"sale":1111.12,"ref":1297,"profit":56.18,"roi":5.06,"bo":15,"so":16,"buy":1063.99,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3758,"name":"Царица","t":1795345844013,"sale":5310,"ref":5950,"profit":45,"roi":0.85,"bo":6,"so":20,"buy":5201,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
