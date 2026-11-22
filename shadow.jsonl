@@ -2124,3 +2124,4 @@
 {"id":635,"name":"Колесо багги (пов.)","t":1795362046740,"sale":171.01,"ref":210,"profit":17.99,"roi":10.52,"bo":6,"so":37,"buy":171,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":243,"name":"ШМ-5 Лавина","t":1795362650388,"sale":2667,"ref":2985.96,"profit":20.36,"roi":0.76,"bo":13,"so":25,"buy":2666.66,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":289,"name":"Дробитель","t":1795363851006,"sale":295.1,"ref":340,"profit":10.9,"roi":3.69,"bo":4,"so":20,"buy":295.01,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":635,"name":"Колесо багги (пов.)","t":1795365647143,"sale":182.54,"ref":218.3,"profit":13.93,"roi":7.63,"bo":0,"so":34,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
