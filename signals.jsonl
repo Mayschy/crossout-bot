@@ -1303,3 +1303,4 @@
 {"id":453,"name":"Мириада","t":1795329066036,"sale":417.04,"ref":507.96,"profit":40.12,"roi":9.62,"bo":5,"so":33,"buy":417.03,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1448,"name":"Инквизитор","t":1795334478817,"sale":1520.9,"ref":1783.27,"profit":84.04,"roi":5.53,"bo":11,"so":15,"buy":1520.84,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":283,"name":"Горыныч","t":1795334480246,"sale":1302.03,"ref":1497.96,"profit":46.13,"roi":3.54,"bo":1,"so":16,"buy":1291.04,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":439,"name":"Драйвер","t":1795335048583,"sale":896.26,"ref":1101.45,"profit":95.05,"roi":10.6,"bo":6,"so":32,"buy":896.25,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
