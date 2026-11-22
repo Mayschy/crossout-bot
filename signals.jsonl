@@ -1295,3 +1295,4 @@
 {"id":360,"name":"Крушитель","t":1795305052131,"sale":19485,"ref":21686.95,"profit":33.26,"roi":0.17,"bo":8,"so":12,"buy":18126.14,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":45,"name":"Мунин","t":1795311066941,"sale":1800,"ref":2119.89,"profit":107.9,"roi":5.99,"bo":4,"so":5,"buy":1771.06,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":439,"name":"Драйвер","t":1795316483834,"sale":906,"ref":1107.56,"profit":90.8,"roi":10.02,"bo":5,"so":25,"buy":905,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3745,"name":"Вендетта","t":1795319445097,"sale":2520,"ref":2930.98,"profit":117.88,"roi":4.68,"bo":4,"so":11,"buy":2403.13,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
