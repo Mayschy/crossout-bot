@@ -2082,3 +2082,4 @@
 {"id":561,"name":"Гармонизатор","t":1795333844796,"sale":552,"ref":631.93,"profit":16.74,"roi":3.03,"bo":19,"so":69,"buy":551.08,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":348,"name":"Гремлин","t":1795335047865,"sale":90.8,"ref":119.85,"profit":17.06,"roi":18.79,"bo":17,"so":22,"buy":90.79,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":270,"name":"АП50 Шторм","t":1795335047865,"sale":75.48,"ref":99.4,"profit":13.98,"roi":18.52,"bo":35,"so":9,"buy":75.15,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":324,"name":"Буран","t":1795335650615,"sale":1330.07,"ref":1496,"profit":16.33,"roi":1.23,"bo":3,"so":35,"buy":1313.4,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
