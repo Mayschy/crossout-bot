@@ -16980,3 +16980,11 @@
 {"id":26,"t":1795345843308,"h":20,"at":1795347000000,"s":799.99,"b":667,"so":9,"bo":5,"ask":19.99,"instant":-99.7,"taken":true,"shadow":true,"roi":2.86,"capital":700,"late":false}
 {"id":420,"t":1795345843308,"h":20,"at":1795347000000,"s":369,"b":338.01,"so":21,"bo":31,"ask":-36.9,"instant":-64.79,"taken":false,"shadow":true,"roi":-10,"capital":369,"late":false}
 {"id":536,"t":1795345843308,"h":20,"at":1795347000000,"s":365,"b":301,"so":32,"bo":26,"ask":18.5,"instant":-39.1,"taken":true,"shadow":true,"roi":5.97,"capital":310,"late":false}
+{"id":575,"t":1795339866502,"h":120,"at":1795347000000,"s":883.93,"b":720,"so":26,"bo":5,"ask":17.76,"instant":-129.78,"taken":true,"shadow":false,"roi":2.28,"capital":777.78,"late":false}
+{"id":11,"t":1795345284461,"h":30,"at":1795347000000,"s":1296.99,"b":1063.99,"so":16,"bo":15,"ask":56.17,"instant":-153.53,"taken":true,"shadow":false,"roi":5.06,"capital":1111.12,"late":false}
+{"id":3758,"t":1795345844013,"h":30,"at":1795347600000,"s":5949.99,"b":5201,"so":19,"bo":6,"ask":44.99,"instant":-629.1,"taken":true,"shadow":false,"roi":0.85,"capital":5310,"late":false}
+{"id":228,"t":1795343466279,"h":60,"at":1795347000000,"s":273.55,"b":252.88,"so":4,"bo":2,"ask":-27.35,"instant":-45.96,"taken":false,"shadow":true,"roi":-10,"capital":273.55,"late":false}
+{"id":350,"t":1795345283538,"h":30,"at":1795347000000,"s":95.56,"b":76.06,"so":6,"bo":14,"ask":9.77,"instant":-7.78,"taken":true,"shadow":true,"roi":12.82,"capital":76.23,"late":false}
+{"id":26,"t":1795345843308,"h":30,"at":1795347600000,"s":799.99,"b":667,"so":9,"bo":5,"ask":19.99,"instant":-99.7,"taken":true,"shadow":true,"roi":2.86,"capital":700,"late":false}
+{"id":420,"t":1795345843308,"h":30,"at":1795347600000,"s":369,"b":339,"so":21,"bo":31,"ask":-36.9,"instant":-63.9,"taken":false,"shadow":true,"roi":-10,"capital":369,"late":false}
+{"id":536,"t":1795345843308,"h":30,"at":1795347600000,"s":372.87,"b":301,"so":28,"bo":26,"ask":25.58,"instant":-39.1,"taken":true,"shadow":true,"roi":8.25,"capital":310,"late":false}
