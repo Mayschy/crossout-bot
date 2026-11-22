@@ -2059,3 +2059,4 @@
 {"id":555,"name":"Бум","t":1795300853136,"sale":83.13,"ref":105.64,"profit":11.95,"roi":14.37,"bo":8,"so":30,"buy":81,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":498,"name":"Импеллер","t":1795303253085,"sale":864.29,"ref":972,"profit":10.51,"roi":1.22,"bo":12,"so":18,"buy":864.28,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":453,"name":"Мириада","t":1795305051245,"sale":444.01,"ref":508.97,"profit":14.06,"roi":3.17,"bo":6,"so":30,"buy":444,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795305681420,"sale":145.01,"ref":174.16,"profit":11.73,"roi":8.09,"bo":45,"so":314,"buy":145,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
