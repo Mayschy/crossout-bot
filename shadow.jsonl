@@ -2105,3 +2105,4 @@
 {"id":606,"name":"Титан (пов.)","t":1795348246906,"sale":156.98,"ref":198,"profit":21.22,"roi":13.52,"bo":1,"so":41,"buy":156,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1051,"name":"Материал: Карбон","t":1795348880835,"sale":217.33,"ref":269.19,"profit":24.94,"roi":11.48,"bo":5,"so":4,"buy":126,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":568,"name":"Верификатор","t":1795348880835,"sale":111.08,"ref":139.93,"profit":14.86,"roi":13.38,"bo":21,"so":3,"buy":111.03,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":537,"name":"Скидутка","t":1795349443173,"sale":344,"ref":397,"profit":13.3,"roi":3.87,"bo":13,"so":26,"buy":343.33,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
