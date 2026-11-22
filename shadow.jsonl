@@ -2102,3 +2102,4 @@
 {"id":420,"name":"Гнездо","t":1795345843308,"sale":369,"ref":425.99,"profit":14.39,"roi":3.9,"bo":32,"so":23,"buy":338.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":536,"name":"Мясорубка","t":1795345843308,"sale":310,"ref":359.98,"profit":13.98,"roi":4.51,"bo":26,"so":40,"buy":301,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1210,"name":"Огненное кольцо","t":1795347065281,"sale":28,"ref":43.43,"profit":11.09,"roi":39.6,"bo":4,"so":14,"buy":4.9,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":606,"name":"Титан (пов.)","t":1795348246906,"sale":156.98,"ref":198,"profit":21.22,"roi":13.52,"bo":1,"so":41,"buy":156,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
