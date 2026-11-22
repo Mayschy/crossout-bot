@@ -1293,3 +1293,4 @@
 {"id":28,"name":"Гиппогриф","t":1795303864638,"sale":2250.05,"ref":2529.97,"profit":26.92,"roi":1.2,"bo":4,"so":6,"buy":2050.07,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":308,"name":"Аспект","t":1795304444017,"sale":2001.16,"ref":2360,"profit":122.84,"roi":6.14,"bo":8,"so":21,"buy":2001.1,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":360,"name":"Крушитель","t":1795305052131,"sale":19485,"ref":21686.95,"profit":33.26,"roi":0.17,"bo":8,"so":12,"buy":18126.14,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":45,"name":"Мунин","t":1795311066941,"sale":1800,"ref":2119.89,"profit":107.9,"roi":5.99,"bo":4,"so":5,"buy":1771.06,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
