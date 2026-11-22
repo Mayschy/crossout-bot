@@ -1306,3 +1306,5 @@
 {"id":439,"name":"Драйвер","t":1795335048583,"sale":896.26,"ref":1101.45,"profit":95.05,"roi":10.6,"bo":6,"so":32,"buy":896.25,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":20,"name":"Вой","t":1795338648814,"sale":1250,"ref":1458.5,"profit":62.65,"roi":5.01,"bo":8,"so":8,"buy":1188,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":575,"name":"Гусеница танковая","t":1795339866502,"sale":777.78,"ref":897.72,"profit":30.17,"roi":3.88,"bo":12,"so":27,"buy":725,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1450,"name":"Тяга","t":1795341042775,"sale":2460,"ref":2799,"profit":59.1,"roi":2.4,"bo":3,"so":22,"buy":2250.9,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":445,"name":"Геррида I","t":1795341044419,"sale":800,"ref":925,"profit":32.5,"roi":4.06,"bo":28,"so":22,"buy":777,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
