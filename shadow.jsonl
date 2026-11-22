@@ -2111,3 +2111,4 @@
 {"id":536,"name":"Мясорубка","t":1795353645425,"sale":300.31,"ref":350.93,"profit":15.53,"roi":5.17,"bo":10,"so":39,"buy":300,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1795353645425,"sale":103.05,"ref":130.66,"profit":14.54,"roi":14.11,"bo":14,"so":4,"buy":101.45,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1211,"name":"Прыжковая площадка","t":1795353645425,"sale":29.02,"ref":44.43,"profit":10.97,"roi":37.79,"bo":41,"so":29,"buy":28,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":296,"name":"АП62 Терм","t":1795354269427,"sale":166.31,"ref":199.75,"profit":13.47,"roi":8.1,"bo":20,"so":109,"buy":166.23,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
