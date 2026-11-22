@@ -2084,3 +2084,6 @@
 {"id":270,"name":"АП50 Шторм","t":1795335047865,"sale":75.48,"ref":99.4,"profit":13.98,"roi":18.52,"bo":35,"so":9,"buy":75.15,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":324,"name":"Буран","t":1795335650615,"sale":1330.07,"ref":1496,"profit":16.33,"roi":1.23,"bo":3,"so":35,"buy":1313.4,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":387,"name":"Хвостовой плавник","t":1795336845484,"sale":158,"ref":190,"profit":13,"roi":8.23,"bo":10,"so":8,"buy":156.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":280,"name":"Яогуай","t":1795337448459,"sale":330,"ref":389.98,"profit":20.98,"roi":6.36,"bo":0,"so":8,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":274,"name":"Испепелитель","t":1795337448459,"sale":251,"ref":295.48,"profit":14.93,"roi":5.95,"bo":7,"so":48,"buy":246.11,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":128,"name":"Доке левое","t":1795337448459,"sale":30.37,"ref":48,"profit":12.83,"roi":42.25,"bo":2,"so":3,"buy":30.01,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
