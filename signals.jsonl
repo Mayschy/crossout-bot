@@ -1332,3 +1332,4 @@
 {"id":268,"name":"Жнец","t":1795369243625,"sale":1822,"ref":2098,"profit":66.2,"roi":3.63,"bo":12,"so":39,"buy":1821.19,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":518,"name":"Оберег","t":1795371645090,"sale":479.4,"ref":576.88,"profit":39.79,"roi":8.3,"bo":7,"so":14,"buy":465,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":687,"name":"Комплект снаряжения У3","t":1795372266545,"sale":224.59,"ref":277.99,"profit":25.6,"roi":11.4,"bo":3,"so":27,"buy":216.26,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":28,"name":"Гиппогриф","t":1795380054529,"sale":2228.05,"ref":2631.25,"profit":140.07,"roi":6.29,"bo":6,"so":3,"buy":1946.03,"act":6,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
