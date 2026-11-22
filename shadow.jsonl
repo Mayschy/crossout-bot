@@ -2078,3 +2078,5 @@
 {"id":120,"name":"Озноб","t":1795329650355,"sale":340,"ref":396,"profit":16.4,"roi":4.82,"bo":18,"so":24,"buy":311.18,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":346,"name":"Разрыватель","t":1795332662628,"sale":191.04,"ref":236.49,"profit":21.8,"roi":11.41,"bo":24,"so":6,"buy":191.03,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1795332662628,"sale":100.78,"ref":128,"profit":14.42,"roi":14.31,"bo":11,"so":4,"buy":100.15,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3781,"name":"Оковы","t":1795333844796,"sale":273.65,"ref":325.04,"profit":18.89,"roi":6.9,"bo":0,"so":5,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":561,"name":"Гармонизатор","t":1795333844796,"sale":552,"ref":631.93,"profit":16.74,"roi":3.03,"bo":19,"so":69,"buy":551.08,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
