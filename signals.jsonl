@@ -1320,3 +1320,6 @@
 {"id":349,"name":"Тритон","t":1795353047994,"sale":1921,"ref":2280,"profit":131,"roi":6.82,"bo":7,"so":13,"buy":1920,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":340,"name":"Афина","t":1795353049489,"sale":2355.55,"ref":2755.98,"profit":124.83,"roi":5.3,"bo":5,"so":8,"buy":2333.4,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":420,"name":"Гнездо","t":1795353645989,"sale":355.01,"ref":449.75,"profit":49.77,"roi":14.02,"bo":29,"so":8,"buy":340,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1233,"name":"Шаблон: Блуждающий огонь","t":1795355442701,"sale":325.95,"ref":443.91,"profit":73.57,"roi":22.57,"bo":0,"so":4,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":261,"name":"Б12 Голубка","t":1795355444129,"sale":1111.12,"ref":1300,"profit":58.88,"roi":5.3,"bo":14,"so":11,"buy":1093.14,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":56,"name":"Омнибокс","t":1795355445822,"sale":353.5,"ref":454.68,"profit":55.71,"roi":15.76,"bo":14,"so":12,"buy":353.04,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

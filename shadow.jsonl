@@ -2112,3 +2112,6 @@
 {"id":269,"name":"Медиана","t":1795353645425,"sale":103.05,"ref":130.66,"profit":14.54,"roi":14.11,"bo":14,"so":4,"buy":101.45,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1211,"name":"Прыжковая площадка","t":1795353645425,"sale":29.02,"ref":44.43,"profit":10.97,"roi":37.79,"bo":41,"so":29,"buy":28,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":296,"name":"АП62 Терм","t":1795354269427,"sale":166.31,"ref":199.75,"profit":13.47,"roi":8.1,"bo":20,"so":109,"buy":166.23,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1795355442007,"sale":181.34,"ref":215.87,"profit":12.94,"roi":7.14,"bo":15,"so":31,"buy":181.22,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":382,"name":"Варун","t":1795355442007,"sale":485,"ref":552.55,"profit":12.29,"roi":2.54,"bo":10,"so":13,"buy":454.95,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":677,"name":"Панцирь","t":1795355442007,"sale":286.29,"ref":330.07,"profit":10.77,"roi":3.76,"bo":0,"so":3,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
