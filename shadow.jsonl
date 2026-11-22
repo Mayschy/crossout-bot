@@ -2069,3 +2069,5 @@
 {"id":710,"name":"Расширение склада","t":1795311066323,"sale":248.26,"ref":296.15,"profit":18.27,"roi":7.36,"bo":62,"so":44,"buy":245.02,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1795312881654,"sale":175,"ref":219.97,"profit":22.97,"roi":13.13,"bo":10,"so":33,"buy":174.15,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":606,"name":"Титан (пов.)","t":1795314664668,"sale":160.18,"ref":197.96,"profit":17.98,"roi":11.23,"bo":0,"so":47,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1795317646005,"sale":194.94,"ref":243.98,"profit":24.64,"roi":12.64,"bo":10,"so":32,"buy":192.25,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":667,"name":"Зеница","t":1795317646005,"sale":84.84,"ref":105.8,"profit":10.38,"roi":12.23,"bo":5,"so":3,"buy":75.02,"act":4,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
