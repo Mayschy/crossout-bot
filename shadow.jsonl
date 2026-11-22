@@ -2067,3 +2067,4 @@
 {"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795309845311,"sale":144.18,"ref":174.16,"profit":12.56,"roi":8.71,"bo":45,"so":304,"buy":144.17,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":427,"name":"ПТУР-Л Флейта","t":1795309845311,"sale":370.02,"ref":423.71,"profit":11.32,"roi":3.06,"bo":16,"so":5,"buy":360,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":710,"name":"Расширение склада","t":1795311066323,"sale":248.26,"ref":296.15,"profit":18.27,"roi":7.36,"bo":62,"so":44,"buy":245.02,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":635,"name":"Колесо багги (пов.)","t":1795312881654,"sale":175,"ref":219.97,"profit":22.97,"roi":13.13,"bo":10,"so":33,"buy":174.15,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
