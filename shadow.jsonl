@@ -2130,3 +2130,5 @@
 {"id":306,"name":"Гунгнир","t":1795368046822,"sale":300,"ref":344.88,"profit":10.39,"roi":3.46,"bo":8,"so":27,"buy":290,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":335,"name":"Триггер","t":1795369846462,"sale":192.85,"ref":238.45,"profit":21.75,"roi":11.28,"bo":12,"so":1,"buy":192.11,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":453,"name":"Мириада","t":1795373447940,"sale":425.01,"ref":489.88,"profit":15.88,"roi":3.74,"bo":20,"so":30,"buy":425,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":600,"name":"Ступор","t":1795374643268,"sale":200,"ref":238.14,"profit":14.33,"roi":7.16,"bo":3,"so":2,"buy":183.26,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":157,"name":"Большая декоративная решетка 1","t":1795374643268,"sale":102.51,"ref":125.42,"profit":10.37,"roi":10.11,"bo":3,"so":5,"buy":90.89,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
