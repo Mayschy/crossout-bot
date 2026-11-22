@@ -1314,3 +1314,5 @@
 {"id":11,"name":"Мертвец","t":1795345284461,"sale":1111.12,"ref":1297,"profit":56.18,"roi":5.06,"bo":15,"so":16,"buy":1063.99,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3758,"name":"Царица","t":1795345844013,"sale":5310,"ref":5950,"profit":45,"roi":0.85,"bo":6,"so":20,"buy":5201,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":240,"name":"Забойщик","t":1795347646122,"sale":1412.99,"ref":1699.97,"profit":116.98,"roi":8.28,"bo":2,"so":16,"buy":1412.82,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":485,"name":"Бутстрэп","t":1795350673087,"sale":570,"ref":670,"profit":33,"roi":5.79,"bo":5,"so":19,"buy":562.22,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":23,"name":"Маниту","t":1795350674660,"sale":504,"ref":594,"profit":30.6,"roi":6.07,"bo":10,"so":9,"buy":472.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
