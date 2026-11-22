@@ -2122,3 +2122,4 @@
 {"id":314,"name":"Аротрон","t":1795359050408,"sale":330,"ref":380,"profit":12,"roi":3.64,"bo":9,"so":13,"buy":313.06,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":677,"name":"Панцирь","t":1795360243860,"sale":284.85,"ref":330.07,"profit":12.21,"roi":4.29,"bo":0,"so":3,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":635,"name":"Колесо багги (пов.)","t":1795362046740,"sale":171.01,"ref":210,"profit":17.99,"roi":10.52,"bo":6,"so":37,"buy":171,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":243,"name":"ШМ-5 Лавина","t":1795362650388,"sale":2667,"ref":2985.96,"profit":20.36,"roi":0.76,"bo":13,"so":25,"buy":2666.66,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
