@@ -2128,3 +2128,4 @@
 {"id":676,"name":"Зубодробитель","t":1795367451577,"sale":65.75,"ref":85,"profit":10.75,"roi":16.35,"bo":18,"so":4,"buy":65.22,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1795368046822,"sale":104.4,"ref":135.02,"profit":17.12,"roi":16.4,"bo":8,"so":2,"buy":100.72,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":306,"name":"Гунгнир","t":1795368046822,"sale":300,"ref":344.88,"profit":10.39,"roi":3.46,"bo":8,"so":27,"buy":290,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":335,"name":"Триггер","t":1795369846462,"sale":192.85,"ref":238.45,"profit":21.75,"roi":11.28,"bo":12,"so":1,"buy":192.11,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
