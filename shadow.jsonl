@@ -2183,3 +2183,4 @@
 {"id":252,"name":"ЗИС-34 Толстяк","t":1795455070291,"sale":200.51,"ref":243.79,"profit":18.9,"roi":9.43,"bo":17,"so":24,"buy":200.5,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1461,"name":"«Эхо далёких миров»","t":1795455070291,"sale":55.67,"ref":74.51,"profit":11.39,"roi":20.46,"bo":3,"so":3,"buy":50.67,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":578,"name":"Гусеница укрепленная","t":1795455070291,"sale":135,"ref":162,"profit":10.8,"roi":8,"bo":20,"so":66,"buy":132.93,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":120,"name":"Озноб","t":1795455661883,"sale":317.04,"ref":369.95,"profit":15.91,"roi":5.02,"bo":9,"so":20,"buy":317.03,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
