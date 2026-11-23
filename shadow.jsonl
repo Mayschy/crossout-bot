@@ -2174,3 +2174,4 @@
 {"id":575,"name":"Гусеница танковая","t":1795444267010,"sale":760,"ref":859,"profit":13.1,"roi":1.72,"bo":9,"so":21,"buy":715.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":144,"name":"Длинная желтая лампа","t":1795444848774,"sale":52.36,"ref":71.23,"profit":11.75,"roi":22.44,"bo":1,"so":10,"buy":7.94,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":484,"name":"ЭУ-1 Заряд","t":1795447248056,"sale":94.5,"ref":118.94,"profit":12.55,"roi":13.28,"bo":31,"so":10,"buy":94.27,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":579,"name":"Голиаф","t":1795447867244,"sale":1900,"ref":2122.84,"profit":10.56,"roi":0.56,"bo":10,"so":33,"buy":1750.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
