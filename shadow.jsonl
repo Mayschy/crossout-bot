@@ -2143,3 +2143,5 @@
 {"id":455,"name":"Боеукладка","t":1795384880977,"sale":127.01,"ref":159.98,"profit":16.97,"roi":13.36,"bo":3,"so":13,"buy":127,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1212,"name":"Плазменное кольцо","t":1795386046167,"sale":46.36,"ref":71.92,"profit":18.37,"roi":39.62,"bo":1,"so":8,"buy":46.02,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":578,"name":"Гусеница укрепленная","t":1795392643522,"sale":136.34,"ref":167.7,"profit":14.59,"roi":10.7,"bo":0,"so":52,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":114,"name":"Стартер","t":1795395045355,"sale":1021,"ref":1150,"profit":14,"roi":1.37,"bo":11,"so":29,"buy":1003,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":171,"name":"Крянштейн","t":1795395045355,"sale":166.67,"ref":198,"profit":11.53,"roi":6.92,"bo":3,"so":37,"buy":155.63,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
