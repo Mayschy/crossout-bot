@@ -1359,3 +1359,4 @@
 {"id":575,"name":"Гусеница танковая","t":1795451466539,"sale":696.01,"ref":844.3,"profit":63.86,"roi":9.18,"bo":9,"so":19,"buy":696,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":579,"name":"Голиаф","t":1795451467879,"sale":1860,"ref":2122.83,"profit":50.55,"roi":2.72,"bo":5,"so":32,"buy":1687.68,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":679,"name":"Каракурт","t":1795453850265,"sale":2200,"ref":2478.98,"profit":31.08,"roi":1.41,"bo":3,"so":10,"buy":2070,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3781,"name":"Оковы","t":1795454450810,"sale":221.35,"ref":300,"profit":48.65,"roi":21.98,"bo":7,"so":3,"buy":48.43,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null}

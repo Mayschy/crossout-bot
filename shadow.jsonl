@@ -2179,3 +2179,4 @@
 {"id":406,"name":"Боевые отметки","t":1795449680983,"sale":42.66,"ref":60.65,"profit":11.93,"roi":27.95,"bo":2,"so":4,"buy":20.03,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":44,"name":"Агрессор","t":1795450245773,"sale":333.44,"ref":381.88,"profit":10.25,"roi":3.07,"bo":9,"so":24,"buy":317.44,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":49,"name":"Квант","t":1795453284198,"sale":309,"ref":360,"profit":15,"roi":4.85,"bo":18,"so":8,"buy":306,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":335,"name":"Триггер","t":1795454444281,"sale":200,"ref":244.65,"profit":20.19,"roi":10.09,"bo":19,"so":14,"buy":195.1,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
