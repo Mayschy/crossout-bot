@@ -2166,3 +2166,6 @@
 {"id":348,"name":"Гремлин","t":1795434650151,"sale":91.44,"ref":115,"profit":12.06,"roi":13.19,"bo":23,"so":49,"buy":90.16,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":382,"name":"Варун","t":1795437062358,"sale":480,"ref":552.55,"profit":17.29,"roi":3.6,"bo":6,"so":6,"buy":454.96,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":444,"name":"МН-Л 200","t":1795438243377,"sale":420,"ref":481.62,"profit":13.46,"roi":3.2,"bo":23,"so":29,"buy":401,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":7,"name":"Бастион","t":1795438887555,"sale":240,"ref":289.85,"profit":20.87,"roi":8.69,"bo":3,"so":17,"buy":230.01,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1795438887555,"sale":198,"ref":242.46,"profit":20.21,"roi":10.21,"bo":18,"so":39,"buy":196,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":572,"name":"Нейтрино","t":1795438887555,"sale":296.11,"ref":350,"profit":18.89,"roi":6.38,"bo":13,"so":8,"buy":296.07,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

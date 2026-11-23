@@ -1348,3 +1348,5 @@
 {"id":1,"name":"Кэнсэй","t":1795435277632,"sale":1120,"ref":1277.78,"profit":30,"roi":2.68,"bo":3,"so":11,"buy":1103.15,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":579,"name":"Голиаф","t":1795436445955,"sale":1751,"ref":2159.95,"profit":192.95,"roi":11.02,"bo":7,"so":30,"buy":1750.04,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":462,"name":"Шабаш","t":1795437063943,"sale":256.58,"ref":319.98,"profit":31.4,"roi":12.24,"bo":10,"so":24,"buy":256.04,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1462,"name":"Гоплит","t":1795438888639,"sale":1500,"ref":1754.53,"profit":79.08,"roi":5.27,"bo":24,"so":9,"buy":1425.36,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":280,"name":"Яогуай","t":1795438890295,"sale":310.65,"ref":388.99,"profit":39.44,"roi":12.7,"bo":4,"so":19,"buy":306.71,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
