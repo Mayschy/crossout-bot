@@ -2155,3 +2155,4 @@
 {"id":667,"name":"Зеница","t":1795402881900,"sale":74.97,"ref":95.75,"profit":11.2,"roi":14.95,"bo":0,"so":57,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":464,"name":"Коготь","t":1795410079390,"sale":88.58,"ref":114,"profit":14.02,"roi":15.83,"bo":18,"so":17,"buy":87.03,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1206,"name":"Стальной мяч","t":1795412449338,"sale":277.78,"ref":321.12,"profit":11.23,"roi":4.04,"bo":1,"so":2,"buy":175.43,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1795414250338,"sale":201,"ref":238,"profit":13.2,"roi":6.57,"bo":18,"so":19,"buy":200,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

@@ -1339,3 +1339,4 @@
 {"id":497,"name":"Колибри","t":1795401653158,"sale":343.26,"ref":454.99,"profit":66.23,"roi":19.29,"bo":27,"so":19,"buy":340.57,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":319,"name":"Капкан","t":1795408267036,"sale":777.01,"ref":898.74,"profit":31.86,"roi":4.1,"bo":5,"so":19,"buy":737,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":149,"name":"Вакидатэ","t":1795409443198,"sale":169.02,"ref":221,"profit":29.88,"roi":17.68,"bo":7,"so":19,"buy":169.01,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":120,"name":"Озноб","t":1795414251063,"sale":320,"ref":385,"profit":26.5,"roi":8.28,"bo":15,"so":23,"buy":316.2,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
