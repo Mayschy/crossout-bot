@@ -2190,3 +2190,5 @@
 {"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795459850771,"sale":160.04,"ref":190,"profit":10.96,"roi":6.85,"bo":62,"so":30,"buy":160.01,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":605,"name":"Титан","t":1795459850771,"sale":105,"ref":128.23,"profit":10.41,"roi":9.91,"bo":5,"so":13,"buy":102,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":462,"name":"Шабаш","t":1795460479074,"sale":256.05,"ref":310,"profit":22.95,"roi":8.96,"bo":10,"so":30,"buy":256.04,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1446,"name":"Мясник","t":1795461052826,"sale":1870.01,"ref":2098.91,"profit":19.01,"roi":1.02,"bo":1,"so":13,"buy":1713.99,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1380,"name":"Жар","t":1795461052826,"sale":53.26,"ref":70.32,"profit":10.03,"roi":18.83,"bo":1,"so":2,"buy":5.31,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
