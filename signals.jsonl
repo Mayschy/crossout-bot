@@ -1355,3 +1355,4 @@
 {"id":11,"name":"Мертвец","t":1795439451770,"sale":1100,"ref":1264.76,"profit":38.28,"roi":3.48,"bo":14,"so":22,"buy":1068.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":438,"name":"РН-М Дино","t":1795441844995,"sale":1135,"ref":1295.99,"profit":31.39,"roi":2.77,"bo":11,"so":31,"buy":1120,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":58,"name":"МВП Торпеда","t":1795443650592,"sale":836,"ref":990,"profit":55,"roi":6.58,"bo":9,"so":17,"buy":822.04,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":55,"name":"Эхо","t":1795450246289,"sale":440.85,"ref":571.72,"profit":73.7,"roi":16.72,"bo":4,"so":7,"buy":436.03,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}

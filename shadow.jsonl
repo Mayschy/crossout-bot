@@ -2177,3 +2177,4 @@
 {"id":579,"name":"Голиаф","t":1795447867244,"sale":1900,"ref":2122.84,"profit":10.56,"roi":0.56,"bo":10,"so":33,"buy":1750.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":550,"name":"Запаска большая","t":1795448449860,"sale":1.33,"ref":13.52,"profit":10.84,"roi":814.89,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":406,"name":"Боевые отметки","t":1795449680983,"sale":42.66,"ref":60.65,"profit":11.93,"roi":27.95,"bo":2,"so":4,"buy":20.03,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":44,"name":"Агрессор","t":1795450245773,"sale":333.44,"ref":381.88,"profit":10.25,"roi":3.07,"bo":9,"so":24,"buy":317.44,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
