@@ -1367,3 +1367,4 @@
 {"id":379,"name":"Гравастар","t":1795460479956,"sale":406,"ref":500.11,"profit":44.1,"roi":10.86,"bo":7,"so":8,"buy":405,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":277,"name":"Кайдзю","t":1795460481404,"sale":1216,"ref":1383,"profit":28.7,"roi":2.36,"bo":11,"so":11,"buy":1151.1,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":253,"name":"ЗИС-46 Мамонт","t":1795460482808,"sale":1550,"ref":1750,"profit":25,"roi":1.61,"bo":11,"so":14,"buy":1506,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":375,"name":"Аврора","t":1795461645354,"sale":154.88,"ref":206.64,"profit":31.1,"roi":20.08,"bo":2,"so":35,"buy":152.08,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
