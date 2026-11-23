@@ -2150,3 +2150,5 @@
 {"id":480,"name":"Тати","t":1795397465156,"sale":355.55,"ref":413.89,"profit":16.95,"roi":4.77,"bo":6,"so":14,"buy":351.02,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1795398043614,"sale":173.05,"ref":216.99,"profit":22.24,"roi":12.85,"bo":4,"so":49,"buy":173,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":93,"name":"Онгаку","t":1795400443744,"sale":211.8,"ref":254.89,"profit":17.6,"roi":8.31,"bo":1,"so":6,"buy":195.31,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":419,"name":"Пламя","t":1795402241978,"sale":315,"ref":369.99,"profit":17.99,"roi":5.71,"bo":22,"so":37,"buy":314.07,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":676,"name":"Зубодробитель","t":1795402241978,"sale":67.17,"ref":88.17,"profit":12.18,"roi":18.14,"bo":14,"so":9,"buy":66.87,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
