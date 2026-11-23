@@ -1363,3 +1363,4 @@
 {"id":243,"name":"ШМ-5 Лавина","t":1795455071365,"sale":2555,"ref":2977,"profit":124.3,"roi":4.86,"bo":9,"so":33,"buy":2535,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":497,"name":"Колибри","t":1795455072764,"sale":351.78,"ref":454.9,"profit":57.63,"roi":16.38,"bo":18,"so":26,"buy":340.57,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1054,"name":"Шаблон: Шахматы","t":1795456888477,"sale":14334.01,"ref":20500,"profit":4115.99,"roi":28.71,"bo":2,"so":4,"buy":12121.12,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":439,"name":"Драйвер","t":1795458051688,"sale":910,"ref":1040,"profit":26,"roi":2.86,"bo":7,"so":37,"buy":902,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
