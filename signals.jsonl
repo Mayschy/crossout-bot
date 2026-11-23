@@ -1364,3 +1364,6 @@
 {"id":497,"name":"Колибри","t":1795455072764,"sale":351.78,"ref":454.9,"profit":57.63,"roi":16.38,"bo":18,"so":26,"buy":340.57,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1054,"name":"Шаблон: Шахматы","t":1795456888477,"sale":14334.01,"ref":20500,"profit":4115.99,"roi":28.71,"bo":2,"so":4,"buy":12121.12,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":439,"name":"Драйвер","t":1795458051688,"sale":910,"ref":1040,"profit":26,"roi":2.86,"bo":7,"so":37,"buy":902,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":379,"name":"Гравастар","t":1795460479956,"sale":406,"ref":500.11,"profit":44.1,"roi":10.86,"bo":7,"so":8,"buy":405,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":277,"name":"Кайдзю","t":1795460481404,"sale":1216,"ref":1383,"profit":28.7,"roi":2.36,"bo":11,"so":11,"buy":1151.1,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":253,"name":"ЗИС-46 Мамонт","t":1795460482808,"sale":1550,"ref":1750,"profit":25,"roi":1.61,"bo":11,"so":14,"buy":1506,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
