@@ -2195,3 +2195,6 @@
 {"id":375,"name":"Аврора","t":1795462267036,"sale":154.88,"ref":186,"profit":12.52,"roi":8.08,"bo":2,"so":40,"buy":152.08,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1795464646314,"sale":200.21,"ref":244.45,"profit":19.79,"roi":9.89,"bo":27,"so":4,"buy":200.2,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":420,"name":"Гнездо","t":1795465864846,"sale":356.06,"ref":419.98,"profit":21.92,"roi":6.16,"bo":23,"so":29,"buy":356.03,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":128,"name":"Доке левое","t":1795467044615,"sale":28.15,"ref":48,"profit":15.05,"roi":53.46,"bo":16,"so":3,"buy":28.14,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":518,"name":"Оберег","t":1795467044615,"sale":471.01,"ref":535,"profit":10.49,"roi":2.23,"bo":7,"so":21,"buy":465,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":710,"name":"Расширение склада","t":1795467044615,"sale":260,"ref":300,"profit":10,"roi":3.85,"bo":39,"so":26,"buy":250.11,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
