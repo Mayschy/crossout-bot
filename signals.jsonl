@@ -1350,3 +1350,6 @@
 {"id":462,"name":"Шабаш","t":1795437063943,"sale":256.58,"ref":319.98,"profit":31.4,"roi":12.24,"bo":10,"so":24,"buy":256.04,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1462,"name":"Гоплит","t":1795438888639,"sale":1500,"ref":1754.53,"profit":79.08,"roi":5.27,"bo":24,"so":9,"buy":1425.36,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":280,"name":"Яогуай","t":1795438890295,"sale":310.65,"ref":388.99,"profit":39.44,"roi":12.7,"bo":4,"so":19,"buy":306.71,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1054,"name":"Шаблон: Шахматы","t":1795439448847,"sale":15926.67,"ref":18998.99,"profit":1172.42,"roi":7.36,"bo":2,"so":3,"buy":12121.12,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":444,"name":"МН-Л 200","t":1795439450251,"sale":378.99,"ref":483.42,"profit":56.09,"roi":14.8,"bo":18,"so":20,"buy":377.33,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":11,"name":"Мертвец","t":1795439451770,"sale":1100,"ref":1264.76,"profit":38.28,"roi":3.48,"bo":14,"so":22,"buy":1068.01,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
