@@ -1360,3 +1360,5 @@
 {"id":579,"name":"Голиаф","t":1795451467879,"sale":1860,"ref":2122.83,"profit":50.55,"roi":2.72,"bo":5,"so":32,"buy":1687.68,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":679,"name":"Каракурт","t":1795453850265,"sale":2200,"ref":2478.98,"profit":31.08,"roi":1.41,"bo":3,"so":10,"buy":2070,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3781,"name":"Оковы","t":1795454450810,"sale":221.35,"ref":300,"profit":48.65,"roi":21.98,"bo":7,"so":3,"buy":48.43,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
+{"id":243,"name":"ШМ-5 Лавина","t":1795455071365,"sale":2555,"ref":2977,"profit":124.3,"roi":4.86,"bo":9,"so":33,"buy":2535,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":497,"name":"Колибри","t":1795455072764,"sale":351.78,"ref":454.9,"profit":57.63,"roi":16.38,"bo":18,"so":26,"buy":340.57,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
