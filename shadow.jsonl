@@ -2152,3 +2152,4 @@
 {"id":93,"name":"Онгаку","t":1795400443744,"sale":211.8,"ref":254.89,"profit":17.6,"roi":8.31,"bo":1,"so":6,"buy":195.31,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":419,"name":"Пламя","t":1795402241978,"sale":315,"ref":369.99,"profit":17.99,"roi":5.71,"bo":22,"so":37,"buy":314.07,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":676,"name":"Зубодробитель","t":1795402241978,"sale":67.17,"ref":88.17,"profit":12.18,"roi":18.14,"bo":14,"so":9,"buy":66.87,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":667,"name":"Зеница","t":1795402881900,"sale":74.97,"ref":95.75,"profit":11.2,"roi":14.95,"bo":0,"so":57,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
