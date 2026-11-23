@@ -2162,3 +2162,4 @@
 {"id":41,"name":"Аякс","t":1795426267705,"sale":1677.61,"ref":1879.99,"profit":14.38,"roi":0.86,"bo":6,"so":16,"buy":1671.04,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795428647487,"sale":145,"ref":173.2,"profit":10.88,"roi":7.5,"bo":36,"so":88,"buy":144.72,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":313,"name":"Буря","t":1795432847391,"sale":132.7,"ref":163.99,"profit":14.89,"roi":11.22,"bo":8,"so":14,"buy":132.62,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":652,"name":"Жутка","t":1795433470247,"sale":66.13,"ref":88.68,"profit":13.68,"roi":20.69,"bo":27,"so":5,"buy":64.99,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
