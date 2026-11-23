@@ -1369,3 +1369,4 @@
 {"id":253,"name":"ЗИС-46 Мамонт","t":1795460482808,"sale":1550,"ref":1750,"profit":25,"roi":1.61,"bo":11,"so":14,"buy":1506,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":375,"name":"Аврора","t":1795461645354,"sale":154.88,"ref":206.64,"profit":31.1,"roi":20.08,"bo":2,"so":35,"buy":152.08,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":382,"name":"Варун","t":1795462267571,"sale":480,"ref":585.79,"profit":47.21,"roi":9.84,"bo":9,"so":3,"buy":457,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":427,"name":"ПТУР-Л Флейта","t":1795462848407,"sale":326,"ref":399.98,"profit":33.98,"roi":10.42,"bo":20,"so":12,"buy":325,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
