@@ -2170,3 +2170,4 @@
 {"id":646,"name":"Атом","t":1795438887555,"sale":198,"ref":242.46,"profit":20.21,"roi":10.21,"bo":18,"so":39,"buy":196,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":572,"name":"Нейтрино","t":1795438887555,"sale":296.11,"ref":350,"profit":18.89,"roi":6.38,"bo":13,"so":8,"buy":296.07,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":576,"name":"Гусеница малая","t":1795441249169,"sale":174.42,"ref":217,"profit":20.88,"roi":11.97,"bo":19,"so":22,"buy":168.68,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":100,"name":"«Ре минор»","t":1795443649779,"sale":50,"ref":78.04,"profit":20.24,"roi":40.47,"bo":1,"so":5,"buy":25,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
