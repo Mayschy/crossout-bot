@@ -1344,3 +1344,4 @@
 {"id":445,"name":"Геррида I","t":1795429257814,"sale":800,"ref":929.97,"profit":36.97,"roi":4.62,"bo":23,"so":45,"buy":796,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":687,"name":"Комплект снаряжения У3","t":1795431680416,"sale":205.45,"ref":270.85,"profit":38.32,"roi":18.65,"bo":3,"so":33,"buy":197.7,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3782,"name":"Сладость","t":1795432853221,"sale":58.48,"ref":150,"profit":76.52,"roi":130.85,"bo":0,"so":81,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":335,"name":"Триггер","t":1795434651095,"sale":195.07,"ref":252.14,"profit":31.86,"roi":16.33,"bo":23,"so":5,"buy":195.06,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
