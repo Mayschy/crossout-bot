@@ -1374,3 +1374,4 @@
 {"id":46,"name":"Марс","t":1795470651589,"sale":2564.91,"ref":2949.75,"profit":89.87,"roi":3.5,"bo":4,"so":10,"buy":2500,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":579,"name":"Голиаф","t":1795470652948,"sale":1750,"ref":1998.06,"profit":48.25,"roi":2.76,"bo":10,"so":41,"buy":1702,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3781,"name":"Оковы","t":1795471857604,"sale":216.29,"ref":300,"profit":53.71,"roi":24.83,"bo":5,"so":4,"buy":48.03,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
+{"id":579,"name":"Голиаф","t":1795475454093,"sale":1699.99,"ref":1990,"profit":91.01,"roi":5.35,"bo":7,"so":42,"buy":1600.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
