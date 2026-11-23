@@ -1371,3 +1371,5 @@
 {"id":382,"name":"Варун","t":1795462267571,"sale":480,"ref":585.79,"profit":47.21,"roi":9.84,"bo":9,"so":3,"buy":457,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":427,"name":"ПТУР-Л Флейта","t":1795462848407,"sale":326,"ref":399.98,"profit":33.98,"roi":10.42,"bo":20,"so":12,"buy":325,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":576,"name":"Гусеница малая","t":1795464646952,"sale":168.38,"ref":216.87,"profit":26.8,"roi":15.92,"bo":5,"so":39,"buy":168.36,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":46,"name":"Марс","t":1795470651589,"sale":2564.91,"ref":2949.75,"profit":89.87,"roi":3.5,"bo":4,"so":10,"buy":2500,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":579,"name":"Голиаф","t":1795470652948,"sale":1750,"ref":1998.06,"profit":48.25,"roi":2.76,"bo":10,"so":41,"buy":1702,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

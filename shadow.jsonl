@@ -2199,3 +2199,5 @@
 {"id":518,"name":"Оберег","t":1795467044615,"sale":471.01,"ref":535,"profit":10.49,"roi":2.23,"bo":7,"so":21,"buy":465,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":710,"name":"Расширение склада","t":1795467044615,"sale":260,"ref":300,"profit":10,"roi":3.85,"bo":39,"so":26,"buy":250.11,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795468244473,"sale":201.36,"ref":245.86,"profit":19.91,"roi":9.89,"bo":52,"so":3,"buy":161.1,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":100,"name":"«Ре минор»","t":1795470650785,"sale":47.2,"ref":78.04,"profit":23.04,"roi":48.81,"bo":1,"so":5,"buy":25,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":128,"name":"Доке левое","t":1795470650785,"sale":30,"ref":48.02,"profit":13.22,"roi":44.06,"bo":16,"so":3,"buy":28.14,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
