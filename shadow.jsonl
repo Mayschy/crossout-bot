@@ -2154,3 +2154,4 @@
 {"id":676,"name":"Зубодробитель","t":1795402241978,"sale":67.17,"ref":88.17,"profit":12.18,"roi":18.14,"bo":14,"so":9,"buy":66.87,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":667,"name":"Зеница","t":1795402881900,"sale":74.97,"ref":95.75,"profit":11.2,"roi":14.95,"bo":0,"so":57,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":464,"name":"Коготь","t":1795410079390,"sale":88.58,"ref":114,"profit":14.02,"roi":15.83,"bo":18,"so":17,"buy":87.03,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1206,"name":"Стальной мяч","t":1795412449338,"sale":277.78,"ref":321.12,"profit":11.23,"roi":4.04,"bo":1,"so":2,"buy":175.43,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
