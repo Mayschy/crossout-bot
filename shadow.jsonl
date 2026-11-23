@@ -2192,3 +2192,4 @@
 {"id":462,"name":"Шабаш","t":1795460479074,"sale":256.05,"ref":310,"profit":22.95,"roi":8.96,"bo":10,"so":30,"buy":256.04,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1446,"name":"Мясник","t":1795461052826,"sale":1870.01,"ref":2098.91,"profit":19.01,"roi":1.02,"bo":1,"so":13,"buy":1713.99,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1380,"name":"Жар","t":1795461052826,"sale":53.26,"ref":70.32,"profit":10.03,"roi":18.83,"bo":1,"so":2,"buy":5.31,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":375,"name":"Аврора","t":1795462267036,"sale":154.88,"ref":186,"profit":12.52,"roi":8.08,"bo":2,"so":40,"buy":152.08,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
