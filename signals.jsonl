@@ -1345,3 +1345,4 @@
 {"id":687,"name":"Комплект снаряжения У3","t":1795431680416,"sale":205.45,"ref":270.85,"profit":38.32,"roi":18.65,"bo":3,"so":33,"buy":197.7,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3782,"name":"Сладость","t":1795432853221,"sale":58.48,"ref":150,"profit":76.52,"roi":130.85,"bo":0,"so":81,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":335,"name":"Триггер","t":1795434651095,"sale":195.07,"ref":252.14,"profit":31.86,"roi":16.33,"bo":23,"so":5,"buy":195.06,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1,"name":"Кэнсэй","t":1795435277632,"sale":1120,"ref":1277.78,"profit":30,"roi":2.68,"bo":3,"so":11,"buy":1103.15,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
