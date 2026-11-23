@@ -1336,3 +1336,4 @@
 {"id":299,"name":"Гибрид","t":1795386046727,"sale":2300,"ref":2649,"profit":84.1,"roi":3.66,"bo":6,"so":12,"buy":2223.67,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":114,"name":"Стартер","t":1795393864756,"sale":1021,"ref":1184.99,"profit":45.49,"roi":4.46,"bo":15,"so":29,"buy":1010,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":337,"name":"Акари","t":1795395682083,"sale":2100,"ref":2396.9,"profit":57.21,"roi":2.72,"bo":9,"so":24,"buy":1910.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":497,"name":"Колибри","t":1795401653158,"sale":343.26,"ref":454.99,"profit":66.23,"roi":19.29,"bo":27,"so":19,"buy":340.57,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
