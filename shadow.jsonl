@@ -2160,3 +2160,4 @@
 {"id":511,"name":"РС Нерпа","t":1795422044772,"sale":320,"ref":377.77,"profit":19.99,"roi":6.25,"bo":6,"so":30,"buy":301.1,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":464,"name":"Коготь","t":1795422044772,"sale":87.08,"ref":109.76,"profit":11.7,"roi":13.44,"bo":18,"so":18,"buy":87.03,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":41,"name":"Аякс","t":1795426267705,"sale":1677.61,"ref":1879.99,"profit":14.38,"roi":0.86,"bo":6,"so":16,"buy":1671.04,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795428647487,"sale":145,"ref":173.2,"profit":10.88,"roi":7.5,"bo":36,"so":88,"buy":144.72,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
