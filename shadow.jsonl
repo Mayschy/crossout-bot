@@ -2194,3 +2194,4 @@
 {"id":1380,"name":"Жар","t":1795461052826,"sale":53.26,"ref":70.32,"profit":10.03,"roi":18.83,"bo":1,"so":2,"buy":5.31,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":375,"name":"Аврора","t":1795462267036,"sale":154.88,"ref":186,"profit":12.52,"roi":8.08,"bo":2,"so":40,"buy":152.08,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1795464646314,"sale":200.21,"ref":244.45,"profit":19.79,"roi":9.89,"bo":27,"so":4,"buy":200.2,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":420,"name":"Гнездо","t":1795465864846,"sale":356.06,"ref":419.98,"profit":21.92,"roi":6.16,"bo":23,"so":29,"buy":356.03,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
