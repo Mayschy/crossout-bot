@@ -2165,3 +2165,4 @@
 {"id":652,"name":"Жутка","t":1795433470247,"sale":66.13,"ref":88.68,"profit":13.68,"roi":20.69,"bo":27,"so":5,"buy":64.99,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":348,"name":"Гремлин","t":1795434650151,"sale":91.44,"ref":115,"profit":12.06,"roi":13.19,"bo":23,"so":49,"buy":90.16,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":382,"name":"Варун","t":1795437062358,"sale":480,"ref":552.55,"profit":17.29,"roi":3.6,"bo":6,"so":6,"buy":454.96,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":444,"name":"МН-Л 200","t":1795438243377,"sale":420,"ref":481.62,"profit":13.46,"roi":3.2,"bo":23,"so":29,"buy":401,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
