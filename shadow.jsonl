@@ -2204,3 +2204,4 @@
 {"id":3781,"name":"Оковы","t":1795471275040,"sale":250,"ref":300,"profit":20,"roi":8,"bo":5,"so":3,"buy":48.03,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1291,"name":"Боевой камуфляж","t":1795471850996,"sale":25,"ref":38.89,"profit":10,"roi":40,"bo":1,"so":9,"buy":4.35,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":348,"name":"Гремлин","t":1795473649939,"sale":93.36,"ref":118.95,"profit":13.7,"roi":14.67,"bo":18,"so":36,"buy":91.12,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":486,"name":"Ампер","t":1795477248419,"sale":80.48,"ref":102.79,"profit":12.03,"roi":14.95,"bo":0,"so":43,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
