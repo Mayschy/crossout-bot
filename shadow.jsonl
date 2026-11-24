@@ -2260,3 +2260,4 @@
 {"id":300,"name":"П-26 Заградитель","t":1795543279953,"sale":244,"ref":293.99,"profit":20.59,"roi":8.44,"bo":7,"so":9,"buy":243.9,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1038,"name":"Материал: Алюминий","t":1795543844724,"sale":11.17,"ref":25,"profit":11.33,"roi":101.43,"bo":2,"so":5,"buy":4.65,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":455,"name":"Боеукладка","t":1795544445160,"sale":131.1,"ref":162.8,"profit":15.42,"roi":11.76,"bo":13,"so":13,"buy":131,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":610,"name":"Увабаки (пов.)","t":1795545647009,"sale":201,"ref":239.39,"profit":14.45,"roi":7.19,"bo":12,"so":14,"buy":200.23,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
