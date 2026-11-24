@@ -2210,3 +2210,5 @@
 {"id":348,"name":"Гремлин","t":1795480844682,"sale":94.54,"ref":117,"profit":10.76,"roi":11.38,"bo":18,"so":35,"buy":92.43,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":428,"name":"Перехватчик","t":1795481224931,"sale":289.99,"ref":334.85,"profit":11.38,"roi":3.92,"bo":9,"so":5,"buy":270.02,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1795481444402,"sale":200.21,"ref":241.92,"profit":17.52,"roi":8.75,"bo":27,"so":14,"buy":200.2,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":236,"name":"Блок питания","t":1795485048195,"sale":620,"ref":714.5,"profit":23.05,"roi":3.72,"bo":34,"so":10,"buy":605,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":93,"name":"Онгаку","t":1795485048195,"sale":211.87,"ref":248.74,"profit":12,"roi":5.66,"bo":1,"so":16,"buy":195.31,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
