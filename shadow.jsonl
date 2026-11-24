@@ -2213,3 +2213,4 @@
 {"id":236,"name":"Блок питания","t":1795485048195,"sale":620,"ref":714.5,"profit":23.05,"roi":3.72,"bo":34,"so":10,"buy":605,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":93,"name":"Онгаку","t":1795485048195,"sale":211.87,"ref":248.74,"profit":12,"roi":5.66,"bo":1,"so":16,"buy":195.31,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1795486847466,"sale":142,"ref":183.46,"profit":23.11,"roi":16.28,"bo":4,"so":39,"buy":139.1,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795492245203,"sale":173,"ref":212.45,"profit":18.2,"roi":10.52,"bo":62,"so":4,"buy":172.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
