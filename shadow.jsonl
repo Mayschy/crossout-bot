@@ -2223,3 +2223,5 @@
 {"id":494,"name":"НВ-2 Клён","t":1795512046912,"sale":500,"ref":578.05,"profit":20.25,"roi":4.05,"bo":7,"so":5,"buy":435,"act":6,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":348,"name":"Гремлин","t":1795512664879,"sale":94.9,"ref":116.65,"profit":10.09,"roi":10.63,"bo":18,"so":45,"buy":92.43,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":116,"name":"«Че такой серьезный?»","t":1795514482576,"sale":49,"ref":72.94,"profit":16.65,"roi":33.97,"bo":4,"so":4,"buy":36.01,"act":3,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":93,"name":"Онгаку","t":1795516271343,"sale":201.92,"ref":244.77,"profit":18.37,"roi":9.1,"bo":1,"so":16,"buy":195.31,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":444,"name":"МН-Л 200","t":1795516271343,"sale":380.06,"ref":438,"profit":14.14,"roi":3.72,"bo":22,"so":73,"buy":380.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
