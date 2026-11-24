@@ -2216,3 +2216,4 @@
 {"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795492245203,"sale":173,"ref":212.45,"profit":18.2,"roi":10.52,"bo":62,"so":4,"buy":172.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":112,"name":"Рвач","t":1795495851154,"sale":138.78,"ref":176.78,"profit":20.32,"roi":14.64,"bo":11,"so":6,"buy":138.75,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":348,"name":"Гремлин","t":1795497052236,"sale":94.89,"ref":117,"profit":10.41,"roi":10.97,"bo":19,"so":40,"buy":92.44,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":433,"name":"Ланселот","t":1795498261150,"sale":281,"ref":334.98,"profit":20.48,"roi":7.29,"bo":17,"so":47,"buy":280.26,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
