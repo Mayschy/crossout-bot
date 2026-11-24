@@ -1409,3 +1409,5 @@
 {"id":482,"name":"Мигалка","t":1795545647612,"sale":208.32,"ref":267.48,"profit":32.41,"roi":15.56,"bo":4,"so":8,"buy":160.02,"act":5,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1301,"name":"Темное золото","t":1795546879213,"sale":92.61,"ref":145.31,"profit":38.17,"roi":41.21,"bo":2,"so":3,"buy":77.99,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":564,"name":"Парис","t":1795556448818,"sale":640.44,"ref":748.5,"profit":33.21,"roi":5.19,"bo":4,"so":22,"buy":632.69,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":157,"name":"Большая декоративная решетка 1","t":1795557677241,"sale":92.03,"ref":138.28,"profit":32.42,"roi":35.23,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":114,"name":"Стартер","t":1795557678673,"sale":882,"ref":1009.9,"profit":26.91,"roi":3.05,"bo":43,"so":17,"buy":861.14,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
