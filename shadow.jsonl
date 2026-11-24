@@ -2226,3 +2226,4 @@
 {"id":93,"name":"Онгаку","t":1795516271343,"sale":201.92,"ref":244.77,"profit":18.37,"roi":9.1,"bo":1,"so":16,"buy":195.31,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":444,"name":"МН-Л 200","t":1795516271343,"sale":380.06,"ref":438,"profit":14.14,"roi":3.72,"bo":22,"so":73,"buy":380.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":484,"name":"ЭУ-1 Заряд","t":1795521677431,"sale":101.02,"ref":127.99,"profit":14.17,"roi":14.03,"bo":26,"so":14,"buy":100.46,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":114,"name":"Стартер","t":1795522251154,"sale":833.34,"ref":944,"profit":16.26,"roi":1.95,"bo":33,"so":32,"buy":823,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
