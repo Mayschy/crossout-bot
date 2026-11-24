@@ -2209,3 +2209,4 @@
 {"id":243,"name":"ШМ-5 Лавина","t":1795479658120,"sale":2500,"ref":2800,"profit":20,"roi":0.8,"bo":6,"so":35,"buy":2433.1,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":348,"name":"Гремлин","t":1795480844682,"sale":94.54,"ref":117,"profit":10.76,"roi":11.38,"bo":18,"so":35,"buy":92.43,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":428,"name":"Перехватчик","t":1795481224931,"sale":289.99,"ref":334.85,"profit":11.38,"roi":3.92,"bo":9,"so":5,"buy":270.02,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":610,"name":"Увабаки (пов.)","t":1795481444402,"sale":200.21,"ref":241.92,"profit":17.52,"roi":8.75,"bo":27,"so":14,"buy":200.2,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
