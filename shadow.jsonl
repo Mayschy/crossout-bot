@@ -2241,3 +2241,5 @@
 {"id":1449,"name":"Гиена","t":1795529460882,"sale":841,"ref":958.88,"profit":21.99,"roi":2.61,"bo":15,"so":48,"buy":840,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":577,"name":"Гусеница бронированная","t":1795529460882,"sale":312.01,"ref":360,"profit":11.99,"roi":3.84,"bo":12,"so":30,"buy":290,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":482,"name":"Мигалка","t":1795530047756,"sale":219.38,"ref":268.35,"profit":22.14,"roi":10.09,"bo":5,"so":3,"buy":160.02,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1795530668717,"sale":144.45,"ref":181.45,"profit":18.86,"roi":13.05,"bo":8,"so":33,"buy":144,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":407,"name":"Проблема","t":1795530668717,"sale":44.44,"ref":60.52,"profit":10.03,"roi":22.57,"bo":3,"so":4,"buy":10,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

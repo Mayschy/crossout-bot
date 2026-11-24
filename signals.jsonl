@@ -1392,3 +1392,4 @@
 {"id":564,"name":"Парис","t":1795525846816,"sale":750,"ref":867.67,"profit":30.9,"roi":4.12,"bo":2,"so":14,"buy":668.13,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":113,"name":"Терзатель","t":1795526450085,"sale":146.49,"ref":201.79,"profit":35.12,"roi":23.98,"bo":10,"so":4,"buy":145.67,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":59,"name":"Мигалка скорой","t":1795529462629,"sale":186.7,"ref":238.15,"profit":27.64,"roi":14.8,"bo":4,"so":2,"buy":160,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
+{"id":319,"name":"Капкан","t":1795530669463,"sale":758.12,"ref":898.96,"profit":50.94,"roi":6.72,"bo":10,"so":9,"buy":758.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
