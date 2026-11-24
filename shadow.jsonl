@@ -2229,3 +2229,4 @@
 {"id":114,"name":"Стартер","t":1795522251154,"sale":833.34,"ref":944,"profit":16.26,"roi":1.95,"bo":33,"so":32,"buy":823,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1207,"name":"Измельчитель","t":1795524046912,"sale":18.07,"ref":44.9,"profit":22.34,"roi":123.63,"bo":3,"so":12,"buy":18.05,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":514,"name":"Ядро","t":1795524652421,"sale":188.66,"ref":230.14,"profit":18.47,"roi":9.79,"bo":1,"so":5,"buy":171.48,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":690,"name":"Контейнер «Легенда»","t":1795525277695,"sale":150,"ref":180.99,"profit":12.89,"roi":8.59,"bo":0,"so":13,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
