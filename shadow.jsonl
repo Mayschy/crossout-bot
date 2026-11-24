@@ -2255,3 +2255,5 @@
 {"id":515,"name":"Вак1дАТ3","t":1795537866247,"sale":63.1,"ref":84.73,"profit":13.16,"roi":20.85,"bo":2,"so":3,"buy":6.55,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":354,"name":"Фафнир","t":1795539046536,"sale":140,"ref":168.88,"profit":11.99,"roi":8.57,"bo":5,"so":38,"buy":136,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":565,"name":"Хамелеон","t":1795539695675,"sale":69.08,"ref":90.8,"profit":12.64,"roi":18.3,"bo":2,"so":14,"buy":67.38,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":605,"name":"Титан","t":1795541461575,"sale":96.73,"ref":124.98,"profit":15.75,"roi":16.28,"bo":0,"so":18,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":171,"name":"Крянштейн","t":1795541461575,"sale":132.38,"ref":159.99,"profit":11.61,"roi":8.77,"bo":52,"so":11,"buy":128.65,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
