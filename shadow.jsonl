@@ -2220,3 +2220,4 @@
 {"id":1397,"name":"Преисподняя","t":1795501245452,"sale":68.09,"ref":90.88,"profit":13.7,"roi":20.12,"bo":2,"so":2,"buy":61.31,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1795510246957,"sale":195,"ref":244.32,"profit":24.89,"roi":12.76,"bo":27,"so":2,"buy":191.02,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":616,"name":"Гренадер","t":1795510246957,"sale":200,"ref":248.44,"profit":23.6,"roi":11.8,"bo":7,"so":4,"buy":193.3,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":494,"name":"НВ-2 Клён","t":1795512046912,"sale":500,"ref":578.05,"profit":20.25,"roi":4.05,"bo":7,"so":5,"buy":435,"act":6,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
