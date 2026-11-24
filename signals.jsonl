@@ -1380,3 +1380,4 @@
 {"id":630,"name":"Бигфут","t":1795481225600,"sale":142.13,"ref":188.05,"profit":27.12,"roi":19.08,"bo":4,"so":39,"buy":139.1,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":419,"name":"Пламя","t":1795482079739,"sale":271.82,"ref":365,"profit":56.68,"roi":20.85,"bo":30,"so":31,"buy":269.2,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":246,"name":"Палач 88мм","t":1795482648673,"sale":317.01,"ref":385.91,"profit":30.31,"roi":9.56,"bo":17,"so":13,"buy":317,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":247,"name":"КП-17 Цунами","t":1795483248107,"sale":2130.05,"ref":2449.94,"profit":74.9,"roi":3.52,"bo":9,"so":15,"buy":2130.04,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
