@@ -1393,3 +1393,5 @@
 {"id":113,"name":"Терзатель","t":1795526450085,"sale":146.49,"ref":201.79,"profit":35.12,"roi":23.98,"bo":10,"so":4,"buy":145.67,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":59,"name":"Мигалка скорой","t":1795529462629,"sale":186.7,"ref":238.15,"profit":27.64,"roi":14.8,"bo":4,"so":2,"buy":160,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
 {"id":319,"name":"Капкан","t":1795530669463,"sale":758.12,"ref":898.96,"profit":50.94,"roi":6.72,"bo":10,"so":9,"buy":758.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3778,"name":"Морриган (заготовка)","t":1795532489960,"sale":2900,"ref":3637.94,"profit":374.15,"roi":12.9,"bo":1,"so":9,"buy":2800,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":20,"name":"Вой","t":1795532491491,"sale":1250,"ref":1441.98,"profit":47.78,"roi":3.82,"bo":5,"so":9,"buy":1181.99,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}

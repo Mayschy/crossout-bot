@@ -2244,3 +2244,4 @@
 {"id":630,"name":"Бигфут","t":1795530668717,"sale":144.45,"ref":181.45,"profit":18.86,"roi":13.05,"bo":8,"so":33,"buy":144,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":407,"name":"Проблема","t":1795530668717,"sale":44.44,"ref":60.52,"profit":10.03,"roi":22.57,"bo":3,"so":4,"buy":10,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":689,"name":"Контейнер разведчика","t":1795531861268,"sale":342.01,"ref":396.6,"profit":14.93,"roi":4.37,"bo":24,"so":275,"buy":341.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":606,"name":"Титан (пов.)","t":1795532482655,"sale":153.46,"ref":198,"profit":24.74,"roi":16.12,"bo":3,"so":28,"buy":152.58,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
