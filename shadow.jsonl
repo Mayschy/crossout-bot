@@ -2250,3 +2250,5 @@
 {"id":263,"name":"ЗА-4 Звездопад","t":1795534264835,"sale":2835.72,"ref":3175.8,"profit":22.5,"roi":0.79,"bo":10,"so":21,"buy":2705,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":268,"name":"Жнец","t":1795534264835,"sale":1790.32,"ref":2000.56,"profit":10.18,"roi":0.57,"bo":21,"so":33,"buy":1790.31,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":66,"name":"Саранча","t":1795535446250,"sale":188,"ref":226.54,"profit":15.89,"roi":8.45,"bo":18,"so":12,"buy":181.21,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":185,"name":"Жесткач","t":1795536079902,"sale":106,"ref":131.22,"profit":12.1,"roi":11.41,"bo":15,"so":3,"buy":99.1,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":676,"name":"Зубодробитель","t":1795536079902,"sale":61.33,"ref":79.98,"profit":10.65,"roi":17.37,"bo":4,"so":20,"buy":60.07,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
