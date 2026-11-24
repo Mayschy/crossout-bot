@@ -2236,3 +2236,5 @@
 {"id":484,"name":"ЭУ-1 Заряд","t":1795526448386,"sale":101.02,"ref":127,"profit":13.28,"roi":13.15,"bo":25,"so":19,"buy":100.44,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":625,"name":"Затворник (пов.)","t":1795527067166,"sale":187.28,"ref":222.23,"profit":12.73,"roi":6.8,"bo":4,"so":33,"buy":177,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":497,"name":"Колибри","t":1795527648676,"sale":369,"ref":435,"profit":22.5,"roi":6.1,"bo":12,"so":28,"buy":351.78,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":564,"name":"Парис","t":1795528252043,"sale":657.71,"ref":750,"profit":17.29,"roi":2.63,"bo":1,"so":16,"buy":631.85,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":436,"name":"LED «Джек»","t":1795528252043,"sale":170.01,"ref":205,"profit":14.49,"roi":8.52,"bo":2,"so":14,"buy":170,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
