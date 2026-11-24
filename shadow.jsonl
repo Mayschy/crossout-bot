@@ -2221,3 +2221,4 @@
 {"id":117,"name":"КА-2 Маховик","t":1795510246957,"sale":195,"ref":244.32,"profit":24.89,"roi":12.76,"bo":27,"so":2,"buy":191.02,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":616,"name":"Гренадер","t":1795510246957,"sale":200,"ref":248.44,"profit":23.6,"roi":11.8,"bo":7,"so":4,"buy":193.3,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":494,"name":"НВ-2 Клён","t":1795512046912,"sale":500,"ref":578.05,"profit":20.25,"roi":4.05,"bo":7,"so":5,"buy":435,"act":6,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":348,"name":"Гремлин","t":1795512664879,"sale":94.9,"ref":116.65,"profit":10.09,"roi":10.63,"bo":18,"so":45,"buy":92.43,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
