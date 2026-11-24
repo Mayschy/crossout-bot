@@ -2273,3 +2273,5 @@
 {"id":1316,"name":"Дыхание тьмы","t":1795554077894,"sale":45.45,"ref":61.86,"profit":10.22,"roi":22.5,"bo":0,"so":2,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":578,"name":"Гусеница укрепленная","t":1795555253260,"sale":130.92,"ref":160.78,"profit":13.78,"roi":10.53,"bo":35,"so":29,"buy":130.04,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":423,"name":"Рога","t":1795555866994,"sale":34.8,"ref":50.74,"profit":10.87,"roi":31.22,"bo":5,"so":10,"buy":30.01,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":276,"name":"Циклон","t":1795556448038,"sale":327.09,"ref":386.77,"profit":21,"roi":6.42,"bo":19,"so":4,"buy":316,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":537,"name":"Скидутка","t":1795556448038,"sale":366.12,"ref":423.98,"profit":15.46,"roi":4.22,"bo":7,"so":12,"buy":366.11,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
