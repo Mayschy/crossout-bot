@@ -1385,3 +1385,4 @@
 {"id":394,"name":"Комбайн","t":1795496480954,"sale":1600,"ref":1869,"profit":82.1,"roi":5.13,"bo":10,"so":23,"buy":1579.64,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":419,"name":"Пламя","t":1795504246029,"sale":288.77,"ref":369.98,"profit":44.21,"roi":15.31,"bo":49,"so":23,"buy":281.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":321,"name":"Мельник","t":1795512665435,"sale":400.04,"ref":473,"profit":25.66,"roi":6.41,"bo":22,"so":29,"buy":400.03,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":418,"name":"Ураган","t":1795513848586,"sale":2301.01,"ref":2629.97,"profit":65.96,"roi":2.87,"bo":15,"so":25,"buy":2300.05,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
