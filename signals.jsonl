@@ -1388,3 +1388,4 @@
 {"id":418,"name":"Ураган","t":1795513848586,"sale":2301.01,"ref":2629.97,"profit":65.96,"roi":2.87,"bo":15,"so":25,"buy":2300.05,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3778,"name":"Морриган (заготовка)","t":1795514489690,"sale":3100,"ref":3637.94,"profit":174.15,"roi":5.62,"bo":2,"so":12,"buy":2900,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":53,"name":"Бивень","t":1795514491245,"sale":1250,"ref":1430,"profit":37,"roi":2.96,"bo":10,"so":6,"buy":1201,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":465,"name":"Счетчик урона","t":1795524653195,"sale":236.98,"ref":295.15,"profit":28.66,"roi":12.09,"bo":20,"so":3,"buy":217.03,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
