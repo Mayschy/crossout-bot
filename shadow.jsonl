@@ -2238,3 +2238,5 @@
 {"id":497,"name":"Колибри","t":1795527648676,"sale":369,"ref":435,"profit":22.5,"roi":6.1,"bo":12,"so":28,"buy":351.78,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":564,"name":"Парис","t":1795528252043,"sale":657.71,"ref":750,"profit":17.29,"roi":2.63,"bo":1,"so":16,"buy":631.85,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":436,"name":"LED «Джек»","t":1795528252043,"sale":170.01,"ref":205,"profit":14.49,"roi":8.52,"bo":2,"so":14,"buy":170,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1449,"name":"Гиена","t":1795529460882,"sale":841,"ref":958.88,"profit":21.99,"roi":2.61,"bo":15,"so":48,"buy":840,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":577,"name":"Гусеница бронированная","t":1795529460882,"sale":312.01,"ref":360,"profit":11.99,"roi":3.84,"bo":12,"so":30,"buy":290,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
