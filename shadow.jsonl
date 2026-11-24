@@ -2231,3 +2231,6 @@
 {"id":514,"name":"Ядро","t":1795524652421,"sale":188.66,"ref":230.14,"profit":18.47,"roi":9.79,"bo":1,"so":5,"buy":171.48,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":690,"name":"Контейнер «Легенда»","t":1795525277695,"sale":150,"ref":180.99,"profit":12.89,"roi":8.59,"bo":0,"so":13,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":465,"name":"Счетчик урона","t":1795525846065,"sale":236.98,"ref":285.66,"profit":20.11,"roi":8.49,"bo":20,"so":3,"buy":217.03,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":386,"name":"Рок","t":1795526448386,"sale":781,"ref":887,"profit":17.3,"roi":2.22,"bo":5,"so":9,"buy":780.01,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":529,"name":"Циркулярка","t":1795526448386,"sale":74.33,"ref":98.6,"profit":14.41,"roi":19.39,"bo":0,"so":27,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":484,"name":"ЭУ-1 Заряд","t":1795526448386,"sale":101.02,"ref":127,"profit":13.28,"roi":13.15,"bo":25,"so":19,"buy":100.44,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
