@@ -1382,3 +1382,4 @@
 {"id":246,"name":"Палач 88мм","t":1795482648673,"sale":317.01,"ref":385.91,"profit":30.31,"roi":9.56,"bo":17,"so":13,"buy":317,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":247,"name":"КП-17 Цунами","t":1795483248107,"sale":2130.05,"ref":2449.94,"profit":74.9,"roi":3.52,"bo":9,"so":15,"buy":2130.04,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":273,"name":"В-37-39 Адаптер","t":1795495851647,"sale":420,"ref":494.9,"profit":25.41,"roi":6.05,"bo":17,"so":18,"buy":418.21,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":394,"name":"Комбайн","t":1795496480954,"sale":1600,"ref":1869,"profit":82.1,"roi":5.13,"bo":10,"so":23,"buy":1579.64,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
