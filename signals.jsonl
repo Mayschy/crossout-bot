@@ -1403,3 +1403,4 @@
 {"id":295,"name":"АП64 Джоуль","t":1795537870042,"sale":936,"ref":1074.98,"profit":31.48,"roi":3.36,"bo":12,"so":9,"buy":890,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1056,"name":"Материал: Хром","t":1795542055704,"sale":485.71,"ref":585,"profit":40.79,"roi":8.4,"bo":0,"so":9,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":191,"name":"Уткинатор","t":1795542057677,"sale":174.87,"ref":230,"profit":32.13,"roi":18.37,"bo":0,"so":5,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":480,"name":"Тати","t":1795543281676,"sale":356.4,"ref":438.3,"profit":38.07,"roi":10.68,"bo":10,"so":12,"buy":355.07,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
