@@ -1395,3 +1395,4 @@
 {"id":319,"name":"Капкан","t":1795530669463,"sale":758.12,"ref":898.96,"profit":50.94,"roi":6.72,"bo":10,"so":9,"buy":758.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3778,"name":"Морриган (заготовка)","t":1795532489960,"sale":2900,"ref":3637.94,"profit":374.15,"roi":12.9,"bo":1,"so":9,"buy":2800,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":20,"name":"Вой","t":1795532491491,"sale":1250,"ref":1441.98,"profit":47.78,"roi":3.82,"bo":5,"so":9,"buy":1181.99,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1073,"name":"Ожог","t":1795534266095,"sale":25.77,"ref":69.94,"profit":37.18,"roi":144.26,"bo":1,"so":3,"buy":11.28,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
