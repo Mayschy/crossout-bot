@@ -1401,3 +1401,5 @@
 {"id":497,"name":"Колибри","t":1795537867080,"sale":351.78,"ref":435.67,"profit":40.32,"roi":11.46,"bo":11,"so":31,"buy":348.26,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":300,"name":"П-26 Заградитель","t":1795537868644,"sale":250,"ref":315.92,"profit":34.33,"roi":13.73,"bo":7,"so":17,"buy":243.9,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":295,"name":"АП64 Джоуль","t":1795537870042,"sale":936,"ref":1074.98,"profit":31.48,"roi":3.36,"bo":12,"so":9,"buy":890,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1056,"name":"Материал: Хром","t":1795542055704,"sale":485.71,"ref":585,"profit":40.79,"roi":8.4,"bo":0,"so":9,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":191,"name":"Уткинатор","t":1795542057677,"sale":174.87,"ref":230,"profit":32.13,"roi":18.37,"bo":0,"so":5,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
