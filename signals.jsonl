@@ -1411,3 +1411,5 @@
 {"id":564,"name":"Парис","t":1795556448818,"sale":640.44,"ref":748.5,"profit":33.21,"roi":5.19,"bo":4,"so":22,"buy":632.69,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":157,"name":"Большая декоративная решетка 1","t":1795557677241,"sale":92.03,"ref":138.28,"profit":32.42,"roi":35.23,"bo":0,"so":3,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":114,"name":"Стартер","t":1795557678673,"sale":882,"ref":1009.9,"profit":26.91,"roi":3.05,"bo":43,"so":17,"buy":861.14,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3779,"name":"Талисман","t":1795561851292,"sale":2700.02,"ref":3099.96,"profit":89.94,"roi":3.33,"bo":6,"so":7,"buy":2700.01,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1352,"name":"Красный дракон","t":1795561853738,"sale":146.2,"ref":199.9,"profit":33.71,"roi":23.06,"bo":1,"so":6,"buy":18.67,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
