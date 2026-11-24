@@ -2246,3 +2246,4 @@
 {"id":689,"name":"Контейнер разведчика","t":1795531861268,"sale":342.01,"ref":396.6,"profit":14.93,"roi":4.37,"bo":24,"so":275,"buy":341.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":606,"name":"Титан (пов.)","t":1795532482655,"sale":153.46,"ref":198,"profit":24.74,"roi":16.12,"bo":3,"so":28,"buy":152.58,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":404,"name":"Демонстрация силы","t":1795533046399,"sale":72.46,"ref":96.37,"profit":14.27,"roi":19.7,"bo":4,"so":3,"buy":72.36,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1301,"name":"Темное золото","t":1795533649007,"sale":119.63,"ref":145.31,"profit":11.15,"roi":9.32,"bo":2,"so":3,"buy":77.99,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
