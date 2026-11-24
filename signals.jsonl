@@ -1376,3 +1376,4 @@
 {"id":3781,"name":"Оковы","t":1795471857604,"sale":216.29,"ref":300,"profit":53.71,"roi":24.83,"bo":5,"so":4,"buy":48.03,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
 {"id":579,"name":"Голиаф","t":1795475454093,"sale":1699.99,"ref":1990,"profit":91.01,"roi":5.35,"bo":7,"so":42,"buy":1600.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":264,"name":"АП72 Вихрь","t":1795477848055,"sale":285.11,"ref":350.33,"profit":30.19,"roi":10.59,"bo":7,"so":23,"buy":275,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":497,"name":"Колибри","t":1795480845330,"sale":351.81,"ref":434.95,"profit":39.64,"roi":11.27,"bo":15,"so":26,"buy":351.8,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
