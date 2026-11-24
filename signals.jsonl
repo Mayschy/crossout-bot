@@ -1378,3 +1378,4 @@
 {"id":264,"name":"АП72 Вихрь","t":1795477848055,"sale":285.11,"ref":350.33,"profit":30.19,"roi":10.59,"bo":7,"so":23,"buy":275,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":497,"name":"Колибри","t":1795480845330,"sale":351.81,"ref":434.95,"profit":39.64,"roi":11.27,"bo":15,"so":26,"buy":351.8,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":630,"name":"Бигфут","t":1795481225600,"sale":142.13,"ref":188.05,"profit":27.12,"roi":19.08,"bo":4,"so":39,"buy":139.1,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":419,"name":"Пламя","t":1795482079739,"sale":271.82,"ref":365,"profit":56.68,"roi":20.85,"bo":30,"so":31,"buy":269.2,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
