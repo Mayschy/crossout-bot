@@ -1460,3 +1460,4 @@
 {"id":610,"name":"Увабаки (пов.)","t":1795641047909,"sale":190.15,"ref":252.18,"profit":36.81,"roi":19.36,"bo":8,"so":4,"buy":190.14,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795642858696,"sale":179.04,"ref":232.06,"profit":29.81,"roi":16.65,"bo":18,"so":12,"buy":173,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":115,"name":"«Из лесу, вестимо»","t":1795648244600,"sale":253.73,"ref":339.97,"profit":52.24,"roi":20.59,"bo":0,"so":6,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":610,"name":"Увабаки (пов.)","t":1795648849841,"sale":200,"ref":252.17,"profit":26.95,"roi":13.48,"bo":14,"so":5,"buy":190.15,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
