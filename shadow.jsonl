@@ -2308,3 +2308,4 @@
 {"id":91,"name":"Удочка","t":1795599071460,"sale":13.58,"ref":31.8,"profit":15.04,"roi":110.75,"bo":9,"so":11,"buy":12.61,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":112,"name":"Рвач","t":1795602665466,"sale":150,"ref":178.31,"profit":10.48,"roi":6.99,"bo":7,"so":14,"buy":143.85,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":36,"name":"Соратник","t":1795603247406,"sale":1828,"ref":2049.99,"profit":16.99,"roi":0.93,"bo":6,"so":11,"buy":1721.03,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":500,"name":"РД-3 Филин","t":1795605048183,"sale":200,"ref":241.73,"profit":17.56,"roi":8.78,"bo":13,"so":8,"buy":190.13,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
