@@ -1445,3 +1445,5 @@
 {"id":171,"name":"Крянштейн","t":1795626651068,"sale":146.02,"ref":192.1,"profit":26.87,"roi":18.4,"bo":18,"so":33,"buy":144,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":306,"name":"Гунгнир","t":1795627255188,"sale":302.04,"ref":393.96,"profit":52.52,"roi":17.39,"bo":19,"so":5,"buy":302.03,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":114,"name":"Стартер","t":1795627866841,"sale":910.55,"ref":1040,"profit":25.45,"roi":2.8,"bo":45,"so":19,"buy":890,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":180,"name":"Беркут","t":1795629054959,"sale":1602.06,"ref":1847.81,"profit":60.97,"roi":3.81,"bo":10,"so":12,"buy":1602.05,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":93,"name":"Онгаку","t":1795629056505,"sale":179.37,"ref":230,"profit":27.63,"roi":15.4,"bo":2,"so":12,"buy":178,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
