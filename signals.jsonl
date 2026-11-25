@@ -1452,3 +1452,4 @@
 {"id":55,"name":"Эхо","t":1795633286223,"sale":426,"ref":520,"profit":42,"roi":9.86,"bo":10,"so":15,"buy":425,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":575,"name":"Гусеница танковая","t":1795633846084,"sale":711,"ref":829.99,"profit":35.99,"roi":5.06,"bo":14,"so":7,"buy":710.22,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1056,"name":"Материал: Хром","t":1795634454401,"sale":461.08,"ref":550,"profit":33.92,"roi":7.36,"bo":0,"so":6,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":182,"name":"Крылья надежды","t":1795635648823,"sale":102.99,"ref":156.2,"profit":37.59,"roi":36.5,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
