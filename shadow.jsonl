@@ -2316,3 +2316,5 @@
 {"id":40,"name":"Пилигрим","t":1795608650940,"sale":86.79,"ref":110.31,"profit":12.49,"roi":14.39,"bo":2,"so":5,"buy":86.7,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1795609867438,"sale":117.11,"ref":156.63,"profit":23.86,"roi":20.37,"bo":1,"so":21,"buy":105.18,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":246,"name":"Палач 88мм","t":1795610447333,"sale":340,"ref":388.89,"profit":10,"roi":2.94,"bo":22,"so":7,"buy":332,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1208,"name":"Автокатапульта","t":1795611051452,"sale":32.04,"ref":59.87,"profit":21.84,"roi":68.17,"bo":3,"so":13,"buy":3.87,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":455,"name":"Боеукладка","t":1795611051452,"sale":130.36,"ref":159,"profit":12.74,"roi":9.77,"bo":7,"so":23,"buy":130.35,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
