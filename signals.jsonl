@@ -1457,3 +1457,4 @@
 {"id":23,"name":"Маниту","t":1795638670091,"sale":492.32,"ref":639.98,"profit":83.66,"roi":16.99,"bo":8,"so":7,"buy":491.99,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":439,"name":"Драйвер","t":1795639845989,"sale":906,"ref":1038.87,"profit":28.98,"roi":3.2,"bo":19,"so":22,"buy":905.11,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":485,"name":"Бутстрэп","t":1795640480728,"sale":680,"ref":804,"profit":43.6,"roi":6.41,"bo":15,"so":9,"buy":669.81,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":610,"name":"Увабаки (пов.)","t":1795641047909,"sale":190.15,"ref":252.18,"profit":36.81,"roi":19.36,"bo":8,"so":4,"buy":190.14,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
