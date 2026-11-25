@@ -1428,3 +1428,4 @@
 {"id":537,"name":"Скидутка","t":1795597283373,"sale":342,"ref":419,"profit":35.1,"roi":10.26,"bo":5,"so":16,"buy":341,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":427,"name":"ПТУР-Л Флейта","t":1795597851698,"sale":360,"ref":428,"profit":25.2,"roi":7,"bo":19,"so":4,"buy":326.6,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":114,"name":"Стартер","t":1795599648241,"sale":900.71,"ref":1070.7,"profit":62.92,"roi":6.99,"bo":64,"so":11,"buy":889.21,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":418,"name":"Ураган","t":1795608087270,"sale":2200.09,"ref":2480.69,"profit":32.53,"roi":1.48,"bo":16,"so":37,"buy":2200,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
