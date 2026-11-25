@@ -2353,3 +2353,5 @@
 {"id":423,"name":"Рога","t":1795633845408,"sale":34.4,"ref":50.74,"profit":11.27,"roi":32.75,"bo":15,"so":5,"buy":31.02,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":592,"name":"Панджи","t":1795633845408,"sale":600,"ref":679,"profit":11.1,"roi":1.85,"bo":10,"so":21,"buy":575,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":578,"name":"Гусеница укрепленная","t":1795633845408,"sale":132.03,"ref":157.93,"profit":10.11,"roi":7.66,"bo":24,"so":49,"buy":132,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":537,"name":"Скидутка","t":1795636247217,"sale":336,"ref":398.99,"profit":23.09,"roi":6.87,"bo":16,"so":28,"buy":323,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":24,"name":"Инферно","t":1795636247217,"sale":1000,"ref":1127.39,"profit":14.65,"roi":1.47,"bo":10,"so":12,"buy":900.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
