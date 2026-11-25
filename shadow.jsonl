@@ -2333,3 +2333,6 @@
 {"id":95,"name":"Марш возмездия","t":1795621856415,"sale":185.13,"ref":225,"profit":17.37,"roi":9.38,"bo":2,"so":5,"buy":172,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":372,"name":"Прометей V","t":1795622491335,"sale":403.01,"ref":460.99,"profit":11.88,"roi":2.95,"bo":24,"so":19,"buy":403,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":347,"name":"Гром","t":1795623053016,"sale":119.04,"ref":154.86,"profit":20.33,"roi":17.08,"bo":3,"so":34,"buy":117.99,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":486,"name":"Ампер","t":1795623652982,"sale":72.44,"ref":96.08,"profit":14.03,"roi":19.37,"bo":0,"so":37,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795623652982,"sale":180,"ref":214,"profit":12.6,"roi":7,"bo":22,"so":11,"buy":171.88,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":287,"name":"АГС-55 Импульс","t":1795623652982,"sale":150,"ref":178.8,"profit":10.92,"roi":7.28,"bo":6,"so":43,"buy":143.5,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
