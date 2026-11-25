@@ -2310,3 +2310,5 @@
 {"id":36,"name":"Соратник","t":1795603247406,"sale":1828,"ref":2049.99,"profit":16.99,"roi":0.93,"bo":6,"so":11,"buy":1721.03,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":500,"name":"РД-3 Филин","t":1795605048183,"sale":200,"ref":241.73,"profit":17.56,"roi":8.78,"bo":13,"so":8,"buy":190.13,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":610,"name":"Увабаки (пов.)","t":1795605653079,"sale":196.22,"ref":239.38,"profit":19.22,"roi":9.8,"bo":20,"so":11,"buy":196.21,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795606267091,"sale":185.15,"ref":222.22,"profit":14.85,"roi":8.02,"bo":29,"so":19,"buy":185.12,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1291,"name":"Боевой камуфляж","t":1795606267091,"sale":11.23,"ref":25,"profit":11.27,"roi":100.36,"bo":3,"so":6,"buy":9.86,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
