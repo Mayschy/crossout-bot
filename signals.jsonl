@@ -1413,3 +1413,4 @@
 {"id":114,"name":"Стартер","t":1795557678673,"sale":882,"ref":1009.9,"profit":26.91,"roi":3.05,"bo":43,"so":17,"buy":861.14,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3779,"name":"Талисман","t":1795561851292,"sale":2700.02,"ref":3099.96,"profit":89.94,"roi":3.33,"bo":6,"so":7,"buy":2700.01,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1352,"name":"Красный дракон","t":1795561853738,"sale":146.2,"ref":199.9,"profit":33.71,"roi":23.06,"bo":1,"so":6,"buy":18.67,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":317,"name":"Дамка","t":1795567250310,"sale":1258.02,"ref":1444.44,"profit":41.98,"roi":3.34,"bo":6,"so":17,"buy":1258,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
