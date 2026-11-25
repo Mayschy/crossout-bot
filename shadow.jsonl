@@ -2323,3 +2323,5 @@
 {"id":91,"name":"Удочка","t":1795612250174,"sale":14.11,"ref":31.8,"profit":14.51,"roi":102.83,"bo":9,"so":10,"buy":12.61,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":407,"name":"Проблема","t":1795613465674,"sale":42.1,"ref":60.52,"profit":12.37,"roi":29.38,"bo":3,"so":5,"buy":10,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":652,"name":"Жутка","t":1795613465674,"sale":58.21,"ref":76.71,"profit":10.83,"roi":18.6,"bo":9,"so":24,"buy":58.2,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1795614049741,"sale":180.07,"ref":213.99,"profit":12.52,"roi":6.95,"bo":10,"so":39,"buy":180.06,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":437,"name":"Тэнгу","t":1795614049741,"sale":761,"ref":857,"profit":10.3,"roi":1.35,"bo":8,"so":41,"buy":760.06,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
