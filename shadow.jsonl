@@ -2283,3 +2283,4 @@
 {"id":112,"name":"Рвач","t":1795567851165,"sale":148.71,"ref":184.48,"profit":17.32,"roi":11.65,"bo":6,"so":11,"buy":137.13,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":51,"name":"Нетопырь","t":1795567851165,"sale":94.72,"ref":120.9,"profit":14.09,"roi":14.88,"bo":21,"so":22,"buy":91.62,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1153,"name":"Квадратная платформа 12×12×6","t":1795567851165,"sale":58,"ref":80,"profit":14,"roi":24.14,"bo":0,"so":14,"buy":0,"act":10,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3777,"name":"Морриган","t":1795569043358,"sale":5426.82,"ref":6048.96,"profit":17.24,"roi":0.32,"bo":9,"so":4,"buy":5424,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
