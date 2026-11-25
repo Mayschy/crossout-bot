@@ -2297,3 +2297,5 @@
 {"id":171,"name":"Крянштейн","t":1795587646887,"sale":177.74,"ref":217,"profit":17.56,"roi":9.88,"bo":26,"so":3,"buy":143.88,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":284,"name":"Панацея","t":1795590074679,"sale":340,"ref":400,"profit":20,"roi":5.88,"bo":10,"so":2,"buy":338.18,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1795591866456,"sale":210,"ref":254.99,"profit":19.49,"roi":9.28,"bo":16,"so":18,"buy":208.88,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":56,"name":"Омнибокс","t":1795593679309,"sale":387,"ref":450.93,"profit":18.84,"roi":4.87,"bo":9,"so":12,"buy":371.2,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3769,"name":"Смог-15","t":1795593679309,"sale":182,"ref":215,"profit":11.5,"roi":6.32,"bo":3,"so":12,"buy":179.79,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
