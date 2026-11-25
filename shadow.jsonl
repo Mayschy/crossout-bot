@@ -2356,3 +2356,4 @@
 {"id":537,"name":"Скидутка","t":1795636247217,"sale":336,"ref":398.99,"profit":23.09,"roi":6.87,"bo":16,"so":28,"buy":323,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":24,"name":"Инферно","t":1795636247217,"sale":1000,"ref":1127.39,"profit":14.65,"roi":1.47,"bo":10,"so":12,"buy":900.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":91,"name":"Удочка","t":1795637450404,"sale":14.81,"ref":31.8,"profit":13.81,"roi":93.25,"bo":9,"so":5,"buy":13.03,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1090,"name":"Холодное пламя","t":1795641653981,"sale":55.29,"ref":78.26,"profit":15.14,"roi":27.39,"bo":0,"so":2,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
