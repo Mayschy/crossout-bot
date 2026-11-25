@@ -2336,3 +2336,6 @@
 {"id":486,"name":"Ампер","t":1795623652982,"sale":72.44,"ref":96.08,"profit":14.03,"roi":19.37,"bo":0,"so":37,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795623652982,"sale":180,"ref":214,"profit":12.6,"roi":7,"bo":22,"so":11,"buy":171.88,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":287,"name":"АГС-55 Импульс","t":1795623652982,"sale":150,"ref":178.8,"profit":10.92,"roi":7.28,"bo":6,"so":43,"buy":143.5,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":704,"name":"Хранилище чертежей","t":1795624855412,"sale":150.53,"ref":185.89,"profit":16.77,"roi":11.14,"bo":18,"so":96,"buy":150,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":353,"name":"Самопал","t":1795624855412,"sale":66.15,"ref":88.69,"profit":13.67,"roi":20.67,"bo":5,"so":17,"buy":66.13,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":49,"name":"Квант","t":1795624855412,"sale":314.16,"ref":363.99,"profit":13.43,"roi":4.28,"bo":11,"so":20,"buy":313.34,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

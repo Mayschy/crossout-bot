@@ -1441,3 +1441,4 @@
 {"id":21,"name":"Сумрак","t":1795620672252,"sale":553.29,"ref":690,"profit":67.71,"roi":12.24,"bo":3,"so":7,"buy":552.03,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1450,"name":"Тяга","t":1795623053855,"sale":2520,"ref":2899.51,"profit":89.56,"roi":3.55,"bo":11,"so":15,"buy":2361,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":24,"name":"Инферно","t":1795623653721,"sale":1000,"ref":1151.92,"profit":36.73,"roi":3.67,"bo":7,"so":3,"buy":827,"act":3,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":384,"name":"Дзюбокко","t":1795624856360,"sale":1100,"ref":1288.89,"profit":60,"roi":5.45,"bo":8,"so":24,"buy":1095.7,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
