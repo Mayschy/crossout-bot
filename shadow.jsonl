@@ -2342,3 +2342,4 @@
 {"id":117,"name":"КА-2 Маховик","t":1795626083927,"sale":225,"ref":269.77,"profit":17.79,"roi":7.91,"bo":25,"so":36,"buy":215,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":594,"name":"ТЗ Питон","t":1795626083927,"sale":82.67,"ref":105.59,"profit":12.36,"roi":14.95,"bo":3,"so":10,"buy":82.66,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":506,"name":"Максвелл","t":1795626083927,"sale":96,"ref":117.88,"profit":10.09,"roi":10.51,"bo":3,"so":6,"buy":94.01,"act":10,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":321,"name":"Мельник","t":1795626649114,"sale":405,"ref":470,"profit":18,"roi":4.44,"bo":18,"so":44,"buy":404,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

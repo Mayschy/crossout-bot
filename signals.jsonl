@@ -1442,3 +1442,4 @@
 {"id":1450,"name":"Тяга","t":1795623053855,"sale":2520,"ref":2899.51,"profit":89.56,"roi":3.55,"bo":11,"so":15,"buy":2361,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":24,"name":"Инферно","t":1795623653721,"sale":1000,"ref":1151.92,"profit":36.73,"roi":3.67,"bo":7,"so":3,"buy":827,"act":3,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":384,"name":"Дзюбокко","t":1795624856360,"sale":1100,"ref":1288.89,"profit":60,"roi":5.45,"bo":8,"so":24,"buy":1095.7,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":171,"name":"Крянштейн","t":1795626651068,"sale":146.02,"ref":192.1,"profit":26.87,"roi":18.4,"bo":18,"so":33,"buy":144,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
