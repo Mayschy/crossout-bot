@@ -2326,3 +2326,4 @@
 {"id":625,"name":"Затворник (пов.)","t":1795614049741,"sale":180.07,"ref":213.99,"profit":12.52,"roi":6.95,"bo":10,"so":39,"buy":180.06,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":437,"name":"Тэнгу","t":1795614049741,"sale":761,"ref":857,"profit":10.3,"roi":1.35,"bo":8,"so":41,"buy":760.06,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":287,"name":"АГС-55 Импульс","t":1795614646290,"sale":150,"ref":178.88,"profit":10.99,"roi":7.33,"bo":8,"so":36,"buy":143.47,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1795615846367,"sale":226.8,"ref":269.99,"profit":16.19,"roi":7.14,"bo":27,"so":36,"buy":213.1,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
