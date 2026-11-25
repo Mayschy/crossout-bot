@@ -1426,3 +1426,4 @@
 {"id":1073,"name":"Ожог","t":1795587051036,"sale":25.77,"ref":69.94,"profit":37.18,"roi":144.26,"bo":2,"so":2,"buy":17.23,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":114,"name":"Стартер","t":1795592445655,"sale":900,"ref":1081.12,"profit":73.01,"roi":8.11,"bo":68,"so":9,"buy":888.12,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":537,"name":"Скидутка","t":1795597283373,"sale":342,"ref":419,"profit":35.1,"roi":10.26,"bo":5,"so":16,"buy":341,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":427,"name":"ПТУР-Л Флейта","t":1795597851698,"sale":360,"ref":428,"profit":25.2,"roi":7,"bo":19,"so":4,"buy":326.6,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
