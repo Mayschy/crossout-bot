@@ -1439,3 +1439,4 @@
 {"id":243,"name":"ШМ-5 Лавина","t":1795617651396,"sale":2428.88,"ref":2799.99,"profit":91.11,"roi":3.75,"bo":13,"so":30,"buy":2427.8,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":336,"name":"Деструктор","t":1795618254943,"sale":1200,"ref":1420,"profit":78,"roi":6.5,"bo":14,"so":13,"buy":1108,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":21,"name":"Сумрак","t":1795620672252,"sale":553.29,"ref":690,"profit":67.71,"roi":12.24,"bo":3,"so":7,"buy":552.03,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1450,"name":"Тяга","t":1795623053855,"sale":2520,"ref":2899.51,"profit":89.56,"roi":3.55,"bo":11,"so":15,"buy":2361,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
