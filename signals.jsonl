@@ -1429,3 +1429,5 @@
 {"id":427,"name":"ПТУР-Л Флейта","t":1795597851698,"sale":360,"ref":428,"profit":25.2,"roi":7,"bo":19,"so":4,"buy":326.6,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":114,"name":"Стартер","t":1795599648241,"sale":900.71,"ref":1070.7,"profit":62.92,"roi":6.99,"bo":64,"so":11,"buy":889.21,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":418,"name":"Ураган","t":1795608087270,"sale":2200.09,"ref":2480.69,"profit":32.53,"roi":1.48,"bo":16,"so":37,"buy":2200,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":114,"name":"Стартер","t":1795608651775,"sale":889.21,"ref":1049.98,"profit":55.77,"roi":6.27,"bo":54,"so":14,"buy":889.2,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":592,"name":"Панджи","t":1795608653451,"sale":579.07,"ref":680,"profit":32.93,"roi":5.69,"bo":4,"so":22,"buy":575,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
