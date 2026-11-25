@@ -2289,3 +2289,5 @@
 {"id":635,"name":"Колесо багги (пов.)","t":1795578044952,"sale":174,"ref":205,"profit":10.5,"roi":6.03,"bo":14,"so":24,"buy":168.87,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1208,"name":"Автокатапульта","t":1795579858336,"sale":31.99,"ref":59.88,"profit":21.9,"roi":68.47,"bo":3,"so":15,"buy":3.87,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":112,"name":"Рвач","t":1795583447324,"sale":143.85,"ref":178.31,"profit":16.63,"roi":11.56,"bo":6,"so":13,"buy":142.02,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":287,"name":"АГС-55 Импульс","t":1795584663236,"sale":142.74,"ref":180,"profit":19.26,"roi":13.49,"bo":5,"so":33,"buy":141.01,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":93,"name":"Онгаку","t":1795584663236,"sale":192.03,"ref":230,"profit":14.97,"roi":7.8,"bo":2,"so":13,"buy":191.73,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

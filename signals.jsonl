@@ -1420,3 +1420,4 @@
 {"id":1377,"name":"Отблеск севера","t":1795581657171,"sale":937.43,"ref":1211.37,"profit":152.8,"roi":16.3,"bo":2,"so":6,"buy":900.1,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":241,"name":"Шквал","t":1795582251212,"sale":3111,"ref":3598.98,"profit":128.08,"roi":4.12,"bo":15,"so":19,"buy":3054,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":427,"name":"ПТУР-Л Флейта","t":1795582874880,"sale":326.35,"ref":398.99,"profit":32.74,"roi":10.03,"bo":16,"so":8,"buy":326.28,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795584670414,"sale":186.45,"ref":245.96,"profit":34.91,"roi":18.73,"bo":30,"so":7,"buy":185.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
