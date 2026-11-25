@@ -2331,3 +2331,4 @@
 {"id":347,"name":"Гром","t":1795620671611,"sale":125.05,"ref":157,"profit":16.25,"roi":12.99,"bo":3,"so":35,"buy":117.99,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":112,"name":"Рвач","t":1795621856415,"sale":144.17,"ref":184.48,"profit":21.86,"roi":15.16,"bo":1,"so":13,"buy":136,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":95,"name":"Марш возмездия","t":1795621856415,"sale":185.13,"ref":225,"profit":17.37,"roi":9.38,"bo":2,"so":5,"buy":172,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":372,"name":"Прометей V","t":1795622491335,"sale":403.01,"ref":460.99,"profit":11.88,"roi":2.95,"bo":24,"so":19,"buy":403,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
