@@ -2344,3 +2344,5 @@
 {"id":506,"name":"Максвелл","t":1795626083927,"sale":96,"ref":117.88,"profit":10.09,"roi":10.51,"bo":3,"so":6,"buy":94.01,"act":10,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":321,"name":"Мельник","t":1795626649114,"sale":405,"ref":470,"profit":18,"roi":4.44,"bo":18,"so":44,"buy":404,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":243,"name":"ШМ-5 Лавина","t":1795627254421,"sale":2500,"ref":2797.91,"profit":18.12,"roi":0.72,"bo":15,"so":35,"buy":2433.11,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":269,"name":"Медиана","t":1795627866011,"sale":122.94,"ref":156.62,"profit":18.02,"roi":14.66,"bo":3,"so":18,"buy":119.09,"act":10,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":464,"name":"Коготь","t":1795627866011,"sale":92.5,"ref":115.54,"profit":11.49,"roi":12.42,"bo":12,"so":19,"buy":92.27,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
