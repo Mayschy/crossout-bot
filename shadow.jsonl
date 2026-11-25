@@ -2293,3 +2293,5 @@
 {"id":93,"name":"Онгаку","t":1795584663236,"sale":192.03,"ref":230,"profit":14.97,"roi":7.8,"bo":2,"so":13,"buy":191.73,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":313,"name":"Буря","t":1795585849629,"sale":140.75,"ref":170,"profit":12.25,"roi":8.7,"bo":24,"so":8,"buy":140.74,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":675,"name":"Горбун","t":1795587050304,"sale":300.86,"ref":345.86,"profit":10.41,"roi":3.46,"bo":31,"so":11,"buy":281.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1057,"name":"Северное сияние","t":1795587646887,"sale":66.87,"ref":97.64,"profit":21.01,"roi":31.41,"bo":0,"so":2,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":171,"name":"Крянштейн","t":1795587646887,"sale":177.74,"ref":217,"profit":17.56,"roi":9.88,"bo":26,"so":3,"buy":143.88,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
