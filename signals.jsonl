@@ -1447,3 +1447,4 @@
 {"id":114,"name":"Стартер","t":1795627866841,"sale":910.55,"ref":1040,"profit":25.45,"roi":2.8,"bo":45,"so":19,"buy":890,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":180,"name":"Беркут","t":1795629054959,"sale":1602.06,"ref":1847.81,"profit":60.97,"roi":3.81,"bo":10,"so":12,"buy":1602.05,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":93,"name":"Онгаку","t":1795629056505,"sale":179.37,"ref":230,"profit":27.63,"roi":15.4,"bo":2,"so":12,"buy":178,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":280,"name":"Яогуай","t":1795630853366,"sale":321.03,"ref":421.89,"profit":58.67,"roi":18.28,"bo":13,"so":12,"buy":321,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
