@@ -1416,3 +1416,4 @@
 {"id":317,"name":"Дамка","t":1795567250310,"sale":1258.02,"ref":1444.44,"profit":41.98,"roi":3.34,"bo":6,"so":17,"buy":1258,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":228,"name":"Надувной Голиаф левый","t":1795569649921,"sale":247.76,"ref":328.36,"profit":47.76,"roi":19.28,"bo":2,"so":2,"buy":239.1,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":42,"name":"Спаситель","t":1795569651846,"sale":468,"ref":556,"profit":32.4,"roi":6.92,"bo":6,"so":13,"buy":430.1,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":223,"name":"Надувной Мамонт","t":1795575676121,"sale":1100,"ref":1356.25,"profit":120.63,"roi":10.97,"bo":1,"so":4,"buy":911.1,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
