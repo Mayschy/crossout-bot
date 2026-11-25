@@ -1421,3 +1421,5 @@
 {"id":241,"name":"Шквал","t":1795582251212,"sale":3111,"ref":3598.98,"profit":128.08,"roi":4.12,"bo":15,"so":19,"buy":3054,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":427,"name":"ПТУР-Л Флейта","t":1795582874880,"sale":326.35,"ref":398.99,"profit":32.74,"roi":10.03,"bo":16,"so":8,"buy":326.28,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795584670414,"sale":186.45,"ref":245.96,"profit":34.91,"roi":18.73,"bo":30,"so":7,"buy":185.05,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1054,"name":"Шаблон: Шахматы","t":1795586476990,"sale":18147.67,"ref":20488.87,"profit":292.31,"roi":1.61,"bo":2,"so":4,"buy":12121.12,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":564,"name":"Парис","t":1795586478585,"sale":627.26,"ref":738.28,"profit":37.19,"roi":5.93,"bo":0,"so":21,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
