@@ -2286,3 +2286,4 @@
 {"id":3777,"name":"Морриган","t":1795569043358,"sale":5426.82,"ref":6048.96,"profit":17.24,"roi":0.32,"bo":9,"so":4,"buy":5424,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3769,"name":"Смог-15","t":1795571443721,"sale":184,"ref":216.9,"profit":11.21,"roi":6.09,"bo":5,"so":11,"buy":183.07,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1206,"name":"Стальной мяч","t":1795575042247,"sale":250,"ref":298,"profit":18.2,"roi":7.28,"bo":7,"so":24,"buy":151.01,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":635,"name":"Колесо багги (пов.)","t":1795578044952,"sale":174,"ref":205,"profit":10.5,"roi":6.03,"bo":14,"so":24,"buy":168.87,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
