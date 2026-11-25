@@ -2301,3 +2301,4 @@
 {"id":3769,"name":"Смог-15","t":1795593679309,"sale":182,"ref":215,"profit":11.5,"roi":6.32,"bo":3,"so":12,"buy":179.79,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":91,"name":"Удочка","t":1795594846755,"sale":12.74,"ref":31.8,"profit":15.88,"roi":124.65,"bo":11,"so":10,"buy":12.61,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":482,"name":"Мигалка","t":1795594846755,"sale":200,"ref":238.88,"profit":14.99,"roi":7.5,"bo":1,"so":13,"buy":160,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":171,"name":"Крянштейн","t":1795596048316,"sale":169.54,"ref":200,"profit":10.46,"roi":6.17,"bo":21,"so":22,"buy":143.88,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
