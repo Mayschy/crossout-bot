@@ -1433,3 +1433,4 @@
 {"id":592,"name":"Панджи","t":1795608653451,"sale":579.07,"ref":680,"profit":32.93,"roi":5.69,"bo":4,"so":22,"buy":575,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1450,"name":"Тяга","t":1795614050380,"sale":2520,"ref":2899.51,"profit":89.56,"roi":3.55,"bo":10,"so":19,"buy":2350,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1073,"name":"Ожог","t":1795614051710,"sale":25.77,"ref":69.94,"profit":37.18,"roi":144.26,"bo":2,"so":2,"buy":17.23,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795614652644,"sale":175.22,"ref":232.06,"profit":33.63,"roi":19.2,"bo":25,"so":12,"buy":170.36,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
