@@ -1436,3 +1436,4 @@
 {"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795614652644,"sale":175.22,"ref":232.06,"profit":33.63,"roi":19.2,"bo":25,"so":12,"buy":170.36,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":281,"name":"СД-15 Гриф","t":1795616454901,"sale":1800,"ref":2199.94,"profit":179.95,"roi":10,"bo":5,"so":5,"buy":1783.3,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":46,"name":"Марс","t":1795616456377,"sale":2600,"ref":2945,"profit":50.5,"roi":1.94,"bo":5,"so":7,"buy":2500,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":243,"name":"ШМ-5 Лавина","t":1795617651396,"sale":2428.88,"ref":2799.99,"profit":91.11,"roi":3.75,"bo":13,"so":30,"buy":2427.8,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
