@@ -1455,3 +1455,4 @@
 {"id":182,"name":"Крылья надежды","t":1795635648823,"sale":102.99,"ref":156.2,"profit":37.59,"roi":36.5,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":242,"name":"Коммит","t":1795636877177,"sale":1810,"ref":2044,"profit":29.6,"roi":1.64,"bo":7,"so":11,"buy":1800,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":23,"name":"Маниту","t":1795638670091,"sale":492.32,"ref":639.98,"profit":83.66,"roi":16.99,"bo":8,"so":7,"buy":491.99,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":439,"name":"Драйвер","t":1795639845989,"sale":906,"ref":1038.87,"profit":28.98,"roi":3.2,"bo":19,"so":22,"buy":905.11,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
