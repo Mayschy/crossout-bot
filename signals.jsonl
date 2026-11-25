@@ -1449,3 +1449,4 @@
 {"id":93,"name":"Онгаку","t":1795629056505,"sale":179.37,"ref":230,"profit":27.63,"roi":15.4,"bo":2,"so":12,"buy":178,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":280,"name":"Яогуай","t":1795630853366,"sale":321.03,"ref":421.89,"profit":58.67,"roi":18.28,"bo":13,"so":12,"buy":321,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":182,"name":"Крылья надежды","t":1795631473658,"sale":102.99,"ref":156.2,"profit":37.59,"roi":36.5,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":55,"name":"Эхо","t":1795633286223,"sale":426,"ref":520,"profit":42,"roi":9.86,"bo":10,"so":15,"buy":425,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
