@@ -1596,3 +1596,5 @@
 {"id":592,"name":"Панджи","t":1795734086087,"sale":581,"ref":679.98,"profit":30.98,"roi":5.33,"bo":4,"so":13,"buy":580,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3788,"name":"Предмет #3788","t":1795734655980,"sale":301.74,"ref":769.98,"profit":391.24,"roi":129.66,"bo":3,"so":4,"buy":20,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":918,"name":"Номер «5»","t":1795735869391,"sale":212.03,"ref":300,"profit":57.97,"roi":27.34,"bo":0,"so":3,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":257,"name":"Слон","t":1795736449879,"sale":1730.01,"ref":2050,"profit":114.99,"roi":6.65,"bo":4,"so":14,"buy":1730,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":606,"name":"Титан (пов.)","t":1795736451397,"sale":169.18,"ref":226.26,"profit":34.45,"roi":20.37,"bo":4,"so":9,"buy":166.43,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
