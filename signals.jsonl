@@ -1530,3 +1530,4 @@
 {"id":619,"name":"Омни","t":1795696849380,"sale":260,"ref":319.99,"profit":27.99,"roi":10.77,"bo":38,"so":70,"buy":244.24,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":340,"name":"Афина","t":1795698084240,"sale":2630,"ref":3103.34,"profit":163.01,"roi":6.2,"bo":6,"so":6,"buy":2400.44,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":228,"name":"Надувной Голиаф левый","t":1795698085771,"sale":239.11,"ref":329.35,"profit":57.31,"roi":23.97,"bo":2,"so":4,"buy":239.1,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":506,"name":"Максвелл","t":1795698654643,"sale":121.14,"ref":169.97,"profit":31.83,"roi":26.28,"bo":19,"so":15,"buy":118.11,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
