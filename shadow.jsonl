@@ -2493,3 +2493,4 @@
 {"id":511,"name":"РС Нерпа","t":1795729253583,"sale":360,"ref":413.67,"profit":12.3,"roi":3.42,"bo":15,"so":16,"buy":326.27,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":496,"name":"СВ-2 Буревестник","t":1795729847478,"sale":386,"ref":450.59,"profit":19.53,"roi":5.06,"bo":9,"so":1,"buy":345,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1795735867321,"sale":143.95,"ref":181.41,"profit":19.32,"roi":13.42,"bo":0,"so":21,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":478,"name":"ОКО","t":1795737048247,"sale":46.13,"ref":65.16,"profit":12.51,"roi":27.13,"bo":0,"so":5,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
