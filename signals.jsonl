@@ -1523,3 +1523,4 @@
 {"id":306,"name":"Гунгнир","t":1795692065143,"sale":310.01,"ref":389.93,"profit":40.93,"roi":13.2,"bo":24,"so":19,"buy":310,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":619,"name":"Омни","t":1795692066591,"sale":450.74,"ref":540,"profit":35.26,"roi":7.82,"bo":43,"so":42,"buy":440,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3784,"name":"Предмет #3784","t":1795693258299,"sale":3998.89,"ref":8000,"profit":3201.11,"roi":80.05,"bo":11,"so":2,"buy":2500,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":299,"name":"Гибрид","t":1795694489146,"sale":2449.99,"ref":2788.99,"profit":60.1,"roi":2.45,"bo":8,"so":18,"buy":2326.76,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

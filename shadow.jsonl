@@ -2408,3 +2408,5 @@
 {"id":372,"name":"Прометей V","t":1795692669250,"sale":392.11,"ref":454.81,"profit":17.22,"roi":4.39,"bo":10,"so":28,"buy":392,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":189,"name":"Четкий","t":1795693850274,"sale":170,"ref":209.96,"profit":18.96,"roi":11.16,"bo":7,"so":16,"buy":168.95,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":566,"name":"Хамелеон Mk2","t":1795693850274,"sale":300,"ref":347.66,"profit":12.89,"roi":4.3,"bo":14,"so":12,"buy":291.06,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":420,"name":"Гнездо","t":1795694488250,"sale":490,"ref":570,"profit":23,"roi":4.69,"bo":19,"so":34,"buy":412,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":419,"name":"Пламя","t":1795694488250,"sale":399.99,"ref":460.99,"profit":14.9,"roi":3.73,"bo":20,"so":36,"buy":319.22,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
