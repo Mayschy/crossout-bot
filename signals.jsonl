@@ -1543,3 +1543,4 @@
 {"id":3788,"name":"Предмет #3788","t":1795702859716,"sale":999,"ref":9999.99,"profit":8000.99,"roi":800.9,"bo":5,"so":2,"buy":181.01,"act":3,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":281,"name":"СД-15 Гриф","t":1795702861291,"sale":1900,"ref":2189.98,"profit":70.98,"roi":3.74,"bo":2,"so":10,"buy":1785.01,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":596,"name":"Барьер IX","t":1795702862837,"sale":319.96,"ref":399.8,"profit":39.86,"roi":12.46,"bo":1,"so":28,"buy":315.54,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3745,"name":"Вендетта","t":1795704051984,"sale":2186.08,"ref":2600,"profit":153.92,"roi":7.04,"bo":0,"so":13,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}

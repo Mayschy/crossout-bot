@@ -2435,3 +2435,5 @@
 {"id":169,"name":"Шароутка","t":1795703469701,"sale":340,"ref":396.47,"profit":16.82,"roi":4.95,"bo":20,"so":46,"buy":314.48,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":514,"name":"Ядро","t":1795703469701,"sale":195,"ref":229.98,"profit":11.98,"roi":6.14,"bo":7,"so":11,"buy":188.88,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":411,"name":"Оледенение","t":1795703469701,"sale":69.33,"ref":88.5,"profit":10.32,"roi":14.89,"bo":1,"so":1,"buy":7.78,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":189,"name":"Четкий","t":1795704050965,"sale":168.58,"ref":209.7,"profit":20.15,"roi":11.95,"bo":5,"so":22,"buy":168.57,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1397,"name":"Преисподняя","t":1795704050965,"sale":71.57,"ref":94.09,"profit":13.11,"roi":18.32,"bo":1,"so":1,"buy":70,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
