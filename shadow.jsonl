@@ -2444,3 +2444,4 @@
 {"id":32,"name":"Фотон","t":1795706448847,"sale":340,"ref":400,"profit":20,"roi":5.88,"bo":5,"so":29,"buy":327,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":514,"name":"Ядро","t":1795706448847,"sale":188.88,"ref":229.98,"profit":18.1,"roi":9.58,"bo":5,"so":10,"buy":182.21,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":683,"name":"Утиный клад","t":1795707066194,"sale":155.11,"ref":183.98,"profit":10.47,"roi":6.75,"bo":8,"so":59,"buy":149.71,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":91,"name":"Удочка","t":1795707645841,"sale":14.85,"ref":31.8,"profit":13.77,"roi":92.73,"bo":12,"so":2,"buy":13.06,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
