@@ -1574,3 +1574,5 @@
 {"id":3763,"name":"МВП Флагман","t":1795715449425,"sale":502.99,"ref":600,"profit":37.01,"roi":7.36,"bo":17,"so":43,"buy":502.56,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":518,"name":"Оберег","t":1795715450955,"sale":500,"ref":590.9,"profit":31.81,"roi":6.36,"bo":26,"so":4,"buy":479,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":648,"name":"Развал (пов.)","t":1795715452643,"sale":106,"ref":152.51,"profit":31.26,"roi":29.49,"bo":50,"so":27,"buy":90.13,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":9,"name":"Джаннаби","t":1795717875316,"sale":284.06,"ref":355.83,"profit":36.19,"roi":12.74,"bo":4,"so":14,"buy":282.17,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":169,"name":"Шароутка","t":1795717877372,"sale":290,"ref":350,"profit":25,"roi":8.62,"bo":16,"so":57,"buy":280.02,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

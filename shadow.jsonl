@@ -2469,3 +2469,4 @@
 {"id":9,"name":"Джаннаби","t":1795716648640,"sale":300,"ref":355.83,"profit":20.25,"roi":6.75,"bo":5,"so":14,"buy":284.06,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":584,"name":"Файер «Новогодний»","t":1795717251740,"sale":203.66,"ref":243.4,"profit":15.4,"roi":7.56,"bo":8,"so":4,"buy":165,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":119,"name":"КА-1 Разрядник","t":1795717251740,"sale":58.27,"ref":76.31,"profit":10.41,"roi":17.86,"bo":10,"so":5,"buy":56,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":482,"name":"Мигалка","t":1795717874482,"sale":213.89,"ref":249.98,"profit":11.09,"roi":5.19,"bo":3,"so":5,"buy":172,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
