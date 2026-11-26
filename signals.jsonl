@@ -1559,3 +1559,7 @@
 {"id":190,"name":"Пегас","t":1795710049069,"sale":4700,"ref":5299.99,"profit":69.99,"roi":1.49,"bo":4,"so":8,"buy":4481,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3789,"name":"Предмет #3789","t":1795710056595,"sale":688.99,"ref":812.66,"profit":42.4,"roi":6.15,"bo":51,"so":27,"buy":678.01,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3786,"name":"Предмет #3786","t":1795711860509,"sale":2770,"ref":3300,"profit":200,"roi":7.22,"bo":15,"so":5,"buy":2470.14,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3788,"name":"Предмет #3788","t":1795712491747,"sale":380,"ref":800,"profit":340,"roi":89.47,"bo":3,"so":2,"buy":20,"act":5,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":4,"name":"Холодильник","t":1795712494405,"sale":703,"ref":849.88,"profit":61.89,"roi":8.8,"bo":5,"so":6,"buy":702,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":24,"name":"Инферно","t":1795712495890,"sale":881.35,"ref":1035,"profit":50.15,"roi":5.69,"bo":15,"so":26,"buy":881,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":419,"name":"Пламя","t":1795712497244,"sale":321.12,"ref":399.8,"profit":38.7,"roi":12.05,"bo":26,"so":29,"buy":319.29,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

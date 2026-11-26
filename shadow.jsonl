@@ -2453,3 +2453,4 @@
 {"id":113,"name":"Терзатель","t":1795710668102,"sale":155,"ref":196.94,"profit":22.25,"roi":14.35,"bo":3,"so":8,"buy":151.01,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":263,"name":"ЗА-4 Звездопад","t":1795710668102,"sale":2790,"ref":3124,"profit":21.6,"roi":0.77,"bo":10,"so":26,"buy":2700.04,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":248,"name":"Обвинитель 76мм","t":1795710668102,"sale":118.2,"ref":143,"profit":10.5,"roi":8.88,"bo":19,"so":25,"buy":117.65,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":421,"name":"Тромбон","t":1795712485003,"sale":660,"ref":751.01,"profit":15.91,"roi":2.41,"bo":10,"so":16,"buy":650,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
