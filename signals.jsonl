@@ -1538,3 +1538,5 @@
 {"id":3785,"name":"Предмет #3785","t":1795701054411,"sale":819.99,"ref":988,"profit":69.21,"roi":8.44,"bo":30,"so":28,"buy":800,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":112,"name":"Рвач","t":1795701682251,"sale":443.24,"ref":550,"profit":51.76,"roi":11.68,"bo":56,"so":10,"buy":370.06,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":394,"name":"Комбайн","t":1795701683844,"sale":1585.88,"ref":1800.85,"profit":34.88,"roi":2.2,"bo":3,"so":19,"buy":1585.01,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":280,"name":"Яогуай","t":1795702250349,"sale":321.5,"ref":393,"profit":32.2,"roi":10.02,"bo":8,"so":23,"buy":316.06,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":246,"name":"Палач 88мм","t":1795702251795,"sale":314.57,"ref":377.99,"profit":25.62,"roi":8.14,"bo":2,"so":43,"buy":314.56,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
