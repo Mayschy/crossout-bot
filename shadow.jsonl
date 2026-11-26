@@ -2470,3 +2470,7 @@
 {"id":584,"name":"Файер «Новогодний»","t":1795717251740,"sale":203.66,"ref":243.4,"profit":15.4,"roi":7.56,"bo":8,"so":4,"buy":165,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":119,"name":"КА-1 Разрядник","t":1795717251740,"sale":58.27,"ref":76.31,"profit":10.41,"roi":17.86,"bo":10,"so":5,"buy":56,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":482,"name":"Мигалка","t":1795717874482,"sale":213.89,"ref":249.98,"profit":11.09,"roi":5.19,"bo":3,"so":5,"buy":172,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":189,"name":"Четкий","t":1795718448779,"sale":151.59,"ref":188.9,"profit":18.42,"roi":12.15,"bo":1,"so":21,"buy":149.07,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":169,"name":"Шароутка","t":1795718448779,"sale":290,"ref":339,"profit":15.1,"roi":5.21,"bo":16,"so":58,"buy":280.02,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":710,"name":"Расширение склада","t":1795718448779,"sale":299.99,"ref":345.96,"profit":11.37,"roi":3.79,"bo":42,"so":30,"buy":275.4,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":624,"name":"Затворник","t":1795718448779,"sale":45.66,"ref":62.49,"profit":10.58,"roi":23.17,"bo":11,"so":5,"buy":45.55,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

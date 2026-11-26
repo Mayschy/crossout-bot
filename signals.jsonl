@@ -1576,3 +1576,4 @@
 {"id":648,"name":"Развал (пов.)","t":1795715452643,"sale":106,"ref":152.51,"profit":31.26,"roi":29.49,"bo":50,"so":27,"buy":90.13,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":9,"name":"Джаннаби","t":1795717875316,"sale":284.06,"ref":355.83,"profit":36.19,"roi":12.74,"bo":4,"so":14,"buy":282.17,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":169,"name":"Шароутка","t":1795717877372,"sale":290,"ref":350,"profit":25,"roi":8.62,"bo":16,"so":57,"buy":280.02,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3786,"name":"Предмет #3786","t":1795718456172,"sale":2739.88,"ref":3500,"profit":410.12,"roi":14.97,"bo":17,"so":3,"buy":2500,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
