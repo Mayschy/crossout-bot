@@ -2377,3 +2377,5 @@
 {"id":420,"name":"Гнездо","t":1795661444592,"sale":358,"ref":420.06,"profit":20.05,"roi":5.6,"bo":9,"so":23,"buy":357.18,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":584,"name":"Файер «Новогодний»","t":1795662644445,"sale":200,"ref":243.4,"profit":19.06,"roi":9.53,"bo":5,"so":3,"buy":162,"act":4,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":556,"name":"Фатум","t":1795662644445,"sale":350,"ref":409,"profit":18.1,"roi":5.17,"bo":8,"so":14,"buy":331,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":321,"name":"Мельник","t":1795665689546,"sale":404,"ref":469,"profit":18.1,"roi":4.48,"bo":17,"so":37,"buy":400,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":91,"name":"Удочка","t":1795665689546,"sale":15.55,"ref":31.8,"profit":13.07,"roi":84.05,"bo":11,"so":3,"buy":13.04,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
