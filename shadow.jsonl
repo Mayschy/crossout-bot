@@ -2481,3 +2481,6 @@
 {"id":506,"name":"Максвелл","t":1795719679675,"sale":126,"ref":153.89,"profit":12.5,"roi":9.92,"bo":15,"so":32,"buy":120.39,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":332,"name":"Тирс I","t":1795720246253,"sale":1737,"ref":1950,"profit":18,"roi":1.04,"bo":3,"so":10,"buy":1700,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":506,"name":"Максвелл","t":1795720246253,"sale":121.2,"ref":153.57,"profit":17.01,"roi":14.04,"bo":14,"so":35,"buy":120.39,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":184,"name":"Исполин","t":1795720848614,"sale":169.06,"ref":211.98,"profit":21.72,"roi":12.85,"bo":10,"so":30,"buy":168.54,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":93,"name":"Онгаку","t":1795720848614,"sale":203,"ref":248.08,"profit":20.27,"roi":9.99,"bo":2,"so":7,"buy":167.02,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":605,"name":"Титан","t":1795720848614,"sale":90.18,"ref":115.94,"profit":14.17,"roi":15.71,"bo":2,"so":21,"buy":87,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
