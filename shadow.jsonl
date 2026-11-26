@@ -2372,3 +2372,5 @@
 {"id":185,"name":"Жесткач","t":1795653068732,"sale":111.51,"ref":149.15,"profit":22.73,"roi":20.38,"bo":11,"so":7,"buy":100.67,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":213,"name":"Черепная труба","t":1795654250073,"sale":166.72,"ref":200.56,"profit":13.78,"roi":8.27,"bo":4,"so":19,"buy":31,"act":3,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1159,"name":"Большая рампа 6×12×6","t":1795654250073,"sale":74,"ref":95,"profit":11.5,"roi":15.54,"bo":3,"so":58,"buy":5.81,"act":9,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":586,"name":"Слейпнир","t":1795656668687,"sale":300,"ref":350,"profit":15,"roi":5,"bo":0,"so":52,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":565,"name":"Хамелеон","t":1795656668687,"sale":71.54,"ref":90.75,"profit":10.13,"roi":14.17,"bo":6,"so":12,"buy":71.53,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
