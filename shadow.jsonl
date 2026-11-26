@@ -2370,3 +2370,5 @@
 {"id":420,"name":"Гнездо","t":1795652446783,"sale":360,"ref":420.19,"profit":18.17,"roi":5.05,"bo":11,"so":24,"buy":359.99,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":293,"name":"Шкуродер","t":1795652446783,"sale":229,"ref":269.94,"profit":13.95,"roi":6.09,"bo":10,"so":8,"buy":219.12,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":185,"name":"Жесткач","t":1795653068732,"sale":111.51,"ref":149.15,"profit":22.73,"roi":20.38,"bo":11,"so":7,"buy":100.67,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":213,"name":"Черепная труба","t":1795654250073,"sale":166.72,"ref":200.56,"profit":13.78,"roi":8.27,"bo":4,"so":19,"buy":31,"act":3,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1159,"name":"Большая рампа 6×12×6","t":1795654250073,"sale":74,"ref":95,"profit":11.5,"roi":15.54,"bo":3,"so":58,"buy":5.81,"act":9,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
