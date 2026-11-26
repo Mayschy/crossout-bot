@@ -1525,3 +1525,5 @@
 {"id":3784,"name":"Предмет #3784","t":1795693258299,"sale":3998.89,"ref":8000,"profit":3201.11,"roi":80.05,"bo":11,"so":2,"buy":2500,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":299,"name":"Гибрид","t":1795694489146,"sale":2449.99,"ref":2788.99,"profit":60.1,"roi":2.45,"bo":8,"so":18,"buy":2326.76,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1449,"name":"Гиена","t":1795695653717,"sale":806,"ref":950,"profit":49,"roi":6.08,"bo":21,"so":41,"buy":803,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3785,"name":"Предмет #3785","t":1795696272790,"sale":725.5,"ref":1091.46,"profit":256.81,"roi":35.4,"bo":24,"so":30,"buy":450,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":568,"name":"Верификатор","t":1795696274141,"sale":355.01,"ref":499.89,"profit":94.89,"roi":26.73,"bo":47,"so":84,"buy":354.12,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

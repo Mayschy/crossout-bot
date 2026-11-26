@@ -2413,3 +2413,7 @@
 {"id":619,"name":"Омни","t":1795695052226,"sale":299.99,"ref":350,"profit":15.01,"roi":5,"bo":42,"so":83,"buy":248,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":464,"name":"Коготь","t":1795695052226,"sale":96,"ref":119.99,"profit":11.99,"roi":12.49,"bo":14,"so":30,"buy":95,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3794,"name":"Предмет #3794","t":1795695652898,"sale":29,"ref":50,"profit":16,"roi":55.17,"bo":8,"so":11,"buy":10,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":576,"name":"Гусеница малая","t":1795696266483,"sale":160.1,"ref":204.8,"profit":24.22,"roi":15.13,"bo":12,"so":52,"buy":160.05,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":619,"name":"Омни","t":1795696266483,"sale":270,"ref":319.99,"profit":17.99,"roi":6.66,"bo":39,"so":85,"buy":245.01,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":114,"name":"Стартер","t":1795696266483,"sale":905,"ref":1024.99,"profit":17.49,"roi":1.93,"bo":43,"so":23,"buy":900.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":169,"name":"Шароутка","t":1795696266483,"sale":350,"ref":400,"profit":10,"roi":2.86,"bo":16,"so":27,"buy":300,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
