@@ -1496,3 +1496,5 @@
 {"id":3796,"name":"Предмет #3796","t":1795682462108,"sale":100,"ref":30000,"profit":26900,"roi":26900,"bo":15,"so":4,"buy":1.12,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":225,"name":"Надувной Бигфут","t":1795683053837,"sale":157,"ref":214.3,"profit":35.87,"roi":22.85,"bo":6,"so":2,"buy":156,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3783,"name":"Предмет #3783","t":1795684854577,"sale":3387.87,"ref":3800,"profit":32.13,"roi":0.95,"bo":21,"so":4,"buy":2200,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3792,"name":"Предмет #3792","t":1795685474282,"sale":3930.18,"ref":32999.99,"profit":25769.81,"roi":655.69,"bo":2,"so":4,"buy":0.15,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3764,"name":"Громила","t":1795685477316,"sale":562.33,"ref":658.89,"profit":30.67,"roi":5.45,"bo":62,"so":12,"buy":505,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
