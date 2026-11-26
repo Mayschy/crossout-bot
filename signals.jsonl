@@ -1591,3 +1591,5 @@
 {"id":278,"name":"Артемида","t":1795728669656,"sale":1136.16,"ref":1388.89,"profit":113.84,"roi":10.02,"bo":3,"so":29,"buy":1136.15,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":189,"name":"Четкий","t":1795728671571,"sale":153.83,"ref":207,"profit":32.47,"roi":21.11,"bo":10,"so":13,"buy":150.81,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":606,"name":"Титан (пов.)","t":1795729255245,"sale":169.18,"ref":226.26,"profit":34.45,"roi":20.37,"bo":4,"so":7,"buy":166.43,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":41,"name":"Аякс","t":1795729848166,"sale":1580,"ref":1849.81,"profit":84.83,"roi":5.37,"bo":2,"so":21,"buy":1560,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":583,"name":"Файер «Энергия Ци»","t":1795729849612,"sale":177.87,"ref":264.51,"profit":60.19,"roi":33.84,"bo":3,"so":3,"buy":120.01,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
