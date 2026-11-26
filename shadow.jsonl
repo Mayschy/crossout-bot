@@ -2437,3 +2437,4 @@
 {"id":411,"name":"Оледенение","t":1795703469701,"sale":69.33,"ref":88.5,"profit":10.32,"roi":14.89,"bo":1,"so":1,"buy":7.78,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":189,"name":"Четкий","t":1795704050965,"sale":168.58,"ref":209.7,"profit":20.15,"roi":11.95,"bo":5,"so":22,"buy":168.57,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1397,"name":"Преисподняя","t":1795704050965,"sale":71.57,"ref":94.09,"profit":13.11,"roi":18.32,"bo":1,"so":1,"buy":70,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":186,"name":"Гонитель","t":1795704649053,"sale":410,"ref":469,"profit":12.1,"roi":2.95,"bo":10,"so":14,"buy":362.4,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

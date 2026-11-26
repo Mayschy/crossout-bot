@@ -1544,3 +1544,4 @@
 {"id":281,"name":"СД-15 Гриф","t":1795702861291,"sale":1900,"ref":2189.98,"profit":70.98,"roi":3.74,"bo":2,"so":10,"buy":1785.01,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":596,"name":"Барьер IX","t":1795702862837,"sale":319.96,"ref":399.8,"profit":39.86,"roi":12.46,"bo":1,"so":28,"buy":315.54,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3745,"name":"Вендетта","t":1795704051984,"sale":2186.08,"ref":2600,"profit":153.92,"roi":7.04,"bo":0,"so":13,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":41,"name":"Аякс","t":1795704649893,"sale":1666.21,"ref":1897.96,"profit":41.95,"roi":2.52,"bo":1,"so":24,"buy":1666.11,"act":11,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
