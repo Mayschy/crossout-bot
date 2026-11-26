@@ -2418,3 +2418,5 @@
 {"id":114,"name":"Стартер","t":1795696266483,"sale":905,"ref":1024.99,"profit":17.49,"roi":1.93,"bo":43,"so":23,"buy":900.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":169,"name":"Шароутка","t":1795696266483,"sale":350,"ref":400,"profit":10,"roi":2.86,"bo":16,"so":27,"buy":300,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":454,"name":"Спойлер","t":1795696848674,"sale":166.62,"ref":204.96,"profit":17.84,"roi":10.71,"bo":4,"so":4,"buy":166.61,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3764,"name":"Громила","t":1795697449554,"sale":525,"ref":610,"profit":24,"roi":4.57,"bo":58,"so":21,"buy":506.01,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":518,"name":"Оберег","t":1795697449554,"sale":470,"ref":538,"profit":14.2,"roi":3.02,"bo":15,"so":5,"buy":467,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
