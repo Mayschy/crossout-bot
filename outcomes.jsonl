@@ -19225,3 +19225,7 @@
 {"id":185,"t":1795670447561,"h":30,"at":1795672200000,"s":141.5,"b":115.99,"so":12,"bo":13,"ask":16.96,"instant":-6,"taken":true,"shadow":true,"roi":15.36,"capital":110.39,"late":false}
 {"id":321,"t":1795671648895,"h":10,"at":1795672200000,"s":400,"b":398,"so":34,"bo":14,"ask":-40,"instant":-41.8,"taken":false,"shadow":true,"roi":-10,"capital":400,"late":false}
 {"id":313,"t":1795671648895,"h":10,"at":1795672200000,"s":149.19,"b":149,"so":6,"bo":13,"ask":-14.92,"instant":-15.09,"taken":false,"shadow":true,"roi":-10,"capital":149.19,"late":false}
+{"id":514,"t":1795671649634,"h":20,"at":1795672800000,"s":177.06,"b":175,"so":10,"bo":4,"ask":-17.71,"instant":-19.56,"taken":false,"shadow":false,"roi":-10,"capital":177.06,"late":false}
+{"id":365,"t":1795672254963,"h":10,"at":1795672800000,"s":2500,"b":2205.04,"so":25,"bo":15,"ask":44.95,"instant":-220.51,"taken":true,"shadow":false,"roi":2.04,"capital":2205.05,"late":false}
+{"id":321,"t":1795671648895,"h":20,"at":1795672800000,"s":400,"b":398,"so":34,"bo":14,"ask":-40,"instant":-41.8,"taken":false,"shadow":true,"roi":-10,"capital":400,"late":false}
+{"id":313,"t":1795671648895,"h":20,"at":1795672800000,"s":184.99,"b":149.19,"so":5,"bo":14,"ask":17.3,"instant":-14.92,"taken":true,"shadow":true,"roi":11.6,"capital":149.19,"late":false}
