@@ -1488,3 +1488,5 @@
 {"id":3783,"name":"Предмет #3783","t":1795679453049,"sale":4999.99,"ref":6000,"profit":400.01,"roi":8,"bo":6,"so":4,"buy":2501,"act":8,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":504,"name":"Аннигилятор","t":1795679454539,"sale":1021,"ref":1189.99,"profit":49.99,"roi":4.9,"bo":4,"so":16,"buy":1020,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3792,"name":"Предмет #3792","t":1795680087895,"sale":400,"ref":500,"profit":50,"roi":12.5,"bo":2,"so":2,"buy":0.15,"act":5,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3794,"name":"Предмет #3794","t":1795680653458,"sale":400,"ref":499,"profit":49.1,"roi":12.28,"bo":3,"so":4,"buy":31.93,"act":8,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":280,"name":"Яогуай","t":1795680654893,"sale":325.01,"ref":406,"profit":40.39,"roi":12.43,"bo":9,"so":12,"buy":321.5,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
