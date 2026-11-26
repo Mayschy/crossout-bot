@@ -1506,3 +1506,5 @@
 {"id":24,"name":"Инферно","t":1795689070952,"sale":900,"ref":1049,"profit":44.1,"roi":4.9,"bo":6,"so":15,"buy":870.35,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3790,"name":"Предмет #3790","t":1795689077828,"sale":307.06,"ref":388.89,"profit":42.94,"roi":13.98,"bo":1,"so":12,"buy":0.11,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3794,"name":"Предмет #3794","t":1795689084427,"sale":50,"ref":83.34,"profit":25.01,"roi":50.01,"bo":9,"so":9,"buy":20,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3783,"name":"Предмет #3783","t":1795690254936,"sale":2900,"ref":3499.89,"profit":249.9,"roi":8.62,"bo":13,"so":8,"buy":2600,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":349,"name":"Тритон","t":1795690256297,"sale":2000.45,"ref":2349.99,"profit":114.54,"roi":5.73,"bo":12,"so":19,"buy":2000.41,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}

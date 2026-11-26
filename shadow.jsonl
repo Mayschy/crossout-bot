@@ -2396,3 +2396,4 @@
 {"id":84,"name":"Гермес","t":1795686646120,"sale":306.1,"ref":355.95,"profit":14.25,"roi":4.66,"bo":7,"so":22,"buy":306.09,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3785,"name":"Предмет #3785","t":1795687851759,"sale":1155.45,"ref":1300,"profit":14.55,"roi":1.26,"bo":26,"so":28,"buy":1099.95,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":5,"name":"Кастет","t":1795689070402,"sale":200,"ref":242.07,"profit":17.86,"roi":8.93,"bo":20,"so":5,"buy":188,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":100,"name":"«Ре минор»","t":1795690248439,"sale":49.4,"ref":69.95,"profit":13.56,"roi":27.44,"bo":1,"so":6,"buy":47.18,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
