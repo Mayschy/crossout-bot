@@ -2394,3 +2394,4 @@
 {"id":464,"name":"Коготь","t":1795685467249,"sale":96,"ref":119.99,"profit":11.99,"roi":12.49,"bo":14,"so":27,"buy":95,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3790,"name":"Предмет #3790","t":1795686646120,"sale":388.89,"ref":454.99,"profit":20.6,"roi":5.3,"bo":1,"so":15,"buy":0.11,"act":5,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":84,"name":"Гермес","t":1795686646120,"sale":306.1,"ref":355.95,"profit":14.25,"roi":4.66,"bo":7,"so":22,"buy":306.09,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3785,"name":"Предмет #3785","t":1795687851759,"sale":1155.45,"ref":1300,"profit":14.55,"roi":1.26,"bo":26,"so":28,"buy":1099.95,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
