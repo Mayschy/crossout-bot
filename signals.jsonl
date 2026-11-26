@@ -1556,3 +1556,5 @@
 {"id":281,"name":"СД-15 Гриф","t":1795708888944,"sale":1725.36,"ref":2189.98,"profit":245.62,"roi":14.24,"bo":0,"so":8,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1377,"name":"Отблеск севера","t":1795708890395,"sale":1126.24,"ref":1324,"profit":65.36,"roi":5.8,"bo":7,"so":6,"buy":849.87,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
 {"id":496,"name":"СВ-2 Буревестник","t":1795708891907,"sale":360,"ref":432.17,"profit":28.95,"roi":8.04,"bo":4,"so":3,"buy":333.13,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":190,"name":"Пегас","t":1795710049069,"sale":4700,"ref":5299.99,"profit":69.99,"roi":1.49,"bo":4,"so":8,"buy":4481,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3789,"name":"Предмет #3789","t":1795710056595,"sale":688.99,"ref":812.66,"profit":42.4,"roi":6.15,"bo":51,"so":27,"buy":678.01,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

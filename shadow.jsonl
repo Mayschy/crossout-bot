@@ -2448,3 +2448,5 @@
 {"id":1090,"name":"Холодное пламя","t":1795708251969,"sale":55.29,"ref":78.26,"profit":15.14,"roi":27.39,"bo":3,"so":2,"buy":3.59,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":656,"name":"Грейфер","t":1795708887875,"sale":203.84,"ref":248.66,"profit":19.95,"roi":9.79,"bo":4,"so":7,"buy":165,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3742,"name":"Ковчег","t":1795709448979,"sale":2222.23,"ref":2494.4,"profit":22.73,"roi":1.02,"bo":2,"so":10,"buy":2108,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":169,"name":"Шароутка","t":1795710048387,"sale":317,"ref":373.74,"profit":19.37,"roi":6.11,"bo":18,"so":38,"buy":314.5,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":606,"name":"Титан (пов.)","t":1795710048387,"sale":180,"ref":215.41,"profit":13.87,"roi":7.7,"bo":2,"so":24,"buy":165,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
