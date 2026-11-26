@@ -2410,3 +2410,5 @@
 {"id":566,"name":"Хамелеон Mk2","t":1795693850274,"sale":300,"ref":347.66,"profit":12.89,"roi":4.3,"bo":14,"so":12,"buy":291.06,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":420,"name":"Гнездо","t":1795694488250,"sale":490,"ref":570,"profit":23,"roi":4.69,"bo":19,"so":34,"buy":412,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":419,"name":"Пламя","t":1795694488250,"sale":399.99,"ref":460.99,"profit":14.9,"roi":3.73,"bo":20,"so":36,"buy":319.22,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":619,"name":"Омни","t":1795695052226,"sale":299.99,"ref":350,"profit":15.01,"roi":5,"bo":42,"so":83,"buy":248,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":464,"name":"Коготь","t":1795695052226,"sale":96,"ref":119.99,"profit":11.99,"roi":12.49,"bo":14,"so":30,"buy":95,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
