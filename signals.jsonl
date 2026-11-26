@@ -1593,3 +1593,4 @@
 {"id":606,"name":"Титан (пов.)","t":1795729255245,"sale":169.18,"ref":226.26,"profit":34.45,"roi":20.37,"bo":4,"so":7,"buy":166.43,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":41,"name":"Аякс","t":1795729848166,"sale":1580,"ref":1849.81,"profit":84.83,"roi":5.37,"bo":2,"so":21,"buy":1560,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":583,"name":"Файер «Энергия Ци»","t":1795729849612,"sale":177.87,"ref":264.51,"profit":60.19,"roi":33.84,"bo":3,"so":3,"buy":120.01,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":592,"name":"Панджи","t":1795734086087,"sale":581,"ref":679.98,"profit":30.98,"roi":5.33,"bo":4,"so":13,"buy":580,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
