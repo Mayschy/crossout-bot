@@ -1508,3 +1508,10 @@
 {"id":3794,"name":"Предмет #3794","t":1795689084427,"sale":50,"ref":83.34,"profit":25.01,"roi":50.01,"bo":9,"so":9,"buy":20,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3783,"name":"Предмет #3783","t":1795690254936,"sale":2900,"ref":3499.89,"profit":249.9,"roi":8.62,"bo":13,"so":8,"buy":2600,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":349,"name":"Тритон","t":1795690256297,"sale":2000.45,"ref":2349.99,"profit":114.54,"roi":5.73,"bo":12,"so":19,"buy":2000.41,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":348,"name":"Гремлин","t":1795690888346,"sale":300,"ref":696.58,"profit":326.92,"roi":108.97,"bo":56,"so":35,"buy":152.36,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3786,"name":"Предмет #3786","t":1795690894940,"sale":3577,"ref":4332.89,"profit":322.6,"roi":9.02,"bo":20,"so":2,"buy":3000,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3787,"name":"Предмет #3787","t":1795690901549,"sale":4000,"ref":4800,"profit":320,"roi":8,"bo":40,"so":2,"buy":2900,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":419,"name":"Пламя","t":1795690902896,"sale":499.99,"ref":760.63,"profit":184.58,"roi":36.92,"bo":25,"so":14,"buy":319.23,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":647,"name":"Развал","t":1795690904811,"sale":100,"ref":153.7,"profit":38.33,"roi":38.33,"bo":64,"so":32,"buy":86,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":179,"name":"Саврас","t":1795690906116,"sale":150,"ref":199.04,"profit":29.14,"roi":19.42,"bo":31,"so":7,"buy":101.11,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":648,"name":"Развал (пов.)","t":1795690906116,"sale":125.01,"ref":170.29,"profit":28.25,"roi":22.6,"bo":80,"so":76,"buy":114.99,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
