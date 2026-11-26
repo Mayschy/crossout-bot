@@ -1477,3 +1477,4 @@
 {"id":276,"name":"Циклон","t":1795667464457,"sale":302.7,"ref":386.74,"profit":45.37,"roi":14.99,"bo":20,"so":7,"buy":302.12,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":619,"name":"Омни","t":1795668648488,"sale":192.01,"ref":252.6,"profit":35.33,"roi":18.4,"bo":30,"so":7,"buy":191,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":514,"name":"Ядро","t":1795671649634,"sale":177.06,"ref":229.98,"profit":29.92,"roi":16.9,"bo":5,"so":10,"buy":177.03,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":365,"name":"П-39 Черт","t":1795672254963,"sale":2205.05,"ref":2500,"profit":44.95,"roi":2.04,"bo":15,"so":26,"buy":2205.04,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
