@@ -1536,3 +1536,5 @@
 {"id":564,"name":"Парис","t":1795699871418,"sale":548.34,"ref":700,"profit":81.66,"roi":14.89,"bo":0,"so":12,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":289,"name":"Дробитель","t":1795699873041,"sale":295.4,"ref":356.16,"profit":25.14,"roi":8.51,"bo":14,"so":11,"buy":295.22,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3785,"name":"Предмет #3785","t":1795701054411,"sale":819.99,"ref":988,"profit":69.21,"roi":8.44,"bo":30,"so":28,"buy":800,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":112,"name":"Рвач","t":1795701682251,"sale":443.24,"ref":550,"profit":51.76,"roi":11.68,"bo":56,"so":10,"buy":370.06,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":394,"name":"Комбайн","t":1795701683844,"sale":1585.88,"ref":1800.85,"profit":34.88,"roi":2.2,"bo":3,"so":19,"buy":1585.01,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}

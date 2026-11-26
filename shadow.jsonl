@@ -2428,3 +2428,6 @@
 {"id":3785,"name":"Предмет #3785","t":1795700447859,"sale":874.99,"ref":988,"profit":14.21,"roi":1.62,"bo":30,"so":20,"buy":800,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":19,"name":"Ермак","t":1795700447859,"sale":284,"ref":329.99,"profit":12.99,"roi":4.57,"bo":9,"so":9,"buy":274,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":647,"name":"Развал","t":1795701047791,"sale":95.04,"ref":125.4,"profit":17.82,"roi":18.75,"bo":51,"so":67,"buy":90.01,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":647,"name":"Развал","t":1795701681450,"sale":88.21,"ref":117.18,"profit":17.25,"roi":19.56,"bo":49,"so":88,"buy":81.48,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1146,"name":"Изогнутая балка 6×12×6","t":1795701681450,"sale":10,"ref":30,"profit":17,"roi":170,"bo":5,"so":3,"buy":2.42,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3794,"name":"Предмет #3794","t":1795701681450,"sale":33.75,"ref":48.62,"profit":10.01,"roi":29.65,"bo":8,"so":13,"buy":10,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
