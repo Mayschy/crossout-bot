@@ -2390,3 +2390,4 @@
 {"id":584,"name":"Файер «Новогодний»","t":1795682454809,"sale":162,"ref":200,"profit":18,"roi":11.11,"bo":4,"so":4,"buy":152.03,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":656,"name":"Грейфер","t":1795682454809,"sale":212.12,"ref":248.66,"profit":11.67,"roi":5.5,"bo":4,"so":9,"buy":30.01,"act":3,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":576,"name":"Гусеница малая","t":1795683689306,"sale":160.18,"ref":199.71,"profit":19.56,"roi":12.21,"bo":13,"so":54,"buy":160.03,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":379,"name":"Гравастар","t":1795684847954,"sale":369.69,"ref":424.94,"profit":12.76,"roi":3.45,"bo":13,"so":36,"buy":349.99,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
