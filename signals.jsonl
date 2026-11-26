@@ -1503,3 +1503,6 @@
 {"id":564,"name":"Парис","t":1795686061291,"sale":567.87,"ref":678.25,"profit":42.56,"roi":7.49,"bo":0,"so":19,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1377,"name":"Отблеск севера","t":1795686646612,"sale":1000,"ref":1152.58,"profit":37.32,"roi":3.73,"bo":3,"so":8,"buy":100.5,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3789,"name":"Предмет #3789","t":1795687288303,"sale":748.62,"ref":1700,"profit":781.38,"roi":104.38,"bo":52,"so":5,"buy":500,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":24,"name":"Инферно","t":1795689070952,"sale":900,"ref":1049,"profit":44.1,"roi":4.9,"bo":6,"so":15,"buy":870.35,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3790,"name":"Предмет #3790","t":1795689077828,"sale":307.06,"ref":388.89,"profit":42.94,"roi":13.98,"bo":1,"so":12,"buy":0.11,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3794,"name":"Предмет #3794","t":1795689084427,"sale":50,"ref":83.34,"profit":25.01,"roi":50.01,"bo":9,"so":9,"buy":20,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
