@@ -1467,3 +1467,5 @@
 {"id":95,"name":"Марш возмездия","t":1795655453502,"sale":175.83,"ref":224.99,"profit":26.66,"roi":15.16,"bo":1,"so":6,"buy":172,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":439,"name":"Драйвер","t":1795656048930,"sale":905.11,"ref":1038.86,"profit":29.86,"roi":3.3,"bo":8,"so":23,"buy":905,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":537,"name":"Скидутка","t":1795659044216,"sale":332.59,"ref":406,"profit":32.81,"roi":9.86,"bo":4,"so":11,"buy":327.76,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":584,"name":"Файер «Новогодний»","t":1795660847395,"sale":183,"ref":243.4,"profit":36.06,"roi":19.7,"bo":5,"so":8,"buy":162,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
+{"id":690,"name":"Контейнер «Легенда»","t":1795660849224,"sale":154.2,"ref":202.79,"profit":28.31,"roi":18.36,"bo":1,"so":10,"buy":151.34,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
