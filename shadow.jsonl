@@ -2458,3 +2458,4 @@
 {"id":506,"name":"Максвелл","t":1795713044653,"sale":125.07,"ref":155,"profit":14.43,"roi":11.54,"bo":16,"so":34,"buy":124.73,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1100,"name":"Леденец","t":1795713044653,"sale":1067.19,"ref":1199.16,"profit":12.05,"roi":1.13,"bo":3,"so":3,"buy":852,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":565,"name":"Хамелеон","t":1795713655924,"sale":73.32,"ref":97,"profit":13.98,"roi":19.07,"bo":11,"so":3,"buy":73.28,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":576,"name":"Гусеница малая","t":1795714264635,"sale":160.36,"ref":200,"profit":19.64,"roi":12.25,"bo":10,"so":58,"buy":160.03,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
