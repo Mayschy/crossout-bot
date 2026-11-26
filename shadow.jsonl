@@ -2404,3 +2404,5 @@
 {"id":647,"name":"Развал","t":1795692054829,"sale":105,"ref":136.23,"profit":17.61,"roi":16.77,"bo":52,"so":57,"buy":85.5,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3794,"name":"Предмет #3794","t":1795692054829,"sale":30,"ref":50,"profit":15,"roi":50,"bo":10,"so":13,"buy":15,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":179,"name":"Саврас","t":1795692054829,"sale":140,"ref":169.99,"profit":12.99,"roi":9.28,"bo":30,"so":10,"buy":102,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":309,"name":"Синус-0","t":1795692669250,"sale":140,"ref":174.99,"profit":17.49,"roi":12.49,"bo":48,"so":11,"buy":102,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":372,"name":"Прометей V","t":1795692669250,"sale":392.11,"ref":454.81,"profit":17.22,"roi":4.39,"bo":10,"so":28,"buy":392,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
