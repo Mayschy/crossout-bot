@@ -1587,3 +1587,6 @@
 {"id":394,"name":"Комбайн","t":1795725657638,"sale":1586,"ref":1799.76,"profit":33.78,"roi":2.13,"bo":10,"so":21,"buy":1585.5,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":599,"name":"Богатства Пустошей","t":1795725659344,"sale":161,"ref":216,"profit":33.4,"roi":20.75,"bo":5,"so":6,"buy":160.5,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1377,"name":"Отблеск севера","t":1795728043953,"sale":1126.24,"ref":1324,"profit":65.36,"roi":5.8,"bo":6,"so":6,"buy":849.87,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1054,"name":"Шаблон: Шахматы","t":1795728668237,"sale":16000,"ref":18140.99,"profit":326.89,"roi":2.04,"bo":4,"so":5,"buy":5555,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
+{"id":278,"name":"Артемида","t":1795728669656,"sale":1136.16,"ref":1388.89,"profit":113.84,"roi":10.02,"bo":3,"so":29,"buy":1136.15,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":189,"name":"Четкий","t":1795728671571,"sale":153.83,"ref":207,"profit":32.47,"roi":21.11,"bo":10,"so":13,"buy":150.81,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
