@@ -2384,3 +2384,4 @@
 {"id":321,"name":"Мельник","t":1795671648895,"sale":400,"ref":470,"profit":23,"roi":5.75,"bo":14,"so":34,"buy":398,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":313,"name":"Буря","t":1795671648895,"sale":149.19,"ref":187.34,"profit":19.42,"roi":13.01,"bo":13,"so":5,"buy":149,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1467,"name":"АП64 Джоуль (тюн.) (заготовка)","t":1795678268055,"sale":215.1,"ref":250.8,"profit":10.62,"roi":4.94,"bo":26,"so":8,"buy":215,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":91,"name":"Удочка","t":1795678851733,"sale":13.06,"ref":31.8,"profit":15.56,"roi":119.14,"bo":11,"so":3,"buy":13.05,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
