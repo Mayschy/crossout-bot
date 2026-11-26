@@ -1466,3 +1466,4 @@
 {"id":1377,"name":"Отблеск севера","t":1795653069431,"sale":1152.58,"ref":1324,"profit":39.02,"roi":3.39,"bo":1,"so":7,"buy":900,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":95,"name":"Марш возмездия","t":1795655453502,"sale":175.83,"ref":224.99,"profit":26.66,"roi":15.16,"bo":1,"so":6,"buy":172,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":439,"name":"Драйвер","t":1795656048930,"sale":905.11,"ref":1038.86,"profit":29.86,"roi":3.3,"bo":8,"so":23,"buy":905,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":537,"name":"Скидутка","t":1795659044216,"sale":332.59,"ref":406,"profit":32.81,"roi":9.86,"bo":4,"so":11,"buy":327.76,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
