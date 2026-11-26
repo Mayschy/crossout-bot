@@ -2447,3 +2447,4 @@
 {"id":91,"name":"Удочка","t":1795707645841,"sale":14.85,"ref":31.8,"profit":13.77,"roi":92.73,"bo":12,"so":2,"buy":13.06,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1090,"name":"Холодное пламя","t":1795708251969,"sale":55.29,"ref":78.26,"profit":15.14,"roi":27.39,"bo":3,"so":2,"buy":3.59,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":656,"name":"Грейфер","t":1795708887875,"sale":203.84,"ref":248.66,"profit":19.95,"roi":9.79,"bo":4,"so":7,"buy":165,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3742,"name":"Ковчег","t":1795709448979,"sale":2222.23,"ref":2494.4,"profit":22.73,"roi":1.02,"bo":2,"so":10,"buy":2108,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
