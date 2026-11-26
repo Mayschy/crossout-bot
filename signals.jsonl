@@ -1465,3 +1465,4 @@
 {"id":223,"name":"Надувной Мамонт","t":1795651280683,"sale":1050,"ref":1356.25,"profit":170.63,"roi":16.25,"bo":0,"so":3,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1377,"name":"Отблеск севера","t":1795653069431,"sale":1152.58,"ref":1324,"profit":39.02,"roi":3.39,"bo":1,"so":7,"buy":900,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":95,"name":"Марш возмездия","t":1795655453502,"sale":175.83,"ref":224.99,"profit":26.66,"roi":15.16,"bo":1,"so":6,"buy":172,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":439,"name":"Драйвер","t":1795656048930,"sale":905.11,"ref":1038.86,"profit":29.86,"roi":3.3,"bo":8,"so":23,"buy":905,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
