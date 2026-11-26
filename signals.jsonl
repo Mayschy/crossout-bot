@@ -1478,3 +1478,5 @@
 {"id":619,"name":"Омни","t":1795668648488,"sale":192.01,"ref":252.6,"profit":35.33,"roi":18.4,"bo":30,"so":7,"buy":191,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":514,"name":"Ядро","t":1795671649634,"sale":177.06,"ref":229.98,"profit":29.92,"roi":16.9,"bo":5,"so":10,"buy":177.03,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":365,"name":"П-39 Черт","t":1795672254963,"sale":2205.05,"ref":2500,"profit":44.95,"roi":2.04,"bo":15,"so":26,"buy":2205.04,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3789,"name":"Предмет #3789","t":1795677653109,"sale":1500,"ref":3662.97,"profit":1796.67,"roi":119.78,"bo":74,"so":10,"buy":500,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3785,"name":"Предмет #3785","t":1795677660095,"sale":1999.88,"ref":3477,"profit":1129.42,"roi":56.47,"bo":59,"so":6,"buy":421,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
