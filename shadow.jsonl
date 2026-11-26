@@ -2381,3 +2381,5 @@
 {"id":91,"name":"Удочка","t":1795665689546,"sale":15.55,"ref":31.8,"profit":13.07,"roi":84.05,"bo":11,"so":3,"buy":13.04,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":330,"name":"Аргумент","t":1795668047060,"sale":272,"ref":314.95,"profit":11.45,"roi":4.21,"bo":4,"so":12,"buy":270,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":185,"name":"Жесткач","t":1795670447561,"sale":110.39,"ref":143.64,"profit":18.89,"roi":17.11,"bo":11,"so":11,"buy":100.67,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":321,"name":"Мельник","t":1795671648895,"sale":400,"ref":470,"profit":23,"roi":5.75,"bo":14,"so":34,"buy":398,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":313,"name":"Буря","t":1795671648895,"sale":149.19,"ref":187.34,"profit":19.42,"roi":13.01,"bo":13,"so":5,"buy":149,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
