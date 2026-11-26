@@ -1501,3 +1501,4 @@
 {"id":3785,"name":"Предмет #3785","t":1795686052390,"sale":1243.08,"ref":1600,"profit":196.92,"roi":15.84,"bo":26,"so":17,"buy":1099.95,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3786,"name":"Предмет #3786","t":1795686059822,"sale":4444.44,"ref":4999.99,"profit":55.55,"roi":1.25,"bo":18,"so":6,"buy":2600,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":564,"name":"Парис","t":1795686061291,"sale":567.87,"ref":678.25,"profit":42.56,"roi":7.49,"bo":0,"so":19,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1377,"name":"Отблеск севера","t":1795686646612,"sale":1000,"ref":1152.58,"profit":37.32,"roi":3.73,"bo":3,"so":8,"buy":100.5,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null}

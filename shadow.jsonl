@@ -2392,3 +2392,5 @@
 {"id":576,"name":"Гусеница малая","t":1795683689306,"sale":160.18,"ref":199.71,"profit":19.56,"roi":12.21,"bo":13,"so":54,"buy":160.03,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":379,"name":"Гравастар","t":1795684847954,"sale":369.69,"ref":424.94,"profit":12.76,"roi":3.45,"bo":13,"so":36,"buy":349.99,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":464,"name":"Коготь","t":1795685467249,"sale":96,"ref":119.99,"profit":11.99,"roi":12.49,"bo":14,"so":27,"buy":95,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3790,"name":"Предмет #3790","t":1795686646120,"sale":388.89,"ref":454.99,"profit":20.6,"roi":5.3,"bo":1,"so":15,"buy":0.11,"act":5,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":84,"name":"Гермес","t":1795686646120,"sale":306.1,"ref":355.95,"profit":14.25,"roi":4.66,"bo":7,"so":22,"buy":306.09,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
