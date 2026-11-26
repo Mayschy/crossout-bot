@@ -2365,3 +2365,5 @@
 {"id":464,"name":"Коготь","t":1795648244072,"sale":95.05,"ref":118.28,"profit":11.4,"roi":12,"bo":22,"so":3,"buy":95.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":371,"name":"Синтез","t":1795650047120,"sale":106.8,"ref":137.77,"profit":17.19,"roi":16.1,"bo":4,"so":11,"buy":102.89,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":100,"name":"«Ре минор»","t":1795650047120,"sale":49.4,"ref":69.95,"profit":13.56,"roi":27.44,"bo":1,"so":6,"buy":47.18,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":440,"name":"Фламинго","t":1795651851953,"sale":112.92,"ref":148.43,"profit":20.67,"roi":18.3,"bo":10,"so":6,"buy":103.58,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":506,"name":"Максвелл","t":1795651851953,"sale":94.53,"ref":117.77,"profit":11.46,"roi":12.13,"bo":3,"so":9,"buy":94.27,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
