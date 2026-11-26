@@ -2425,3 +2425,5 @@
 {"id":263,"name":"ЗА-4 Звездопад","t":1795698653000,"sale":2790,"ref":3125.02,"profit":22.52,"roi":0.81,"bo":8,"so":26,"buy":2700.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":616,"name":"Гренадер","t":1795698653000,"sale":200.25,"ref":240,"profit":15.75,"roi":7.87,"bo":3,"so":15,"buy":200.22,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":464,"name":"Коготь","t":1795699251169,"sale":86.73,"ref":116.88,"profit":18.46,"roi":21.29,"bo":6,"so":33,"buy":86,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3785,"name":"Предмет #3785","t":1795700447859,"sale":874.99,"ref":988,"profit":14.21,"roi":1.62,"bo":30,"so":20,"buy":800,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":19,"name":"Ермак","t":1795700447859,"sale":284,"ref":329.99,"profit":12.99,"roi":4.57,"bo":9,"so":9,"buy":274,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
