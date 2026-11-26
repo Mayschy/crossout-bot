@@ -1475,3 +1475,4 @@
 {"id":300,"name":"П-26 Заградитель","t":1795663867511,"sale":243.91,"ref":300,"profit":26.09,"roi":10.7,"bo":16,"so":12,"buy":233,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":480,"name":"Тати","t":1795664449125,"sale":359,"ref":438.1,"profit":35.29,"roi":9.83,"bo":8,"so":17,"buy":358.2,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":276,"name":"Циклон","t":1795667464457,"sale":302.7,"ref":386.74,"profit":45.37,"roi":14.99,"bo":20,"so":7,"buy":302.12,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":619,"name":"Омни","t":1795668648488,"sale":192.01,"ref":252.6,"profit":35.33,"roi":18.4,"bo":30,"so":7,"buy":191,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
