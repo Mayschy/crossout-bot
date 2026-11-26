@@ -2467,3 +2467,5 @@
 {"id":656,"name":"Грейфер","t":1795716083326,"sale":193.57,"ref":240,"profit":22.43,"roi":11.59,"bo":4,"so":8,"buy":165,"act":5,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":49,"name":"Квант","t":1795716083326,"sale":340.8,"ref":403.58,"profit":22.42,"roi":6.58,"bo":19,"so":15,"buy":319,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":9,"name":"Джаннаби","t":1795716648640,"sale":300,"ref":355.83,"profit":20.25,"roi":6.75,"bo":5,"so":14,"buy":284.06,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":584,"name":"Файер «Новогодний»","t":1795717251740,"sale":203.66,"ref":243.4,"profit":15.4,"roi":7.56,"bo":8,"so":4,"buy":165,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":119,"name":"КА-1 Разрядник","t":1795717251740,"sale":58.27,"ref":76.31,"profit":10.41,"roi":17.86,"bo":10,"so":5,"buy":56,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
