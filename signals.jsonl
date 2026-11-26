@@ -1493,3 +1493,4 @@
 {"id":3786,"name":"Предмет #3786","t":1795681255352,"sale":5000,"ref":5999,"profit":399.1,"roi":7.98,"bo":20,"so":3,"buy":3000,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3789,"name":"Предмет #3789","t":1795681876953,"sale":790.29,"ref":989.9,"profit":100.62,"roi":12.73,"bo":52,"so":14,"buy":500,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3785,"name":"Предмет #3785","t":1795681884550,"sale":1254.91,"ref":1443.96,"profit":44.65,"roi":3.56,"bo":30,"so":8,"buy":930.03,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3796,"name":"Предмет #3796","t":1795682462108,"sale":100,"ref":30000,"profit":26900,"roi":26900,"bo":15,"so":4,"buy":1.12,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
