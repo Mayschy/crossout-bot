@@ -2441,3 +2441,5 @@
 {"id":631,"name":"Бигфут (пов.)","t":1795705290692,"sale":178.5,"ref":214.94,"profit":14.95,"roi":8.37,"bo":12,"so":42,"buy":178.26,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1795705851514,"sale":149.92,"ref":186,"profit":17.48,"roi":11.66,"bo":6,"so":30,"buy":148,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3769,"name":"Смог-15","t":1795705851514,"sale":173.01,"ref":210.07,"profit":16.05,"roi":9.28,"bo":9,"so":12,"buy":167.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":32,"name":"Фотон","t":1795706448847,"sale":340,"ref":400,"profit":20,"roi":5.88,"bo":5,"so":29,"buy":327,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":514,"name":"Ядро","t":1795706448847,"sale":188.88,"ref":229.98,"profit":18.1,"roi":9.58,"bo":5,"so":10,"buy":182.21,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

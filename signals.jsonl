@@ -1547,3 +1547,5 @@
 {"id":41,"name":"Аякс","t":1795704649893,"sale":1666.21,"ref":1897.96,"profit":41.95,"roi":2.52,"bo":1,"so":24,"buy":1666.11,"act":11,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":179,"name":"Саврас","t":1795705292149,"sale":129.65,"ref":182.44,"profit":34.55,"roi":26.65,"bo":42,"so":7,"buy":120.02,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3789,"name":"Предмет #3789","t":1795705858930,"sale":700,"ref":840.66,"profit":56.59,"roi":8.08,"bo":53,"so":30,"buy":687,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":317,"name":"Дамка","t":1795706449567,"sale":1201,"ref":1435,"profit":90.5,"roi":7.54,"bo":6,"so":13,"buy":1200,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3785,"name":"Предмет #3785","t":1795706457502,"sale":764.1,"ref":899.87,"profit":45.78,"roi":5.99,"bo":26,"so":18,"buy":751.02,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
