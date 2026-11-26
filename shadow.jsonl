@@ -2439,3 +2439,5 @@
 {"id":1397,"name":"Преисподняя","t":1795704050965,"sale":71.57,"ref":94.09,"profit":13.11,"roi":18.32,"bo":1,"so":1,"buy":70,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":186,"name":"Гонитель","t":1795704649053,"sale":410,"ref":469,"profit":12.1,"roi":2.95,"bo":10,"so":14,"buy":362.4,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":631,"name":"Бигфут (пов.)","t":1795705290692,"sale":178.5,"ref":214.94,"profit":14.95,"roi":8.37,"bo":12,"so":42,"buy":178.26,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1795705851514,"sale":149.92,"ref":186,"profit":17.48,"roi":11.66,"bo":6,"so":30,"buy":148,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3769,"name":"Смог-15","t":1795705851514,"sale":173.01,"ref":210.07,"profit":16.05,"roi":9.28,"bo":9,"so":12,"buy":167.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
