@@ -1586,3 +1586,4 @@
 {"id":3785,"name":"Предмет #3785","t":1795725656240,"sale":729.92,"ref":1091.46,"profit":252.39,"roi":34.58,"bo":26,"so":15,"buy":620.99,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":394,"name":"Комбайн","t":1795725657638,"sale":1586,"ref":1799.76,"profit":33.78,"roi":2.13,"bo":10,"so":21,"buy":1585.5,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":599,"name":"Богатства Пустошей","t":1795725659344,"sale":161,"ref":216,"profit":33.4,"roi":20.75,"bo":5,"so":6,"buy":160.5,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1377,"name":"Отблеск севера","t":1795728043953,"sale":1126.24,"ref":1324,"profit":65.36,"roi":5.8,"bo":6,"so":6,"buy":849.87,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
