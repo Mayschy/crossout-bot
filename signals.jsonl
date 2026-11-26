@@ -1485,3 +1485,5 @@
 {"id":497,"name":"Колибри","t":1795678861673,"sale":336.66,"ref":429,"profit":49.44,"roi":14.69,"bo":0,"so":24,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3782,"name":"Сладость","t":1795678869964,"sale":5.02,"ref":45.01,"profit":35.49,"roi":706.95,"bo":0,"so":50,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":120,"name":"Озноб","t":1795678871869,"sale":301.06,"ref":364.72,"profit":27.19,"roi":9.03,"bo":16,"so":13,"buy":301.05,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3783,"name":"Предмет #3783","t":1795679453049,"sale":4999.99,"ref":6000,"profit":400.01,"roi":8,"bo":6,"so":4,"buy":2501,"act":8,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":504,"name":"Аннигилятор","t":1795679454539,"sale":1021,"ref":1189.99,"profit":49.99,"roi":4.9,"bo":4,"so":16,"buy":1020,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
