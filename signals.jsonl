@@ -1571,3 +1571,6 @@
 {"id":3789,"name":"Предмет #3789","t":1795714853750,"sale":631.16,"ref":829.6,"profit":115.48,"roi":18.3,"bo":46,"so":21,"buy":611.33,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":25,"name":"Ками","t":1795714855150,"sale":1708.53,"ref":1999.9,"profit":91.38,"roi":5.35,"bo":7,"so":11,"buy":1708.52,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":309,"name":"Синус-0","t":1795714856656,"sale":117.72,"ref":159.98,"profit":26.26,"roi":22.31,"bo":35,"so":7,"buy":117.33,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3763,"name":"МВП Флагман","t":1795715449425,"sale":502.99,"ref":600,"profit":37.01,"roi":7.36,"bo":17,"so":43,"buy":502.56,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":518,"name":"Оберег","t":1795715450955,"sale":500,"ref":590.9,"profit":31.81,"roi":6.36,"bo":26,"so":4,"buy":479,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":648,"name":"Развал (пов.)","t":1795715452643,"sale":106,"ref":152.51,"profit":31.26,"roi":29.49,"bo":50,"so":27,"buy":90.13,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
