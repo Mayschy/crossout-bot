@@ -1473,3 +1473,4 @@
 {"id":537,"name":"Скидутка","t":1795662646429,"sale":332.58,"ref":400,"profit":27.42,"roi":8.24,"bo":4,"so":13,"buy":327.76,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1159,"name":"Большая рампа 6×12×6","t":1795662647778,"sale":90,"ref":130,"profit":27,"roi":30,"bo":3,"so":45,"buy":5.81,"act":7,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":300,"name":"П-26 Заградитель","t":1795663867511,"sale":243.91,"ref":300,"profit":26.09,"roi":10.7,"bo":16,"so":12,"buy":233,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":480,"name":"Тати","t":1795664449125,"sale":359,"ref":438.1,"profit":35.29,"roi":9.83,"bo":8,"so":17,"buy":358.2,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
