@@ -2424,3 +2424,4 @@
 {"id":248,"name":"Обвинитель 76мм","t":1795698083319,"sale":119.99,"ref":146.99,"profit":12.3,"roi":10.25,"bo":17,"so":36,"buy":117.64,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":263,"name":"ЗА-4 Звездопад","t":1795698653000,"sale":2790,"ref":3125.02,"profit":22.52,"roi":0.81,"bo":8,"so":26,"buy":2700.02,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":616,"name":"Гренадер","t":1795698653000,"sale":200.25,"ref":240,"profit":15.75,"roi":7.87,"bo":3,"so":15,"buy":200.22,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":464,"name":"Коготь","t":1795699251169,"sale":86.73,"ref":116.88,"profit":18.46,"roi":21.29,"bo":6,"so":33,"buy":86,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

@@ -1531,3 +1531,5 @@
 {"id":340,"name":"Афина","t":1795698084240,"sale":2630,"ref":3103.34,"profit":163.01,"roi":6.2,"bo":6,"so":6,"buy":2400.44,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":228,"name":"Надувной Голиаф левый","t":1795698085771,"sale":239.11,"ref":329.35,"profit":57.31,"roi":23.97,"bo":2,"so":4,"buy":239.1,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":506,"name":"Максвелл","t":1795698654643,"sale":121.14,"ref":169.97,"profit":31.83,"roi":26.28,"bo":19,"so":15,"buy":118.11,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3783,"name":"Предмет #3783","t":1795699258159,"sale":2987.9,"ref":3480,"profit":144.1,"roi":4.82,"bo":15,"so":6,"buy":2610,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3789,"name":"Предмет #3789","t":1795699265615,"sale":720,"ref":860,"profit":54,"roi":7.5,"bo":51,"so":6,"buy":687,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
