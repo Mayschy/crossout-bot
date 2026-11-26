@@ -2487,3 +2487,4 @@
 {"id":248,"name":"Обвинитель 76мм","t":1795722646948,"sale":121.74,"ref":149.47,"profit":12.78,"roi":10.5,"bo":14,"so":29,"buy":121.23,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1038,"name":"Материал: Алюминий","t":1795722646948,"sale":10.05,"ref":25,"profit":12.45,"roi":123.88,"bo":3,"so":3,"buy":7.29,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1362,"name":"Призрак зимы","t":1795723280304,"sale":424.64,"ref":483.98,"profit":10.94,"roi":2.58,"bo":2,"so":5,"buy":309.26,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":605,"name":"Титан","t":1795725067564,"sale":90.18,"ref":115.45,"profit":13.72,"roi":15.22,"bo":0,"so":21,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
