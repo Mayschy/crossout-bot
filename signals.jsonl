@@ -1540,3 +1540,6 @@
 {"id":394,"name":"Комбайн","t":1795701683844,"sale":1585.88,"ref":1800.85,"profit":34.88,"roi":2.2,"bo":3,"so":19,"buy":1585.01,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":280,"name":"Яогуай","t":1795702250349,"sale":321.5,"ref":393,"profit":32.2,"roi":10.02,"bo":8,"so":23,"buy":316.06,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":246,"name":"Палач 88мм","t":1795702251795,"sale":314.57,"ref":377.99,"profit":25.62,"roi":8.14,"bo":2,"so":43,"buy":314.56,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3788,"name":"Предмет #3788","t":1795702859716,"sale":999,"ref":9999.99,"profit":8000.99,"roi":800.9,"bo":5,"so":2,"buy":181.01,"act":3,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":281,"name":"СД-15 Гриф","t":1795702861291,"sale":1900,"ref":2189.98,"profit":70.98,"roi":3.74,"bo":2,"so":10,"buy":1785.01,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":596,"name":"Барьер IX","t":1795702862837,"sale":319.96,"ref":399.8,"profit":39.86,"roi":12.46,"bo":1,"so":28,"buy":315.54,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}

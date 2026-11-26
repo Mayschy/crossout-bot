@@ -2431,3 +2431,4 @@
 {"id":647,"name":"Развал","t":1795701681450,"sale":88.21,"ref":117.18,"profit":17.25,"roi":19.56,"bo":49,"so":88,"buy":81.48,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1146,"name":"Изогнутая балка 6×12×6","t":1795701681450,"sale":10,"ref":30,"profit":17,"roi":170,"bo":5,"so":3,"buy":2.42,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3794,"name":"Предмет #3794","t":1795701681450,"sale":33.75,"ref":48.62,"profit":10.01,"roi":29.65,"bo":8,"so":13,"buy":10,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":600,"name":"Ступор","t":1795702852441,"sale":198.43,"ref":240,"profit":17.57,"roi":8.85,"bo":3,"so":8,"buy":193.39,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
