@@ -1518,3 +1518,7 @@
 {"id":420,"name":"Гнездо","t":1795691444945,"sale":550,"ref":834.3,"profit":200.87,"roi":36.52,"bo":16,"so":6,"buy":404.49,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":112,"name":"Рвач","t":1795691446512,"sale":722.6,"ref":859.02,"profit":50.52,"roi":6.99,"bo":57,"so":6,"buy":303.84,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":480,"name":"Тати","t":1795691447843,"sale":358.2,"ref":435,"profit":33.3,"roi":9.3,"bo":4,"so":22,"buy":358.18,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3789,"name":"Предмет #3789","t":1795692061421,"sale":693.21,"ref":953.97,"profit":165.36,"roi":23.85,"bo":50,"so":4,"buy":686.27,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":568,"name":"Верификатор","t":1795692063772,"sale":666,"ref":790.08,"profit":45.07,"roi":6.77,"bo":55,"so":26,"buy":352.02,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":306,"name":"Гунгнир","t":1795692065143,"sale":310.01,"ref":389.93,"profit":40.93,"roi":13.2,"bo":24,"so":19,"buy":310,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":619,"name":"Омни","t":1795692066591,"sale":450.74,"ref":540,"profit":35.26,"roi":7.82,"bo":43,"so":42,"buy":440,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

@@ -2401,3 +2401,6 @@
 {"id":289,"name":"Дробитель","t":1795691444221,"sale":295.3,"ref":354.98,"profit":24.18,"roi":8.19,"bo":15,"so":16,"buy":295.24,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":647,"name":"Развал","t":1795691444221,"sale":120,"ref":153.7,"profit":18.33,"roi":15.27,"bo":54,"so":56,"buy":85.5,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":116,"name":"«Че такой серьезный?»","t":1795691444221,"sale":47.65,"ref":72.94,"profit":18,"roi":37.77,"bo":3,"so":1,"buy":38,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":647,"name":"Развал","t":1795692054829,"sale":105,"ref":136.23,"profit":17.61,"roi":16.77,"bo":52,"so":57,"buy":85.5,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3794,"name":"Предмет #3794","t":1795692054829,"sale":30,"ref":50,"profit":15,"roi":50,"bo":10,"so":13,"buy":15,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":179,"name":"Саврас","t":1795692054829,"sale":140,"ref":169.99,"profit":12.99,"roi":9.28,"bo":30,"so":10,"buy":102,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
