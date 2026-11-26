@@ -2432,3 +2432,6 @@
 {"id":1146,"name":"Изогнутая балка 6×12×6","t":1795701681450,"sale":10,"ref":30,"profit":17,"roi":170,"bo":5,"so":3,"buy":2.42,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3794,"name":"Предмет #3794","t":1795701681450,"sale":33.75,"ref":48.62,"profit":10.01,"roi":29.65,"bo":8,"so":13,"buy":10,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":600,"name":"Ступор","t":1795702852441,"sale":198.43,"ref":240,"profit":17.57,"roi":8.85,"bo":3,"so":8,"buy":193.39,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":169,"name":"Шароутка","t":1795703469701,"sale":340,"ref":396.47,"profit":16.82,"roi":4.95,"bo":20,"so":46,"buy":314.48,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":514,"name":"Ядро","t":1795703469701,"sale":195,"ref":229.98,"profit":11.98,"roi":6.14,"bo":7,"so":11,"buy":188.88,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":411,"name":"Оледенение","t":1795703469701,"sale":69.33,"ref":88.5,"profit":10.32,"roi":14.89,"bo":1,"so":1,"buy":7.78,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
