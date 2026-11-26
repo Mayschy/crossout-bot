@@ -1578,3 +1578,5 @@
 {"id":169,"name":"Шароутка","t":1795717877372,"sale":290,"ref":350,"profit":25,"roi":8.62,"bo":16,"so":57,"buy":280.02,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3786,"name":"Предмет #3786","t":1795718456172,"sale":2739.88,"ref":3500,"profit":410.12,"roi":14.97,"bo":17,"so":3,"buy":2500,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":308,"name":"Аспект","t":1795719046705,"sale":2050,"ref":2330.91,"profit":47.82,"roi":2.33,"bo":14,"so":18,"buy":2005,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":437,"name":"Тэнгу","t":1795720246849,"sale":722,"ref":877.98,"profit":68.18,"roi":9.44,"bo":13,"so":64,"buy":715,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":480,"name":"Тати","t":1795720248240,"sale":341,"ref":429.43,"profit":45.49,"roi":13.34,"bo":1,"so":24,"buy":335.55,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
