@@ -1533,3 +1533,5 @@
 {"id":506,"name":"Максвелл","t":1795698654643,"sale":121.14,"ref":169.97,"profit":31.83,"roi":26.28,"bo":19,"so":15,"buy":118.11,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3783,"name":"Предмет #3783","t":1795699258159,"sale":2987.9,"ref":3480,"profit":144.1,"roi":4.82,"bo":15,"so":6,"buy":2610,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3789,"name":"Предмет #3789","t":1795699265615,"sale":720,"ref":860,"profit":54,"roi":7.5,"bo":51,"so":6,"buy":687,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":564,"name":"Парис","t":1795699871418,"sale":548.34,"ref":700,"profit":81.66,"roi":14.89,"bo":0,"so":12,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":289,"name":"Дробитель","t":1795699873041,"sale":295.4,"ref":356.16,"profit":25.14,"roi":8.51,"bo":14,"so":11,"buy":295.22,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
