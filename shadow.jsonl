@@ -2398,3 +2398,6 @@
 {"id":5,"name":"Кастет","t":1795689070402,"sale":200,"ref":242.07,"profit":17.86,"roi":8.93,"bo":20,"so":5,"buy":188,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":100,"name":"«Ре минор»","t":1795690248439,"sale":49.4,"ref":69.95,"profit":13.56,"roi":27.44,"bo":1,"so":6,"buy":47.18,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":169,"name":"Шароутка","t":1795690887371,"sale":347.34,"ref":409.99,"profit":21.65,"roi":6.23,"bo":16,"so":28,"buy":325.96,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":289,"name":"Дробитель","t":1795691444221,"sale":295.3,"ref":354.98,"profit":24.18,"roi":8.19,"bo":15,"so":16,"buy":295.24,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":647,"name":"Развал","t":1795691444221,"sale":120,"ref":153.7,"profit":18.33,"roi":15.27,"bo":54,"so":56,"buy":85.5,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":116,"name":"«Че такой серьезный?»","t":1795691444221,"sale":47.65,"ref":72.94,"profit":18,"roi":37.77,"bo":3,"so":1,"buy":38,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

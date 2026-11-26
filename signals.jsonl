@@ -1515,3 +1515,6 @@
 {"id":647,"name":"Развал","t":1795690904811,"sale":100,"ref":153.7,"profit":38.33,"roi":38.33,"bo":64,"so":32,"buy":86,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":179,"name":"Саврас","t":1795690906116,"sale":150,"ref":199.04,"profit":29.14,"roi":19.42,"bo":31,"so":7,"buy":101.11,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":648,"name":"Развал (пов.)","t":1795690906116,"sale":125.01,"ref":170.29,"profit":28.25,"roi":22.6,"bo":80,"so":76,"buy":114.99,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":420,"name":"Гнездо","t":1795691444945,"sale":550,"ref":834.3,"profit":200.87,"roi":36.52,"bo":16,"so":6,"buy":404.49,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":112,"name":"Рвач","t":1795691446512,"sale":722.6,"ref":859.02,"profit":50.52,"roi":6.99,"bo":57,"so":6,"buy":303.84,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":480,"name":"Тати","t":1795691447843,"sale":358.2,"ref":435,"profit":33.3,"roi":9.3,"bo":4,"so":22,"buy":358.18,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
