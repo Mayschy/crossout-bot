@@ -1553,3 +1553,6 @@
 {"id":112,"name":"Рвач","t":1795707074604,"sale":451.78,"ref":550,"profit":43.22,"roi":9.57,"bo":50,"so":13,"buy":370.2,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":664,"name":"Код «‎Оранжевый»","t":1795707076009,"sale":223.62,"ref":283.81,"profit":31.81,"roi":14.22,"bo":2,"so":2,"buy":165,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3786,"name":"Предмет #3786","t":1795707652616,"sale":2900,"ref":3999,"profit":699.1,"roi":24.11,"bo":14,"so":9,"buy":2349.65,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":281,"name":"СД-15 Гриф","t":1795708888944,"sale":1725.36,"ref":2189.98,"profit":245.62,"roi":14.24,"bo":0,"so":8,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1377,"name":"Отблеск севера","t":1795708890395,"sale":1126.24,"ref":1324,"profit":65.36,"roi":5.8,"bo":7,"so":6,"buy":849.87,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
+{"id":496,"name":"СВ-2 Буревестник","t":1795708891907,"sale":360,"ref":432.17,"profit":28.95,"roi":8.04,"bo":4,"so":3,"buy":333.13,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
