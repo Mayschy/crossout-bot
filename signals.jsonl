@@ -1462,3 +1462,4 @@
 {"id":115,"name":"«Из лесу, вестимо»","t":1795648244600,"sale":253.73,"ref":339.97,"profit":52.24,"roi":20.59,"bo":0,"so":6,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":610,"name":"Увабаки (пов.)","t":1795648849841,"sale":200,"ref":252.17,"profit":26.95,"roi":13.48,"bo":14,"so":5,"buy":190.15,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":514,"name":"Ядро","t":1795650657402,"sale":180,"ref":229.98,"profit":26.98,"roi":14.99,"bo":7,"so":10,"buy":177.03,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":223,"name":"Надувной Мамонт","t":1795651280683,"sale":1050,"ref":1356.25,"profit":170.63,"roi":16.25,"bo":0,"so":3,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
