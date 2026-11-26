@@ -2443,3 +2443,4 @@
 {"id":3769,"name":"Смог-15","t":1795705851514,"sale":173.01,"ref":210.07,"profit":16.05,"roi":9.28,"bo":9,"so":12,"buy":167.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":32,"name":"Фотон","t":1795706448847,"sale":340,"ref":400,"profit":20,"roi":5.88,"bo":5,"so":29,"buy":327,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":514,"name":"Ядро","t":1795706448847,"sale":188.88,"ref":229.98,"profit":18.1,"roi":9.58,"bo":5,"so":10,"buy":182.21,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":683,"name":"Утиный клад","t":1795707066194,"sale":155.11,"ref":183.98,"profit":10.47,"roi":6.75,"bo":8,"so":59,"buy":149.71,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
