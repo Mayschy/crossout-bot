@@ -1651,3 +1651,4 @@
 {"id":353,"name":"Самопал","t":1795778453095,"sale":150,"ref":298.83,"profit":118.95,"roi":79.3,"bo":37,"so":19,"buy":112.12,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":565,"name":"Хамелеон","t":1795778454619,"sale":219.99,"ref":280,"profit":32.01,"roi":14.55,"bo":32,"so":5,"buy":104.51,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":390,"name":"Паучок","t":1795778456110,"sale":66.11,"ref":107,"profit":30.19,"roi":45.67,"bo":1,"so":9,"buy":40.04,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":609,"name":"Увабаки","t":1795779070521,"sale":800,"ref":929.99,"profit":36.99,"roi":4.62,"bo":8,"so":37,"buy":593,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
