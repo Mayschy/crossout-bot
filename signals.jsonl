@@ -1659,3 +1659,5 @@
 {"id":629,"name":"Колесо броневика (пов.)","t":1795780891788,"sale":98.88,"ref":600,"profit":441.12,"roi":446.12,"bo":19,"so":22,"buy":67.82,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":642,"name":"Низкий просвет (пов.)","t":1795780893247,"sale":750,"ref":909.99,"profit":68.99,"roi":9.2,"bo":45,"so":38,"buy":688.57,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":463,"name":"Отшельник","t":1795780894969,"sale":589.15,"ref":710,"profit":49.85,"roi":8.46,"bo":8,"so":55,"buy":589.14,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":504,"name":"Аннигилятор","t":1795781449225,"sale":961.2,"ref":1174.01,"profit":95.41,"roi":9.93,"bo":3,"so":18,"buy":950.84,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":26,"name":"Цербер","t":1795781451208,"sale":668.62,"ref":777.78,"profit":31.38,"roi":4.69,"bo":0,"so":8,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
