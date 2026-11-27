@@ -21437,3 +21437,11 @@
 {"id":478,"t":1795804847421,"h":30,"at":1795806600000,"s":74.63,"b":43.81,"so":7,"bo":2,"ask":12.22,"instant":-15.52,"taken":true,"shadow":true,"roi":22.23,"capital":54.95,"late":false}
 {"id":289,"t":1795805449303,"h":20,"at":1795806600000,"s":350,"b":291.08,"so":20,"bo":9,"ask":16,"instant":-37.03,"taken":true,"shadow":true,"roi":5.35,"capital":299,"late":false}
 {"id":704,"t":1795805449303,"h":20,"at":1795806600000,"s":185,"b":152,"so":19,"bo":10,"ask":13.74,"instant":-15.96,"taken":true,"shadow":true,"roi":8.99,"capital":152.76,"late":false}
+{"id":317,"t":1795805450273,"h":20,"at":1795806600000,"s":1645,"b":1410,"so":9,"bo":12,"ask":-165.17,"instant":-376.67,"taken":false,"shadow":false,"roi":-10.04,"capital":1645.67,"late":false}
+{"id":472,"t":1795805452256,"h":20,"at":1795806600000,"s":107.95,"b":38,"so":15,"bo":8,"ask":59.13,"instant":-3.82,"taken":true,"shadow":false,"roi":155.54,"capital":38.02,"late":false}
+{"id":14,"t":1795805453949,"h":20,"at":1795806600000,"s":538.97,"b":434.07,"so":15,"bo":4,"ask":40.91,"instant":-53.5,"taken":true,"shadow":false,"roi":9.21,"capital":444.16,"late":false}
+{"id":306,"t":1795805455743,"h":20,"at":1795806600000,"s":374.88,"b":310.88,"so":34,"bo":12,"ask":34.34,"instant":-23.26,"taken":true,"shadow":false,"roi":11.33,"capital":303.05,"late":false}
+{"id":268,"t":1795805457134,"h":20,"at":1795806600000,"s":2029.87,"b":1758.88,"so":9,"bo":11,"ask":26.94,"instant":-216.95,"taken":true,"shadow":false,"roi":1.5,"capital":1799.94,"late":false}
+{"id":1212,"t":1795803646577,"h":60,"at":1795807200000,"s":50,"b":16,"so":8,"bo":4,"ask":-5,"instant":-35.6,"taken":false,"shadow":true,"roi":-10,"capital":50,"late":false}
+{"id":397,"t":1795803646577,"h":60,"at":1795807200000,"s":55.92,"b":40.56,"so":8,"bo":13,"ask":8.73,"instant":-5.1,"taken":true,"shadow":true,"roi":20.98,"capital":41.6,"late":false}
+{"id":269,"t":1795806080922,"h":10,"at":1795806600000,"s":110,"b":88,"so":61,"bo":2,"ask":12.77,"instant":-7.03,"taken":true,"shadow":true,"roi":14.81,"capital":86.23,"late":false}
