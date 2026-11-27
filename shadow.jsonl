@@ -2609,3 +2609,6 @@
 {"id":487,"name":"Газген","t":1795803046964,"sale":319.99,"ref":370,"profit":13.01,"roi":4.07,"bo":11,"so":25,"buy":304.1,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1212,"name":"Плазменное кольцо","t":1795803646577,"sale":50,"ref":79.68,"profit":21.71,"roi":43.42,"bo":4,"so":14,"buy":16,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":397,"name":"Глазница","t":1795803646577,"sale":41.6,"ref":63.28,"profit":15.35,"roi":36.9,"bo":17,"so":9,"buy":40.55,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":327,"name":"Ёкай","t":1795804847421,"sale":699,"ref":799.97,"profit":20.97,"roi":3,"bo":0,"so":10,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1795804847421,"sale":150.23,"ref":184.47,"profit":15.79,"roi":10.51,"bo":7,"so":23,"buy":144.61,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":478,"name":"ОКО","t":1795804847421,"sale":54.95,"ref":74.63,"profit":12.22,"roi":22.23,"bo":2,"so":8,"buy":43.81,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
