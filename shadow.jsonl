@@ -2509,3 +2509,6 @@
 {"id":309,"name":"Синус-0","t":1795751443719,"sale":113.76,"ref":139.85,"profit":12.1,"roi":10.64,"bo":27,"so":24,"buy":113.54,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":463,"name":"Отшельник","t":1795752643829,"sale":700,"ref":790,"profit":11,"roi":1.57,"bo":2,"so":53,"buy":641.13,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":169,"name":"Шароутка","t":1795753865596,"sale":310,"ref":369.8,"profit":22.82,"roi":7.36,"bo":35,"so":37,"buy":304.01,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":296,"name":"АП62 Терм","t":1795754448910,"sale":147.99,"ref":188,"profit":21.21,"roi":14.33,"bo":14,"so":94,"buy":142.02,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":506,"name":"Максвелл","t":1795754448910,"sale":119.16,"ref":146.6,"profit":12.78,"roi":10.73,"bo":7,"so":32,"buy":109.39,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":187,"name":"Работяга","t":1795754448910,"sale":93.21,"ref":114.98,"profit":10.27,"roi":11.02,"bo":10,"so":8,"buy":93.2,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
