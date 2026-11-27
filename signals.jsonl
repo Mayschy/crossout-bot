@@ -1701,3 +1701,4 @@
 {"id":445,"name":"Геррида I","t":1795808450490,"sale":674.99,"ref":823.99,"profit":66.6,"roi":9.87,"bo":0,"so":63,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3744,"name":"Покров","t":1795808452619,"sale":2511,"ref":2858.94,"profit":62.05,"roi":2.47,"bo":6,"so":6,"buy":2468.01,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3763,"name":"МВП Флагман","t":1795808454149,"sale":484.99,"ref":580,"profit":37.01,"roi":7.63,"bo":8,"so":45,"buy":483.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":366,"name":"Скорпион","t":1795809050956,"sale":23900.02,"ref":26680,"profit":111.98,"roi":0.47,"bo":11,"so":9,"buy":23507.11,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
