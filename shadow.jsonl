@@ -2527,3 +2527,6 @@
 {"id":93,"name":"Онгаку","t":1795766485947,"sale":208.8,"ref":248,"profit":14.4,"roi":6.9,"bo":3,"so":9,"buy":201.62,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":66,"name":"Саранча","t":1795767054910,"sale":190,"ref":225,"profit":12.5,"roi":6.58,"bo":31,"so":14,"buy":188,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":312,"name":"Эмили","t":1795768271946,"sale":90,"ref":119.07,"profit":17.16,"roi":19.07,"bo":2,"so":5,"buy":83,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":530,"name":"Инкубатор","t":1795770648215,"sale":181.51,"ref":227.16,"profit":22.93,"roi":12.64,"bo":4,"so":3,"buy":172.12,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":555,"name":"Бум","t":1795770648215,"sale":105.75,"ref":141.59,"profit":21.68,"roi":20.5,"bo":28,"so":3,"buy":104.24,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":625,"name":"Затворник (пов.)","t":1795770648215,"sale":161.17,"ref":199.99,"profit":18.82,"roi":11.68,"bo":2,"so":53,"buy":153,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
