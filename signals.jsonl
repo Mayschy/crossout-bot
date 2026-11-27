@@ -1600,3 +1600,4 @@
 {"id":606,"name":"Титан (пов.)","t":1795736451397,"sale":169.18,"ref":226.26,"profit":34.45,"roi":20.37,"bo":4,"so":9,"buy":166.43,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":236,"name":"Блок питания","t":1795738248825,"sale":533.52,"ref":696.5,"profit":93.33,"roi":17.49,"bo":5,"so":46,"buy":516,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":518,"name":"Оберег","t":1795738250264,"sale":491,"ref":589.79,"profit":39.81,"roi":8.11,"bo":9,"so":15,"buy":467.1,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":279,"name":"Иглобрюх","t":1795738849235,"sale":815,"ref":948,"profit":38.2,"roi":4.69,"bo":1,"so":39,"buy":805,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
