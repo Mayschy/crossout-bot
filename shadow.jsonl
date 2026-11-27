@@ -2507,3 +2507,4 @@
 {"id":631,"name":"Бигфут (пов.)","t":1795746664588,"sale":163.15,"ref":200,"profit":16.85,"roi":10.33,"bo":1,"so":27,"buy":160.94,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3789,"name":"Предмет #3789","t":1795751443719,"sale":700,"ref":800,"profit":20,"roi":2.86,"bo":33,"so":11,"buy":620.83,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":309,"name":"Синус-0","t":1795751443719,"sale":113.76,"ref":139.85,"profit":12.1,"roi":10.64,"bo":27,"so":24,"buy":113.54,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":463,"name":"Отшельник","t":1795752643829,"sale":700,"ref":790,"profit":11,"roi":1.57,"bo":2,"so":53,"buy":641.13,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
