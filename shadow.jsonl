@@ -2541,3 +2541,5 @@
 {"id":404,"name":"Демонстрация силы","t":1795774844965,"sale":74.75,"ref":102.92,"profit":17.88,"roi":23.92,"bo":0,"so":4,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":85,"name":"Разгон","t":1795774844965,"sale":43.09,"ref":64.85,"profit":15.27,"roi":35.45,"bo":53,"so":61,"buy":43,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":605,"name":"Титан","t":1795774844965,"sale":92.46,"ref":115.91,"profit":11.86,"roi":12.83,"bo":2,"so":16,"buy":90.12,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1795775467172,"sale":430,"ref":500,"profit":20,"roi":4.65,"bo":81,"so":111,"buy":310.05,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":271,"name":"АП43 Рапира","t":1795775467172,"sale":120.35,"ref":155.09,"profit":19.23,"roi":15.98,"bo":46,"so":14,"buy":40,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
