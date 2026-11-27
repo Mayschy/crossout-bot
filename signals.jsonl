@@ -1632,3 +1632,6 @@
 {"id":529,"name":"Циркулярка","t":1795773050566,"sale":200,"ref":664,"profit":397.6,"roi":198.8,"bo":52,"so":12,"buy":125,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":565,"name":"Хамелеон","t":1795773052309,"sale":150,"ref":550,"profit":345,"roi":230,"bo":26,"so":5,"buy":97.01,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":606,"name":"Титан (пов.)","t":1795773053726,"sale":439.89,"ref":649.88,"profit":145,"roi":32.96,"bo":88,"so":40,"buy":232.6,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":302,"name":"П-23 Защитник","t":1795773683132,"sale":39.99,"ref":490,"profit":401.01,"roi":1002.78,"bo":38,"so":4,"buy":27.14,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":486,"name":"Ампер","t":1795773684945,"sale":599.97,"ref":710.99,"profit":39.92,"roi":6.65,"bo":35,"so":9,"buy":100.03,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":646,"name":"Атом","t":1795773686535,"sale":590,"ref":687.83,"profit":29.05,"roi":4.92,"bo":79,"so":46,"buy":310,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
