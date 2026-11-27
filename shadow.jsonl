@@ -2543,3 +2543,5 @@
 {"id":605,"name":"Титан","t":1795774844965,"sale":92.46,"ref":115.91,"profit":11.86,"roi":12.83,"bo":2,"so":16,"buy":90.12,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":646,"name":"Атом","t":1795775467172,"sale":430,"ref":500,"profit":20,"roi":4.65,"bo":81,"so":111,"buy":310.05,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":271,"name":"АП43 Рапира","t":1795775467172,"sale":120.35,"ref":155.09,"profit":19.23,"roi":15.98,"bo":46,"so":14,"buy":40,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":315,"name":"Парсер","t":1795776048261,"sale":950,"ref":1077.94,"profit":20.15,"roi":2.12,"bo":2,"so":18,"buy":912.14,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1795776048261,"sale":399.99,"ref":460,"profit":14.01,"roi":3.5,"bo":97,"so":105,"buy":340,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

@@ -1640,3 +1640,6 @@
 {"id":1449,"name":"Гиена","t":1795774847743,"sale":810.05,"ref":965,"profit":58.45,"roi":7.22,"bo":20,"so":51,"buy":810.04,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":608,"name":"Колесо большое (пов.)","t":1795775470337,"sale":30.78,"ref":238.16,"profit":183.56,"roi":596.37,"bo":47,"so":8,"buy":19.02,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3747,"name":"Экстремум","t":1795775471738,"sale":1773,"ref":1999.99,"profit":26.99,"roi":1.52,"bo":7,"so":21,"buy":1672.11,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":271,"name":"АП43 Рапира","t":1795776049322,"sale":55,"ref":155.09,"profit":84.58,"roi":153.78,"bo":39,"so":21,"buy":36.51,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":497,"name":"Колибри","t":1795776050652,"sale":307.03,"ref":389.98,"profit":43.95,"roi":14.32,"bo":3,"so":20,"buy":307,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":279,"name":"Иглобрюх","t":1795776051976,"sale":1198.25,"ref":1361.21,"profit":26.84,"roi":2.24,"bo":30,"so":7,"buy":1185.96,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
