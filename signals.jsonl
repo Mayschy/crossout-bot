@@ -1668,3 +1668,4 @@
 {"id":43,"name":"Мор","t":1795785052805,"sale":1216.78,"ref":1400,"profit":43.22,"roi":3.55,"bo":1,"so":12,"buy":1204.9,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":463,"name":"Отшельник","t":1795785654463,"sale":583.96,"ref":711.91,"profit":56.76,"roi":9.72,"bo":4,"so":48,"buy":583.44,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":505,"name":"Доплер","t":1795786269784,"sale":300.26,"ref":376.99,"profit":39.03,"roi":13,"bo":2,"so":29,"buy":296.92,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":487,"name":"Газген","t":1795787451002,"sale":294.02,"ref":363,"profit":32.68,"roi":11.11,"bo":2,"so":32,"buy":294.01,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
