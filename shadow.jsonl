@@ -2637,3 +2637,4 @@
 {"id":375,"name":"Аврора","t":1795811466439,"sale":152.05,"ref":193.31,"profit":21.93,"roi":14.42,"bo":3,"so":45,"buy":150.03,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1795811466439,"sale":150.23,"ref":183.61,"profit":15.02,"roi":10,"bo":1,"so":15,"buy":143.01,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":486,"name":"Ампер","t":1795811466439,"sale":107.75,"ref":131.15,"profit":10.29,"roi":9.55,"bo":23,"so":62,"buy":103.45,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":605,"name":"Титан","t":1795812046250,"sale":83.4,"ref":110.2,"profit":15.78,"roi":18.92,"bo":4,"so":16,"buy":83.04,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
