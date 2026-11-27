@@ -2615,3 +2615,7 @@
 {"id":289,"name":"Дробитель","t":1795805449303,"sale":299,"ref":351.62,"profit":17.46,"roi":5.84,"bo":9,"so":21,"buy":291.08,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":704,"name":"Хранилище чертежей","t":1795805449303,"sale":152.76,"ref":187.64,"profit":16.12,"roi":10.55,"bo":10,"so":20,"buy":152,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1795806080922,"sale":86.23,"ref":110,"profit":12.77,"roi":14.81,"bo":0,"so":65,"buy":0,"act":10,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":314,"name":"Аротрон","t":1795806650040,"sale":450,"ref":522.25,"profit":20.03,"roi":4.45,"bo":35,"so":33,"buy":416.34,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":486,"name":"Ампер","t":1795806650040,"sale":107.75,"ref":135.02,"profit":13.77,"roi":12.78,"bo":24,"so":43,"buy":103.46,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":544,"name":"НА-11 «Шарик»","t":1795806650040,"sale":200,"ref":235.39,"profit":11.85,"roi":5.93,"bo":1,"so":4,"buy":165.08,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1329,"name":"Керамоброня","t":1795806650040,"sale":50,"ref":67.9,"profit":11.11,"roi":22.22,"bo":3,"so":2,"buy":15.24,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
