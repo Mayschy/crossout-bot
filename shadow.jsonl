@@ -2576,3 +2576,4 @@
 {"id":505,"name":"Доплер","t":1795786844955,"sale":300.26,"ref":360,"profit":23.74,"roi":7.91,"bo":2,"so":29,"buy":296.92,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":112,"name":"Рвач","t":1795786844955,"sale":326.06,"ref":374,"profit":10.54,"roi":3.23,"bo":15,"so":82,"buy":310,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":41,"name":"Аякс","t":1795787450250,"sale":1500,"ref":1679.9,"profit":11.91,"roi":0.79,"bo":0,"so":26,"buy":0,"act":7,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":611,"name":"Колесо двойное","t":1795788085394,"sale":75,"ref":97.59,"profit":12.83,"roi":17.11,"bo":26,"so":15,"buy":69.58,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
