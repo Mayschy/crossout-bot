@@ -2645,3 +2645,4 @@
 {"id":117,"name":"КА-2 Маховик","t":1795819252790,"sale":180,"ref":219.94,"profit":17.95,"roi":9.97,"bo":7,"so":56,"buy":169.6,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":631,"name":"Бигфут (пов.)","t":1795819852393,"sale":164.08,"ref":207.98,"profit":23.1,"roi":14.08,"bo":12,"so":23,"buy":162.02,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":75,"name":"Тыквошарики","t":1795819852393,"sale":179.77,"ref":216.66,"profit":15.22,"roi":8.47,"bo":6,"so":7,"buy":168,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":482,"name":"Мигалка","t":1795821045926,"sale":205.02,"ref":249.98,"profit":19.96,"roi":9.74,"bo":16,"so":4,"buy":175.02,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
