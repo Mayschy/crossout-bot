@@ -1669,3 +1669,5 @@
 {"id":463,"name":"Отшельник","t":1795785654463,"sale":583.96,"ref":711.91,"profit":56.76,"roi":9.72,"bo":4,"so":48,"buy":583.44,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":505,"name":"Доплер","t":1795786269784,"sale":300.26,"ref":376.99,"profit":39.03,"roi":13,"bo":2,"so":29,"buy":296.92,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":487,"name":"Газген","t":1795787451002,"sale":294.02,"ref":363,"profit":32.68,"roi":11.11,"bo":2,"so":32,"buy":294.01,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":273,"name":"В-37-39 Адаптер","t":1795791054522,"sale":417.6,"ref":520.65,"profit":50.98,"roi":12.21,"bo":3,"so":30,"buy":417.56,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":236,"name":"Блок питания","t":1795791056061,"sale":350,"ref":441.82,"profit":47.64,"roi":13.61,"bo":5,"so":69,"buy":307.84,"act":11,"liq":60,"med":null,"below":null,"gone":null,"dem":null}

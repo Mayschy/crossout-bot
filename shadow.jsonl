@@ -2580,3 +2580,8 @@
 {"id":309,"name":"Синус-0","t":1795789866921,"sale":115.35,"ref":144,"profit":14.25,"roi":12.35,"bo":23,"so":13,"buy":113.54,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":246,"name":"Палач 88мм","t":1795789866921,"sale":300,"ref":345.48,"profit":10.93,"roi":3.64,"bo":10,"so":53,"buy":294,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":512,"name":"Р-2 Стужа","t":1795790452710,"sale":32.07,"ref":47.77,"profit":10.92,"roi":34.06,"bo":4,"so":45,"buy":31.04,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1207,"name":"Измельчитель","t":1795791053787,"sale":22.2,"ref":41.98,"profit":15.58,"roi":70.19,"bo":2,"so":24,"buy":20.67,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":269,"name":"Медиана","t":1795791053787,"sale":94,"ref":119.96,"profit":13.96,"roi":14.86,"bo":0,"so":59,"buy":0,"act":11,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1209,"name":"Чертово колесо","t":1795791053787,"sale":28.73,"ref":46.59,"profit":13.2,"roi":45.95,"bo":1,"so":6,"buy":6.78,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795791053787,"sale":156.09,"ref":187.2,"profit":12.39,"roi":7.94,"bo":10,"so":51,"buy":156.07,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":112,"name":"Рвач","t":1795791053787,"sale":322.49,"ref":372,"profit":12.31,"roi":3.82,"bo":15,"so":81,"buy":310,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
