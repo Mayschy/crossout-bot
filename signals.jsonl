@@ -1622,3 +1622,4 @@
 {"id":436,"name":"LED «Джек»","t":1795759851205,"sale":173.28,"ref":229.87,"profit":33.6,"roi":19.39,"bo":4,"so":2,"buy":170.24,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":114,"name":"Стартер","t":1795760449121,"sale":841.11,"ref":994.99,"profit":54.38,"roi":6.47,"bo":14,"so":20,"buy":820,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3785,"name":"Предмет #3785","t":1795761073445,"sale":862.6,"ref":1091.46,"profit":119.71,"roi":13.88,"bo":33,"so":13,"buy":680,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":56,"name":"Омнибокс","t":1795764049000,"sale":370,"ref":442.96,"profit":28.66,"roi":7.75,"bo":3,"so":20,"buy":341.9,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
