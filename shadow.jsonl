@@ -2502,3 +2502,6 @@
 {"id":85,"name":"Разгон","t":1795744257981,"sale":35.36,"ref":57.08,"profit":16.01,"roi":45.28,"bo":58,"so":10,"buy":34.94,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":586,"name":"Слейпнир","t":1795744883201,"sale":340,"ref":394.76,"profit":15.28,"roi":4.5,"bo":21,"so":14,"buy":285,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":600,"name":"Ступор","t":1795745452542,"sale":198.38,"ref":237.99,"profit":15.81,"roi":7.97,"bo":2,"so":7,"buy":193.39,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1795746664588,"sale":143.95,"ref":181.41,"profit":19.32,"roi":13.42,"bo":0,"so":16,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":296,"name":"АП62 Терм","t":1795746664588,"sale":150.76,"ref":188,"profit":18.44,"roi":12.23,"bo":0,"so":103,"buy":0,"act":8,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":631,"name":"Бигфут (пов.)","t":1795746664588,"sale":163.15,"ref":200,"profit":16.85,"roi":10.33,"bo":1,"so":27,"buy":160.94,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
