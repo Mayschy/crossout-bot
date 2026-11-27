@@ -1636,3 +1636,5 @@
 {"id":486,"name":"Ампер","t":1795773684945,"sale":599.97,"ref":710.99,"profit":39.92,"roi":6.65,"bo":35,"so":9,"buy":100.03,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":646,"name":"Атом","t":1795773686535,"sale":590,"ref":687.83,"profit":29.05,"roi":4.92,"bo":79,"so":46,"buy":310,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":223,"name":"Надувной Мамонт","t":1795774251734,"sale":930.87,"ref":1458,"profit":381.33,"roi":40.96,"bo":1,"so":5,"buy":929.38,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":611,"name":"Колесо двойное","t":1795774846316,"sale":70,"ref":150,"profit":65,"roi":92.86,"bo":13,"so":12,"buy":50,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1449,"name":"Гиена","t":1795774847743,"sale":810.05,"ref":965,"profit":58.45,"roi":7.22,"bo":20,"so":51,"buy":810.04,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
