@@ -1687,3 +1687,4 @@
 {"id":585,"name":"Файер «Фингал»","t":1795801245832,"sale":230.01,"ref":497.22,"profit":217.49,"roi":94.56,"bo":8,"so":6,"buy":230,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1447,"name":"Хищная хватка","t":1795801845392,"sale":170.89,"ref":222.22,"profit":29.11,"roi":17.03,"bo":1,"so":6,"buy":165,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":290,"name":"Тошнитель","t":1795802482195,"sale":1625.01,"ref":1887.67,"profit":73.89,"roi":4.55,"bo":11,"so":24,"buy":1625,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1449,"name":"Гиена","t":1795803047629,"sale":840.01,"ref":973.89,"profit":36.49,"roi":4.34,"bo":24,"so":55,"buy":840,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

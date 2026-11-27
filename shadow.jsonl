@@ -2606,3 +2606,4 @@
 {"id":65,"name":"Сверчок","t":1795801843960,"sale":324.56,"ref":372.99,"profit":11.13,"roi":3.43,"bo":18,"so":53,"buy":311.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3764,"name":"Громила","t":1795802481412,"sale":435.54,"ref":500,"profit":14.46,"roi":3.32,"bo":0,"so":42,"buy":0,"act":10,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":515,"name":"Вак1дАТ3","t":1795802481412,"sale":54.12,"ref":76.14,"profit":14.41,"roi":26.62,"bo":1,"so":9,"buy":20.2,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":487,"name":"Газген","t":1795803046964,"sale":319.99,"ref":370,"profit":13.01,"roi":4.07,"bo":11,"so":25,"buy":304.1,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
