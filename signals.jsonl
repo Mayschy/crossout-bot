@@ -1682,3 +1682,5 @@
 {"id":421,"name":"Тромбон","t":1795797649686,"sale":612.35,"ref":717.99,"profit":33.84,"roi":5.53,"bo":2,"so":39,"buy":611.52,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":557,"name":"Снежинка","t":1795798886639,"sale":261.95,"ref":332.88,"profit":37.64,"roi":14.37,"bo":1,"so":3,"buy":252.3,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":622,"name":"Виджет","t":1795798888236,"sale":268.64,"ref":339,"profit":36.46,"roi":13.57,"bo":2,"so":16,"buy":267.42,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":367,"name":"Харон","t":1795800666329,"sale":4401.05,"ref":5100.04,"profit":188.99,"roi":4.29,"bo":6,"so":24,"buy":4401,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":10,"name":"Ёкодзуна","t":1795800668056,"sale":1400,"ref":1595.95,"profit":36.36,"roi":2.6,"bo":6,"so":9,"buy":1337.01,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
