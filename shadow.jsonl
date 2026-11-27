@@ -2532,3 +2532,6 @@
 {"id":625,"name":"Затворник (пов.)","t":1795770648215,"sale":161.17,"ref":199.99,"profit":18.82,"roi":11.68,"bo":2,"so":53,"buy":153,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":664,"name":"Код «‎Оранжевый»","t":1795771252082,"sale":232,"ref":283.81,"profit":23.43,"roi":10.1,"bo":3,"so":2,"buy":223.02,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":358,"name":"Булава","t":1795771252082,"sale":92.29,"ref":115,"profit":11.21,"roi":12.15,"bo":19,"so":21,"buy":91.63,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":631,"name":"Бигфут (пов.)","t":1795771866039,"sale":165,"ref":209,"profit":23.1,"roi":14,"bo":5,"so":25,"buy":163.15,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":306,"name":"Гунгнир","t":1795771866039,"sale":314.96,"ref":372.96,"profit":20.7,"roi":6.57,"bo":6,"so":32,"buy":302.15,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":379,"name":"Гравастар","t":1795771866039,"sale":351.12,"ref":408,"profit":16.08,"roi":4.58,"bo":8,"so":38,"buy":351.11,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
