@@ -1624,3 +1624,4 @@
 {"id":3785,"name":"Предмет #3785","t":1795761073445,"sale":862.6,"ref":1091.46,"profit":119.71,"roi":13.88,"bo":33,"so":13,"buy":680,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":56,"name":"Омнибокс","t":1795764049000,"sale":370,"ref":442.96,"profit":28.66,"roi":7.75,"bo":3,"so":20,"buy":341.9,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3778,"name":"Морриган (заготовка)","t":1795766492533,"sale":3999.99,"ref":4486.28,"profit":37.66,"roi":0.94,"bo":5,"so":5,"buy":3155.32,"act":3,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":616,"name":"Гренадер","t":1795767056817,"sale":186.26,"ref":239.23,"profit":29.05,"roi":15.59,"bo":0,"so":21,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
