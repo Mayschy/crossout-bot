@@ -1674,3 +1674,4 @@
 {"id":56,"name":"Омнибокс","t":1795791685485,"sale":353.29,"ref":449.9,"profit":51.62,"roi":14.61,"bo":2,"so":9,"buy":341.91,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1462,"name":"Гоплит","t":1795792249811,"sale":1800,"ref":2079.99,"profit":71.99,"roi":4,"bo":10,"so":50,"buy":1750,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3756,"name":"Ревун","t":1795792251256,"sale":229.28,"ref":296.88,"profit":37.91,"roi":16.54,"bo":1,"so":6,"buy":66.66,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1331,"name":"Шаблон: Молния","t":1795793467508,"sale":100,"ref":140,"profit":26,"roi":26,"bo":4,"so":3,"buy":66,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
