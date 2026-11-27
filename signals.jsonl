@@ -1644,3 +1644,4 @@
 {"id":497,"name":"Колибри","t":1795776050652,"sale":307.03,"ref":389.98,"profit":43.95,"roi":14.32,"bo":3,"so":20,"buy":307,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":279,"name":"Иглобрюх","t":1795776051976,"sale":1198.25,"ref":1361.21,"profit":26.84,"roi":2.24,"bo":30,"so":7,"buy":1185.96,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":40,"name":"Пилигрим","t":1795776644328,"sale":300,"ref":557.1,"profit":201.39,"roi":67.13,"bo":18,"so":5,"buy":112.01,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":606,"name":"Титан (пов.)","t":1795777288896,"sale":445,"ref":530,"profit":32,"roi":7.19,"bo":90,"so":99,"buy":362,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}

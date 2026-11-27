@@ -2545,3 +2545,8 @@
 {"id":271,"name":"АП43 Рапира","t":1795775467172,"sale":120.35,"ref":155.09,"profit":19.23,"roi":15.98,"bo":46,"so":14,"buy":40,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":315,"name":"Парсер","t":1795776048261,"sale":950,"ref":1077.94,"profit":20.15,"roi":2.12,"bo":2,"so":18,"buy":912.14,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":646,"name":"Атом","t":1795776048261,"sale":399.99,"ref":460,"profit":14.01,"roi":3.5,"bo":97,"so":105,"buy":340,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1208,"name":"Автокатапульта","t":1795777287951,"sale":28.53,"ref":53.99,"profit":20.06,"roi":70.32,"bo":3,"so":15,"buy":5,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1795777287951,"sale":339.99,"ref":400,"profit":20.01,"roi":5.89,"bo":87,"so":102,"buy":320,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":271,"name":"АП43 Рапира","t":1795777287951,"sale":53,"ref":80,"profit":19,"roi":35.85,"bo":45,"so":28,"buy":40.01,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":453,"name":"Мириада","t":1795777287951,"sale":428.02,"ref":489.5,"profit":12.53,"roi":2.93,"bo":4,"so":40,"buy":428,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":113,"name":"Терзатель","t":1795777287951,"sale":160,"ref":191.17,"profit":12.05,"roi":7.53,"bo":8,"so":29,"buy":150,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
