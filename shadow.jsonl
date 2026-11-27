@@ -2588,3 +2588,4 @@
 {"id":236,"name":"Блок питания","t":1795791684713,"sale":374.93,"ref":441.82,"profit":22.71,"roi":6.06,"bo":5,"so":72,"buy":307.84,"act":11,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":179,"name":"Саврас","t":1795792249239,"sale":122.4,"ref":151.49,"profit":13.94,"roi":11.39,"bo":36,"so":13,"buy":122.13,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":647,"name":"Развал","t":1795793466580,"sale":81.22,"ref":101.99,"profit":10.57,"roi":13.02,"bo":38,"so":58,"buy":79,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":453,"name":"Мириада","t":1795794053410,"sale":412.46,"ref":480,"profit":19.54,"roi":4.74,"bo":3,"so":42,"buy":368,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
