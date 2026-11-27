@@ -2591,3 +2591,4 @@
 {"id":453,"name":"Мириада","t":1795794053410,"sale":412.46,"ref":480,"profit":19.54,"roi":4.74,"bo":3,"so":42,"buy":368,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":302,"name":"П-23 Защитник","t":1795794651190,"sale":35.42,"ref":51,"profit":10.48,"roi":29.59,"bo":31,"so":34,"buy":32,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":609,"name":"Увабаки","t":1795794651190,"sale":739.52,"ref":832.89,"profit":10.08,"roi":1.36,"bo":25,"so":91,"buy":630,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":93,"name":"Онгаку","t":1795795282943,"sale":210.4,"ref":247.94,"profit":12.75,"roi":6.06,"bo":3,"so":13,"buy":180.03,"act":3,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

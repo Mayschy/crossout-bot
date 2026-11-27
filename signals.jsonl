@@ -1677,3 +1677,4 @@
 {"id":1331,"name":"Шаблон: Молния","t":1795793467508,"sale":100,"ref":140,"profit":26,"roi":26,"bo":4,"so":3,"buy":66,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
 {"id":286,"name":"Скади","t":1795794651938,"sale":1810,"ref":2099.99,"profit":79.99,"roi":4.42,"bo":6,"so":23,"buy":1808.01,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":497,"name":"Колибри","t":1795794653327,"sale":303.4,"ref":389,"profit":46.7,"roi":15.39,"bo":5,"so":19,"buy":300.01,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":609,"name":"Увабаки","t":1795795283642,"sale":639.4,"ref":832.81,"profit":110.13,"roi":17.22,"bo":22,"so":91,"buy":631,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
