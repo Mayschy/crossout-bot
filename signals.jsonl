@@ -1614,3 +1614,5 @@
 {"id":295,"name":"АП64 Джоуль","t":1795752644373,"sale":875.01,"ref":1050,"profit":69.99,"roi":8,"bo":12,"so":32,"buy":871,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":390,"name":"Паучок","t":1795753867141,"sale":70,"ref":128.01,"profit":45.21,"roi":64.58,"bo":3,"so":8,"buy":69.24,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":314,"name":"Аротрон","t":1795755682460,"sale":337,"ref":415,"profit":36.5,"roi":10.83,"bo":6,"so":10,"buy":330.01,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3793,"name":"Предмет #3793","t":1795756253462,"sale":76862.5,"ref":99999.99,"profit":13137.49,"roi":17.09,"bo":18,"so":3,"buy":12.02,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":273,"name":"В-37-39 Адаптер","t":1795756254813,"sale":451,"ref":537,"profit":32.3,"roi":7.16,"bo":4,"so":23,"buy":450,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
