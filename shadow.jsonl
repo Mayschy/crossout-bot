@@ -2513,3 +2513,4 @@
 {"id":506,"name":"Максвелл","t":1795754448910,"sale":119.16,"ref":146.6,"profit":12.78,"roi":10.73,"bo":7,"so":32,"buy":109.39,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":187,"name":"Работяга","t":1795754448910,"sale":93.21,"ref":114.98,"profit":10.27,"roi":11.02,"bo":10,"so":8,"buy":93.2,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":368,"name":"Астрей","t":1795756853008,"sale":340,"ref":389.99,"profit":10.99,"roi":3.23,"bo":10,"so":21,"buy":324.8,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3769,"name":"Смог-15","t":1795757465356,"sale":186.23,"ref":222.23,"profit":13.78,"roi":7.4,"bo":17,"so":4,"buy":186.22,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
