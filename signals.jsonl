@@ -1671,3 +1671,4 @@
 {"id":487,"name":"Газген","t":1795787451002,"sale":294.02,"ref":363,"profit":32.68,"roi":11.11,"bo":2,"so":32,"buy":294.01,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":273,"name":"В-37-39 Адаптер","t":1795791054522,"sale":417.6,"ref":520.65,"profit":50.98,"roi":12.21,"bo":3,"so":30,"buy":417.56,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":236,"name":"Блок питания","t":1795791056061,"sale":350,"ref":441.82,"profit":47.64,"roi":13.61,"bo":5,"so":69,"buy":307.84,"act":11,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":56,"name":"Омнибокс","t":1795791685485,"sale":353.29,"ref":449.9,"profit":51.62,"roi":14.61,"bo":2,"so":9,"buy":341.91,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
