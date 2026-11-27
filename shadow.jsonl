@@ -2556,3 +2556,4 @@
 {"id":515,"name":"Вак1дАТ3","t":1795777853998,"sale":56.99,"ref":76.19,"profit":11.58,"roi":20.32,"bo":1,"so":8,"buy":20.2,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":40,"name":"Пилигрим","t":1795778448673,"sale":209.99,"ref":250,"profit":15.01,"roi":7.15,"bo":16,"so":13,"buy":115,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":279,"name":"Иглобрюх","t":1795779069604,"sale":970,"ref":1100,"profit":20,"roi":2.06,"bo":33,"so":61,"buy":949,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":642,"name":"Низкий просвет (пов.)","t":1795779650444,"sale":800,"ref":909.99,"profit":18.99,"roi":2.37,"bo":45,"so":34,"buy":688.57,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
