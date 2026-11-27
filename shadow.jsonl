@@ -2557,3 +2557,5 @@
 {"id":40,"name":"Пилигрим","t":1795778448673,"sale":209.99,"ref":250,"profit":15.01,"roi":7.15,"bo":16,"so":13,"buy":115,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":279,"name":"Иглобрюх","t":1795779069604,"sale":970,"ref":1100,"profit":20,"roi":2.06,"bo":33,"so":61,"buy":949,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":642,"name":"Низкий просвет (пов.)","t":1795779650444,"sale":800,"ref":909.99,"profit":18.99,"roi":2.37,"bo":45,"so":34,"buy":688.57,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":379,"name":"Гравастар","t":1795780256627,"sale":350,"ref":407.95,"profit":17.15,"roi":4.9,"bo":4,"so":29,"buy":340.75,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":565,"name":"Хамелеон","t":1795780256627,"sale":169.99,"ref":200,"profit":10.01,"roi":5.89,"bo":21,"so":16,"buy":102.5,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

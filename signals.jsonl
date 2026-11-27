@@ -1654,3 +1654,5 @@
 {"id":609,"name":"Увабаки","t":1795779070521,"sale":800,"ref":929.99,"profit":36.99,"roi":4.62,"bo":8,"so":37,"buy":593,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":11,"name":"Мертвец","t":1795779651217,"sale":1700.01,"ref":1949.85,"profit":54.86,"roi":3.23,"bo":30,"so":17,"buy":1364.52,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":302,"name":"П-23 Защитник","t":1795779652631,"sale":45,"ref":79.99,"profit":26.99,"roi":59.98,"bo":46,"so":13,"buy":40.07,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":251,"name":"Райдзин","t":1795780257521,"sale":1400,"ref":1600,"profit":40,"roi":2.86,"bo":35,"so":49,"buy":1202,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1060,"name":"Шаблон: Опасность!","t":1795780258980,"sale":173.46,"ref":235.37,"profit":38.37,"roi":22.12,"bo":2,"so":5,"buy":171.57,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
