@@ -1680,3 +1680,5 @@
 {"id":609,"name":"Увабаки","t":1795795283642,"sale":639.4,"ref":832.81,"profit":110.13,"roi":17.22,"bo":22,"so":91,"buy":631,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1053,"name":"Фиалковый глянец","t":1795795849937,"sale":327.3,"ref":400,"profit":32.7,"roi":9.99,"bo":2,"so":6,"buy":127.98,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":421,"name":"Тромбон","t":1795797649686,"sale":612.35,"ref":717.99,"profit":33.84,"roi":5.53,"bo":2,"so":39,"buy":611.52,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":557,"name":"Снежинка","t":1795798886639,"sale":261.95,"ref":332.88,"profit":37.64,"roi":14.37,"bo":1,"so":3,"buy":252.3,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":622,"name":"Виджет","t":1795798888236,"sale":268.64,"ref":339,"profit":36.46,"roi":13.57,"bo":2,"so":16,"buy":267.42,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
