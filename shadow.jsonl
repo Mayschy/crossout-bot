@@ -2642,3 +2642,4 @@
 {"id":254,"name":"ЗИС-33 Верзила","t":1795816883077,"sale":79.47,"ref":102.5,"profit":12.78,"roi":16.08,"bo":3,"so":16,"buy":79,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":246,"name":"Палач 88мм","t":1795817445254,"sale":310,"ref":357.34,"profit":11.61,"roi":3.74,"bo":10,"so":47,"buy":290.94,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":331,"name":"Сумматор","t":1795818045673,"sale":85.68,"ref":109,"profit":12.42,"roi":14.5,"bo":7,"so":38,"buy":85,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1795819252790,"sale":180,"ref":219.94,"profit":17.95,"roi":9.97,"bo":7,"so":56,"buy":169.6,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
