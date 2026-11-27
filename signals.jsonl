@@ -1714,3 +1714,4 @@
 {"id":462,"name":"Шабаш","t":1795818046541,"sale":229.96,"ref":294,"profit":34.64,"roi":15.06,"bo":2,"so":37,"buy":227.67,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":268,"name":"Жнец","t":1795818047962,"sale":1800,"ref":2029.85,"profit":26.87,"roi":1.49,"bo":11,"so":15,"buy":1798,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":585,"name":"Файер «Фингал»","t":1795819253529,"sale":410.53,"ref":497.23,"profit":36.98,"roi":9.01,"bo":6,"so":4,"buy":230,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
+{"id":308,"name":"Аспект","t":1795819852967,"sale":2000,"ref":2302,"profit":71.8,"roi":3.59,"bo":13,"so":10,"buy":1910.02,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
