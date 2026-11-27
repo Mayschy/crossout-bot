@@ -20592,3 +20592,11 @@
 {"id":168,"t":1795758048092,"h":30,"at":1795759800000,"s":135.26,"b":130.35,"so":72,"bo":14,"ask":-13.53,"instant":-17.94,"taken":false,"shadow":true,"roi":-10,"capital":135.26,"late":false}
 {"id":276,"t":1795758645001,"h":20,"at":1795759800000,"s":349,"b":301.1,"so":13,"bo":5,"ask":12.08,"instant":-31.03,"taken":true,"shadow":true,"roi":4,"capital":302.02,"late":false}
 {"id":647,"t":1795758645001,"h":20,"at":1795759800000,"s":95,"b":76.99,"so":141,"bo":33,"ask":7.74,"instant":-8.47,"taken":true,"shadow":true,"roi":9.95,"capital":77.76,"late":false}
+{"id":3793,"t":1795756253462,"h":60,"at":1795759800000,"s":76858.8,"b":12.02,"so":6,"bo":15,"ask":-7689.58,"instant":-76851.68,"taken":false,"shadow":false,"roi":-10,"capital":76862.5,"late":false}
+{"id":273,"t":1795756254813,"h":60,"at":1795759800000,"s":425,"b":417.56,"so":31,"bo":3,"ask":-68.5,"instant":-75.2,"taken":false,"shadow":false,"roi":-15.19,"capital":451,"late":false}
+{"id":339,"t":1795758645655,"h":30,"at":1795760400000,"s":270.07,"b":265.32,"so":32,"bo":14,"ask":22.99,"instant":18.72,"taken":true,"shadow":false,"roi":10.45,"capital":220.07,"late":false}
+{"id":276,"t":1795758645001,"h":30,"at":1795760400000,"s":349,"b":301.11,"so":13,"bo":7,"ask":12.08,"instant":-31.02,"taken":true,"shadow":true,"roi":4,"capital":302.02,"late":false}
+{"id":647,"t":1795758645001,"h":30,"at":1795760400000,"s":94.91,"b":76.99,"so":133,"bo":33,"ask":7.66,"instant":-8.47,"taken":true,"shadow":true,"roi":9.85,"capital":77.76,"late":false}
+{"id":257,"t":1795759280232,"h":10,"at":1795759800000,"s":1830,"b":1730,"so":13,"bo":2,"ask":-183,"instant":-273,"taken":false,"shadow":true,"roi":-10,"capital":1830,"late":false}
+{"id":4,"t":1795759280232,"h":10,"at":1795759800000,"s":765,"b":0,"so":5,"bo":0,"ask":-76.5,"instant":null,"taken":false,"shadow":true,"roi":-10,"capital":765,"late":false}
+{"id":439,"t":1795759280232,"h":10,"at":1795759800000,"s":1023.9,"b":810,"so":26,"bo":5,"ask":12.51,"instant":-180,"taken":true,"shadow":true,"roi":1.38,"capital":909,"late":false}

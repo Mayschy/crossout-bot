@@ -1620,3 +1620,4 @@
 {"id":339,"name":"Корво","t":1795758645655,"sale":220.07,"ref":274.96,"profit":27.39,"roi":12.45,"bo":14,"so":29,"buy":220,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":465,"name":"Счетчик урона","t":1795759849463,"sale":220.95,"ref":312.81,"profit":60.58,"roi":27.42,"bo":19,"so":5,"buy":217.15,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":436,"name":"LED «Джек»","t":1795759851205,"sale":173.28,"ref":229.87,"profit":33.6,"roi":19.39,"bo":4,"so":2,"buy":170.24,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":114,"name":"Стартер","t":1795760449121,"sale":841.11,"ref":994.99,"profit":54.38,"roi":6.47,"bo":14,"so":20,"buy":820,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
