@@ -2500,3 +2500,4 @@
 {"id":462,"name":"Шабаш","t":1795740645808,"sale":300,"ref":350.65,"profit":15.58,"roi":5.19,"bo":26,"so":20,"buy":275.1,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":93,"name":"Онгаку","t":1795743065484,"sale":208.84,"ref":248.06,"profit":14.41,"roi":6.9,"bo":2,"so":8,"buy":167.02,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":85,"name":"Разгон","t":1795744257981,"sale":35.36,"ref":57.08,"profit":16.01,"roi":45.28,"bo":58,"so":10,"buy":34.94,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":586,"name":"Слейпнир","t":1795744883201,"sale":340,"ref":394.76,"profit":15.28,"roi":4.5,"bo":21,"so":14,"buy":285,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
