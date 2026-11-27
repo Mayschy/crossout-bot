@@ -1698,3 +1698,6 @@
 {"id":262,"name":"Фукибари","t":1795806650595,"sale":2411.5,"ref":2738.95,"profit":53.55,"roi":2.22,"bo":0,"so":17,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":482,"name":"Мигалка","t":1795806652098,"sale":198.02,"ref":249.98,"profit":26.96,"roi":13.62,"bo":18,"so":4,"buy":175.01,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":498,"name":"Импеллер","t":1795807867612,"sale":843.34,"ref":1047,"profit":98.96,"roi":11.73,"bo":6,"so":8,"buy":842.97,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":445,"name":"Геррида I","t":1795808450490,"sale":674.99,"ref":823.99,"profit":66.6,"roi":9.87,"bo":0,"so":63,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3744,"name":"Покров","t":1795808452619,"sale":2511,"ref":2858.94,"profit":62.05,"roi":2.47,"bo":6,"so":6,"buy":2468.01,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3763,"name":"МВП Флагман","t":1795808454149,"sale":484.99,"ref":580,"profit":37.01,"roi":7.63,"bo":8,"so":45,"buy":483.01,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
