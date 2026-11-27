@@ -1690,3 +1690,8 @@
 {"id":1449,"name":"Гиена","t":1795803047629,"sale":840.01,"ref":973.89,"profit":36.49,"roi":4.34,"bo":24,"so":55,"buy":840,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":279,"name":"Иглобрюх","t":1795804848006,"sale":859.68,"ref":1019.9,"profit":58.23,"roi":6.77,"bo":15,"so":77,"buy":850.19,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":379,"name":"Гравастар","t":1795804849452,"sale":324.53,"ref":400,"profit":35.47,"roi":10.93,"bo":0,"so":23,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":317,"name":"Дамка","t":1795805450273,"sale":1645.67,"ref":2400,"profit":514.33,"roi":31.25,"bo":12,"so":7,"buy":1410,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":472,"name":"Неоновый Санта","t":1795805452256,"sale":38.02,"ref":107.95,"profit":59.13,"roi":155.54,"bo":8,"so":17,"buy":38,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":14,"name":"Хугин","t":1795805453949,"sale":444.16,"ref":538.97,"profit":40.91,"roi":9.21,"bo":4,"so":16,"buy":434.07,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":306,"name":"Гунгнир","t":1795805455743,"sale":303.05,"ref":374.88,"profit":34.34,"roi":11.33,"bo":10,"so":35,"buy":302.56,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":268,"name":"Жнец","t":1795805457134,"sale":1799.94,"ref":2029.87,"profit":26.94,"roi":1.5,"bo":11,"so":10,"buy":1758.88,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}

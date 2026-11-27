@@ -2612,3 +2612,5 @@
 {"id":327,"name":"Ёкай","t":1795804847421,"sale":699,"ref":799.97,"profit":20.97,"roi":3,"bo":0,"so":10,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1795804847421,"sale":150.23,"ref":184.47,"profit":15.79,"roi":10.51,"bo":7,"so":23,"buy":144.61,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":478,"name":"ОКО","t":1795804847421,"sale":54.95,"ref":74.63,"profit":12.22,"roi":22.23,"bo":2,"so":8,"buy":43.81,"act":4,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":289,"name":"Дробитель","t":1795805449303,"sale":299,"ref":351.62,"profit":17.46,"roi":5.84,"bo":9,"so":21,"buy":291.08,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":704,"name":"Хранилище чертежей","t":1795805449303,"sale":152.76,"ref":187.64,"profit":16.12,"roi":10.55,"bo":10,"so":20,"buy":152,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
