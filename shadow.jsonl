@@ -2523,3 +2523,5 @@
 {"id":312,"name":"Эмили","t":1795759848991,"sale":86.8,"ref":109.99,"profit":12.19,"roi":14.04,"bo":2,"so":7,"buy":83,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":117,"name":"КА-2 Маховик","t":1795765848651,"sale":190,"ref":226,"profit":13.4,"roi":7.05,"bo":3,"so":53,"buy":187.17,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":648,"name":"Развал (пов.)","t":1795765848651,"sale":85.66,"ref":106.45,"profit":10.15,"roi":11.84,"bo":36,"so":54,"buy":82.01,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":172,"name":"Зимутка","t":1795766485947,"sale":150.59,"ref":185,"profit":15.91,"roi":10.57,"bo":3,"so":38,"buy":123.86,"act":5,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":93,"name":"Онгаку","t":1795766485947,"sale":208.8,"ref":248,"profit":14.4,"roi":6.9,"bo":3,"so":9,"buy":201.62,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
