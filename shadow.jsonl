@@ -2535,3 +2535,4 @@
 {"id":631,"name":"Бигфут (пов.)","t":1795771866039,"sale":165,"ref":209,"profit":23.1,"roi":14,"bo":5,"so":25,"buy":163.15,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":306,"name":"Гунгнир","t":1795771866039,"sale":314.96,"ref":372.96,"profit":20.7,"roi":6.57,"bo":6,"so":32,"buy":302.15,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":379,"name":"Гравастар","t":1795771866039,"sale":351.12,"ref":408,"profit":16.08,"roi":4.58,"bo":8,"so":38,"buy":351.11,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":646,"name":"Атом","t":1795773049189,"sale":600,"ref":687.83,"profit":19.05,"roi":3.17,"bo":67,"so":32,"buy":307.5,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

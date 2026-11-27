@@ -1629,3 +1629,6 @@
 {"id":253,"name":"ЗИС-46 Мамонт","t":1795768274393,"sale":1441,"ref":1746,"profit":130.4,"roi":9.05,"bo":7,"so":18,"buy":1415.04,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":189,"name":"Четкий","t":1795772455688,"sale":589.99,"ref":782.71,"profit":114.45,"roi":19.4,"bo":21,"so":6,"buy":228.67,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":609,"name":"Увабаки","t":1795772457290,"sale":800,"ref":973.73,"profit":76.36,"roi":9.54,"bo":20,"so":10,"buy":643.73,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":529,"name":"Циркулярка","t":1795773050566,"sale":200,"ref":664,"profit":397.6,"roi":198.8,"bo":52,"so":12,"buy":125,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":565,"name":"Хамелеон","t":1795773052309,"sale":150,"ref":550,"profit":345,"roi":230,"bo":26,"so":5,"buy":97.01,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":606,"name":"Титан (пов.)","t":1795773053726,"sale":439.89,"ref":649.88,"profit":145,"roi":32.96,"bo":88,"so":40,"buy":232.6,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
