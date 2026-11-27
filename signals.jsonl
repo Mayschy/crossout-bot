@@ -1661,3 +1661,7 @@
 {"id":463,"name":"Отшельник","t":1795780894969,"sale":589.15,"ref":710,"profit":49.85,"roi":8.46,"bo":8,"so":55,"buy":589.14,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":504,"name":"Аннигилятор","t":1795781449225,"sale":961.2,"ref":1174.01,"profit":95.41,"roi":9.93,"bo":3,"so":18,"buy":950.84,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":26,"name":"Цербер","t":1795781451208,"sale":668.62,"ref":777.78,"profit":31.38,"roi":4.69,"bo":0,"so":8,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":58,"name":"МВП Торпеда","t":1795783248917,"sale":840.01,"ref":999.96,"profit":59.95,"roi":7.14,"bo":10,"so":16,"buy":780,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":236,"name":"Блок питания","t":1795783250411,"sale":301.41,"ref":389.98,"profit":49.57,"roi":16.45,"bo":2,"so":82,"buy":293.22,"act":11,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
+{"id":67,"name":"Цикада","t":1795783251810,"sale":1950,"ref":2199.95,"profit":29.95,"roi":1.54,"bo":5,"so":21,"buy":1846.12,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":453,"name":"Мириада","t":1795783253240,"sale":412.5,"ref":489.49,"profit":28.04,"roi":6.8,"bo":1,"so":43,"buy":401.04,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}

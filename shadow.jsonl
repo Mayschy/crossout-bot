@@ -2564,3 +2564,7 @@
 {"id":594,"name":"ТЗ Питон","t":1795781448318,"sale":190,"ref":227,"profit":14.3,"roi":7.53,"bo":22,"so":13,"buy":103.02,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":51,"name":"Нетопырь","t":1795781448318,"sale":85.3,"ref":106.68,"profit":10.71,"roi":12.56,"bo":8,"so":29,"buy":85.13,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":40,"name":"Пилигрим","t":1795781448318,"sale":165,"ref":195,"profit":10.5,"roi":6.36,"bo":23,"so":26,"buy":115,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":93,"name":"Онгаку","t":1795783248197,"sale":200.03,"ref":247.99,"profit":23.16,"roi":11.58,"bo":2,"so":11,"buy":167.02,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":569,"name":"Окулус VI","t":1795783248197,"sale":157.77,"ref":198.87,"profit":21.21,"roi":13.45,"bo":13,"so":11,"buy":114.02,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795783248197,"sale":160,"ref":199.87,"profit":19.88,"roi":12.43,"bo":24,"so":42,"buy":158,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1156,"name":"Двойная рампа 6×18×3","t":1795783248197,"sale":12.16,"ref":28.99,"profit":13.93,"roi":114.56,"bo":10,"so":22,"buy":4.5,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
