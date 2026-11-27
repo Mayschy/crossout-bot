@@ -2495,3 +2495,4 @@
 {"id":630,"name":"Бигфут","t":1795735867321,"sale":143.95,"ref":181.41,"profit":19.32,"roi":13.42,"bo":0,"so":21,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":478,"name":"ОКО","t":1795737048247,"sale":46.13,"ref":65.16,"profit":12.51,"roi":27.13,"bo":0,"so":5,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":569,"name":"Окулус VI","t":1795738848434,"sale":100.69,"ref":124,"profit":10.91,"roi":10.84,"bo":12,"so":15,"buy":100.64,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":634,"name":"Колесо багги","t":1795739464950,"sale":40,"ref":56.32,"profit":10.69,"roi":26.72,"bo":12,"so":26,"buy":38.61,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
