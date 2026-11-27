@@ -2570,3 +2570,4 @@
 {"id":1156,"name":"Двойная рампа 6×18×3","t":1795783248197,"sale":12.16,"ref":28.99,"profit":13.93,"roi":114.56,"bo":10,"so":22,"buy":4.5,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":169,"name":"Шароутка","t":1795783845933,"sale":297.19,"ref":354.94,"profit":22.26,"roi":7.49,"bo":20,"so":35,"buy":291,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":229,"name":"Надувной Голиаф правый","t":1795783845933,"sale":229.82,"ref":275.79,"profit":18.39,"roi":8,"bo":2,"so":4,"buy":212.81,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1059,"name":"Бирюзовый глянец","t":1795784485260,"sale":50.41,"ref":69.9,"profit":12.5,"roi":24.8,"bo":0,"so":2,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
