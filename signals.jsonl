@@ -1667,3 +1667,4 @@
 {"id":453,"name":"Мириада","t":1795783253240,"sale":412.5,"ref":489.49,"profit":28.04,"roi":6.8,"bo":1,"so":43,"buy":401.04,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":43,"name":"Мор","t":1795785052805,"sale":1216.78,"ref":1400,"profit":43.22,"roi":3.55,"bo":1,"so":12,"buy":1204.9,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
 {"id":463,"name":"Отшельник","t":1795785654463,"sale":583.96,"ref":711.91,"profit":56.76,"roi":9.72,"bo":4,"so":48,"buy":583.44,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":505,"name":"Доплер","t":1795786269784,"sale":300.26,"ref":376.99,"profit":39.03,"roi":13,"bo":2,"so":29,"buy":296.92,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
