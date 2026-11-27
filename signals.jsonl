@@ -1613,3 +1613,4 @@
 {"id":263,"name":"ЗА-4 Звездопад","t":1795750845862,"sale":2707.7,"ref":3050,"profit":37.3,"roi":1.38,"bo":8,"so":25,"buy":2701,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":295,"name":"АП64 Джоуль","t":1795752644373,"sale":875.01,"ref":1050,"profit":69.99,"roi":8,"bo":12,"so":32,"buy":871,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":390,"name":"Паучок","t":1795753867141,"sale":70,"ref":128.01,"profit":45.21,"roi":64.58,"bo":3,"so":8,"buy":69.24,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":314,"name":"Аротрон","t":1795755682460,"sale":337,"ref":415,"profit":36.5,"roi":10.83,"bo":6,"so":10,"buy":330.01,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
