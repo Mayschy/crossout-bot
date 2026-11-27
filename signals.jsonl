@@ -1645,3 +1645,5 @@
 {"id":279,"name":"Иглобрюх","t":1795776051976,"sale":1198.25,"ref":1361.21,"profit":26.84,"roi":2.24,"bo":30,"so":7,"buy":1185.96,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":40,"name":"Пилигрим","t":1795776644328,"sale":300,"ref":557.1,"profit":201.39,"roi":67.13,"bo":18,"so":5,"buy":112.01,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":606,"name":"Титан (пов.)","t":1795777288896,"sale":445,"ref":530,"profit":32,"roi":7.19,"bo":90,"so":99,"buy":362,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":486,"name":"Ампер","t":1795777854974,"sale":102.55,"ref":199.99,"profit":77.44,"roi":75.52,"bo":33,"so":24,"buy":102.01,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":238,"name":"Металлический тираннозавр","t":1795777857052,"sale":172.6,"ref":232.3,"profit":36.47,"roi":21.13,"bo":5,"so":2,"buy":163.22,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
