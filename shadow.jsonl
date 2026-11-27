@@ -2601,3 +2601,5 @@
 {"id":643,"name":"Колесо с шипами","t":1795798885812,"sale":20.33,"ref":34.48,"profit":10.7,"roi":52.64,"bo":16,"so":12,"buy":20.32,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":455,"name":"Боеукладка","t":1795799449282,"sale":118.97,"ref":150,"profit":16.03,"roi":13.47,"bo":3,"so":40,"buy":116.71,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":397,"name":"Глазница","t":1795799449282,"sale":46.16,"ref":63.28,"profit":10.79,"roi":23.38,"bo":16,"so":2,"buy":40.51,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":432,"name":"Антикрыло Мулета ","t":1795800052465,"sale":177.22,"ref":217,"profit":18.08,"roi":10.2,"bo":2,"so":2,"buy":168.36,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":514,"name":"Ядро","t":1795800052465,"sale":185.31,"ref":219.99,"profit":12.68,"roi":6.84,"bo":3,"so":13,"buy":185.24,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
