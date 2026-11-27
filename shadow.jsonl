@@ -2633,3 +2633,4 @@
 {"id":137,"name":"Голубая лампа","t":1795809679213,"sale":187.67,"ref":230,"profit":19.33,"roi":10.3,"bo":1,"so":8,"buy":165,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":179,"name":"Саврас","t":1795809679213,"sale":119.62,"ref":151.46,"profit":16.69,"roi":13.96,"bo":23,"so":12,"buy":115,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":375,"name":"Аврора","t":1795809679213,"sale":162,"ref":196.49,"profit":14.84,"roi":9.16,"bo":3,"so":44,"buy":150.03,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":437,"name":"Тэнгу","t":1795810852213,"sale":750,"ref":849.99,"profit":14.99,"roi":2,"bo":20,"so":71,"buy":710.01,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
