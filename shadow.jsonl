@@ -2595,3 +2595,4 @@
 {"id":609,"name":"Увабаки","t":1795795848157,"sale":700,"ref":800,"profit":20,"roi":2.86,"bo":26,"so":109,"buy":650.01,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3780,"name":"Буран (тюн.) (заготовка)","t":1795795848157,"sale":150,"ref":183.28,"profit":14.95,"roi":9.97,"bo":6,"so":45,"buy":149.42,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":495,"name":"Фалко","t":1795797066140,"sale":90.5,"ref":112.3,"profit":10.57,"roi":11.68,"bo":3,"so":24,"buy":90,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":586,"name":"Слейпнир","t":1795797648753,"sale":350,"ref":410,"profit":19,"roi":5.43,"bo":67,"so":65,"buy":336,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
