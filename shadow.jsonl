@@ -2521,3 +2521,5 @@
 {"id":4,"name":"Холодильник","t":1795759280232,"sale":765,"ref":874.25,"profit":21.83,"roi":2.85,"bo":0,"so":5,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":439,"name":"Драйвер","t":1795759280232,"sale":909,"ref":1023.96,"profit":12.56,"roi":1.38,"bo":5,"so":25,"buy":810,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":312,"name":"Эмили","t":1795759848991,"sale":86.8,"ref":109.99,"profit":12.19,"roi":14.04,"bo":2,"so":7,"buy":83,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":117,"name":"КА-2 Маховик","t":1795765848651,"sale":190,"ref":226,"profit":13.4,"roi":7.05,"bo":3,"so":53,"buy":187.17,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":648,"name":"Развал (пов.)","t":1795765848651,"sale":85.66,"ref":106.45,"profit":10.15,"roi":11.84,"bo":36,"so":54,"buy":82.01,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
