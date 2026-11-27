@@ -2559,3 +2559,5 @@
 {"id":642,"name":"Низкий просвет (пов.)","t":1795779650444,"sale":800,"ref":909.99,"profit":18.99,"roi":2.37,"bo":45,"so":34,"buy":688.57,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":379,"name":"Гравастар","t":1795780256627,"sale":350,"ref":407.95,"profit":17.15,"roi":4.9,"bo":4,"so":29,"buy":340.75,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":565,"name":"Хамелеон","t":1795780256627,"sale":169.99,"ref":200,"profit":10.01,"roi":5.89,"bo":21,"so":16,"buy":102.5,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":609,"name":"Увабаки","t":1795780889967,"sale":749.95,"ref":850,"profit":15.05,"roi":2.01,"bo":11,"so":51,"buy":594,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":529,"name":"Циркулярка","t":1795780889967,"sale":160,"ref":190.24,"profit":11.22,"roi":7.01,"bo":43,"so":13,"buy":147.91,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

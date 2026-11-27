@@ -1656,3 +1656,6 @@
 {"id":302,"name":"П-23 Защитник","t":1795779652631,"sale":45,"ref":79.99,"profit":26.99,"roi":59.98,"bo":46,"so":13,"buy":40.07,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":251,"name":"Райдзин","t":1795780257521,"sale":1400,"ref":1600,"profit":40,"roi":2.86,"bo":35,"so":49,"buy":1202,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1060,"name":"Шаблон: Опасность!","t":1795780258980,"sale":173.46,"ref":235.37,"profit":38.37,"roi":22.12,"bo":2,"so":5,"buy":171.57,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":629,"name":"Колесо броневика (пов.)","t":1795780891788,"sale":98.88,"ref":600,"profit":441.12,"roi":446.12,"bo":19,"so":22,"buy":67.82,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":642,"name":"Низкий просвет (пов.)","t":1795780893247,"sale":750,"ref":909.99,"profit":68.99,"roi":9.2,"bo":45,"so":38,"buy":688.57,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":463,"name":"Отшельник","t":1795780894969,"sale":589.15,"ref":710,"profit":49.85,"roi":8.46,"bo":8,"so":55,"buy":589.14,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
