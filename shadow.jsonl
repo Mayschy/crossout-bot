@@ -2517,3 +2517,6 @@
 {"id":168,"name":"Танкутка","t":1795758048092,"sale":135.26,"ref":161.9,"profit":10.45,"roi":7.73,"bo":14,"so":67,"buy":130.35,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":276,"name":"Циклон","t":1795758645001,"sale":302.02,"ref":349.9,"profit":12.89,"roi":4.27,"bo":5,"so":13,"buy":301.1,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":647,"name":"Развал","t":1795758645001,"sale":77.76,"ref":99,"profit":11.34,"roi":14.58,"bo":28,"so":117,"buy":66,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":257,"name":"Слон","t":1795759280232,"sale":1830,"ref":2059.99,"profit":23.99,"roi":1.31,"bo":2,"so":13,"buy":1730,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":4,"name":"Холодильник","t":1795759280232,"sale":765,"ref":874.25,"profit":21.83,"roi":2.85,"bo":0,"so":5,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":439,"name":"Драйвер","t":1795759280232,"sale":909,"ref":1023.96,"profit":12.56,"roi":1.38,"bo":5,"so":25,"buy":810,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
