@@ -2653,3 +2653,4 @@
 {"id":1048,"name":"Сажа","t":1795822845282,"sale":93.97,"ref":127.39,"profit":20.68,"roi":22.01,"bo":0,"so":4,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":229,"name":"Надувной Голиаф правый","t":1795822845282,"sale":230,"ref":275.78,"profit":18.2,"roi":7.91,"bo":2,"so":5,"buy":224.03,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1795822845282,"sale":81.64,"ref":106.9,"profit":14.57,"roi":17.85,"bo":1,"so":81,"buy":81,"act":9,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":440,"name":"Фламинго","t":1795823446346,"sale":95.45,"ref":118.99,"profit":11.64,"roi":12.2,"bo":6,"so":32,"buy":94.15,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
