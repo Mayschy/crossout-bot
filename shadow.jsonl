@@ -2526,3 +2526,4 @@
 {"id":172,"name":"Зимутка","t":1795766485947,"sale":150.59,"ref":185,"profit":15.91,"roi":10.57,"bo":3,"so":38,"buy":123.86,"act":5,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":93,"name":"Онгаку","t":1795766485947,"sale":208.8,"ref":248,"profit":14.4,"roi":6.9,"bo":3,"so":9,"buy":201.62,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":66,"name":"Саранча","t":1795767054910,"sale":190,"ref":225,"profit":12.5,"roi":6.58,"bo":31,"so":14,"buy":188,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":312,"name":"Эмили","t":1795768271946,"sale":90,"ref":119.07,"profit":17.16,"roi":19.07,"bo":2,"so":5,"buy":83,"act":7,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
