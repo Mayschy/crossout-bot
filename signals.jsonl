@@ -1602,3 +1602,6 @@
 {"id":518,"name":"Оберег","t":1795738250264,"sale":491,"ref":589.79,"profit":39.81,"roi":8.11,"bo":9,"so":15,"buy":467.1,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":279,"name":"Иглобрюх","t":1795738849235,"sale":815,"ref":948,"profit":38.2,"roi":4.69,"bo":1,"so":39,"buy":805,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1144,"name":"Полуарка 6×12×9","t":1795739466322,"sale":1.69,"ref":32,"profit":27.11,"roi":1604.14,"bo":0,"so":23,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":183,"name":"Оябун","t":1795745454235,"sale":3999,"ref":4700,"profit":231,"roi":5.78,"bo":0,"so":20,"buy":0,"act":8,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":439,"name":"Драйвер","t":1795745455807,"sale":823.13,"ref":1030,"profit":103.87,"roi":12.62,"bo":3,"so":26,"buy":809.09,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":296,"name":"АП62 Терм","t":1795745457230,"sale":150.76,"ref":199.85,"profit":29.11,"roi":19.31,"bo":0,"so":102,"buy":0,"act":9,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
