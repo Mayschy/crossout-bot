@@ -2579,3 +2579,4 @@
 {"id":611,"name":"Колесо двойное","t":1795788085394,"sale":75,"ref":97.59,"profit":12.83,"roi":17.11,"bo":26,"so":15,"buy":69.58,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":309,"name":"Синус-0","t":1795789866921,"sale":115.35,"ref":144,"profit":14.25,"roi":12.35,"bo":23,"so":13,"buy":113.54,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":246,"name":"Палач 88мм","t":1795789866921,"sale":300,"ref":345.48,"profit":10.93,"roi":3.64,"bo":10,"so":53,"buy":294,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":512,"name":"Р-2 Стужа","t":1795790452710,"sale":32.07,"ref":47.77,"profit":10.92,"roi":34.06,"bo":4,"so":45,"buy":31.04,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
