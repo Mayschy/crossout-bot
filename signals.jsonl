@@ -1609,3 +1609,5 @@
 {"id":268,"name":"Жнец","t":1795746046840,"sale":1773,"ref":2029.96,"profit":53.96,"roi":3.04,"bo":5,"so":8,"buy":1769.11,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":463,"name":"Отшельник","t":1795747690748,"sale":665.49,"ref":795,"profit":50.01,"roi":7.51,"bo":0,"so":53,"buy":0,"act":5,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":373,"name":"Гелиос","t":1795749647372,"sale":2233,"ref":2555,"profit":66.5,"roi":2.98,"bo":5,"so":22,"buy":2232.17,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":340,"name":"Афина","t":1795750844482,"sale":2501.14,"ref":2899.94,"profit":108.81,"roi":4.35,"bo":7,"so":12,"buy":2444.51,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":263,"name":"ЗА-4 Звездопад","t":1795750845862,"sale":2707.7,"ref":3050,"profit":37.3,"roi":1.38,"bo":8,"so":25,"buy":2701,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
