@@ -2628,3 +2628,8 @@
 {"id":506,"name":"Максвелл","t":1795809049087,"sale":111.44,"ref":141.99,"profit":16.35,"roi":14.67,"bo":3,"so":29,"buy":109.39,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":41,"name":"Аякс","t":1795809049087,"sale":1499.99,"ref":1679.9,"profit":11.92,"roi":0.79,"bo":2,"so":22,"buy":1450,"act":5,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":312,"name":"Эмили","t":1795809049087,"sale":90,"ref":112.67,"profit":11.4,"roi":12.67,"bo":11,"so":20,"buy":85,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1207,"name":"Измельчитель","t":1795809679213,"sale":16.81,"ref":41.97,"profit":20.96,"roi":124.71,"bo":1,"so":9,"buy":16.62,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":314,"name":"Аротрон","t":1795809679213,"sale":420.67,"ref":489.66,"profit":20.02,"roi":4.76,"bo":31,"so":31,"buy":416.34,"act":11,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":137,"name":"Голубая лампа","t":1795809679213,"sale":187.67,"ref":230,"profit":19.33,"roi":10.3,"bo":1,"so":8,"buy":165,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":179,"name":"Саврас","t":1795809679213,"sale":119.62,"ref":151.46,"profit":16.69,"roi":13.96,"bo":23,"so":12,"buy":115,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":375,"name":"Аврора","t":1795809679213,"sale":162,"ref":196.49,"profit":14.84,"roi":9.16,"bo":3,"so":44,"buy":150.03,"act":6,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
