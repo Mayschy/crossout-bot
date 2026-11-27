@@ -2537,3 +2537,4 @@
 {"id":379,"name":"Гравастар","t":1795771866039,"sale":351.12,"ref":408,"profit":16.08,"roi":4.58,"bo":8,"so":38,"buy":351.11,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":646,"name":"Атом","t":1795773049189,"sale":600,"ref":687.83,"profit":19.05,"roi":3.17,"bo":67,"so":32,"buy":307.5,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":465,"name":"Счетчик урона","t":1795773681485,"sale":262.26,"ref":312.81,"profit":19.27,"roi":7.35,"bo":19,"so":6,"buy":217.15,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":236,"name":"Блок питания","t":1795774251041,"sale":389.98,"ref":449.72,"profit":14.77,"roi":3.79,"bo":5,"so":88,"buy":308,"act":11,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
