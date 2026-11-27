@@ -1684,3 +1684,4 @@
 {"id":622,"name":"Виджет","t":1795798888236,"sale":268.64,"ref":339,"profit":36.46,"roi":13.57,"bo":2,"so":16,"buy":267.42,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":367,"name":"Харон","t":1795800666329,"sale":4401.05,"ref":5100.04,"profit":188.99,"roi":4.29,"bo":6,"so":24,"buy":4401,"act":5,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":10,"name":"Ёкодзуна","t":1795800668056,"sale":1400,"ref":1595.95,"profit":36.36,"roi":2.6,"bo":6,"so":9,"buy":1337.01,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":585,"name":"Файер «Фингал»","t":1795801245832,"sale":230.01,"ref":497.22,"profit":217.49,"roi":94.56,"bo":8,"so":6,"buy":230,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
