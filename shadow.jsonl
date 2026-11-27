@@ -2646,3 +2646,7 @@
 {"id":631,"name":"Бигфут (пов.)","t":1795819852393,"sale":164.08,"ref":207.98,"profit":23.1,"roi":14.08,"bo":12,"so":23,"buy":162.02,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":75,"name":"Тыквошарики","t":1795819852393,"sale":179.77,"ref":216.66,"profit":15.22,"roi":8.47,"bo":6,"so":7,"buy":168,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":482,"name":"Мигалка","t":1795821045926,"sale":205.02,"ref":249.98,"profit":19.96,"roi":9.74,"bo":16,"so":4,"buy":175.02,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":113,"name":"Терзатель","t":1795822280675,"sale":149.85,"ref":189.98,"profit":21.13,"roi":14.1,"bo":3,"so":23,"buy":148.96,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1315,"name":"Нефрит","t":1795822280675,"sale":60,"ref":84.9,"profit":16.41,"roi":27.35,"bo":4,"so":5,"buy":27.12,"act":1,"liq":40,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":248,"name":"Обвинитель 76мм","t":1795822280675,"sale":119.34,"ref":146.9,"profit":12.87,"roi":10.78,"bo":8,"so":37,"buy":119.13,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":656,"name":"Грейфер","t":1795822280675,"sale":200,"ref":234.98,"profit":11.48,"roi":5.74,"bo":1,"so":8,"buy":165,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
