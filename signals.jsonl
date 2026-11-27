@@ -1647,3 +1647,7 @@
 {"id":606,"name":"Титан (пов.)","t":1795777288896,"sale":445,"ref":530,"profit":32,"roi":7.19,"bo":90,"so":99,"buy":362,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":486,"name":"Ампер","t":1795777854974,"sale":102.55,"ref":199.99,"profit":77.44,"roi":75.52,"bo":33,"so":24,"buy":102.01,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":238,"name":"Металлический тираннозавр","t":1795777857052,"sale":172.6,"ref":232.3,"profit":36.47,"roi":21.13,"bo":5,"so":2,"buy":163.22,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":569,"name":"Окулус VI","t":1795778450826,"sale":148.98,"ref":318.49,"profit":137.66,"roi":92.4,"bo":14,"so":2,"buy":110,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":353,"name":"Самопал","t":1795778453095,"sale":150,"ref":298.83,"profit":118.95,"roi":79.3,"bo":37,"so":19,"buy":112.12,"act":11,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":565,"name":"Хамелеон","t":1795778454619,"sale":219.99,"ref":280,"profit":32.01,"roi":14.55,"bo":32,"so":5,"buy":104.51,"act":10,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":390,"name":"Паучок","t":1795778456110,"sale":66.11,"ref":107,"profit":30.19,"roi":45.67,"bo":1,"so":9,"buy":40.04,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
