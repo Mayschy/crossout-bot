@@ -2520,3 +2520,4 @@
 {"id":257,"name":"Слон","t":1795759280232,"sale":1830,"ref":2059.99,"profit":23.99,"roi":1.31,"bo":2,"so":13,"buy":1730,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":4,"name":"Холодильник","t":1795759280232,"sale":765,"ref":874.25,"profit":21.83,"roi":2.85,"bo":0,"so":5,"buy":0,"act":3,"liq":20,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":439,"name":"Драйвер","t":1795759280232,"sale":909,"ref":1023.96,"profit":12.56,"roi":1.38,"bo":5,"so":25,"buy":810,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":312,"name":"Эмили","t":1795759848991,"sale":86.8,"ref":109.99,"profit":12.19,"roi":14.04,"bo":2,"so":7,"buy":83,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
