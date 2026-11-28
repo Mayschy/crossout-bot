@@ -2673,3 +2673,4 @@
 {"id":278,"name":"Артемида","t":1795846844663,"sale":1100,"ref":1237.95,"profit":14.15,"roi":1.29,"bo":13,"so":35,"buy":1025,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":619,"name":"Омни","t":1795849849600,"sale":192.07,"ref":236.21,"profit":20.52,"roi":10.68,"bo":16,"so":73,"buy":191.84,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":630,"name":"Бигфут","t":1795850449021,"sale":143.74,"ref":179.54,"profit":17.85,"roi":12.42,"bo":0,"so":23,"buy":0,"act":6,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":379,"name":"Гравастар","t":1795851066895,"sale":350,"ref":409,"profit":18.1,"roi":5.17,"bo":2,"so":10,"buy":322.02,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
