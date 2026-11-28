@@ -1716,3 +1716,4 @@
 {"id":585,"name":"Файер «Фингал»","t":1795819253529,"sale":410.53,"ref":497.23,"profit":36.98,"roi":9.01,"bo":6,"so":4,"buy":230,"act":2,"liq":40,"med":null,"below":null,"gone":null,"dem":null}
 {"id":308,"name":"Аспект","t":1795819852967,"sale":2000,"ref":2302,"profit":71.8,"roi":3.59,"bo":13,"so":10,"buy":1910.02,"act":10,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1464,"name":"Икар I","t":1795825865094,"sale":371.14,"ref":453.52,"profit":37.03,"roi":9.98,"bo":0,"so":25,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
+{"id":114,"name":"Стартер","t":1795827682991,"sale":813.1,"ref":947.76,"profit":39.88,"roi":4.91,"bo":25,"so":40,"buy":813.03,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
