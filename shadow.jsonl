@@ -2683,3 +2683,4 @@
 {"id":463,"name":"Отшельник","t":1795857646820,"sale":618.03,"ref":709.98,"profit":20.95,"roi":3.39,"bo":22,"so":59,"buy":618.02,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":113,"name":"Терзатель","t":1795858269534,"sale":160,"ref":189.99,"profit":10.99,"roi":6.87,"bo":5,"so":18,"buy":150,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":7,"name":"Бастион","t":1795858848351,"sale":270,"ref":324.91,"profit":22.42,"roi":8.3,"bo":2,"so":35,"buy":256.05,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":331,"name":"Сумматор","t":1795859455810,"sale":81.81,"ref":103.65,"profit":11.48,"roi":14.03,"bo":1,"so":37,"buy":76.88,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
