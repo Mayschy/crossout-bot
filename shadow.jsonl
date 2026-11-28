@@ -2657,3 +2657,4 @@
 {"id":3781,"name":"Оковы","t":1795827682113,"sale":151.58,"ref":182.99,"profit":13.11,"roi":8.65,"bo":0,"so":8,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":518,"name":"Оберег","t":1795830044816,"sale":378,"ref":444.95,"profit":22.45,"roi":5.94,"bo":25,"so":12,"buy":375,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1795830648488,"sale":83.43,"ref":107.2,"profit":13.05,"roi":15.64,"bo":18,"so":79,"buy":82.55,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":424,"name":"Икар VII","t":1795831848193,"sale":355,"ref":410,"profit":14,"roi":3.94,"bo":43,"so":87,"buy":352.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
