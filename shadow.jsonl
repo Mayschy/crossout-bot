@@ -2681,3 +2681,4 @@
 {"id":511,"name":"РС Нерпа","t":1795857051054,"sale":343,"ref":408,"profit":24.2,"roi":7.06,"bo":12,"so":30,"buy":340,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":290,"name":"Тошнитель","t":1795857051054,"sale":1650.01,"ref":1849.89,"profit":14.89,"roi":0.9,"bo":8,"so":43,"buy":1650,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":463,"name":"Отшельник","t":1795857646820,"sale":618.03,"ref":709.98,"profit":20.95,"roi":3.39,"bo":22,"so":59,"buy":618.02,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":113,"name":"Терзатель","t":1795858269534,"sale":160,"ref":189.99,"profit":10.99,"roi":6.87,"bo":5,"so":18,"buy":150,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

@@ -1738,3 +1738,4 @@
 {"id":3757,"name":"УК-4 Гранит","t":1795855249918,"sale":1111,"ref":1333,"profit":88.7,"roi":7.98,"bo":0,"so":25,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":117,"name":"КА-2 Маховик","t":1795855251373,"sale":169.15,"ref":217.12,"profit":26.26,"roi":15.52,"bo":6,"so":58,"buy":168.21,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3745,"name":"Вендетта","t":1795855852409,"sale":2103.01,"ref":2411.04,"profit":66.93,"roi":3.18,"bo":7,"so":19,"buy":2081,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3756,"name":"Ревун","t":1795858270351,"sale":218.34,"ref":281.16,"profit":34.7,"roi":15.89,"bo":1,"so":9,"buy":66.66,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
