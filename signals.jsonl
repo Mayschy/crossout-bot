@@ -1748,3 +1748,8 @@
 {"id":557,"name":"Снежинка","t":1795866046460,"sale":260.1,"ref":320.44,"profit":28.3,"roi":10.88,"bo":1,"so":6,"buy":252.3,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
 {"id":342,"name":"РА-1 Вереск","t":1795866649217,"sale":1759.34,"ref":2148.97,"profit":174.73,"roi":9.93,"bo":0,"so":16,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
 {"id":544,"name":"НА-11 «Шарик»","t":1795866651070,"sale":179.64,"ref":227.67,"profit":25.26,"roi":14.06,"bo":1,"so":6,"buy":165.08,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3758,"name":"Царица","t":1795867285165,"sale":4861.45,"ref":5554.45,"profit":137.56,"roi":2.83,"bo":2,"so":15,"buy":4823.41,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1441,"name":"Купоны x1000","t":1795867286874,"sale":220,"ref":319.92,"profit":67.93,"roi":30.88,"bo":34,"so":79,"buy":200.12,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":223,"name":"Надувной Мамонт","t":1795867288201,"sale":1248.11,"ref":1458,"profit":64.09,"roi":5.13,"bo":2,"so":3,"buy":1188.62,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":336,"name":"Деструктор","t":1795867289644,"sale":1200,"ref":1381.84,"profit":43.66,"roi":3.64,"bo":10,"so":24,"buy":1104,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1467,"name":"АП64 Джоуль (тюн.) (заготовка)","t":1795867290970,"sale":167.03,"ref":219,"profit":30.07,"roi":18,"bo":8,"so":20,"buy":167.02,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
