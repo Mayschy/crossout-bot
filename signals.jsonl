@@ -1730,3 +1730,4 @@
 {"id":439,"name":"Драйвер","t":1795842085918,"sale":820.01,"ref":999.99,"profit":79.98,"roi":9.75,"bo":12,"so":28,"buy":820,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":97,"name":"«Шаолинь»","t":1795842650765,"sale":202.45,"ref":255.73,"profit":27.71,"roi":13.69,"bo":1,"so":2,"buy":162,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":284,"name":"Панацея","t":1795845686622,"sale":336.02,"ref":421.99,"profit":43.77,"roi":13.03,"bo":9,"so":19,"buy":318,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":278,"name":"Артемида","t":1795847468143,"sale":1060,"ref":1237.95,"profit":54.15,"roi":5.11,"bo":12,"so":35,"buy":1025,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
