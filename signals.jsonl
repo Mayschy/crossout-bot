@@ -1718,3 +1718,5 @@
 {"id":1464,"name":"Икар I","t":1795825865094,"sale":371.14,"ref":453.52,"profit":37.03,"roi":9.98,"bo":0,"so":25,"buy":0,"act":2,"liq":10,"med":null,"below":null,"gone":null,"dem":null}
 {"id":114,"name":"Стартер","t":1795827682991,"sale":813.1,"ref":947.76,"profit":39.88,"roi":4.91,"bo":25,"so":40,"buy":813.03,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":463,"name":"Отшельник","t":1795829466383,"sale":615.01,"ref":739.84,"profit":50.85,"roi":8.27,"bo":20,"so":46,"buy":615,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":283,"name":"Горыныч","t":1795830045391,"sale":1340.1,"ref":1609.46,"profit":108.41,"roi":8.09,"bo":23,"so":5,"buy":1300,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
+{"id":1,"name":"Кэнсэй","t":1795830046824,"sale":1187.28,"ref":1410,"profit":81.72,"roi":6.88,"bo":6,"so":7,"buy":1100.1,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
