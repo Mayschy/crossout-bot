@@ -1725,3 +1725,5 @@
 {"id":3779,"name":"Талисман","t":1795836056264,"sale":2303.19,"ref":2747.9,"profit":169.92,"roi":7.38,"bo":10,"so":20,"buy":2303.18,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":286,"name":"Скади","t":1795837847653,"sale":1815.03,"ref":2099.9,"profit":74.88,"roi":4.13,"bo":7,"so":19,"buy":1815,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3783,"name":"Персефона","t":1795839054882,"sale":2500,"ref":2888,"profit":99.2,"roi":3.97,"bo":13,"so":3,"buy":2300,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":236,"name":"Блок питания","t":1795839648292,"sale":259.31,"ref":336.5,"profit":43.54,"roi":16.79,"bo":0,"so":80,"buy":0,"act":8,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
+{"id":114,"name":"Стартер","t":1795839649672,"sale":813.02,"ref":947.7,"profit":39.91,"roi":4.91,"bo":21,"so":42,"buy":812,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
