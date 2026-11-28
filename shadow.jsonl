@@ -2658,3 +2658,4 @@
 {"id":518,"name":"Оберег","t":1795830044816,"sale":378,"ref":444.95,"profit":22.45,"roi":5.94,"bo":25,"so":12,"buy":375,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":269,"name":"Медиана","t":1795830648488,"sale":83.43,"ref":107.2,"profit":13.05,"roi":15.64,"bo":18,"so":79,"buy":82.55,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":424,"name":"Икар VII","t":1795831848193,"sale":355,"ref":410,"profit":14,"roi":3.94,"bo":43,"so":87,"buy":352.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":248,"name":"Обвинитель 76мм","t":1795834246314,"sale":119.31,"ref":146.49,"profit":12.53,"roi":10.5,"bo":7,"so":35,"buy":119.13,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
