@@ -2668,3 +2668,5 @@
 {"id":1461,"name":"«Эхо далёких миров»","t":1795840847871,"sale":53.76,"ref":72.56,"profit":11.54,"roi":21.47,"bo":1,"so":2,"buy":51.67,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":284,"name":"Панацея","t":1795843864491,"sale":360,"ref":421.99,"profit":19.79,"roi":5.5,"bo":9,"so":20,"buy":318,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":497,"name":"Колибри","t":1795843864491,"sale":325,"ref":373.79,"profit":11.41,"roi":3.51,"bo":4,"so":27,"buy":288.49,"act":5,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":630,"name":"Бигфут","t":1795844446366,"sale":146.66,"ref":179.55,"profit":14.94,"roi":10.18,"bo":1,"so":21,"buy":143.01,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":592,"name":"Панджи","t":1795844446366,"sale":600,"ref":679.93,"profit":11.94,"roi":1.99,"bo":1,"so":17,"buy":519,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
