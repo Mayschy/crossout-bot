@@ -2697,3 +2697,4 @@
 {"id":181,"name":"Гепард","t":1795866648444,"sale":137.3,"ref":171.91,"profit":17.42,"roi":12.69,"bo":5,"so":45,"buy":137.29,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":569,"name":"Окулус VI","t":1795867847259,"sale":116.37,"ref":148.58,"profit":17.35,"roi":14.91,"bo":6,"so":10,"buy":112.3,"act":8,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":273,"name":"В-37-39 Адаптер","t":1795868444727,"sale":420,"ref":494.44,"profit":25,"roi":5.95,"bo":14,"so":35,"buy":410.08,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":275,"name":"Штырь-1","t":1795869072900,"sale":500,"ref":573.38,"profit":16.04,"roi":3.21,"bo":20,"so":53,"buy":477.74,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

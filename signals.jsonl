@@ -1754,3 +1754,4 @@
 {"id":336,"name":"Деструктор","t":1795867289644,"sale":1200,"ref":1381.84,"profit":43.66,"roi":3.64,"bo":10,"so":24,"buy":1104,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":1467,"name":"АП64 Джоуль (тюн.) (заготовка)","t":1795867290970,"sale":167.03,"ref":219,"profit":30.07,"roi":18,"bo":8,"so":20,"buy":167.02,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":339,"name":"Корво","t":1795868445353,"sale":188.92,"ref":244.67,"profit":31.28,"roi":16.56,"bo":4,"so":32,"buy":185.33,"act":7,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
+{"id":367,"name":"Харон","t":1795869073633,"sale":4555.56,"ref":5100,"profit":34.44,"roi":0.76,"bo":6,"so":10,"buy":4200.01,"act":6,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
