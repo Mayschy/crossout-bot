@@ -2660,3 +2660,4 @@
 {"id":424,"name":"Икар VII","t":1795831848193,"sale":355,"ref":410,"profit":14,"roi":3.94,"bo":43,"so":87,"buy":352.01,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":248,"name":"Обвинитель 76мм","t":1795834246314,"sale":119.31,"ref":146.49,"profit":12.53,"roi":10.5,"bo":7,"so":35,"buy":119.13,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":236,"name":"Блок питания","t":1795836049818,"sale":291.05,"ref":337.99,"profit":13.14,"roi":4.52,"bo":10,"so":81,"buy":290,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":800,"name":"Бешеный бык","t":1795836671708,"sale":22.67,"ref":39.97,"profit":13.3,"roi":58.68,"bo":2,"so":12,"buy":15,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
