@@ -1745,3 +1745,4 @@
 {"id":445,"name":"Геррида I","t":1795863682410,"sale":750.06,"ref":909,"profit":68.04,"roi":9.07,"bo":40,"so":33,"buy":718.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":278,"name":"Артемида","t":1795864245167,"sale":1035.94,"ref":1236.93,"profit":77.3,"roi":7.46,"bo":13,"so":33,"buy":1032,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":418,"name":"Ураган","t":1795864850797,"sale":2112,"ref":2449,"profit":92.1,"roi":4.36,"bo":15,"so":25,"buy":2111,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":557,"name":"Снежинка","t":1795866046460,"sale":260.1,"ref":320.44,"profit":28.3,"roi":10.88,"bo":1,"so":6,"buy":252.3,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
