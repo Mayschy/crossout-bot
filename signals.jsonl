@@ -1741,3 +1741,5 @@
 {"id":3756,"name":"Ревун","t":1795858270351,"sale":218.34,"ref":281.16,"profit":34.7,"roi":15.89,"bo":1,"so":9,"buy":66.66,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3759,"name":"Царица (заготовка)","t":1795858848900,"sale":3030.3,"ref":3939.46,"profit":515.21,"roi":17,"bo":6,"so":4,"buy":3012.77,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":268,"name":"Жнец","t":1795863046189,"sale":1750.03,"ref":1980,"profit":31.97,"roi":1.83,"bo":16,"so":26,"buy":1750.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":326,"name":"Вальс","t":1795863681071,"sale":1406,"ref":1749.98,"profit":168.98,"roi":12.02,"bo":11,"so":26,"buy":1388.1,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
+{"id":445,"name":"Геррида I","t":1795863682410,"sale":750.06,"ref":909,"profit":68.04,"roi":9.07,"bo":40,"so":33,"buy":718.01,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
