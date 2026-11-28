@@ -2678,3 +2678,5 @@
 {"id":446,"name":"Биграмма","t":1795855249380,"sale":350,"ref":409.99,"profit":18.99,"roi":5.43,"bo":2,"so":34,"buy":340.93,"act":2,"liq":35,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":3764,"name":"Громила","t":1795855249380,"sale":416.58,"ref":479.99,"profit":15.41,"roi":3.7,"bo":2,"so":35,"buy":416.57,"act":4,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":1450,"name":"Тяга","t":1795855851538,"sale":2500,"ref":2799.99,"profit":19.99,"roi":0.8,"bo":11,"so":24,"buy":2406,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":511,"name":"РС Нерпа","t":1795857051054,"sale":343,"ref":408,"profit":24.2,"roi":7.06,"bo":12,"so":30,"buy":340,"act":7,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":290,"name":"Тошнитель","t":1795857051054,"sale":1650.01,"ref":1849.89,"profit":14.89,"roi":0.9,"bo":8,"so":43,"buy":1650,"act":5,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
