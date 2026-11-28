@@ -2687,3 +2687,5 @@
 {"id":386,"name":"Рок","t":1795860081175,"sale":710,"ref":800,"profit":10,"roi":1.41,"bo":6,"so":19,"buy":698.74,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":656,"name":"Грейфер","t":1795862449655,"sale":206.22,"ref":252.25,"profit":20.81,"roi":10.09,"bo":1,"so":4,"buy":165,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":51,"name":"Нетопырь","t":1795862449655,"sale":84.32,"ref":111.57,"profit":16.09,"roi":19.09,"bo":4,"so":8,"buy":84.11,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":486,"name":"Ампер","t":1795863045559,"sale":101.17,"ref":132.7,"profit":18.26,"roi":18.05,"bo":19,"so":44,"buy":98.18,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":615,"name":"Прихвостень","t":1795863045559,"sale":86.32,"ref":110.5,"profit":13.13,"roi":15.21,"bo":7,"so":6,"buy":85.01,"act":3,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

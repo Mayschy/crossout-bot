@@ -1740,3 +1740,4 @@
 {"id":3745,"name":"Вендетта","t":1795855852409,"sale":2103.01,"ref":2411.04,"profit":66.93,"roi":3.18,"bo":7,"so":19,"buy":2081,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3756,"name":"Ревун","t":1795858270351,"sale":218.34,"ref":281.16,"profit":34.7,"roi":15.89,"bo":1,"so":9,"buy":66.66,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3759,"name":"Царица (заготовка)","t":1795858848900,"sale":3030.3,"ref":3939.46,"profit":515.21,"roi":17,"bo":6,"so":4,"buy":3012.77,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":268,"name":"Жнец","t":1795863046189,"sale":1750.03,"ref":1980,"profit":31.97,"roi":1.83,"bo":16,"so":26,"buy":1750.02,"act":6,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
