@@ -2694,3 +2694,4 @@
 {"id":854,"name":"Белое полчище","t":1795865464855,"sale":2.01,"ref":23.25,"profit":18.91,"roi":941.04,"bo":0,"so":9,"buy":0,"act":1,"liq":10,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":321,"name":"Мельник","t":1795865464855,"sale":382.67,"ref":439.98,"profit":13.31,"roi":3.48,"bo":12,"so":37,"buy":378,"act":4,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":149,"name":"Вакидатэ","t":1795865464855,"sale":186.02,"ref":219.97,"profit":11.95,"roi":6.43,"bo":3,"so":7,"buy":180,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":181,"name":"Гепард","t":1795866648444,"sale":137.3,"ref":171.91,"profit":17.42,"roi":12.69,"bo":5,"so":45,"buy":137.29,"act":9,"liq":70,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

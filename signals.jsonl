@@ -1746,3 +1746,5 @@
 {"id":278,"name":"Артемида","t":1795864245167,"sale":1035.94,"ref":1236.93,"profit":77.3,"roi":7.46,"bo":13,"so":33,"buy":1032,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
 {"id":418,"name":"Ураган","t":1795864850797,"sale":2112,"ref":2449,"profit":92.1,"roi":4.36,"bo":15,"so":25,"buy":2111,"act":8,"liq":80,"med":null,"below":null,"gone":null,"dem":null}
 {"id":557,"name":"Снежинка","t":1795866046460,"sale":260.1,"ref":320.44,"profit":28.3,"roi":10.88,"bo":1,"so":6,"buy":252.3,"act":1,"liq":35,"med":null,"below":null,"gone":null,"dem":null}
+{"id":342,"name":"РА-1 Вереск","t":1795866649217,"sale":1759.34,"ref":2148.97,"profit":174.73,"roi":9.93,"bo":0,"so":16,"buy":0,"act":4,"liq":20,"med":null,"below":null,"gone":null,"dem":null}
+{"id":544,"name":"НА-11 «Шарик»","t":1795866651070,"sale":179.64,"ref":227.67,"profit":25.26,"roi":14.06,"bo":1,"so":6,"buy":165.08,"act":3,"liq":45,"med":null,"below":null,"gone":null,"dem":null}
