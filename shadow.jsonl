@@ -2662,3 +2662,6 @@
 {"id":236,"name":"Блок питания","t":1795836049818,"sale":291.05,"ref":337.99,"profit":13.14,"roi":4.52,"bo":10,"so":81,"buy":290,"act":9,"liq":80,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":800,"name":"Бешеный бык","t":1795836671708,"sale":22.67,"ref":39.97,"profit":13.3,"roi":58.68,"bo":2,"so":12,"buy":15,"act":1,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":300,"name":"П-26 Заградитель","t":1795837253875,"sale":244.21,"ref":289.99,"profit":16.78,"roi":6.87,"bo":8,"so":16,"buy":222.11,"act":1,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":386,"name":"Рок","t":1795839048394,"sale":699.01,"ref":799.88,"profit":20.88,"roi":2.99,"bo":7,"so":23,"buy":699,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":1458,"name":"Твердыня","t":1795839048394,"sale":4301,"ref":4798.85,"profit":17.97,"roi":0.42,"bo":7,"so":24,"buy":4300.95,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":290,"name":"Тошнитель","t":1795839048394,"sale":1650.15,"ref":1849.9,"profit":14.76,"roi":0.89,"bo":8,"so":36,"buy":1650,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

@@ -1724,3 +1724,4 @@
 {"id":54,"name":"Гарпия","t":1795833647267,"sale":324,"ref":389.32,"profit":26.39,"roi":8.14,"bo":7,"so":24,"buy":321,"act":2,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
 {"id":3779,"name":"Талисман","t":1795836056264,"sale":2303.19,"ref":2747.9,"profit":169.92,"roi":7.38,"bo":10,"so":20,"buy":2303.18,"act":2,"liq":60,"med":null,"below":null,"gone":null,"dem":null}
 {"id":286,"name":"Скади","t":1795837847653,"sale":1815.03,"ref":2099.9,"profit":74.88,"roi":4.13,"bo":7,"so":19,"buy":1815,"act":1,"liq":50,"med":null,"below":null,"gone":null,"dem":null}
+{"id":3783,"name":"Персефона","t":1795839054882,"sale":2500,"ref":2888,"profit":99.2,"roi":3.97,"bo":13,"so":3,"buy":2300,"act":3,"liq":70,"med":null,"below":null,"gone":null,"dem":null}
