@@ -2685,3 +2685,5 @@
 {"id":7,"name":"Бастион","t":1795858848351,"sale":270,"ref":324.91,"profit":22.42,"roi":8.3,"bo":2,"so":35,"buy":256.05,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":331,"name":"Сумматор","t":1795859455810,"sale":81.81,"ref":103.65,"profit":11.48,"roi":14.03,"bo":1,"so":37,"buy":76.88,"act":8,"liq":55,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
 {"id":386,"name":"Рок","t":1795860081175,"sale":710,"ref":800,"profit":10,"roi":1.41,"bo":6,"so":19,"buy":698.74,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":656,"name":"Грейфер","t":1795862449655,"sale":206.22,"ref":252.25,"profit":20.81,"roi":10.09,"bo":1,"so":4,"buy":165,"act":2,"liq":25,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}
+{"id":51,"name":"Нетопырь","t":1795862449655,"sale":84.32,"ref":111.57,"profit":16.09,"roi":19.09,"bo":4,"so":8,"buy":84.11,"act":4,"liq":60,"med":null,"below":null,"gone":null,"dem":null,"shadow":true}

@@ -22046,3 +22046,11 @@
 {"id":386,"t":1795860081175,"h":10,"at":1795860600000,"s":800,"b":698.74,"so":18,"bo":5,"ask":10,"instant":-81.13,"taken":true,"shadow":true,"roi":1.41,"capital":710,"late":false}
 {"id":331,"t":1795859455810,"h":30,"at":1795861200000,"s":104,"b":76.88,"so":25,"bo":1,"ask":11.79,"instant":-12.62,"taken":true,"shadow":true,"roi":14.41,"capital":81.81,"late":false}
 {"id":386,"t":1795860081175,"h":20,"at":1795861200000,"s":800,"b":698.74,"so":17,"bo":5,"ask":10,"instant":-81.13,"taken":true,"shadow":true,"roi":1.41,"capital":710,"late":false}
+{"id":367,"t":1795854667178,"h":120,"at":1795861800000,"s":5097.67,"b":4420.01,"so":14,"bo":6,"ask":174.89,"instant":-435,"taken":true,"shadow":false,"roi":3.96,"capital":4413.01,"late":false}
+{"id":3756,"t":1795858270351,"h":60,"at":1795861800000,"s":218.34,"b":66.66,"so":10,"bo":1,"ask":-21.83,"instant":-158.35,"taken":false,"shadow":false,"roi":-10,"capital":218.34,"late":false}
+{"id":3759,"t":1795858848900,"h":60,"at":1795862400000,"s":3939.46,"b":3012.46,"so":3,"bo":4,"ask":515.21,"instant":-319.09,"taken":true,"shadow":false,"roi":17,"capital":3030.3,"late":false}
+{"id":446,"t":1795855249380,"h":120,"at":1795862400000,"s":409.99,"b":341,"so":32,"bo":4,"ask":18.99,"instant":-43.1,"taken":true,"shadow":true,"roi":5.43,"capital":350,"late":false}
+{"id":3764,"t":1795855249380,"h":120,"at":1795862400000,"s":541.58,"b":418,"so":25,"bo":6,"ask":70.84,"instant":-40.38,"taken":true,"shadow":true,"roi":17.01,"capital":416.58,"late":false}
+{"id":113,"t":1795858269534,"h":60,"at":1795861800000,"s":192.9,"b":160,"so":12,"bo":6,"ask":13.61,"instant":-16,"taken":true,"shadow":true,"roi":8.51,"capital":160,"late":false}
+{"id":7,"t":1795858848351,"h":60,"at":1795862400000,"s":319.92,"b":249,"so":42,"bo":2,"ask":17.93,"instant":-45.9,"taken":true,"shadow":true,"roi":6.64,"capital":270,"late":false}
+{"id":386,"t":1795860081175,"h":30,"at":1795861800000,"s":800,"b":698.74,"so":17,"bo":5,"ask":10,"instant":-81.13,"taken":true,"shadow":true,"roi":1.41,"capital":710,"late":false}
